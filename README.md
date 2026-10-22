@@ -526,6 +526,49 @@ El workflow **no publica una portada vacía**: si se obtienen menos de 5 noticia
 el job falla (y GitHub te avisa por correo) en lugar de dejar el sitio en blanco.
 Para forzarlo: `node sitio/construir.js --permitir-vacio`.
 
+### Publicación activa en GitHub Pages
+
+**URL en vivo:** <https://jreveles444-lab.github.io/noticias-asl/>
+
+Cómo está montado:
+
+| Pieza | Dónde | Qué hace |
+|---|---|---|
+| Repo público | `jreveles444-lab/noticias-asl` | Código + carpeta `docs/` con el sitio generado |
+| GitHub Pages | rama `main`, carpeta `/docs` | Sirve `docs/index.html` en la URL de arriba |
+| Worker | `~/noticias-asl-worker` | Clon fuera de `~/Documents` desde el que se construye |
+| launchd | `~/Library/LaunchAgents/mx.jreveles.noticias-asl.plist` | Ejecuta el worker cada hora |
+| Registro | `~/.config/noticias-asl/registro.log` | Qué pasó en cada ejecución |
+| Token | `~/.config/noticias-asl/token` (chmod 600) | Permiso de push del worker |
+
+**¿Por qué un worker fuera de `~/Documents`?** macOS protege `Desktop`,
+`Documents` y `Downloads` (TCC). Un trabajo de `launchd` **no puede leerlos** sin
+concederle Acceso Total al Disco, y falla con `Operation not permitted`. El worker
+en la carpeta personal evita ese permiso tan amplio.
+
+**Comprobar que funciona:**
+
+```bash
+tail -20 ~/.config/noticias-asl/registro.log          # última ejecución
+launchctl list | grep jreveles.noticias               # estado del agente
+curl -s https://jreveles444-lab.github.io/noticias-asl/datos.json | head -c 200
+```
+
+**Detener la actualización automática:**
+
+```bash
+launchctl unload -w ~/Library/LaunchAgents/mx.jreveles.noticias-asl.plist
+```
+
+**Reanudarla:** `launchctl load -w` con la misma ruta.
+
+**Forzar una publicación ahora:** `bash ~/noticias-asl-worker/sitio/publicar-pages.sh`
+
+**Seguridad del token:** vive solo en ese archivo con permisos 600 y se usa para
+hacer push. Conviene regenerarlo cada tanto en
+<https://github.com/settings/tokens> y actualizar el archivo. Para un token más
+seguro, usa uno *fine-grained* limitado a este repositorio.
+
 ### Diferencias con la versión de Sites
 
 | | Apps Script + Sites | Sitio estático |

@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Noticias · Atlético de San Luis</title>
+<!-- Metadatos estáticos: sirven para la versión publicada en un dominio propio
+     (buscadores y vistas previas al compartir). Si cambias de equipo, edítalos
+     aquí; no dependen de Config.gs y no afectan al embed de Sites. -->
+<meta name="description" content="Noticias del Atlético de San Luis actualizadas automáticamente: titulares de todos los medios, próximo partido, último resultado y tabla de la Liga MX.">
+<meta name="theme-color" content="#c8102e">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Noticias · Atlético de San Luis">
+<meta property="og:description" content="Titulares del club actualizados solos, con partidos y tabla de la Liga MX.">
+<meta property="og:locale" content="es_MX">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="https://r2.thesportsdb.com/images/media/team/badge/9kgjme1593448412.png">
+<style>
+  :root{
+    --rojo:#c8102e; --rojo-oscuro:#8f0a20; --oro:#f2c14e;
+    --fondo:#0d1117; --panel:#161b22; --panel-2:#1c2430;
+    --texto:#e6edf3; --texto-suave:#9aa7b4; --borde:#293040;
+    --radio:14px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--fondo); color:var(--texto); font-size:16px;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit}
+  /* Sin ancho máximo propio: el contenido ocupa el 100% del espacio que le dé
+     Google Sites. Antes tenía 1120px y dentro de un bloque más ancho dejaba un
+     margen extra a cada lado (el efecto "recuadro"). El relleno lateral crece
+     un poco en pantallas grandes para que el texto no toque los bordes. */
+  .wrap{max-width:none;margin:0;padding:clamp(12px, 1.4vw, 26px)}
+
+  /* ---------- Cabecera ---------- */
+  header.hero{
+    background:linear-gradient(135deg,var(--rojo-oscuro) 0%,var(--rojo) 55%,#5d0616 100%);
+    border-radius:var(--radio); padding:20px; margin-bottom:16px;
+    display:flex; gap:18px; align-items:center; flex-wrap:wrap;
+    box-shadow:0 10px 28px rgba(0,0,0,.45);
+  }
+  .escudo{width:78px;height:78px;object-fit:contain;filter:drop-shadow(0 4px 10px rgba(0,0,0,.5))}
+  .hero-txt{flex:1;min-width:220px}
+  .hero-txt h1{margin:0 0 4px;font-size:clamp(20px,3.4vw,30px);letter-spacing:-.4px;line-height:1.15}
+  .hero-txt p{margin:0;color:rgba(255,255,255,.86);font-size:14px}
+  .apodo{
+    display:inline-block;margin-top:8px;padding:3px 10px;border-radius:999px;
+    background:rgba(0,0,0,.28);font-size:12px;font-weight:600;letter-spacing:.4px;
+    text-transform:uppercase;color:var(--oro);
+  }
+  .sello{font-size:12px;color:rgba(255,255,255,.8);text-align:right;line-height:1.5}
+
+  /* ---------- Tarjetas de partido ---------- */
+  .partidos{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;margin-bottom:16px}
+  .card-partido{
+    background:var(--panel);border:1px solid var(--borde);border-radius:var(--radio);
+    padding:14px 16px;position:relative;overflow:hidden;
+  }
+  .card-partido::before{content:"";position:absolute;inset:0 auto 0 0;width:4px;background:var(--rojo)}
+  .card-partido.pasado::before{background:var(--texto-suave)}
+  .etiqueta{
+    font-size:11px;text-transform:uppercase;letter-spacing:.9px;font-weight:700;
+    color:var(--texto-suave);margin-bottom:8px;
+  }
+  .marcador{display:flex;align-items:center;gap:10px;font-size:19px;font-weight:700;flex-wrap:wrap}
+  .marcador .goles{
+    font-variant-numeric:tabular-nums;background:var(--panel-2);border:1px solid var(--borde);
+    border-radius:9px;padding:3px 11px;font-size:21px;
+  }
+  .goles.gana{background:rgba(46,160,67,.16);border-color:rgba(46,160,67,.5);color:#57d364}
+  .goles.pierde{background:rgba(200,16,46,.16);border-color:rgba(200,16,46,.5);color:#ff7b8a}
+  .goles.empata{background:rgba(242,193,78,.14);border-color:rgba(242,193,78,.45);color:var(--oro)}
+  .meta{margin-top:10px;font-size:13px;color:var(--texto-suave);line-height:1.6}
+  .meta strong{color:var(--texto);font-weight:600}
+
+  /* ---------- Tabla ---------- */
+  .tabla-caja{background:var(--panel);border:1px solid var(--borde);border-radius:var(--radio);padding:14px 16px;margin-bottom:16px}
+  .tabla-caja h2{margin:0 0 10px;font-size:14px;text-transform:uppercase;letter-spacing:.9px;color:var(--texto-suave)}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{padding:7px 6px;text-align:center;border-bottom:1px solid var(--borde)}
+  th{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--texto-suave);font-weight:600}
+  td.equipo,th.equipo{text-align:left}
+  tr.nosotros{background:rgba(200,16,46,.13)}
+  tr.nosotros td{font-weight:700}
+  td.equipo img{width:18px;height:18px;object-fit:contain;vertical-align:-3px;margin-right:7px}
+  /* Resultados recientes */
+  .resultados{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:7px}
+  .resultados li{display:grid;grid-template-columns:16px 1fr auto auto;align-items:center;gap:9px;font-size:13.5px}
+  .res{width:16px;height:16px;border-radius:4px;font-size:10px;line-height:16px;text-align:center;font-weight:800;color:#0d1117}
+  .res.gana{background:#57d364}
+  .res.pierde{background:#ff7b8a}
+  .res.empata{background:var(--oro)}
+  .res-rival{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .res-marcador{font-variant-numeric:tabular-nums;font-weight:700}
+  .res-marcador.gana{color:#57d364}
+  .res-marcador.pierde{color:#ff7b8a}
+  .res-marcador.empata{color:var(--oro)}
+  .res-fecha{color:var(--texto-suave);font-size:11.5px;white-space:nowrap}
+  .despues{margin:11px 0 0;font-size:12.5px;color:var(--texto-suave);line-height:1.6}
+  .despues span{font-weight:700;color:var(--texto)}
+  .despues em{font-style:normal;opacity:.8}
+  .fuente-tabla{font-size:10px;font-weight:600;letter-spacing:.5px;color:var(--texto-suave);
+    border:1px solid var(--borde);padding:2px 6px;border-radius:5px;vertical-align:middle}
+  .puesto{background:rgba(242,193,78,.18);color:var(--oro)}
+  .nota-tabla{margin:9px 0 0;font-size:11.5px;color:var(--texto-suave)}
+  /* En pantallas estrechas (Sites embebido, móvil) la tabla se desplaza
+     dentro de su caja en vez de estirar toda la página. */
+  .tabla-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .tabla-scroll table{min-width:430px}
+
+  /* ---------- Videos del club ---------- */
+  .videos{background:var(--panel);border:1px solid var(--borde);border-radius:var(--radio);
+    padding:14px 16px;margin-bottom:16px}
+  .videos h2{margin:0 0 12px;font-size:14px;text-transform:uppercase;letter-spacing:.9px;color:var(--texto-suave)}
+  .rejilla-videos{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:14px}
+  .video{text-decoration:none;display:flex;flex-direction:column;gap:8px;min-width:0}
+  .miniatura{position:relative;display:block;border-radius:10px;overflow:hidden;background:#000;aspect-ratio:16/9}
+  .miniatura img{width:100%;height:100%;object-fit:cover;display:block}
+  .play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+    font-style:normal;font-size:16px;color:#fff;background:rgba(0,0,0,.3);opacity:0;transition:.15s}
+  .video:hover .play{opacity:1}
+  .video-txt{display:flex;flex-direction:column;gap:5px;min-width:0}
+  .video-titulo{font-size:13.5px;line-height:1.35;font-weight:600;color:var(--texto);
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .video:hover .video-titulo{color:#fff}
+  .video-fecha{font-size:11.5px;color:var(--texto-suave)}
+  /* ---------- Escuela y comunidad ---------- */
+  .comunidad{background:var(--panel);border:1px solid var(--borde);border-left:3px solid var(--oro);
+    border-radius:var(--radio);padding:14px 16px;margin-bottom:16px}
+  .comunidad h2{margin:0 0 8px;font-size:14px;text-transform:uppercase;letter-spacing:.9px;color:var(--texto-suave)}
+  .comunidad-texto{margin:0 0 13px;font-size:13px;line-height:1.6;color:var(--texto-suave);max-width:70ch}
+  .comunidad-lista{list-style:none;margin:0;padding:0;
+    display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
+  .comunidad-lista a{display:flex;flex-direction:column;gap:6px;text-decoration:none;
+    background:var(--panel-2);border:1px solid var(--borde);border-radius:10px;padding:11px 13px;transition:.15s}
+  .comunidad-lista a:hover{border-color:var(--oro);transform:translateY(-1px)}
+  .comu-titulo{font-size:13.5px;line-height:1.4;font-weight:600;color:var(--texto);
+    display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .comunidad-lista a:hover .comu-titulo{color:#fff}
+  .comu-pie{font-size:11.5px;color:var(--texto-suave);margin-top:auto}
+  .redes{margin:14px 0 0;padding-top:11px;border-top:1px solid var(--borde);font-size:12.5px;color:var(--texto-suave)}
+  .redes a{color:var(--oro);text-decoration:none;font-weight:600}
+  .redes a:hover{text-decoration:underline}
+
+  /* ---------- Controles ---------- */
+  .controles{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+  .buscar{
+    flex:1;min-width:200px;background:var(--panel);border:1px solid var(--borde);
+    border-radius:10px;padding:10px 13px;color:var(--texto);font-size:15px;outline:none;
+  }
+  .buscar:focus{border-color:var(--rojo);box-shadow:0 0 0 3px rgba(200,16,46,.18)}
+  .fichas{display:flex;gap:7px;flex-wrap:wrap}
+  .ficha{
+    background:var(--panel);border:1px solid var(--borde);color:var(--texto-suave);
+    border-radius:999px;padding:7px 13px;font-size:13px;cursor:pointer;font-weight:600;
+    transition:.15s;font-family:inherit;
+  }
+  .ficha:hover{border-color:var(--rojo);color:var(--texto)}
+  .ficha.activa{background:var(--rojo);border-color:var(--rojo);color:#fff}
+  .ficha span{opacity:.65;font-weight:500}
+
+  /* ---------- Noticias ---------- */
+  .rejilla{display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:13px}
+  .nota{
+    background:var(--panel);border:1px solid var(--borde);border-radius:var(--radio);
+    padding:15px 16px;display:flex;flex-direction:column;gap:9px;
+    text-decoration:none;transition:.16s;position:relative;
+  }
+  .nota:hover{border-color:var(--rojo);transform:translateY(-2px);background:var(--panel-2)}
+  .nota h3{margin:0;font-size:16px;line-height:1.36;font-weight:650}
+  .nota .pie{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:auto;font-size:12px;color:var(--texto-suave)}
+  .medio{font-weight:700;color:var(--oro);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60%}
+  .tags{display:flex;gap:5px;flex-wrap:wrap}
+  .tag{font-size:10.5px;text-transform:uppercase;letter-spacing:.5px;font-weight:700;padding:3px 8px;border-radius:6px;background:var(--panel-2);border:1px solid var(--borde);color:var(--texto-suave)}
+  .tag.Femenil{color:#f7a8d8;border-color:rgba(247,168,216,.35)}
+  .tag.Fichajes{color:#79c0ff;border-color:rgba(121,192,255,.35)}
+  .tag.Bajas{color:#ff9c9c;border-color:rgba(255,156,156,.35)}
+  .tag.Partidos{color:#57d364;border-color:rgba(87,211,100,.35)}
+  .tag.Cantera{color:#d2a8ff;border-color:rgba(210,168,255,.35)}
+  .tambien{margin:0;font-size:11.5px;color:var(--texto-suave);opacity:.85}
+
+  .mas{display:block;margin:18px auto 0;background:var(--panel);border:1px solid var(--borde);color:var(--texto);
+       padding:11px 26px;border-radius:10px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit}
+  .mas:hover{border-color:var(--rojo)}
+  .vacio{text-align:center;padding:44px 20px;color:var(--texto-suave);background:var(--panel);border:1px dashed var(--borde);border-radius:var(--radio)}
+
+  footer{margin:22px 0 8px;padding-top:14px;border-top:1px solid var(--borde);font-size:12px;color:var(--texto-suave);line-height:1.7}
+  footer a{color:var(--oro);text-decoration:none}
+  details.diag{margin-top:10px}
+  details.diag summary{cursor:pointer;font-size:12px}
+  details.diag ul{margin:8px 0 0;padding-left:20px}
+  @media (max-width:600px){
+    .wrap{padding:10px}
+    header.hero{padding:15px;gap:12px}
+    .escudo{width:56px;height:56px}
+    .sello{text-align:left;width:100%}
+  }
+  /* Tabla compacta: en pantallas estrechas (Sites en móvil) las 6 columnas
+     caben sin desplazamiento. El contenedor con scroll queda de respaldo. */
+  @media (max-width:520px){
+    .tabla-caja{padding:12px 10px}
+    .tabla-scroll table{min-width:0}
+    table{font-size:12.5px}
+    th,td{padding:6px 3px}
+    td.equipo img{width:15px;height:15px;margin-right:4px}
+    .resultados li{font-size:12.5px;gap:7px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="hero">
+    <img class="escudo" id="escudo" alt="Escudo" src="">
+    <div class="hero-txt">
+      <h1 id="nombre">Atlético de San Luis</h1>
+      <p id="sub">Noticias del club, actualizadas solas</p>
+      <span class="apodo" id="apodo"></span>
+      <span class="apodo puesto" id="puesto" style="display:none"></span>
+    </div>
+    <div class="sello">
+      <div id="actualizado">—</div>
+      <div id="conteo"></div>
+    </div>
+  </header>
+
+  <section class="partidos" id="partidos"></section>
+  <section class="tabla-caja" id="tablaCaja" style="display:none"></section>
+  <section class="videos" id="videosCaja" style="display:none"></section>
+  <section class="comunidad" id="comunidadCaja" style="display:none"></section>
+
+  <div class="controles">
+    <input class="buscar" id="buscar" type="search" placeholder="Buscar en los titulares…" autocomplete="off">
+    <div class="fichas" id="fichas"></div>
+  </div>
+
+  <section class="rejilla" id="rejilla"></section>
+  <button class="mas" id="mas" style="display:none">Ver más noticias</button>
+  <div class="vacio" id="vacio" style="display:none">No hay noticias que coincidan con el filtro.</div>
+
+  <footer>
+    <div>
+      Agregador automático de <strong id="pieEquipo"></strong>. Los titulares y enlaces pertenecen a sus
+      respectivos medios; esta página solo los enlaza y acredita.
+    </div>
+    <div style="margin-top:6px">
+      Noticias vía <a href="https://news.google.com/" target="_blank" rel="noopener">Google News</a> ·
+      Partidos y tabla vía <a href="https://www.espn.com.mx/futbol/liga/_/nombre/mex.1" target="_blank" rel="noopener">ESPN</a>
+    </div>
+    <details class="diag" id="diag" style="display:none">
+      <summary>Diagnóstico de fuentes</summary>
+      <ul id="diagLista"></ul>
+    </details>
+  </footer>
+
+</div>
+
+<!-- Los datos viajan en un bloque de tipo application/json, NO en un
+     comentario: Apps Script borra todos los comentarios de los archivos HTML,
+     así que un marcador del tipo /*__DATOS__*/ sería eliminado antes de que
+     doGet() pudiera reemplazarlo. El texto de este bloque sí sobrevive. -->
+<script type="application/json" id="datos-ads">__DATOS_JSON__</script>
+
+<script>
+/**
+ * Lee el JSON inyectado. Si algo falla, devuelve el motivo exacto para que el
+ * error se pueda diagnosticar a distancia.
+ */
+function leerDatos() {
+  var nodo = document.getElementById('datos-ads');
+  if (!nodo) {
+    return { datos: null, motivo: 'No existe el bloque id="datos-ads" en la página.' };
+  }
+
+  var texto = (nodo.textContent || '').trim();
+
+  if (!texto || texto === '__DATOS_JSON__') {
+    return {
+      datos: null,
+      motivo: 'El servidor no reemplazó el marcador __DATOS_JSON__. Revisa que doGet() ' +
+              'haga plantilla.replace("__DATOS_JSON__", json) y que hayas publicado una ' +
+              'NUEVA VERSIÓN de la implementación.'
+    };
+  }
+
+  try {
+    return { datos: JSON.parse(texto), motivo: '' };
+  } catch (err) {
+    return { datos: null, motivo: 'El bloque de datos no es JSON válido: ' + err.message };
+  }
+}
+
+var LECTURA = leerDatos();
+var DATOS = LECTURA.datos;
+
+(function () {
+  'use strict';
+
+  var COLORES = (DATOS && DATOS.colores) || null;
+
+  // --- Colores configurables (Config.gs) ---------------------------------
+  if (COLORES) {
+    var r = document.documentElement.style;
+    if (COLORES.rojo)       r.setProperty('--rojo', COLORES.rojo);
+    if (COLORES.rojoOscuro) r.setProperty('--rojo-oscuro', COLORES.rojoOscuro);
+    if (COLORES.oro)        r.setProperty('--oro', COLORES.oro);
+    if (COLORES.fondo)      r.setProperty('--fondo', COLORES.fondo);
+    if (COLORES.panel)      r.setProperty('--panel', COLORES.panel);
+  }
+
+  if (!DATOS) {
+    document.getElementById('rejilla').innerHTML =
+      '<div class="vacio"><strong>No se pudieron cargar las noticias.</strong><br>' +
+      esc(LECTURA.motivo) + '</div>';
+    return;
+  }
+
+  var $ = function (id) { return document.getElementById(id); };
+  var VISIBLES = 12;
+  var mostradas = VISIBLES;
+  var filtro = 'Todas';
+  var busqueda = '';
+
+  // --- Utilidades --------------------------------------------------------
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  var rtf = (typeof Intl !== 'undefined' && Intl.RelativeTimeFormat)
+    ? new Intl.RelativeTimeFormat('es-MX', { numeric: 'auto' }) : null;
+
+  function relativo(iso) {
+    if (!iso) return '';
+    var t = new Date(iso).getTime();
+    if (isNaN(t)) return '';
+    var seg = Math.round((t - Date.now()) / 1000);
+    var abs = Math.abs(seg);
+    if (abs < 90) return 'hace un momento';
+    if (!rtf) return new Date(iso).toLocaleDateString('es-MX');
+    if (abs < 3600)   return rtf.format(Math.round(seg / 60), 'minute');
+    if (abs < 86400)  return rtf.format(Math.round(seg / 3600), 'hour');
+    if (abs < 604800) return rtf.format(Math.round(seg / 86400), 'day');
+    return new Date(iso).toLocaleDateString('es-MX', { day: 'numeric', month: 'short', year: 'numeric' });
+  }
+
+  function fechaLarga(iso) {
+    if (!iso) return '';
+    var d = new Date(iso);
+    if (isNaN(d.getTime())) return '';
+    return d.toLocaleDateString('es-MX', { weekday: 'long', day: 'numeric', month: 'long' });
+  }
+
+  /**
+   * "2026-10-11" -> "domingo 11 de octubre".
+   * Se construye con el constructor local (a mediodía) para que el día no se
+   * desplace al interpretar la cadena como UTC.
+   */
+  function fechaLocalTexto(dia) {
+    if (!dia) return '';
+    var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(dia));
+    if (!m) return fechaLarga(dia);
+    var d = new Date(+m[1], +m[2] - 1, +m[3], 12, 0, 0);
+    return d.toLocaleDateString('es-MX', { weekday: 'long', day: 'numeric', month: 'long' });
+  }
+
+  /** "2026-10-11" -> "11 oct" */
+  function fechaCorta(dia) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(dia || ''));
+    if (!m) return '';
+    var d = new Date(+m[1], +m[2] - 1, +m[3], 12, 0, 0);
+    return d.toLocaleDateString('es-MX', { day: 'numeric', month: 'short' });
+  }
+
+  // --- Cabecera ----------------------------------------------------------
+  var eq = DATOS.equipo || {};
+  $('nombre').textContent = eq.nombre || 'Noticias';
+  $('pieEquipo').textContent = eq.nombre || '';
+  $('sub').textContent = [eq.liga, eq.estadio].filter(Boolean).join(' · ') || 'Noticias del club';
+  $('apodo').textContent = eq.apodo || '';
+  if (!eq.apodo) $('apodo').style.display = 'none';
+
+  // Posición en la tabla, si está disponible.
+  var nuestraFila = null;
+  for (var k = 0; k < (DATOS.tabla || []).length; k++) {
+    if (DATOS.tabla[k].nosotros) nuestraFila = DATOS.tabla[k];
+  }
+  if (nuestraFila) {
+    $('puesto').textContent = nuestraFila.rank + 'º · ' + nuestraFila.pts + ' pts';
+    $('puesto').style.display = '';
+  }
+  // El escudo viene de un CDN externo con latencia variable: si tarda o falla,
+  // se oculta en vez de dejar el icono de imagen rota.
+  if (eq.escudo) {
+    var crest = $('escudo');
+    crest.onerror = function () { this.style.display = 'none'; };
+    crest.src = eq.escudo;
+  } else {
+    $('escudo').style.display = 'none';
+  }
+
+  $('actualizado').textContent = 'Actualizado ' + relativo(DATOS.generadoISO);
+  document.title = 'Noticias · ' + (eq.nombre || '');
+
+  var n = (DATOS.noticias || []).length;
+  $('conteo').textContent = n + ' noticia' + (n === 1 ? '' : 's') + ' · ' + (DATOS.totalFuentes || 0) + ' medio' + ((DATOS.totalFuentes === 1) ? '' : 's');
+
+  // --- Partidos ----------------------------------------------------------
+  function nombreCorto() {
+    return eq.nombre ? eq.nombre.replace(/^Atlético de /, '') : 'Nosotros';
+  }
+
+  function tarjetaProximo() {
+    var p = DATOS.proximo;
+    if (!p) return '';
+
+    var meta = [];
+    var dia = p.fechaLocal || p.fechaISO;
+    if (dia) meta.push('<strong>' + esc(fechaLocalTexto(dia)) + '</strong>' + (p.hora ? ' · ' + esc(p.hora) + ' h' : ''));
+    if (p.estadio) meta.push(esc(p.estadio));
+    if (p.jornada) meta.push(esc(p.jornada));
+
+    var despues = (DATOS.proximos || []).slice(1);
+    var cola = despues.length
+      ? '<p class="despues"><span>Después:</span> ' +
+        despues.map(function (m) {
+          return esc(m.rival) + ' <em>' + esc(fechaCorta(m.fechaLocal)) + '</em>';
+        }).join(' · ') +
+        '</p>'
+      : '';
+
+    return '<article class="card-partido">' +
+      '<div class="etiqueta">Próximo partido</div>' +
+      '<div class="marcador" style="font-size:17px">' +
+        '<span>' + esc(nombreCorto()) + '</span>' +
+        '<span style="color:var(--texto-suave);font-size:13px">' + (p.esLocal ? 'recibe a' : 'visita a') + '</span>' +
+        '<span>' + esc(p.rival) + '</span>' +
+      '</div>' +
+      '<div class="meta">' + meta.join('<br>') + '</div>' +
+      cola +
+    '</article>';
+  }
+
+  function tarjetaResultados() {
+    var lista = DATOS.ultimos || [];
+    if (!lista.length) return '';
+
+    var filas = lista.map(function (m) {
+      var clase = m.resultado === 'G' ? 'gana' : m.resultado === 'P' ? 'pierde' : 'empata';
+      var letra = m.resultado === 'G' ? 'G' : m.resultado === 'P' ? 'P' : 'E';
+      var titulo = m.resultado === 'G' ? 'Victoria' : m.resultado === 'P' ? 'Derrota' : 'Empate';
+      return '<li>' +
+        '<span class="res ' + clase + '" title="' + titulo + '">' + letra + '</span>' +
+        '<span class="res-rival">' + (m.esLocal ? 'vs ' : 'en ') + esc(m.rival) + '</span>' +
+        '<span class="res-marcador ' + clase + '">' + esc(m.golesNuestros) + '–' + esc(m.golesRival) + '</span>' +
+        '<span class="res-fecha">' + esc(fechaCorta(m.fechaLocal)) + '</span>' +
+      '</li>';
+    }).join('');
+
+    return '<article class="card-partido pasado">' +
+      '<div class="etiqueta">Últimos resultados</div>' +
+      '<ul class="resultados">' + filas + '</ul>' +
+    '</article>';
+  }
+
+  var partes = tarjetaProximo() + tarjetaResultados();
+  if (partes) { $('partidos').innerHTML = partes; } else { $('partidos').style.display = 'none'; }
+
+  // --- Tabla completa ----------------------------------------------------
+  if (DATOS.tabla && DATOS.tabla.length) {
+    var filas = DATOS.tabla.map(function (f) {
+      return '<tr class="' + (f.nosotros ? 'nosotros' : '') + '">' +
+        '<td>' + esc(f.rank) + '</td>' +
+        '<td class="equipo">' + (f.escudo ? '<img src="' + esc(f.escudo) + '" alt="" loading="lazy" onerror="this.remove()">' : '') + esc(f.equipo) + '</td>' +
+        '<td>' + esc(f.pj) + '</td>' +
+        '<td>' + esc(f.g) + '</td>' +
+        '<td>' + esc(f.e) + '</td>' +
+        '<td>' + esc(f.p) + '</td>' +
+        '<td>' + esc(f.dg) + '</td>' +
+        '<td><strong>' + esc(f.pts) + '</strong></td>' +
+      '</tr>';
+    }).join('');
+
+    $('tablaCaja').style.display = '';
+    $('tablaCaja').innerHTML =
+      '<h2>Tabla ' + esc(DATOS.temporada || '') +
+        (DATOS.fuenteDatos ? ' <span class="fuente-tabla">' + esc(DATOS.fuenteDatos) + '</span>' : '') + '</h2>' +
+      '<div class="tabla-scroll"><table><thead><tr>' +
+        '<th>#</th><th class="equipo">Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>DG</th><th>Pts</th>' +
+      '</tr></thead><tbody>' + filas + '</tbody></table></div>' +
+      '<p class="nota-tabla">' + DATOS.tabla.length + ' equipos · se actualiza sola.</p>';
+  }
+
+  // --- Videos del club ---------------------------------------------------
+  var videos = DATOS.videos || [];
+  if (videos.length) {
+    $('videosCaja').style.display = '';
+    $('videosCaja').innerHTML =
+      '<h2>Del club en video <span class="fuente-tabla">YouTube oficial</span></h2>' +
+      '<div class="rejilla-videos">' +
+        videos.map(function (v) {
+          return '<a class="video" href="' + esc(v.enlace) + '" target="_blank" rel="noopener">' +
+            '<span class="miniatura">' +
+              '<img src="' + esc(v.miniatura) + '" alt="" loading="lazy" onerror="this.remove()">' +
+              '<i class="play">▶</i>' +
+            '</span>' +
+            '<span class="video-txt">' +
+              '<span class="tag">' + esc(v.categoria) + '</span>' +
+              '<span class="video-titulo">' + esc(v.titulo) + '</span>' +
+              '<span class="video-fecha">' + esc(relativo(v.publicadoISO)) + '</span>' +
+            '</span>' +
+          '</a>';
+        }).join('') +
+      '</div>' +
+      redesHTML();
+  }
+
+  /** Enlaces a las cuentas oficiales del club (sin scraping: solo enlaces). */
+  function redesHTML() {
+    var redes = DATOS.redes || [];
+    if (!redes.length) return '';
+    return '<p class="redes">Cuentas oficiales del club: ' +
+      redes.map(function (r) {
+        return '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(r.nombre) + '</a>';
+      }).join(' · ') +
+      '</p>';
+  }
+
+  // --- Escuela y comunidad -----------------------------------------------
+  var comu = DATOS.comunidad || [];
+  if (comu.length) {
+    $('comunidadCaja').style.display = '';
+    $('comunidadCaja').innerHTML =
+      '<h2>' + esc(DATOS.comunidadTitulo || 'Escuela y comunidad') +
+        ' <span class="fuente-tabla">Servicio a la comunidad</span></h2>' +
+      (DATOS.comunidadTexto ? '<p class="comunidad-texto">' + esc(DATOS.comunidadTexto) + '</p>' : '') +
+      '<ul class="comunidad-lista">' +
+        comu.map(function (n) {
+          return '<li><a href="' + esc(n.enlace) + '" target="_blank" rel="noopener nofollow">' +
+            '<span class="comu-titulo">' + esc(n.titulo) + '</span>' +
+            '<span class="comu-pie">' + esc(n.fuente) + ' · ' + esc(relativo(n.fechaISO)) + '</span>' +
+          '</a></li>';
+        }).join('') +
+      '</ul>' +
+      convocatoriasHTML();
+  }
+
+  /** Enlaces donde el club publica las convocatorias. */
+  function convocatoriasHTML() {
+    var redes = (DATOS.redes || []).filter(function (r) {
+      return /instagram|facebook/i.test(r.nombre);
+    });
+    if (!redes.length) return '';
+    return '<p class="redes">Convocatorias e inscripciones en ' +
+      redes.map(function (r) {
+        return '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(r.nombre) + '</a>';
+      }).join(' y ') +
+      ' del club.</p>';
+  }
+
+  // --- Fichas de categoría ----------------------------------------------
+  var conteo = {};
+  (DATOS.noticias || []).forEach(function (nota) {
+    (nota.categorias || ['General']).forEach(function (c) { conteo[c] = (conteo[c] || 0) + 1; });
+  });
+
+  var orden = ['Partidos', 'Escuela', 'Fichajes', 'Bajas', 'Femenil', 'Cantera', 'General'];
+  var cats = orden.filter(function (c) { return conteo[c]; })
+    .concat(Object.keys(conteo).filter(function (c) { return orden.indexOf(c) === -1; }));
+
+  var fichas = [['Todas', (DATOS.noticias || []).length]].concat(
+    cats.map(function (c) { return [c, conteo[c]]; })
+  );
+
+  $('fichas').innerHTML = fichas.map(function (f) {
+    return '<button class="ficha' + (f[0] === 'Todas' ? ' activa' : '') + '" data-cat="' + esc(f[0]) + '">' +
+      esc(f[0]) + ' <span>' + f[1] + '</span></button>';
+  }).join('');
+
+  $('fichas').addEventListener('click', function (ev) {
+    var boton = ev.target.closest ? ev.target.closest('.ficha') : null;
+    if (!boton) return;
+    filtro = boton.getAttribute('data-cat');
+    mostradas = VISIBLES;
+    Array.prototype.forEach.call(document.querySelectorAll('.ficha'), function (b) {
+      b.classList.toggle('activa', b === boton);
+    });
+    // El filtro queda en la URL: permite enlazar una vista concreta
+    // (…/exec#Femenil) o embeberla ya filtrada en Google Sites.
+    try {
+      history.replaceState(null, '', '#' + encodeURIComponent(filtro));
+    } catch (err) {
+      /* algunos iframes bloquean history: no es crítico */
+    }
+    pintar();
+  });
+
+  /** Lee #Categoría de la URL al cargar y activa esa ficha. */
+  function aplicarHash() {
+    var h = '';
+    try {
+      h = decodeURIComponent((location.hash || '').replace(/^#/, ''));
+    } catch (err) {
+      h = '';
+    }
+    if (!h) return;
+
+    var existe = false;
+    for (var i = 0; i < fichas.length; i++) if (fichas[i][0] === h) existe = true;
+    if (!existe) return;
+
+    filtro = h;
+    Array.prototype.forEach.call(document.querySelectorAll('.ficha'), function (b) {
+      b.classList.toggle('activa', b.getAttribute('data-cat') === h);
+    });
+  }
+
+  // --- Búsqueda ----------------------------------------------------------
+  $('buscar').addEventListener('input', function (ev) {
+    busqueda = ev.target.value.trim().toLowerCase();
+    mostradas = VISIBLES;
+    pintar();
+  });
+
+  // --- Rejilla de noticias ----------------------------------------------
+  function filtradas() {
+    return (DATOS.noticias || []).filter(function (nota) {
+      if (filtro !== 'Todas' && (nota.categorias || []).indexOf(filtro) === -1) return false;
+      if (!busqueda) return true;
+      var texto = (nota.titulo + ' ' + nota.fuente).toLowerCase();
+      return busqueda.split(/\s+/).every(function (p) { return texto.indexOf(p) !== -1; });
+    });
+  }
+
+  function pintar() {
+    var lista = filtradas();
+    var trozo = lista.slice(0, mostradas);
+
+    $('rejilla').innerHTML = trozo.map(function (nota) {
+      var tags = (nota.categorias || []).map(function (c) {
+        return '<span class="tag ' + esc(c) + '">' + esc(c) + '</span>';
+      }).join('');
+
+      var tambien = (nota.tambienEn && nota.tambienEn.length)
+        ? '<p class="tambien">También en: ' + esc(nota.tambienEn.join(', ')) + '</p>' : '';
+
+      return '<a class="nota" href="' + esc(nota.enlace) + '" target="_blank" rel="noopener nofollow">' +
+        '<div class="tags">' + tags + '</div>' +
+        '<h3>' + esc(nota.titulo) + '</h3>' +
+        tambien +
+        '<div class="pie">' +
+          '<span class="medio">' + esc(nota.fuente) + '</span>' +
+          '<span>' + esc(relativo(nota.fechaISO)) + '</span>' +
+        '</div>' +
+      '</a>';
+    }).join('');
+
+    $('mas').style.display = lista.length > mostradas ? '' : 'none';
+    $('mas').textContent = 'Ver más noticias (' + (lista.length - mostradas) + ' restantes)';
+    $('vacio').style.display = lista.length ? 'none' : '';
+  }
+
+  $('mas').addEventListener('click', function () { mostradas += VISIBLES; pintar(); });
+  aplicarHash();
+  pintar();
+
+  // --- Diagnóstico -------------------------------------------------------
+  if (DATOS.avisos && DATOS.avisos.length) {
+    $('diag').style.display = '';
+    $('diagLista').innerHTML = DATOS.avisos.map(function (a) { return '<li>' + esc(a) + '</li>'; }).join('');
+  }
+})();
+</script>
+</body>
+</html>

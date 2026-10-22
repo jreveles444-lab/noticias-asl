@@ -1,0 +1,14 @@
+[build]
+  command = "node sitio/construir.js"
+  publish = "dist"
+
+[build.environment]
+  # Versión fija: si Netlify cambia su Node por defecto, el build no se rompe.
+  NODE_VERSION = "20"
+
+# Netlify ya sirve dist/404.html en rutas inexistentes, pero el redirect deja
+# explícito que es un 404 real y no un 200 vacío.
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

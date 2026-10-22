@@ -1,0 +1,15 @@
+{
+  "name": "noticias-atletico-san-luis",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agregador de noticias del Atlético de San Luis. Dos destinos: Google Sites (Apps Script) o sitio estático propio. Sin dependencias.",
+  "scripts": {
+    "preview": "node local/preview.js",
+    "sitio": "node sitio/construir.js",
+    "sitio:abrir": "node sitio/construir.js && open dist/index.html",
+    "sitio:servir": "node sitio/construir.js && python3 -m http.server 8080 --directory dist"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

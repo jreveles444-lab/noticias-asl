@@ -1,0 +1,15 @@
+# Salida generada por el preview local
+preview/
+
+# Sitio estático generado (se reconstruye en cada publicación)
+dist/
+
+# Paquete para subir a Netlify (se regenera)
+noticias-asl.zip
+
+# Credenciales locales de clasp (nunca subir esto)
+.clasp.json
+.clasprc.json
+
+node_modules/
+.DS_Store

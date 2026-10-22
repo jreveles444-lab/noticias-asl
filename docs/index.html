@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Noticias · Atlético de San Luis</title>
+<!-- Metadatos estáticos: sirven para la versión publicada en un dominio propio
+     (buscadores y vistas previas al compartir). Si cambias de equipo, edítalos
+     aquí; no dependen de Config.gs y no afectan al embed de Sites. -->
+<meta name="description" content="Noticias del Atlético de San Luis actualizadas automáticamente: titulares de todos los medios, próximo partido, último resultado y tabla de la Liga MX.">
+<meta name="theme-color" content="#c8102e">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Noticias · Atlético de San Luis">
+<meta property="og:description" content="Titulares del club actualizados solos, con partidos y tabla de la Liga MX.">
+<meta property="og:locale" content="es_MX">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="https://r2.thesportsdb.com/images/media/team/badge/9kgjme1593448412.png">
+<style>
+  :root{
+    --rojo:#c8102e; --rojo-oscuro:#8f0a20; --oro:#f2c14e;
+    --fondo:#0d1117; --panel:#161b22; --panel-2:#1c2430;
+    --texto:#e6edf3; --texto-suave:#9aa7b4; --borde:#293040;
+    --radio:14px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--fondo); color:var(--texto); font-size:16px;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit}
+   
+  .wrap{max-width:none;margin:0;padding:clamp(12px, 1.4vw, 26px)}
+
+   
+  header.hero{
+    background:linear-gradient(135deg,var(--rojo-oscuro) 0%,var(--rojo) 55%,#5d0616 100%);
+    border-radius:var(--radio); padding:20px; margin-bottom:16px;
+    display:flex; gap:18px; align-items:center; flex-wrap:wrap;
+    box-shadow:0 10px 28px rgba(0,0,0,.45);
+  }
+  .escudo{width:78px;height:78px;object-fit:contain;filter:drop-shadow(0 4px 10px rgba(0,0,0,.5))}
+  .hero-txt{flex:1;min-width:220px}
+  .hero-txt h1{margin:0 0 4px;font-size:clamp(20px,3.4vw,30px);letter-spacing:-.4px;line-height:1.15}
+  .hero-txt p{margin:0;color:rgba(255,255,255,.86);font-size:14px}
+  .apodo{
+    display:inline-block;margin-top:8px;padding:3px 10px;border-radius:999px;
+    background:rgba(0,0,0,.28);font-size:12px;font-weight:600;letter-spacing:.4px;
+    text-transform:uppercase;color:var(--oro);
+  }
+  .sello{font-size:12px;color:rgba(255,255,255,.8);text-align:right;line-height:1.5}
+
+   
+  .partidos{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;margin-bottom:16px}
+  .card-partido{
+    background:var(--panel);border:1px solid var(--borde);border-radius:var(--radio);
+    padding:14px 16px;position:relative;overflow:hidden;
+  }
+  .card-partido::before{content:"";position:absolute;inset:0 auto 0 0;width:4px;background:var(--rojo)}
+  .card-partido.pasado::before{background:var(--texto-suave)}
+  .etiqueta{
+    font-size:11px;text-transform:uppercase;letter-spacing:.9px;font-weight:700;
+    color:var(--texto-suave);margin-bottom:8px;
+  }
+  .marcador{display:flex;align-items:center;gap:10px;font-size:19px;font-weight:700;flex-wrap:wrap}
+  .marcador .goles{
+    font-variant-numeric:tabular-nums;background:var(--panel-2);border:1px solid var(--borde);
+    border-radius:9px;padding:3px 11px;font-size:21px;
+  }
+  .goles.gana{background:rgba(46,160,67,.16);border-color:rgba(46,160,67,.5);color:#57d364}
+  .goles.pierde{background:rgba(200,16,46,.16);border-color:rgba(200,16,46,.5);color:#ff7b8a}
+  .goles.empata{background:rgba(242,193,78,.14);border-color:rgba(242,193,78,.45);color:var(--oro)}
+  .meta{margin-top:10px;font-size:13px;color:var(--texto-suave);line-height:1.6}
+  .meta strong{color:var(--texto);font-weight:600}
+
+   
+  .tabla-caja{background:var(--panel);border:1px solid var(--borde);border-radius:var(--radio);padding:14px 16px;margin-bottom:16px}
+  .tabla-caja h2{margin:0 0 10px;font-size:14px;text-transform:uppercase;letter-spacing:.9px;color:var(--texto-suave)}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{padding:7px 6px;text-align:center;border-bottom:1px solid var(--borde)}
+  th{font-size:11px;text-transform:uppercase;letter-spacing:.6px;color:var(--texto-suave);font-weight:600}
+  td.equipo,th.equipo{text-align:left}
+  tr.nosotros{background:rgba(200,16,46,.13)}
+  tr.nosotros td{font-weight:700}
+  td.equipo img{width:18px;height:18px;object-fit:contain;vertical-align:-3px;margin-right:7px}
+   
+  .resultados{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:7px}
+  .resultados li{display:grid;grid-template-columns:16px 1fr auto auto;align-items:center;gap:9px;font-size:13.5px}
+  .res{width:16px;height:16px;border-radius:4px;font-size:10px;line-height:16px;text-align:center;font-weight:800;color:#0d1117}
+  .res.gana{background:#57d364}
+  .res.pierde{background:#ff7b8a}
+  .res.empata{background:var(--oro)}
+  .res-rival{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .res-marcador{font-variant-numeric:tabular-nums;font-weight:700}
+  .res-marcador.gana{color:#57d364}
+  .res-marcador.pierde{color:#ff7b8a}
+  .res-marcador.empata{color:var(--oro)}
+  .res-fecha{color:var(--texto-suave);font-size:11.5px;white-space:nowrap}
+  .despues{margin:11px 0 0;font-size:12.5px;color:var(--texto-suave);line-height:1.6}
+  .despues span{font-weight:700;color:var(--texto)}
+  .despues em{font-style:normal;opacity:.8}
+  .fuente-tabla{font-size:10px;font-weight:600;letter-spacing:.5px;color:var(--texto-suave);
+    border:1px solid var(--borde);padding:2px 6px;border-radius:5px;vertical-align:middle}
+  .puesto{background:rgba(242,193,78,.18);color:var(--oro)}
+  .nota-tabla{margin:9px 0 0;font-size:11.5px;color:var(--texto-suave)}
+   
+  .tabla-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .tabla-scroll table{min-width:430px}
+
+   
+  .videos{background:var(--panel);border:1px solid var(--borde);border-radius:var(--radio);
+    padding:14px 16px;margin-bottom:16px}
+  .videos h2{margin:0 0 12px;font-size:14px;text-transform:uppercase;letter-spacing:.9px;color:var(--texto-suave)}
+  .rejilla-videos{display:grid;grid-template-columns:repeat(auto-fill,minmax(215px,1fr));gap:14px}
+  .video{text-decoration:none;display:flex;flex-direction:column;gap:8px;min-width:0}
+  .miniatura{position:relative;display:block;border-radius:10px;overflow:hidden;background:#000;aspect-ratio:16/9}
+  .miniatura img{width:100%;height:100%;object-fit:cover;display:block}
+  .play{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+    font-style:normal;font-size:16px;color:#fff;background:rgba(0,0,0,.3);opacity:0;transition:.15s}
+  .video:hover .play{opacity:1}
+  .video-txt{display:flex;flex-direction:column;gap:5px;min-width:0}
+  .video-titulo{font-size:13.5px;line-height:1.35;font-weight:600;color:var(--texto);
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .video:hover .video-titulo{color:#fff}
+  .video-fecha{font-size:11.5px;color:var(--texto-suave)}
+   
+  .comunidad{background:var(--panel);border:1px solid var(--borde);border-left:3px solid var(--oro);
+    border-radius:var(--radio);padding:14px 16px;margin-bottom:16px}
+  .comunidad h2{margin:0 0 8px;font-size:14px;text-transform:uppercase;letter-spacing:.9px;color:var(--texto-suave)}
+  .comunidad-texto{margin:0 0 13px;font-size:13px;line-height:1.6;color:var(--texto-suave);max-width:70ch}
+  .comunidad-lista{list-style:none;margin:0;padding:0;
+    display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
+  .comunidad-lista a{display:flex;flex-direction:column;gap:6px;text-decoration:none;
+    background:var(--panel-2);border:1px solid var(--borde);border-radius:10px;padding:11px 13px;transition:.15s}
+  .comunidad-lista a:hover{border-color:var(--oro);transform:translateY(-1px)}
+  .comu-titulo{font-size:13.5px;line-height:1.4;font-weight:600;color:var(--texto);
+    display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .comunidad-lista a:hover .comu-titulo{color:#fff}
+  .comu-pie{font-size:11.5px;color:var(--texto-suave);margin-top:auto}
+  .redes{margin:14px 0 0;padding-top:11px;border-top:1px solid var(--borde);font-size:12.5px;color:var(--texto-suave)}
+  .redes a{color:var(--oro);text-decoration:none;font-weight:600}
+  .redes a:hover{text-decoration:underline}
+
+   
+  .controles{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+  .buscar{
+    flex:1;min-width:200px;background:var(--panel);border:1px solid var(--borde);
+    border-radius:10px;padding:10px 13px;color:var(--texto);font-size:15px;outline:none;
+  }
+  .buscar:focus{border-color:var(--rojo);box-shadow:0 0 0 3px rgba(200,16,46,.18)}
+  .fichas{display:flex;gap:7px;flex-wrap:wrap}
+  .ficha{
+    background:var(--panel);border:1px solid var(--borde);color:var(--texto-suave);
+    border-radius:999px;padding:7px 13px;font-size:13px;cursor:pointer;font-weight:600;
+    transition:.15s;font-family:inherit;
+  }
+  .ficha:hover{border-color:var(--rojo);color:var(--texto)}
+  .ficha.activa{background:var(--rojo);border-color:var(--rojo);color:#fff}
+  .ficha span{opacity:.65;font-weight:500}
+
+   
+  .rejilla{display:grid;grid-template-columns:repeat(auto-fill,minmax(285px,1fr));gap:13px}
+  .nota{
+    background:var(--panel);border:1px solid var(--borde);border-radius:var(--radio);
+    padding:15px 16px;display:flex;flex-direction:column;gap:9px;
+    text-decoration:none;transition:.16s;position:relative;
+  }
+  .nota:hover{border-color:var(--rojo);transform:translateY(-2px);background:var(--panel-2)}
+  .nota h3{margin:0;font-size:16px;line-height:1.36;font-weight:650}
+  .nota .pie{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:auto;font-size:12px;color:var(--texto-suave)}
+  .medio{font-weight:700;color:var(--oro);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60%}
+  .tags{display:flex;gap:5px;flex-wrap:wrap}
+  .tag{font-size:10.5px;text-transform:uppercase;letter-spacing:.5px;font-weight:700;padding:3px 8px;border-radius:6px;background:var(--panel-2);border:1px solid var(--borde);color:var(--texto-suave)}
+  .tag.Femenil{color:#f7a8d8;border-color:rgba(247,168,216,.35)}
+  .tag.Fichajes{color:#79c0ff;border-color:rgba(121,192,255,.35)}
+  .tag.Bajas{color:#ff9c9c;border-color:rgba(255,156,156,.35)}
+  .tag.Partidos{color:#57d364;border-color:rgba(87,211,100,.35)}
+  .tag.Cantera{color:#d2a8ff;border-color:rgba(210,168,255,.35)}
+  .tambien{margin:0;font-size:11.5px;color:var(--texto-suave);opacity:.85}
+
+  .mas{display:block;margin:18px auto 0;background:var(--panel);border:1px solid var(--borde);color:var(--texto);
+       padding:11px 26px;border-radius:10px;font-size:14px;font-weight:600;cursor:pointer;font-family:inherit}
+  .mas:hover{border-color:var(--rojo)}
+  .vacio{text-align:center;padding:44px 20px;color:var(--texto-suave);background:var(--panel);border:1px dashed var(--borde);border-radius:var(--radio)}
+
+  footer{margin:22px 0 8px;padding-top:14px;border-top:1px solid var(--borde);font-size:12px;color:var(--texto-suave);line-height:1.7}
+  footer a{color:var(--oro);text-decoration:none}
+  details.diag{margin-top:10px}
+  details.diag summary{cursor:pointer;font-size:12px}
+  details.diag ul{margin:8px 0 0;padding-left:20px}
+  @media (max-width:600px){
+    .wrap{padding:10px}
+    header.hero{padding:15px;gap:12px}
+    .escudo{width:56px;height:56px}
+    .sello{text-align:left;width:100%}
+  }
+   
+  @media (max-width:520px){
+    .tabla-caja{padding:12px 10px}
+    .tabla-scroll table{min-width:0}
+    table{font-size:12.5px}
+    th,td{padding:6px 3px}
+    td.equipo img{width:15px;height:15px;margin-right:4px}
+    .resultados li{font-size:12.5px;gap:7px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="hero">
+    <img class="escudo" id="escudo" alt="Escudo" src="">
+    <div class="hero-txt">
+      <h1 id="nombre">Atlético de San Luis</h1>
+      <p id="sub">Noticias del club, actualizadas solas</p>
+      <span class="apodo" id="apodo"></span>
+      <span class="apodo puesto" id="puesto" style="display:none"></span>
+    </div>
+    <div class="sello">
+      <div id="actualizado">—</div>
+      <div id="conteo"></div>
+    </div>
+  </header>
+
+  <section class="partidos" id="partidos"></section>
+  <section class="tabla-caja" id="tablaCaja" style="display:none"></section>
+  <section class="videos" id="videosCaja" style="display:none"></section>
+  <section class="comunidad" id="comunidadCaja" style="display:none"></section>
+
+  <div class="controles">
+    <input class="buscar" id="buscar" type="search" placeholder="Buscar en los titulares…" autocomplete="off">
+    <div class="fichas" id="fichas"></div>
+  </div>
+
+  <section class="rejilla" id="rejilla"></section>
+  <button class="mas" id="mas" style="display:none">Ver más noticias</button>
+  <div class="vacio" id="vacio" style="display:none">No hay noticias que coincidan con el filtro.</div>
+
+  <footer>
+    <div>
+      Agregador automático de <strong id="pieEquipo"></strong>. Los titulares y enlaces pertenecen a sus
+      respectivos medios; esta página solo los enlaza y acredita.
+    </div>
+    <div style="margin-top:6px">
+      Noticias vía <a href="https://news.google.com/" target="_blank" rel="noopener">Google News</a> ·
+      Partidos y tabla vía <a href="https://www.espn.com.mx/futbol/liga/_/nombre/mex.1" target="_blank" rel="noopener">ESPN</a>
+    </div>
+    <details class="diag" id="diag" style="display:none">
+      <summary>Diagnóstico de fuentes</summary>
+      <ul id="diagLista"></ul>
+    </details>
+  </footer>
+
+</div>
+
+<!-- Los datos viajan en un bloque de tipo application/json, NO en un
+     comentario: Apps Script borra todos los comentarios de los archivos HTML,
+     así que un marcador del tipo /*__DATOS__*/ sería eliminado antes de que
+     doGet() pudiera reemplazarlo. El texto de este bloque sí sobrevive. -->
+<script type="application/json" id="datos-ads">{"generadoISO":"2026-10-22T09:12:54.881Z","equipo":{"nombre":"Atlético de San Luis","apodo":"Los Potosinos","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/15720.png","estadio":"Estadio Alfonso Lastras Ramírez","liga":"Liga MX"},"proximo":{"rival":"Atlante","escudoRival":"https://a.espncdn.com/i/teamlogos/soccer/500/226.png","esLocal":false,"fechaISO":"2026-10-24T03:00:00.000Z","fechaLocal":"2026-10-23","hora":"21:00","estadio":"Estadio Banorte","jornada":"","jugado":false,"golesNuestros":null,"golesRival":null,"resultado":""},"proximos":[{"rival":"Atlante","escudoRival":"https://a.espncdn.com/i/teamlogos/soccer/500/226.png","esLocal":false,"fechaISO":"2026-10-24T03:00:00.000Z","fechaLocal":"2026-10-23","hora":"21:00","estadio":"Estadio Banorte","jornada":"","jugado":false,"golesNuestros":null,"golesRival":null,"resultado":""},{"rival":"Atlas","escudoRival":"https://a.espncdn.com/i/teamlogos/soccer/500/216.png","esLocal":true,"fechaISO":"2026-10-31T01:00:00.000Z","fechaLocal":"2026-10-30","hora":"19:00","estadio":"Estadio Libertad Financiera","jornada":"","jugado":false,"golesNuestros":null,"golesRival":null,"resultado":""},{"rival":"FC Juárez","escudoRival":"https://a.espncdn.com/i/teamlogos/soccer/500/17851.png","esLocal":true,"fechaISO":"2026-11-07T01:00:00.000Z","fechaLocal":"2026-11-06","hora":"19:00","estadio":"Estadio Libertad Financiera","jornada":"","jugado":false,"golesNuestros":null,"golesRival":null,"resultado":""}],"ultimo":{"rival":"Querétaro","escudoRival":"https://a.espncdn.com/i/teamlogos/soccer/500/222.png","esLocal":true,"fechaISO":"2026-10-21T01:00:00.000Z","fechaLocal":"2026-10-20","hora":"19:00","estadio":"Estadio Libertad Financiera","jornada":"","jugado":true,"golesNuestros":"2","golesRival":"1","resultado":"G"},"ultimos":[{"rival":"Querétaro","escudoRival":"https://a.espncdn.com/i/teamlogos/soccer/500/222.png","esLocal":true,"fechaISO":"2026-10-21T01:00:00.000Z","fechaLocal":"2026-10-20","hora":"19:00","estadio":"Estadio Libertad Financiera","jornada":"","jugado":true,"golesNuestros":"2","golesRival":"1","resultado":"G"},{"rival":"Toluca","escudoRival":"https://a.espncdn.com/i/teamlogos/soccer/500/223.png","esLocal":false,"fechaISO":"2026-10-18T01:00:00.000Z","fechaLocal":"2026-10-17","hora":"19:00","estadio":"Estadio Nemesio Díez Riega","jornada":"","jugado":true,"golesNuestros":"1","golesRival":"1","resultado":"E"},{"rival":"Santos","escudoRival":"https://a.espncdn.com/i/teamlogos/soccer/500/225.png","esLocal":true,"fechaISO":"2026-10-11T23:00:00.000Z","fechaLocal":"2026-10-11","hora":"17:00","estadio":"Estadio Libertad Financiera","jornada":"","jugado":true,"golesNuestros":"1","golesRival":"2","resultado":"P"},{"rival":"Pumas UNAM","escudoRival":"https://a.espncdn.com/i/teamlogos/soccer/500/233.png","esLocal":false,"fechaISO":"2026-09-27T18:00:00.000Z","fechaLocal":"2026-09-27","hora":"12:00","estadio":"Estadio Olímpico Universitario","jornada":"","jugado":true,"golesNuestros":"3","golesRival":"2","resultado":"G"},{"rival":"Necaxa","escudoRival":"https://a.espncdn.com/i/teamlogos/soccer/500/229.png","esLocal":true,"fechaISO":"2026-09-19T23:00:00.000Z","fechaLocal":"2026-09-19","hora":"17:00","estadio":"Estadio Libertad Financiera","jornada":"","jugado":true,"golesNuestros":"3","golesRival":"1","resultado":"G"}],"tabla":[{"rank":1,"equipo":"América","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/227.png","pj":"12","g":"8","e":"3","p":"1","dg":"+16","pts":"27","nosotros":false},{"rank":2,"equipo":"Guadalajara","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/219.png","pj":"13","g":"6","e":"5","p":"2","dg":"+8","pts":"23","nosotros":false},{"rank":3,"equipo":"Cruz Azul","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/218.png","pj":"13","g":"7","e":"2","p":"4","dg":"+7","pts":"23","nosotros":false},{"rank":4,"equipo":"Toluca","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/223.png","pj":"13","g":"6","e":"4","p":"3","dg":"+10","pts":"22","nosotros":false},{"rank":5,"equipo":"León","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/228.png","pj":"13","g":"6","e":"3","p":"4","dg":"+3","pts":"21","nosotros":false},{"rank":6,"equipo":"Atlas","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/216.png","pj":"13","g":"6","e":"3","p":"4","dg":"-2","pts":"21","nosotros":false},{"rank":7,"equipo":"Monterrey","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/220.png","pj":"12","g":"6","e":"2","p":"4","dg":"+6","pts":"20","nosotros":false},{"rank":8,"equipo":"Querétaro","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/222.png","pj":"12","g":"6","e":"2","p":"4","dg":"+1","pts":"20","nosotros":false},{"rank":9,"equipo":"Santos","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/225.png","pj":"13","g":"6","e":"1","p":"6","dg":"+3","pts":"19","nosotros":false},{"rank":10,"equipo":"Tijuana","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/10125.png","pj":"12","g":"4","e":"5","p":"3","dg":"+1","pts":"17","nosotros":false},{"rank":11,"equipo":"Pumas UNAM","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/233.png","pj":"13","g":"4","e":"4","p":"5","dg":"-3","pts":"16","nosotros":false},{"rank":12,"equipo":"Atlético de San Luis","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/15720.png","pj":"13","g":"4","e":"4","p":"5","dg":"-4","pts":"16","nosotros":true},{"rank":13,"equipo":"Puebla","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/231.png","pj":"13","g":"4","e":"4","p":"5","dg":"-4","pts":"16","nosotros":false},{"rank":14,"equipo":"Tigres UANL","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/232.png","pj":"13","g":"3","e":"5","p":"5","dg":"-4","pts":"14","nosotros":false},{"rank":15,"equipo":"Atlante","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/226.png","pj":"13","g":"3","e":"5","p":"5","dg":"-5","pts":"14","nosotros":false},{"rank":16,"equipo":"Pachuca","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/234.png","pj":"13","g":"3","e":"4","p":"6","dg":"+2","pts":"13","nosotros":false},{"rank":17,"equipo":"Necaxa","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/229.png","pj":"13","g":"2","e":"3","p":"8","dg":"-11","pts":"9","nosotros":false},{"rank":18,"equipo":"FC Juárez","escudo":"https://a.espncdn.com/i/teamlogos/soccer/500/17851.png","pj":"13","g":"1","e":"1","p":"11","dg":"-24","pts":"4","nosotros":false}],"temporada":"2026 Torneo Apertura","fuenteDatos":"ESPN","noticias":[{"titulo":"Chivas, Pachuca y San Luis se alistan para las jornadas finales de Liga Femenil","enlace":"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZTJaYkxMSW4zXzd0RThqbFczRmRzekN0RTBzbnJwU2NmZ3J6ZWplT0VGeUcxZDRyT3pId2x4U2tZcjkyTHZ3c0h2VmphbWwtN0hnX2dVckdfd1BZejBOTlYxRE5vLXoxaC05REs0WE1XNHo0b3NhQW1VODVtSnhYYXZabVVpWllEMHhMRTU4Uy0yQTlyRWdCVDNON0dwWlFwazhmTno5MElsS2FISnpEaXB1emJfUjlHX2o0bV9hdDdRRkt4aE9TNFB1c0dUc0dyT1g4VjhNd3hQd1FScWg0?oc=5","fuente":"OnceDiario","fechaISO":"2026-10-22T01:00:41.000Z","categorias":["Femenil","Partidos"],"tambienEn":[]},{"titulo":"Jacobo Payán venderá el Estadio Alfonso Lastras Ramírez al Atlético de San Luis","enlace":"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMGdwdGowU1dTSjR0YzFfTDQ1VXJadnY0dWY4QkhtRXEzZWROSEVUaHJ0dkxxSTJWWF9XUkpLQnJweV9SSFBJRTNhSEJ1MU9TQ2QxbktkSGVaSUcyb19Ka2J0T3hnZlliZ2xFUkd1TnFTVkFnelFyc0RJZHJ3S05OYTVyS3I0cXFVMndpc0FZQ2M0cEhyY0ZEOFpvT05KMHRJbFVLYmZIcGIxazZWYy1oMzU4UkZvYnQ0bnpGbEtKY2p6bG1pYXJVSl9UTGJSVFE?oc=5","fuente":"Récord","fechaISO":"2026-10-21T23:00:00.000Z","categorias":["General"],"tambienEn":["El Heraldo de San Luis Potosí."]},{"titulo":"Atlético de San Luis investigará agresiones contra aficionado de Gallos durante el Clásico de la 57","enlace":"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbEM2UlNxVEw1T0NCWjQ5Rld5TzNsM0VicDlZVTBiZUhYSDJCY3h6ODdjTDEzWlRDYTJHazdJbUhnQUhrS2I3RG9CVHNNZmhrUXhDcm9CNVBQOUZtQjVqN19GZ29TcGlValBWaTRkSGxXWjlIZHREdGlodkNuRm9lNU5qeHhqNTNNVE5fbnRrRHRSbm9YbC04NDV6Tl9uTHplanJ2bTdfdWVwN21wTHFJYkJ3TGJMMC1KTjV5ZS1NUkQyOHhyZE4zTTV6SUdxc2xOTXdiaUZKV0tZaEJIWVBMVnhQU1BVSlBwQmc?oc=5","fuente":"Récord","fechaISO":"2026-10-21T21:58:00.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"Alí Ávila, el sinaloense que marca con Querétaro, pero no evita la derrota ante San Luis","enlace":"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdGJzVU1NeWIycmJTRlJTNDNhUWswQVlVT2xIaW9oeV8tNGFqVVhTQWstS3FXYXk3a0UteFVKQTZ4aWxnRDBOMFo3V1RUMGlsZFJ0ZnBxTGVMb3dHY19zcVZyY0lLVWQ0a0paRHMwREtpLUJOT2U1VDdBNDlCV3ZqV3BHeDdpbklya3JtNTZyS0dJTkNDbUtIM01uWFpXRG5MUTBPbDcwZHpUNksyYWNYSmxnYU9MOXBTTzBSd2pDc2xRdmFIWFZDOGROelBfU3NoYzNrWQ?oc=5","fuente":"El Sol de México","fechaISO":"2026-10-21T18:28:26.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"Atlante FC vs Atletico San Luis: Pronóstico, Picks, Momios y Alineaciones","enlace":"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbFRmZy1uRXdIX2pobzlIQzdEQjN4a2o5b21oNklxa255bVpaaWlHTU1vZElRd05tWWJBUFJ0WnpWaGEzZGNhUnBPal81Qk92SnJvUlVCMExRVE03bFk3blJocGZUbVBmWExpRkR6ZjU1aGNpYjBpclllZHFKSnJHQXJ2aXpaeURKaG9tVV9vMGxJb0o3SVE?oc=5","fuente":"Squawka","fechaISO":"2026-10-21T16:49:29.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro","enlace":"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSWF4UUlkVFVrNk92aEpPSTVyVUstVnJzdDR4NG5zUG80ODRsUldyUklvdm91UnNpT2ExYV9xRW9DVzB3blIzMDZ1bThMYWViV05CRUJUOTBtbkw1OWVLQ2FlQmhQQXpEek1lbmhELUJEbllkUWlmcDdyVlRmME1BUXZmY2tTaGNYT01kekxQVi1uUWFvcEhOTDEtMldyaGR1ZzdHUUczYUpXSlM3YzFCWVBaclZpaDBxYUdPUGF6R2RxZ0daZjFDbndFU0JWWVl5b1hwR2RVcWc5QmliRV9aRkg3UjRHRVlfeGgw?oc=5","fuente":"ESPN México","fechaISO":"2026-10-21T16:25:27.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Agreden a seguidor del Querétaro en San Luis","enlace":"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTM5ZkhYSXY3aGM0ZFNlaEpXU1hyZDg1YUcwaTJwVFJBWUlxT2g5d1ZDaF8zWFZqaFRObXRHdVh1RVhNR25KMlFzT1RyTEt6ZkNkWWRjOVNOQmt4OGtVRXZjR2xfUk44Qm5FdVpuMmljbW95cDZ3UnVFZTJtZ2YxQ2l1d1gxNkRqSE9rU3FSeXNyMnoybmF6ZjRwWdIBoAFBVV95cUxQOXRtWXo1azBVYU41S01iSks4Wlp2eWtDTFZhVVBsUTFWYWVRVVBrREhiYzN3aFF5SmhsZGZqUEdITThOLVp5N09TcnBGaXUtbkpNV1Qyd0VpQ0NrNXN0eDNtbFhHMzZVQkZvTjhCbFpxWnlEa2pXVHBicF9STzd6R3hMX1pmRUxZZ3NmcjNzMlNGamtSeHlHamNLUXF0Y3Ex?oc=5","fuente":"Pulso Diario San Luis","fechaISO":"2026-10-21T14:42:00.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Atlético de San Luis venció a Gallos Blancos de Querétaro 2-1 en la Jornada 13 de la Liga MX","enlace":"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY0dEZE1SQnBCSWRDY19ud2J0SDNLMTgxeDBUMlhwdk9lRVdPZ2JIbFNLSG5DX1NUNGJDdGttZjdhTlRPTWhlek9BNGxpbWVjSEQxdTlwalM3VnZKdGJROFhMX3VaUXRkMkhXZjV5TTQwUmtWbDlMR0NYS1M5U2dqQWd3cVdLVkMxeW1YWUR5WnU4TmJLNkZ1c25lMmVKOGI3cHJjWDNySkZZVzRsNG1UWlRIRjlLM3RYSEF5cU5UQ2JBWWJ3MTFwTHVPd01ER1B0cFJZZ2NmSUV3NkRGb1hjVFJpTE1tZVB6?oc=5","fuente":"El Heraldo de México","fechaISO":"2026-10-21T09:00:00.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"¡¡LOS CLÁSICOS SON PARA GANARSE!!","enlace":"https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXhpaFhibnFGdnFqS2pIamVZUVUxWW9wQVh2b2xqekJ5RkRsakl0NlhjSkFHbU9IWW5ma1J6UzBqUXA3b2ZXOXBWZG1NZExxTVNLaU5SYTVYVUFxYW9xR1RHLW82bVRRUkg5cE9NT0t2enMycUR0VWxkYS1TSDV0aQ?oc=5","fuente":"Atlético San Luis","fechaISO":"2026-10-21T04:36:06.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Mientras que San Luis sueña con Liguilla, Querétaro pone en duda su clasificación","enlace":"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3EwNFdEWl84Mi1qMjJTT0Zla2t4NUQ0d1BMenVfUWwzcnlhTVZ6WVhFY3BJeTBBTWFYVDdIbFpVaFVsYTlsR1Zvb0RnS1FWb2RXNDd5cDAtS0NJSVF0OHlZWDlfeUhaYkZnNFlQa0lRbkZXc0pVVHlLbjk5c1luSFB6X2Jpdkc5Qy03M2dULURtd1pITFpFUGJXNjQ4LW55elVQWm1ORGkwdjJmb1ZBSkdJNG5UZEF0d0NmLXRlRWlOdzhCM2ZkZkpmaGxETkJh?oc=5","fuente":"Récord","fechaISO":"2026-10-21T03:39:00.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Logra Atlético de San Luis vencer en casa al Querétaro","enlace":"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXViY2FJSTNyaFFob0FnTm5jNEdOalBfb281ajVFZ21Vb3JmZFRNZ20xdzVwVzF1OHA5NVA4WVM1VVFhZ3YwM1F4SWV6OVJ6YnAwY012ZExyaDdjTUtYVWd0blJjZlE1YjhoNTE4Q1V3ZXMwNGJqZkR5OW1JRmMyMEx1dklUV0RFYmVSM24zbU5QUQ?oc=5","fuente":"Reforma","fechaISO":"2026-10-21T03:20:10.000Z","categorias":["Partidos"],"tambienEn":["La Capital","Milenio"]},{"titulo":"Atlético de San Luis 2-1 Querétaro y se acerca a liguilla","enlace":"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZVRSSm9sU3NUTVBQYTNmTHlKM3lUdWV5R1dPaTVkMGhzRUhWZi02LXFkWWk0M2NrSWdMeldFdTNKR0NJVzNpeDN1OHc3YWRCVFJFR2x5VGx3Tkh1dDhBXzUydldMakNONFNYejZCeVk3V1FPR3ZJbncwZ3N3VXVkaWRoT2F4cVlDaDQxeFdvX2xTUQ?oc=5","fuente":"Amexi","fechaISO":"2026-10-21T03:14:17.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"[VIDEO] ¡Volvió a ganar! Atlético de San Luis se lleva el Clásico de la 57","enlace":"https://news.google.com/rss/articles/CBMingFBVV95cUxQYXZnTzNPZjZWTG0wSFlwTm14WnVGeEdBMkE5M19hUzg1ZnAxRGRqU1JxZmVBTGZTUFQwcWpXYk1XeW1LdEV0TmVhS0pCMGRjLTFwYk1SSmpqckdfZFpKdDlnUW5LdzFOeWwzVFJaUXY1S09QUGNqUGZKcFVqb3lad0dsVVpUY3J2c3ZlZFRRR3ZlZDNCZzh1OWdubzExQQ?oc=5","fuente":"Código San Luis","fechaISO":"2026-10-21T03:13:45.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"El equipo del Atlante y Atlético San Luis derrotan a Juárez y a Querétaro en la Liga MX","enlace":"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFhFZ0JjR1hBRVl6SndVOWNSVHJBWUF0UmY4Smo1azVCQlRyQ05tOGc1YVNZY19UbkI2aW0wNENhRlhoS3dfWGREcmcwVXlQZXREaElNQVctZUlESW04QkUzeDdFU2VhVEZ2LVhNemw2RmVqSzliMnZjSzVlWF9qMVA4ZnBlc2hWNGtONDRQbGdRQk1wR0ZQSXozS2d4bVRkREctdHR4YzM5M1pxOVpFV3UzTzVMdDhxZFpKYVJMbDF4dWc?oc=5","fuente":"88.9 Noticias | Noticias en Vivo | Información Que Sirve","fechaISO":"2026-10-21T03:04:02.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"Atlético San Luis vs. Querétaro - Game Highlights","enlace":"https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXZvdzBORzRjcjJnY0FDQm92VldOeXhqZVc5bzZ5UUxyNVlnLXVoanpFZTRRWW9XZFAzVlNrLURXdmQ1emM3dW1EMHA1blVfUGF6STE2MXZrTVdCNEhsSF9VZTdESGV4T3VPVG51cWJiZUgyemZ5cWlldkhueVhqV3VaRF9rVnhhcC1rLVc5TTN4LUVq?oc=5","fuente":"TUDN","fechaISO":"2026-10-21T03:03:42.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"Atlético San Luis vs. Querétaro - Resumen del partido","enlace":"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm5pR0xRSHd1dzh3RXR1Z216bTQ0TnJFVVNZaVNLT09TRWNtYTF1VHF2M2stY3Rrai1WakU5UW5fMFVrRTB3M05tRTgyOGY0aXVXWDNMTmNGVFBna1RBQVJhdzNxcXYzWkZZT2pYbzBJQTBxamU3QWFrV0x5UXJheGo0ekx6TEVueWlMLV9VNFpaNnhDbGlGVjN3?oc=5","fuente":"TUDN","fechaISO":"2026-10-21T03:03:14.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"¡Gallos en declive! San Luis venció a un deslucido Querétaro y se llevó el Clásico de la 57","enlace":"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVncwRGpDSklXZ3BGZU9Zb2JZZjJuUlA0a01JaV8tLVhETnIzbk9rNHlwVXZCVFJfbU9WSHM4d0dJMkY4RFFZOXhKcGUwbjBQc2NjY3I0UEpNd0dfTmg1S19Jell5Qlg1ZlJFQTBkZ1UwbVR1T2VsQnp3N2JUZGQxM3JTWmtXRGptZXV6UTZ0aTRic1NZbmlOOUx3V3hEUGlXTUlpZWdEZjIxcHfSAasBQVVfeXFMTzVxSGFhMVBmUkVYM1V3aUI0eXNvcDhMV0VBZklEOVk1UHhyVUJwQTVFUEdPcEFMRUV2ZzlvUkhqLUJGeEpyOVVoaEJtaUNJNFVSWEhTc3Q1VGwzdzROLUhUS0JkUjBMdmRuS1RpSnBlQVYyNm5UTmExTkpXbkdudURvZUsxSjdkbHVQMGVfOHB4c1NuM2lrUGowa2tXeURjcW1YTGNCZVhOTXRN?oc=5","fuente":"Mediotiempo","fechaISO":"2026-10-21T02:58:00.000Z","categorias":["General"],"tambienEn":["MARCA"]},{"titulo":"San Luis se impone de local ante Querétaro en la Jornada 13","enlace":"https://news.google.com/rss/articles/CBMingFBVV95cUxOY0l1T2lwOTd0Q0tvblNvS0trbUVlUV9hWU9VVGdSV2Rnc3prcmM5cWZUcllNdTVyWFdhMHRJanBPUko2ODQzWFM5aVp3Y3p5Vm41RjJ1aDU2eEtLUUs0Nm5DeTlJVmFEdTIteDhYbGJ2aFViSk9URmFGRVBXTDVmSWQ5aTJjUmh3Y0xNZnEzS2E5Rjd3SjJXdlp2Zmkzdw?oc=5","fuente":"sdpnoticias","fechaISO":"2026-10-21T02:58:00.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"San Luis se queda con el Clásico de la 57 y vence a Querétaro en un partido definido por un autogol","enlace":"https://news.google.com/rss/articles/CBMi5gFBVV95cUxObXNtVmUwcmZBem1FX2RLdDNTZjVxT0VmVnBFT3lKVzlXTGtnWDdsMmd6QmUwZTM2VVNpaEJPdm5SdFY1cC05R0dvX1R4M2RZbmFwS0ZPNm9wRWliWWhoc0o2bEZsUUZOZHFJaGt6NnpLNW5HVWFXTEJXaXcyemNfbkpkQmZPLVFINkJScGdEc09ucVg3Rzgyem9ZaFM3bTBEV1hoOG9iam81MUwxOG90WDgyc1AtN1BZODl4dC1UYmNETU5NMHZsRGcxTFhnVjZRaW9ocGJJSmY3NEFSc2xfNS16NHFPQQ?oc=5","fuente":"Claro Sports","fechaISO":"2026-10-21T02:56:54.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"San Luis gana el Clásico de la 57 y mantiene viva la ilusión de Liguilla","enlace":"https://news.google.com/rss/articles/CBMilAFBVV95cUxPT3NNXzdrOHVDZzBjb3NzNkFhVGpWQ3BLRUt4WEhVU3hXMXYwNVdjcGFHaGVTWXRNT3c4c0c2Z0NyQno2YlhvYjVrTm5lOGwzTjM2N0QyWWlnVENGLUgzdDd6ODBRamFIN1Q4MVlvNWdrWHJnSEQ5a0l1NERCUTZtb1IxYWNwaTJBeDRLTmNoU2FqaGJk0gGaAUFVX3lxTE80QjBaZ1VjQU5iVDRWMnRzYWZkcjJBVC0tSTl0Z0xldVZGYVNGNk9sOUZkS01BaG9zNm9udzRCTFVYMTRpVFphX1c5b2RTdW1DUFVWcjJvWHg1N2hYU19kdG4yZWVZN29CM1JnamJxSnV2VUpDNENwTDktZ0FzUnZBc2lpaWRtNkczZjBKc3hTVDBabUZQLUxzUVE?oc=5","fuente":"Pulso Diario San Luis","fechaISO":"2026-10-21T02:22:00.000Z","categorias":["Femenil"],"tambienEn":[]},{"titulo":"¡Se abrió el marcador! Gol de Felipe Mora para poner arriba al Atlético de San Luis","enlace":"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTljQUU1X1RhVmVuQ1hRTVg3SDNjTVlwSktfSEtiM3pXT1BJYzhYVFJncmYweXhXMDlKQllDYTlSNm5ZQU12WURlS1FwVTdFRUJWYmpOMjV0Ul9CVkcxOXQtbHFZYVdRbnJJSEVoTGs2cjZoMDNxSldIQ19XWEhnanUxNVhvcGNVNXJGTVBSVnhXTlBqVE9QSEdoM2h6eDM3eVRSejVaaHdZaVF2VUJRTVVfcmlQaWpnazhaMUFSdWk?oc=5","fuente":"TUDN","fechaISO":"2026-10-21T02:14:00.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"¡Atlético de San Luis destruye a la defensa de Querétaro!","enlace":"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVFNZW1pX0NZaGg2Z0doRE5iaFNUSjFnWTFsVS1aQ3Y2bHhGR0p4WWd3OHAycmZGdjIzb2M2dHpFNWVVWDdjRkxneWJ5RkFOODBIcWtDWG5xRVlXazQ2UDFkMW9rc2o4SGNVRFp6cFRhenFnZnQyY3NXU1RHYWV5VTZSdjhNV0dCUlItUHRJTXRYNnhxcmRab3FOWVdyR04tUnNuOWhIdw?oc=5","fuente":"ESPN México","fechaISO":"2026-10-21T02:12:48.000Z","categorias":["General"],"tambienEn":["ESPN Argentina","Diario de México","ESPN Colombia"]},{"titulo":"¡¡Barrida salvadora de Villanueva ante jugada peligrosa del San Luis!!","enlace":"https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjVYZ0NZTGhGR2tWVHQxSnJuQi1tVHZFZkwtRUtGaTl4clk2clFZRzhJb1RkT1JCQ1pQVC1ndnRoYVE3dU5QUlFWcE5BUlgxbW50aW1WRjVDN1NnQlVfNXVrVTliV3QtM2JkODdPZC16Slo3Z3pIM1pJWG5lWE9qU0F2U25NS3JmN3JfVExST0FuMTNDSUw2V1ZVS0kzTkM2N1N5bzUxbHhKYUU1?oc=5","fuente":"TUDN","fechaISO":"2026-10-21T01:29:00.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Atlante FC vs Atlético de San Luis: horario y transmisión en México | Liga MX","enlace":"https://news.google.com/rss/articles/CBMimgFBVV95cUxNSENoUlR2UVpvRlU1Y0c0dXpWc1k0ZWJhdlVDaUswOHNqMnNONUgyX0xncjRoLXBKcjEyZE85b2Y0ZmR6VTRMS0VMTl9rUUh2cHBYRjNpNENyOEhMT2R0aHdWM3ctZmVqX2Q3MDI5Sl9DMnpLZHBBNHdySDE5bU5rWnJScW1Ob2l5V3pWWWRxbGVqcktyVHlTVUlR?oc=5","fuente":"NNC.MX","fechaISO":"2026-10-21T01:04:00.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"¡Rueda la pelota! Atlético San Luis recibe a los Gallos de Querétaro EN VIVO AQUÍ","enlace":"https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2NQZ3JRQ3JLZ21Ldl80NGhzc3g0WWpaVk9jRF84SUpiYkpnX2FlYmo4NExOT0pZWUxwMWpfcVQ4ZzAyYnJRZHctbkJOeUZ4ZTFqWWJEOXFfNmlyMl9ON19FQk1IUmFNUDRBYXF1Z3g2bG9Nd3RpdFRQVEttZWtlWjU0cmItempHS2FpOE1iVTNEU0toaExSeWpFSW1SM0oyVDZTMm82STJ2SWNobDl5d3RuLTZqWnkyM3NTNWh3?oc=5","fuente":"TUDN","fechaISO":"2026-10-21T01:03:00.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Atlético de San Luis vs. Querétaro: alineaciones y probabilidades","enlace":"https://news.google.com/rss/articles/CBMivwFBVV95cUxOMER1eXBQZkZRU3hwYklPbkJraWdibWpMdno3ekZOaTJpSExsQVd0MVczQmM1cEFqOHBwVnlwYlpCNlljT3JrTVpRazI2cy1mVGhNcUQ1LTFSMEZmQ3ZmUVN2VWthNWxuZ2gyWllPczFPV05tcGczN053SG9VWndrLUV5dU00UjNWYWtWdXlPeHpFVXEtaXBhRVpDcmV0TmlPSXhWNk85NmVva1k0LUlGUDZSd0hFZGxteFd4UE8yMA?oc=5","fuente":"ESPN México","fechaISO":"2026-10-21T01:00:56.000Z","categorias":["Partidos"],"tambienEn":["ESPN Deportes","Squawka"]},{"titulo":"Por qué no juega Santiago Homenchenko en Atlético San Luis vs. Querétaro por el Apertura 2026","enlace":"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMmtIdTlhY2EwV0tadm9kNFpjS2xhVlctM0Z6am5zako3dWpSaVlfWW1sNjVqY0FqSVZtY21Qai12UkNQT05KbHZCMTlNUF9JVzlEbEVUWnEya3FHOUcxUzRFVnk5clJjUDVsVlR3YTNVLXQ4Vnp1aEJ4bW1lQWRSVUdFaGlKMjhSaG9fNC1XSEVFYnlpQzFBa2RPTXpvWEFWaVNaU19iYjlua1ZrTFNMclJjNTJTNzJXSlE3Zjl3b9IBxAFBVV95cUxQRUtLclBMb3VYODdZWndlaXhxM3RYRlNPNnlKOE84WGhRUUFQd2lkUmkxNXJyRG4wWEp6VnNmRzdyYzNIOEtwb190N01kUDVSX2hlSG5OMElNX2N2dk96cTcwQlNlel9sZUJlVzAwaHZkazR4Z3pHcHZhQmNZVURQLTRfdWJtaEtXVzJWRUFCY3FiMENGMlhiREN3Z29WLWwxUkVnVzZTTjhYXzVfRHBFc05fMnZ1d2ZhYXlVaXMxV3VpUmFN?oc=5","fuente":"Bolavip México","fechaISO":"2026-10-21T00:14:12.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"Aficionado de Querétaro es agredido por los fans de Atlético San Luis en el Estadio Alfonso Lastras","enlace":"https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWp2RGNJYVJGVWg0LVRFY0xMMTAtWjZ6b00zMW54M3BZeUlVWTZfZHQtNDdwTlFDQlQxMXZ4QWZjUzQ4cDUxTkx2Q0tMbXpTYW9MdC03NVpzekxxc3RKSUxkak9UYi13ckhKVVduQUV0ejYtUTVHUHNXLU5WNnFTakJQczBqSTJRdl9DdHpDaktCS21yY2IxQ1QxbFhxZlhKZ2pHcW1kREFZS3NmREY4VDhLdnFkR2t3bzh3WnNaVjNEWE16NmkyQTJB0gHKAUFVX3lxTE5ROGMzcUwyMnY4aDkwak5HSUE3WDIwa3RHU01XQlhGaEkxQVZRZk1XbHhjcnNQTlNCNkFndWtqOWNBQ1VYZEhxakFNZG1hNXd6MUtRU2prLVJJYXZWdnFPc1NHbUROajZvMzFEcE91Nkx1Y29ibmpGeWJRWDh0SDVRS3hwMUNzRFRLOU5wdVU2U3hqaUJ5bHZydzhBRjk5cXE3SXRwZ21BY20ycnVHQk5qbTlCZUh0N3Zrb1NUdVQySVVmblpaVFQyY1E?oc=5","fuente":"MARCA","fechaISO":"2026-10-20T21:50:00.000Z","categorias":["Partidos"],"tambienEn":["Radio Fórmula","Fox Sports","Diario AS","El Informador","El Universal","LatinUS","Récord"]},{"titulo":"Los potosinos van por los tres puntos del Clásico de la 57","enlace":"https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUJ1QWRVbkZ5UG9ESUJueU9MZnpTZThBSlFDU045dmJiUkNFMWw1TFBaYlZUbUplQ0hwcFBWSHdraVBlVy1weVlNSloxNXZZMU1XYWw3Mmo4c0NHRXZ1NzZCc1RDZlBBTk5nU25tT1lOaUZtNkgxc0xTbHdmR25Ranl4cGd2U0ZweFd5M2pSV2lJeUl0MzV6MHYtUlBtd0tlVDg2aGhmcw?oc=5","fuente":"Atlético San Luis","fechaISO":"2026-10-20T18:39:36.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"San Luis recibe visita del Querétaro","enlace":"https://news.google.com/rss/articles/CBMiXEFVX3lxTE84RUJoM09yZVBqZlhYSVJ0bzd4aHlaazdfM09mTE84RjAtYmlVX1REWkVMYjM5ejlfNVZ0Y25XbzVrTXVIUXgzVU0zVUl5U1EteVQwNVJoMF9WVnhR?oc=5","fuente":"PSN Noticias","fechaISO":"2026-10-20T14:59:28.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Cómo ver Atletico de San Luis vs Querétaro FC: Detalles del partido, cadenas de TV, streaming en direct y más","enlace":"https://news.google.com/rss/articles/CBMitgFBVV95cUxQME1XYjExaEc2dXZ4Rl9vcTltX1ZCZ3JPS0xheThNeU1NY0lncHBHWUc2YnlieU1PZTJjeVByNmhYMlNTYTF1UlFTVVdJcUpRVDZxbDlHRF9VZEU2S01aUjNrRzg5RC1VSHBJZC1YU2FCeDUzc1NZVEgtRzNVY0Q5RW41RVFDNi1iei1EWFdzQ09jU2xkZXp0aFBwOTdDWUFZbllmR01sdFpsTVdDaWpMYnBBOERWZw?oc=5","fuente":"Goal.com","fechaISO":"2026-10-20T13:04:47.000Z","categorias":["Partidos"],"tambienEn":["Sports Illustrated"]},{"titulo":"[VIDEO] Se calienta el Clásico de la 57: queretanos dañan murales en SLP","enlace":"https://news.google.com/rss/articles/CBMiaEFVX3lxTE56eTVTUy1wZUl2akh6SEJFdEctOUo1V2t1OFBscGlyaXRBcTQxU1NpZFZTU01kNlVCTkl4TVpvRTZtdW5lLTU4SGVBVXVwUUFXLUQzR182blJ3emJybC02RW9oU0xDQVpt?oc=5","fuente":"Código San Luis","fechaISO":"2026-10-20T05:00:38.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Atlético de San Luis-América Femenil: cómo verlo en vivo el 24 de octubre","enlace":"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGFDWXhQX1N1M0pDR1hKbTljLWRieDhZejRaUURKeTdMXzhwUWd0a2ZOdDM4ZzI5LVVtejlfM1psQWx5WDBtZ0Y2THNBd1pUOHc2b0l6WEFTMDB6TkNlSTJsa3lLb3FSaDhXWFg3c2tNOHhPemtOMktmdnE2dXM1aFJ3ZkVxUVozX1JrQ05aUWZlZXA5TWVLUWRCSEZ6YXNzcDRyTjVyX1hKSnAtSHZZVGVZRzBCVEI1?oc=5","fuente":"OneFootball","fechaISO":"2026-10-20T01:21:56.000Z","categorias":["Femenil","Partidos"],"tambienEn":["El Sol de México"]},{"titulo":"Afición de Querétaro lanza 'provocación' al Atlético de San Luis previo al Clásico de la 57","enlace":"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLUV2ZkJyX29MWDhvTTRzS2hZaTFhZEx1Z09tdDlKTllxQnlXWTNNZDhTT3FKSFpPOURNOWR0bW9od3RBWmVpVFJLVzlSMEUyeWtrcU9CR2xlZmtRMHVOdzhVdmRZN1JHdWlIV3dxME4wWmY2SFlTU3BtMVhTQWdPWmZNUXFMZEZUeVhENkxDbWYwSk5WcWZ2YzUxQ0NrM1B4RDE0QVVVOEtReDNwRUpJVDF1WlV6a01OeTdQMWpEU0pQNzVTY0hzUktvVmEzb3ViSzBuS28zMXltMjRo?oc=5","fuente":"Récord","fechaISO":"2026-10-19T22:58:00.000Z","categorias":["General"],"tambienEn":["AS México"]},{"titulo":"¡GOL! anota para Atlético San Luis. Luis Nájera","enlace":"https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXVqMVZ4a2FickNQRmtWcEZuamRHbmhGZUlsX0dXN0w3QVQwY2JCa2o0WWliaWRjajFlbHlNSUZIcFgtcFp5LUJuaGdhZjhOMkZrTUpyZFJSY3U0OVp6cHhsMnBpTG8zdVJMNWFiRUJQTHFOUVFvTVdIYkVFNkstc0UyYjZMLXBuTml6V0luWndrUQ?oc=5","fuente":"TUDN","fechaISO":"2026-10-19T21:12:00.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"¡AUTOGOL! de Daniel Parra para Atlético San Luis.","enlace":"https://news.google.com/rss/articles/CBMikgFBVV95cUxQbXFHeXQ4N3NOWFFQTkFNV1pST1FxTHpCaDJqbUxGLTdWMjhHSk1xN3BRcEltU1hLbEpySWVsdjZXNjAzeG9YRzJaQnluNmllLWpyTk44blRVZFRoWXJZZXctMWlINFUxQThJRDQ1cnZRTTdYeExjOHhGZmV6b1dWMzNpUExRS3hXVkhud3NKY3lmUQ?oc=5","fuente":"TUDN","fechaISO":"2026-10-19T21:12:00.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Dónde ver Atlético San Luis vs Querétaro: Canales y horario del partido de la Liga MX J13","enlace":"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVkFXbktoRVlBRGZpNFV4N2FfLUtBS1BhR2F2aEtDRUlUNVRzbVZ2NzBKck1rZ3UyUlFTcEJfaWJ4RHpJZ1NoMWFMbW9FNkhwWFppazBpMTNJcXVJbGx4SzRqU2VJS0VLLVlTazVFcDRkeTlFOGpfeUh6d2hWcHp5Qng1TVppeVRCRThTOXNvZ21kRHBGa2NKTmZuM3lNN21hc09WcWFRQlRQb1pKdnk0LUtSSzJzeFhpMGsxaWR3aTg3ay1jeEIxTXFLU2RSd182M00xNmljRkY2b0k?oc=5","fuente":"Récord","fechaISO":"2026-10-19T21:08:00.000Z","categorias":["Femenil","Partidos"],"tambienEn":["Mediotiempo","Mediotiempo","Mediotiempo","Milenio","TUDN","El Informador","TUDN","TUDN","AS México","La Crónica de Hoy","Xpectro FM","El Heraldo de México","Facebook","TUDN","Reporte Indigo","Bolavip México","MARCA","Mediotiempo","Fox Sports","Bolavip México","El Sol de México","Facebook","GQ México y Latinoamérica","Facebook","TUDN","Telediario","Excélsior","La Crónica de Hoy"]},{"titulo":"Gallos Blancos buscará revancha ante Atlético de San Luis","enlace":"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeklReEZ4WHY0Y2dVeG1HS1Z3YjVwdUwwSkRHYXhFMUhFSlFTTTNFa3V4OWFad3VTUVRaR3daaHBkZVp3alhic0hCYkIySmdlTkU3bHZMdEROTzIyZ2xOWFd6YjB1VXNfc0tNczMxNjN5ZFBPY0MzS29CX0dEbFhNT0lPTy16WjYzRWZNMG9IR1M5QWJTaXFsaGozVHM1WTZpaWdaR3l3Mk5aWUt4cUxiNTlR?oc=5","fuente":"El Sol de México","fechaISO":"2026-10-19T17:36:43.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Atlético De San Luis Femenil Cae 1-2 Ante Fc Juárez","enlace":"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdllYbDdzdnhPZnRqMHBpTTVYRWtlQmlwaEdxcUdoS2FmUzZuSUNON3lBdFVqMUYyTTdwaFAycDJ2cDhhMTZEdjBUYzZfM1otTDZDRWVlcmZmRXRIWEFPTUswV2NDSUpVLWVsaW82WFdIY09tTnFPajZGLWM3S2JQVXF2NHo?oc=5","fuente":"Canal 7 SLP","fechaISO":"2026-10-19T15:39:48.000Z","categorias":["Femenil"],"tambienEn":["El Heraldo de San Luis Potosí."]},{"titulo":"ADSL Femenil cae ante Juárez","enlace":"https://news.google.com/rss/articles/CBMieEFVX3lxTE5zLW9JLUhxNS1JMThpa0NfckJjNHFKVlZOOXp4eUlCODhTdGVjWXFST19GSnVYcGc4c2hZZldXUjJrOWgtSGdPNkVxR0xlcFlnbHlwaGQ2M3Z4ZkZHUWhFcFBWRHdHQTJncV9UOV9Ycnd2bTBKaFpLc9IBeEFVX3lxTE5zLW9JLUhxNS1JMThpa0NfckJjNHFKVlZOOXp4eUlCODhTdGVjWXFST19GSnVYcGc4c2hZZldXUjJrOWgtSGdPNkVxR0xlcFlnbHlwaGQ2M3Z4ZkZHUWhFcFBWRHdHQTJncV9UOV9Ycnd2bTBKaFpLcw?oc=5","fuente":"Pulso Diario San Luis","fechaISO":"2026-10-19T09:00:00.000Z","categorias":["Femenil"],"tambienEn":[]},{"titulo":"Juárez Femenil fue contundente y sostuvo la ventaja en San Luis para ganar 2-1","enlace":"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeFJraHVfSk9XVnNLb1lDZHh2Qk9ZVVBrblJ2cFFoWlkyVmZlcWVFakFHc1p6c2tXZ0hLUXprUFcxRTlZc0dTMl9tU0pVanVZZ2I3ZThlTTgxc3d6SmZnbmdncmhrU2xtZmVBN21KU3JEOWZWcFBXcHNRMUw5dGZ6U3AtRkpqRWdZWmR3QVFNdEszV0VDOEpHYjZxdUlHWVRCQ193and4S19fZU9DbWh4NVRLTDg2MERUNUpFUWRxcUZySVNwVUFpYg?oc=5","fuente":"OnceDiario","fechaISO":"2026-10-19T03:16:16.000Z","categorias":["Femenil"],"tambienEn":[]},{"titulo":"Apuestas y Pronóstico del Atletico San Luis vs Queretaro FC 21/10/26","enlace":"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUm8tOWF6VTduV2hRNjZvRXVZWHE1Z0NGSUhPVW1hVFY2N2JLY05BMGI3bVZZSVpfNzFyUWpseWota0J6R3RidEh4VnVzdlZhT0RIN2R4Y3VwS3paUGFQYlhPQmtnV1RaTjlzN0RXYkVfbXNsMHVONEpqU1VhYUFJY2lsNVFzTXVMM2Uzc2VR?oc=5","fuente":"rcdm.es","fechaISO":"2026-10-18T14:24:00.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"Atlético de San Luis rescata empate ante Toluca y sigue fuera de liguilla","enlace":"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUDIxem5GNmVYd1Mzc3lDZmlWVERpX3FPd2lhckRFc0hfVHYtUEFneVpEeXFqSl9GRU1ORHRxdnV2VTFxN3RiNFpvMkE1Um4zMW5WOUVtNkM2bjJ5bk1rT2E0ZGtzbHFMS2ZfMmo0YTR6ckRpTGVoUG92emJSektFVlctM3Q0NHFyRVZDSFhpajcwa3dGZ3pjdlRoZlVYUXRFNnJYT3QwM0lVQkdubWliRlFUelVDTTVIMzM2bjZ3N0JlbW8?oc=5","fuente":"El Sol de México","fechaISO":"2026-10-18T04:15:15.000Z","categorias":["Partidos","Cantera"],"tambienEn":[]},{"titulo":"Liga MX: Toluca empata con Atlético San Luis en el Nemesio Diez y suma cuatro juegos en fila sin ganar","enlace":"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdGhVRUhGel8wOGZZd2tPUVlVRUg4VEItSlVXQUZOa3otU0NPS2EyN1pRamh5c0J1eVJ5OWpPSUFWczJ0T0VyWURQdFBiZlJabFJaR1Bqc0ZmUzhKakM4NHZjdjR2WnRVTmNFZVNsLVlzQldqWXozRHBQNVJoQkROTXBQeGIzV0wyY3V1Y3E2eENFMkUxWGg4Q0VlY2hXREJKOTlHMWI5TWd4dE9vVkhXQXJIUEs1d3RWZVlkT01MaHVjYmViRVR4TnZ1Q2hEWWNm0gHkAUFVX3lxTE5HNzN1R1A2RFJpRXNUa2VoVm9ZOExFRXRrRmZpWGlTeW9mNWZaQmRaX2IyZzNEZ0RsZlBya2tMdGM2SGo3YkVpSG5sU0NOcURwVkVOYzF4eXp4TUVrMFhsS0tMZHdOYWFWMTFrTDdlbHA3RTV4Ny1FQm5TLVoybXZFWE1sdjRuZlA1VDdaa1hGU0FxLUZJMlZhTVM2eVNVNVN2bWdPWmN0VWZSUWJXREpTVlRiS1d4SEc0NmtsN1hMUDQ5TjdlZXcyU2lHbDdYVWJOaDV0M1Y0b0swODNRcTVzWklFRQ?oc=5","fuente":"El Universal","fechaISO":"2026-10-18T03:27:23.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Toluca deja escapar la victoria ante el Atlético de San Luis","enlace":"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzhEbzNmcldLaWhtbFRJa3RCNU04NFpldFZFa2hZa0xxMDIzbXE1S1FXSm9lSUI5QTVNMjRncmpKdnJ6VDBkM3dvdHlfNWhJa3hIbkZpN1VwV3pNZE4wdHhTUjZsX1JmMjFkQnQ3MjJ2NlRFbkM3OE9rTmVxSTl1WTF0N0JQLTBMZW1WQlYybWVnRjlkLTdfWW1YMjNhdUtyV0tXZVVaYWJrRWdDd0ZRcw?oc=5","fuente":"El Sol de México","fechaISO":"2026-10-18T03:26:52.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"Liga MX: Aquí puedes seguir el minuto a minuto del Toluca vs Atlético San Luis","enlace":"https://news.google.com/rss/articles/CBMixAFBVV95cUxOYzVuOHVUazBIUTFLZ0Jydy1kWTFYdU1SZXQzME15ZlNXU3kxLS0zdmRjM2hHakVaMjNITlBVSXlxQUt4N3dPNC1BZ0xNZFdVTU1wZW9rXzNCSjlaSnd6Z282UlJLYlZtZDZvN2JTVWJZRHM2eF8yaUtpYjhpVG5HNnJJZE1fbm9Sb0pFR09oZWQtdG5pUXctdzc2S1Y0M3BQRUh0cDNFZzZCV3N2WnB6cVR1UUFOT2t1Yk9sYVhXVEljYUFr?oc=5","fuente":"El Universal","fechaISO":"2026-10-18T03:19:00.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"¡Bache escarlata! Toluca no pudo con Atlético San Luis y acumula cuatro partidos sin ganar","enlace":"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSUhxSUZlX3lwQzB5ZmV4X0VfRVZrUmVrV2w2akkxZGxWTGhIZ1VhNldWX2MzeTdmTVVIV0ZPd2JmQV9HQXpaR3hOM0VMaFA1RTg3NFhQMm0zMk9XRXlaZTk1ZHpReTlMbkNSQTRGNjZ3RXktWEg5bXk2anU4Z1AxTExyRzdoWFNrRVFvX3Z1UE1qSDMtcHM5OVpjckpXSVgtS1RXWFFONlRqbnVGU3B2LTBRbUplZS1YUDFxZmpXUVF0QU9LWHNQWQ?oc=5","fuente":"Fox Sports","fechaISO":"2026-10-18T03:07:00.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"¡Enfrían al Diablo! Toluca empata con San Luis y suma tres sin ganar","enlace":"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFVrTkVQZGd5SVVoQ1p6ajQzaTBtZmIweFVjUWF6RHdqb18yUm9TTXVsUGdoREpyMHZETjhaeEtPZm11UXJDQm5uQlhESUg0X29DRWtDTkpYQ3FyT2w1azJMbXI1YWZJR3otR3NWQ0FYamdKUkxaTGhDaFZEaGdmNzNMcVd1bnpaYVVPcXMzTkNOVHBaUDF0NEJudHpFeUdlYURGNUVyeVZoRmxWaGxBVkdrUTdyejVMOXMtVzY4ZW10bDdhYnZKVQ?oc=5","fuente":"TUDN","fechaISO":"2026-10-18T03:05:11.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"¡Apagan el Infierno! Un sorprendente San Luis le arranca un punto a Toluca en su casa","enlace":"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRE1aY1NyYnRnLVBPQmhNZF85NjFtVTJHZkh0LWszQk04ejRZRTc2R05DeVZydXVqcWswRFZUQlNvS2dCUGFBYmotZGIyT3FSUU00VFlvWVpoTXJtb2EwOU0xUWZOczFlejh4NkFZZHhKeUpxTFVhbjY1RHE3WHhVYjYwdnp5OWY3blMwSHhBVlhlX0tLc1BLWW52RldrcGhsQmVmYUh1MHNDM1V5dG5CTNIBsAFBVV95cUxOcUEyZDNOZWMzM2Utc05DVnRDem5GdDk0WXFxN1VYREZpNVo4czJ1NTZCbi1fbE5hY2lQZlQ0ZzFuV1pjVUx1ZnBaYmtjQi1FM0FoYXBzYk5LdDR4eUhGN2dpSHBFQVVPSUZSNklUa0JlWGtyaWMtbW5SNEljODloU2hyQW43YlZsOGxLanRnUExfZWd4YmV3TTF2RTJXR2MxUTVPQWlPWG5yS01ybnJjZw?oc=5","fuente":"Mediotiempo","fechaISO":"2026-10-18T03:01:00.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Goles y resumen de Toluca 1-1 San Luis en Liga MX","enlace":"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDdKYkY2aUhJaVMyOFc2bS1HRU5lUHloYVZFUmxPSzIwbHNSYzZUUHNLWWs0bDVEb0ZBUFNPNERoMk1qck9XNDhIZHhMeEJXcVB0djNZZ1pERDVXU1lMcWdkOEwyOTdjOTQ3c0xFbExYck5HLVlFcVFkWE1WRFM3VFVvZkZMSWI3Z09SVTZXV04taE9kaXpJUC10Vkt1YjZ2YXV1TzVrMkEwZGljMzNIV3dR?oc=5","fuente":"VAVEL.com","fechaISO":"2026-10-18T02:55:59.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"EN VIVO | Toluca vs. Atlético San Luis - Apertura 2026","enlace":"https://news.google.com/rss/articles/CBMijgFBVV95cUxQUkJxeFYxVWFicFhmejAzS2g1V29rdW1WekZzR2I5U1dITS13TlloeFR3czR4d2w5QXNMekxFYVJ5OWQ4ZmR6QmhlTTN5ck9PTzlvbDBwYTh2YmRqdEJBMmpiR2x3M0xiVTUwRHI5WlcyVkNWaE9Gcl8zNGh1ZmplZjlfdkVNanBEc0tYZzFR?oc=5","fuente":"TUDN","fechaISO":"2026-10-18T02:43:21.000Z","categorias":["Partidos"],"tambienEn":["365Scores"]},{"titulo":"La Escuela del Atlético de San Luis compite en la Liga Nacional Juvenil","enlace":"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRxV3RZeF8xYWZEZTA1djRfWWt0RWQ1Z3JNNDRTaTh2VU9IZTRyTE1KYVJsSG5CTGsxTUhEc3BRZGl3M0g4YXkyMUlwWWtjcnVYVmZvT0o2UFRHSVl3MUJ2YkktMGtfWWllejE4b2hfMlQwakZEdUd3RmI4MnF1dlVBSEloRWtzNjBTdE54dzBzWml4LXNaYmZsbE90YzA?oc=5","fuente":"Código San Luis","fechaISO":"2026-10-18T02:10:22.000Z","categorias":["Escuela","Cantera"],"tambienEn":[]},{"titulo":"¡Rueda el balón en el Estadio Nemesio Diez! Toluca vs Atlético San Luis EN VIVO AQUÍ","enlace":"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnBSRFNGOFpaSjdiMG1iQzZRWW81M19UZWx3UmZyaU5Wb0FxNkw4ZGlFVTc1d3l6eXRxVV9NMWRYYlgxaW1tc3VFNUlOd1FQVDZzX1V2Y1F3bGY5RHRSQzFCVUJCUG5mRlVnNG1ack1LREVValNCYmtFYjVJc2o3MHEwTHlWRUtlaWFfVGx3OEwzaUoxNVNDZVd1M1BrMy10NzNfZWlCcU04X3FJRnBZTUcyblpBTEYxT2VmajMzRXdNQQ?oc=5","fuente":"TUDN","fechaISO":"2026-10-18T01:07:00.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"Toluca vs Atlético de San Luis: dónde ver en vivo, canal de TV y horario | Goal.com México","enlace":"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbnhWenNUVVRDNXV3TW1xYXhwU0NYN19YYWV0Mkk0YjhTbVBQYkFmTE9RYlFTOC1IUEo0ckxKYXJ5b3pVb2hNVXpXcDI3T3FoY3FDb19PS0ZOMmlLOTRRS2U3UVZQN2JSXzN4TzF6dVdaRDc1SEhBY1pVaDBjZDBiN0VpMmhVazFHSnJ0X3lEbXVTMC1YWWRjUjJhMHlEaHFsTXJhTmFwQ2pyUEpBRWFfWkhFRmJidEwzc2JubS1lY3l2ZU81Z3RYQ3BPNHBJRXJlVjNxaE9WRHdFRjhid2hRbkk4dy1qRlBiRndpWg?oc=5","fuente":"Goal.com","fechaISO":"2026-10-18T00:54:25.000Z","categorias":["Partidos"],"tambienEn":["DAZN"]},{"titulo":"Toluca - San Luis en vivo hoy: resultado y goles de Paulinho en Apertura 2026 Liga MX, online","enlace":"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaW0yMHVXWVFTekNXYnNmcjZNNnEweEdrTVcxbmJ4NXRFTjlDaU5Ob0hPWUZpUGNfUkVVZng4U0hJdFZXTkxEUGlYRE5VdUF1RjRZa2VqbFhpX1pEY3dtM3poOUZXNTk0REpZQjl6RE9JdFk5dFRkaVZ4THBkWlZiekVLcERZY0hTWDFyM3VZSlhJallCdXNuc2V0VHNJaWV0MGJLd1BDM1pfT3dzOTZFeGZtY2ktZ1A5dF8yZDBQY2tnT2lSVWFYa3VYaUFidFpxcjhkUFppbFZwS2J2WHfSAfIBQVVfeXFMTkk4N0hRbzdxWnpHUjI3dlBNaXRBWWk2NWcwc2Jkb0ZmMFM3N0tHTlY4X296UFFGeXBRd05laC1Dd0taNlBnSTRWeF9NOWlsNXBDOFdMdjV4dWJWSWg1XzgxWDhJdkFIMTViRmgxUkdsTDV1MWNyR0sxN2Yxd20zV2pKMHg4bnVEWVVZeDd1SWZkOTdBeVRJNGNaeVU4TXRIdkRsUWNRZTBtTUlZSi1GbHJpZ2lBQWVMRUtCc1ZrS3lqNmRRWkhKRDl0SVM2cWlxMTdWWmlSMmxCMjFpNW9YVHlSQnE5YWJfSUxQd3pnYkdNaXc?oc=5","fuente":"AS México","fechaISO":"2026-10-18T00:41:38.000Z","categorias":["Partidos"],"tambienEn":["Fox Sports"]},{"titulo":"San Luis vs FC Juárez: Fecha y canal para ver el partido de la Liga Femenil BBVA","enlace":"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYzF1U3c5Q3owWWVKcEk1TGVKaHIydnlaVTRLNkFna0ctSmRQa1pqUUxQRUp5TnRaXzV3UHNyeklGMXZNX1hVUFVOVUFveWFQMEw0bWJYaHAxdGJLQ3FKVHdpdThVNzVZcFl4MnU2SVAxNGdpbkhLQUlBVHFmeWR4c2JzQl83RG9DM2o0b0piay1IcXpHcmw0eUVmRnFycXpDMG9oNFhaWEpOLTd4Q0tyaWNzV1lvWE1a?oc=5","fuente":"sdpnoticias","fechaISO":"2026-10-18T00:00:00.000Z","categorias":["Femenil","Partidos"],"tambienEn":[]},{"titulo":"Atlético de San Luis Femenil, en busca una nueva victoria ante las Bravas de Juárez","enlace":"https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTJuSWhXUmtRc2VrRDNDOWgyN0NIQ3Job3UtTWZzZmtRTzlmZmllckx3WUZiaHhER1VsNk5PeDJrTHB1dllhZFdoYmphRHRSZTY1U090OEFDbG5GN2JuSnRwZVhFU204SnRwSGRpM0hSd19JenREZUp3ZWtZUGhteWw1Vks2eEU2MjZ5QXJPTWxtcDR5Vkk3MkJycnVXbTVoQ1B2UmxrM2JoTU5IOHpBc0gyZGMtYzN3amMzOVZqQVBIaVhyTlloQm1hcGF0LVU?oc=5","fuente":"El Sol de México","fechaISO":"2026-10-17T23:38:18.000Z","categorias":["Femenil","Partidos"],"tambienEn":["Código San Luis","Plano Informativo"]},{"titulo":"Toluca - Atlético San Luis EN VIVO | Liga BBVA Bancomer MX hoy en directo","enlace":"https://news.google.com/rss/articles/CBMitgFBVV95cUxQd25YbDNRZWVMTDNGU2F2cndaZnY5bDhfeEttNmYzc0Z1Y19mc1ZEVmVQRmx3LXdKTTU0NnZNYzhXd01XcTdiSjNsczFkUnczXzF3bXltYkhHZlp6cE1FazV2V3V2UDhaQzd6a0gzZ2FIVnpjN0lTUDFLaF9UamhUNDlzR29CR0JVWWQ0MGktdGlmeWZYaGtNeEE0dHIwNC0wZkFxd3NkeUl0TnZyQzdxU0ZWQWV0Zw?oc=5","fuente":"MARCA","fechaISO":"2026-10-17T23:30:00.000Z","categorias":["General"],"tambienEn":[]},{"titulo":"Toluca vs Atlético de San Luis: Ver EN VIVO y GRATIS el resultado de la transmisión HOY sábado 17 de octubre,","enlace":"https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmJVRU1fR0N2Wjc4d0xydjF6ZWtjOEhzMnlZV3NyWVB3djJSWTJoOGh6SlBOZndCM09RcWdsajVKTEV5ai1fRmNRVTdwWmVmRlgtZXI1Y0Q4VEdRTzlqcXdRTnlaSjhuYk9vV1JlZXdsUGRKaVJGVXZjMF9rQWRXX2VCMmYzSXc2c2ZwUGxLMXlIa0FkM3pGdTQyc3hzU3hlckw3aW8wWlExS3NRLUdKczAtV3Rrd0dQRlo2a21zVi14ckJU0gHEAUFVX3lxTE9aYlVFTV9HQ3ZaNzh3THJ2MXpla2M4SHMyeVlXc3JZUHd2MlJZMmg4aHpKUE5md0IzT1FxZ2xqNUpMRXlqLV9GY1FVN3BaZWZGWC1lcjVjRDhUR1FPOWpxd1FOeVpKOG5iT29XUmVld2xQZEppUkZVdmMwX2tBZFdfZUIyZjNJdzZzZnBQbEsxeUhrQWQzekZ1NDJzeHNTeGVyTDdpbzBaUTFLc1EtR0pzMC1XdGt3R1BGWjZrbXNWLXhyQlQ?oc=5","fuente":"TV Azteca","fechaISO":"2026-10-17T22:52:53.000Z","categorias":["Partidos"],"tambienEn":[]},{"titulo":"El imparable dominio de Juárez Femenil sobre el Atlético de San Luis por la Liga","enlace":"https://news.google.com/rss/articles/CBMimAJBVV95cUxPSXZWaFF0ZkN5YUlJX2JJWm90Vm1fcHA5ejRSS0tYOHVWYmhHTmE0Q0xUNjJTMndSWGlHR3pXWkJPbVJWTTQ2MmFRWUpjTnRlZFZXMXFTczc2ZVY5SWlaU3V2T244NDY5U2prbmlsREU1NEhDMzQzbC1tWFhwSjZfRlktTzJjZ2pVSmVLOWRHTURTYm12d1BXbDVrQWF4aWd5azlMTFl4R3pLRy16eVlPNGVrWHd6cDVBd0ZiOE90QWRJbllINXRPRzJjSzQxcHNKVVZhcTR4b21ycTZYcWNIUEo3UWlLZTRzb2xOdEw5MjB6Wnk2MGVJMWJhSUE0UWlRNkFUdW5KdmNpUFBzV1ExUFFjQzhMX1Iw?oc=5","fuente":"OnceDiario","fechaISO":"2026-10-17T22:41:21.000Z","categorias":["Femenil"],"tambienEn":[]}],"comunidad":[{"titulo":"La Escuela del Atlético de San Luis compite en la Liga Nacional Juvenil","enlace":"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRxV3RZeF8xYWZEZTA1djRfWWt0RWQ1Z3JNNDRTaTh2VU9IZTRyTE1KYVJsSG5CTGsxTUhEc3BRZGl3M0g4YXkyMUlwWWtjcnVYVmZvT0o2UFRHSVl3MUJ2YkktMGtfWWllejE4b2hfMlQwakZEdUd3RmI4MnF1dlVBSEloRWtzNjBTdE54dzBzWml4LXNaYmZsbE90YzA?oc=5","fuente":"Código San Luis","fechaISO":"2026-10-18T02:10:22.000Z","categorias":["Escuela","Cantera"],"tambienEn":[]},{"titulo":"Jornada positiva para las Fuerzas Básicas del Atlético de San Luis","enlace":"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5","fuente":"El Sol de México","fechaISO":"2026-09-22T07:00:00.000Z","categorias":["Cantera","Partidos","Escuela"],"tambienEn":["OnceDiario"]},{"titulo":"Copa Escuelas ADSL reunirá a más de mil 200 jugadores","enlace":"https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1STR6WEdMam04cUpaWkJUdWxaOXUzTVRHVnY4WGoxRVlFSUJEVUNucVlkNWxwQWNjV18ydkk4cFNlR3dsRmVuUHR1bm0wMmN2UHYyNzFPcXE?oc=5","fuente":"elexpres.com","fechaISO":"2026-07-26T07:00:00.000Z","categorias":["Cantera","Escuela"],"tambienEn":[]},{"titulo":"Copa Escuelas Atlético de San Luis del 5 al 9 de agosto","enlace":"https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2p0bWJxQmRWdmdHUHhaLVNuQ0dDSkFDclljNjRzTlRCdjJqcHV3VkhWNUVVem5haG1QY1l6ZE1mMjhxUGRrckw4aWp6MDdfYXUyVHhORVBvdEQwNjhpRC1pbDQ1SEdfT0N3azlWaktWMFVINkFtVUV0UjJOVVNpcllTZl9yQ1lQd2c?oc=5","fuente":"Canal 7 SLP","fechaISO":"2026-07-22T07:00:00.000Z","categorias":["Cantera","Escuela"],"tambienEn":[]}],"comunidadTexto":"Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.","comunidadTitulo":"Escuela y comunidad","videos":[{"id":"ykHpA9ENMuQ","titulo":"¡EL LATIDO DEL CLÁSICO DE LA 57! | ADSL vs QRO | AP26","enlace":"https://www.youtube.com/watch?v=ykHpA9ENMuQ","miniatura":"https://i.ytimg.com/vi/ykHpA9ENMuQ/hqdefault.jpg","publicadoISO":"2026-10-22T03:00:07.000Z","categoria":"Resumen"},{"id":"FhCrncidPUE","titulo":"¡LLORENTE Y LAJUD SON MAGOS! 🧙‍♂️🇪🇸🇲🇽 | Club Corona","enlace":"https://www.youtube.com/watch?v=FhCrncidPUE","miniatura":"https://i.ytimg.com/vi/FhCrncidPUE/hqdefault.jpg","publicadoISO":"2026-10-22T01:00:05.000Z","categoria":"Del club"},{"id":"8N2BFAWl1MI","titulo":"¡Momento de prepararnos para visitar al Atlante! | Entrenamiento | AP26","enlace":"https://www.youtube.com/watch?v=8N2BFAWl1MI","miniatura":"https://i.ytimg.com/vi/8N2BFAWl1MI/hqdefault.jpg","publicadoISO":"2026-10-21T21:30:09.000Z","categoria":"Entrenamiento"},{"id":"Li2MzyWUPek","titulo":"Diego Mejía y Esteban Gonzalez | Conferencia de prensa | AP26","enlace":"https://www.youtube.com/watch?v=Li2MzyWUPek","miniatura":"https://i.ytimg.com/vi/Li2MzyWUPek/hqdefault.jpg","publicadoISO":"2026-10-21T19:45:19.000Z","categoria":"Conferencia"},{"id":"3QYtYVGjEPg","titulo":"Atlético de San Luis 2-1 QRO | Resumen | AP26","enlace":"https://www.youtube.com/watch?v=3QYtYVGjEPg","miniatura":"https://i.ytimg.com/vi/3QYtYVGjEPg/hqdefault.jpg","publicadoISO":"2026-10-21T17:57:46.000Z","categoria":"Resumen"}],"redes":[{"nombre":"X","url":"https://x.com/AtletideSanLuis"},{"nombre":"Instagram","url":"https://www.instagram.com/atletidesanluis"},{"nombre":"YouTube","url":"https://www.youtube.com/channel/UCF-kaaSSk9rBEHa9MsfsGjA"},{"nombre":"Facebook","url":"https://www.facebook.com/AtletideSanLuis"}],"totalFuentes":29,"avisos":[],"colores":{"rojo":"#c8102e","rojoOscuro":"#8f0a20","oro":"#f2c14e","fondo":"#0d1117","panel":"#161b22"}}</script>
+
+<script>
+ 
+function leerDatos() {
+  var nodo = document.getElementById('datos-ads');
+  if (!nodo) {
+    return { datos: null, motivo: 'No existe el bloque id="datos-ads" en la página.' };
+  }
+
+  var texto = (nodo.textContent || '').trim();
+
+  if (!texto || texto === '__DATOS_JSON__') {
+    return {
+      datos: null,
+      motivo: 'El servidor no reemplazó el marcador __DATOS_JSON__. Revisa que doGet() ' +
+              'haga plantilla.replace("__DATOS_JSON__", json) y que hayas publicado una ' +
+              'NUEVA VERSIÓN de la implementación.'
+    };
+  }
+
+  try {
+    return { datos: JSON.parse(texto), motivo: '' };
+  } catch (err) {
+    return { datos: null, motivo: 'El bloque de datos no es JSON válido: ' + err.message };
+  }
+}
+
+var LECTURA = leerDatos();
+var DATOS = LECTURA.datos;
+
+(function () {
+  'use strict';
+
+  var COLORES = (DATOS && DATOS.colores) || null;
+
+  
+  if (COLORES) {
+    var r = document.documentElement.style;
+    if (COLORES.rojo)       r.setProperty('--rojo', COLORES.rojo);
+    if (COLORES.rojoOscuro) r.setProperty('--rojo-oscuro', COLORES.rojoOscuro);
+    if (COLORES.oro)        r.setProperty('--oro', COLORES.oro);
+    if (COLORES.fondo)      r.setProperty('--fondo', COLORES.fondo);
+    if (COLORES.panel)      r.setProperty('--panel', COLORES.panel);
+  }
+
+  if (!DATOS) {
+    document.getElementById('rejilla').innerHTML =
+      '<div class="vacio"><strong>No se pudieron cargar las noticias.</strong><br>' +
+      esc(LECTURA.motivo) + '</div>';
+    return;
+  }
+
+  var $ = function (id) { return document.getElementById(id); };
+  var VISIBLES = 12;
+  var mostradas = VISIBLES;
+  var filtro = 'Todas';
+  var busqueda = '';
+
+  
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+
+  var rtf = (typeof Intl !== 'undefined' && Intl.RelativeTimeFormat)
+    ? new Intl.RelativeTimeFormat('es-MX', { numeric: 'auto' }) : null;
+
+  function relativo(iso) {
+    if (!iso) return '';
+    var t = new Date(iso).getTime();
+    if (isNaN(t)) return '';
+    var seg = Math.round((t - Date.now()) / 1000);
+    var abs = Math.abs(seg);
+    if (abs < 90) return 'hace un momento';
+    if (!rtf) return new Date(iso).toLocaleDateString('es-MX');
+    if (abs < 3600)   return rtf.format(Math.round(seg / 60), 'minute');
+    if (abs < 86400)  return rtf.format(Math.round(seg / 3600), 'hour');
+    if (abs < 604800) return rtf.format(Math.round(seg / 86400), 'day');
+    return new Date(iso).toLocaleDateString('es-MX', { day: 'numeric', month: 'short', year: 'numeric' });
+  }
+
+  function fechaLarga(iso) {
+    if (!iso) return '';
+    var d = new Date(iso);
+    if (isNaN(d.getTime())) return '';
+    return d.toLocaleDateString('es-MX', { weekday: 'long', day: 'numeric', month: 'long' });
+  }
+
+  /**
+   * "2026-10-11" -> "domingo 11 de octubre".
+   * Se construye con el constructor local (a mediodía) para que el día no se
+   * desplace al interpretar la cadena como UTC.
+   */
+  function fechaLocalTexto(dia) {
+    if (!dia) return '';
+    var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(dia));
+    if (!m) return fechaLarga(dia);
+    var d = new Date(+m[1], +m[2] - 1, +m[3], 12, 0, 0);
+    return d.toLocaleDateString('es-MX', { weekday: 'long', day: 'numeric', month: 'long' });
+  }
+
+  /** "2026-10-11" -> "11 oct" */
+  function fechaCorta(dia) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(dia || ''));
+    if (!m) return '';
+    var d = new Date(+m[1], +m[2] - 1, +m[3], 12, 0, 0);
+    return d.toLocaleDateString('es-MX', { day: 'numeric', month: 'short' });
+  }
+
+  // --- Cabecera ----------------------------------------------------------
+  var eq = DATOS.equipo || {};
+  $('nombre').textContent = eq.nombre || 'Noticias';
+  $('pieEquipo').textContent = eq.nombre || '';
+  $('sub').textContent = [eq.liga, eq.estadio].filter(Boolean).join(' · ') || 'Noticias del club';
+  $('apodo').textContent = eq.apodo || '';
+  if (!eq.apodo) $('apodo').style.display = 'none';
+
+  // Posición en la tabla, si está disponible.
+  var nuestraFila = null;
+  for (var k = 0; k < (DATOS.tabla || []).length; k++) {
+    if (DATOS.tabla[k].nosotros) nuestraFila = DATOS.tabla[k];
+  }
+  if (nuestraFila) {
+    $('puesto').textContent = nuestraFila.rank + 'º · ' + nuestraFila.pts + ' pts';
+    $('puesto').style.display = '';
+  }
+  // El escudo viene de un CDN externo con latencia variable: si tarda o falla,
+  // se oculta en vez de dejar el icono de imagen rota.
+  if (eq.escudo) {
+    var crest = $('escudo');
+    crest.onerror = function () { this.style.display = 'none'; };
+    crest.src = eq.escudo;
+  } else {
+    $('escudo').style.display = 'none';
+  }
+
+  $('actualizado').textContent = 'Actualizado ' + relativo(DATOS.generadoISO);
+  document.title = 'Noticias · ' + (eq.nombre || '');
+
+  var n = (DATOS.noticias || []).length;
+  $('conteo').textContent = n + ' noticia' + (n === 1 ? '' : 's') + ' · ' + (DATOS.totalFuentes || 0) + ' medio' + ((DATOS.totalFuentes === 1) ? '' : 's');
+
+  // --- Partidos ----------------------------------------------------------
+  function nombreCorto() {
+    return eq.nombre ? eq.nombre.replace(/^Atlético de /, '') : 'Nosotros';
+  }
+
+  function tarjetaProximo() {
+    var p = DATOS.proximo;
+    if (!p) return '';
+
+    var meta = [];
+    var dia = p.fechaLocal || p.fechaISO;
+    if (dia) meta.push('<strong>' + esc(fechaLocalTexto(dia)) + '</strong>' + (p.hora ? ' · ' + esc(p.hora) + ' h' : ''));
+    if (p.estadio) meta.push(esc(p.estadio));
+    if (p.jornada) meta.push(esc(p.jornada));
+
+    var despues = (DATOS.proximos || []).slice(1);
+    var cola = despues.length
+      ? '<p class="despues"><span>Después:</span> ' +
+        despues.map(function (m) {
+          return esc(m.rival) + ' <em>' + esc(fechaCorta(m.fechaLocal)) + '</em>';
+        }).join(' · ') +
+        '</p>'
+      : '';
+
+    return '<article class="card-partido">' +
+      '<div class="etiqueta">Próximo partido</div>' +
+      '<div class="marcador" style="font-size:17px">' +
+        '<span>' + esc(nombreCorto()) + '</span>' +
+        '<span style="color:var(--texto-suave);font-size:13px">' + (p.esLocal ? 'recibe a' : 'visita a') + '</span>' +
+        '<span>' + esc(p.rival) + '</span>' +
+      '</div>' +
+      '<div class="meta">' + meta.join('<br>') + '</div>' +
+      cola +
+    '</article>';
+  }
+
+  function tarjetaResultados() {
+    var lista = DATOS.ultimos || [];
+    if (!lista.length) return '';
+
+    var filas = lista.map(function (m) {
+      var clase = m.resultado === 'G' ? 'gana' : m.resultado === 'P' ? 'pierde' : 'empata';
+      var letra = m.resultado === 'G' ? 'G' : m.resultado === 'P' ? 'P' : 'E';
+      var titulo = m.resultado === 'G' ? 'Victoria' : m.resultado === 'P' ? 'Derrota' : 'Empate';
+      return '<li>' +
+        '<span class="res ' + clase + '" title="' + titulo + '">' + letra + '</span>' +
+        '<span class="res-rival">' + (m.esLocal ? 'vs ' : 'en ') + esc(m.rival) + '</span>' +
+        '<span class="res-marcador ' + clase + '">' + esc(m.golesNuestros) + '–' + esc(m.golesRival) + '</span>' +
+        '<span class="res-fecha">' + esc(fechaCorta(m.fechaLocal)) + '</span>' +
+      '</li>';
+    }).join('');
+
+    return '<article class="card-partido pasado">' +
+      '<div class="etiqueta">Últimos resultados</div>' +
+      '<ul class="resultados">' + filas + '</ul>' +
+    '</article>';
+  }
+
+  var partes = tarjetaProximo() + tarjetaResultados();
+  if (partes) { $('partidos').innerHTML = partes; } else { $('partidos').style.display = 'none'; }
+
+  // --- Tabla completa ----------------------------------------------------
+  if (DATOS.tabla && DATOS.tabla.length) {
+    var filas = DATOS.tabla.map(function (f) {
+      return '<tr class="' + (f.nosotros ? 'nosotros' : '') + '">' +
+        '<td>' + esc(f.rank) + '</td>' +
+        '<td class="equipo">' + (f.escudo ? '<img src="' + esc(f.escudo) + '" alt="" loading="lazy" onerror="this.remove()">' : '') + esc(f.equipo) + '</td>' +
+        '<td>' + esc(f.pj) + '</td>' +
+        '<td>' + esc(f.g) + '</td>' +
+        '<td>' + esc(f.e) + '</td>' +
+        '<td>' + esc(f.p) + '</td>' +
+        '<td>' + esc(f.dg) + '</td>' +
+        '<td><strong>' + esc(f.pts) + '</strong></td>' +
+      '</tr>';
+    }).join('');
+
+    $('tablaCaja').style.display = '';
+    $('tablaCaja').innerHTML =
+      '<h2>Tabla ' + esc(DATOS.temporada || '') +
+        (DATOS.fuenteDatos ? ' <span class="fuente-tabla">' + esc(DATOS.fuenteDatos) + '</span>' : '') + '</h2>' +
+      '<div class="tabla-scroll"><table><thead><tr>' +
+        '<th>#</th><th class="equipo">Equipo</th><th>PJ</th><th>G</th><th>E</th><th>P</th><th>DG</th><th>Pts</th>' +
+      '</tr></thead><tbody>' + filas + '</tbody></table></div>' +
+      '<p class="nota-tabla">' + DATOS.tabla.length + ' equipos · se actualiza sola.</p>';
+  }
+
+  // --- Videos del club ---------------------------------------------------
+  var videos = DATOS.videos || [];
+  if (videos.length) {
+    $('videosCaja').style.display = '';
+    $('videosCaja').innerHTML =
+      '<h2>Del club en video <span class="fuente-tabla">YouTube oficial</span></h2>' +
+      '<div class="rejilla-videos">' +
+        videos.map(function (v) {
+          return '<a class="video" href="' + esc(v.enlace) + '" target="_blank" rel="noopener">' +
+            '<span class="miniatura">' +
+              '<img src="' + esc(v.miniatura) + '" alt="" loading="lazy" onerror="this.remove()">' +
+              '<i class="play">▶</i>' +
+            '</span>' +
+            '<span class="video-txt">' +
+              '<span class="tag">' + esc(v.categoria) + '</span>' +
+              '<span class="video-titulo">' + esc(v.titulo) + '</span>' +
+              '<span class="video-fecha">' + esc(relativo(v.publicadoISO)) + '</span>' +
+            '</span>' +
+          '</a>';
+        }).join('') +
+      '</div>' +
+      redesHTML();
+  }
+
+  /** Enlaces a las cuentas oficiales del club (sin scraping: solo enlaces). */
+  function redesHTML() {
+    var redes = DATOS.redes || [];
+    if (!redes.length) return '';
+    return '<p class="redes">Cuentas oficiales del club: ' +
+      redes.map(function (r) {
+        return '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(r.nombre) + '</a>';
+      }).join(' · ') +
+      '</p>';
+  }
+
+  // --- Escuela y comunidad -----------------------------------------------
+  var comu = DATOS.comunidad || [];
+  if (comu.length) {
+    $('comunidadCaja').style.display = '';
+    $('comunidadCaja').innerHTML =
+      '<h2>' + esc(DATOS.comunidadTitulo || 'Escuela y comunidad') +
+        ' <span class="fuente-tabla">Servicio a la comunidad</span></h2>' +
+      (DATOS.comunidadTexto ? '<p class="comunidad-texto">' + esc(DATOS.comunidadTexto) + '</p>' : '') +
+      '<ul class="comunidad-lista">' +
+        comu.map(function (n) {
+          return '<li><a href="' + esc(n.enlace) + '" target="_blank" rel="noopener nofollow">' +
+            '<span class="comu-titulo">' + esc(n.titulo) + '</span>' +
+            '<span class="comu-pie">' + esc(n.fuente) + ' · ' + esc(relativo(n.fechaISO)) + '</span>' +
+          '</a></li>';
+        }).join('') +
+      '</ul>' +
+      convocatoriasHTML();
+  }
+
+  /** Enlaces donde el club publica las convocatorias. */
+  function convocatoriasHTML() {
+    var redes = (DATOS.redes || []).filter(function (r) {
+      return /instagram|facebook/i.test(r.nombre);
+    });
+    if (!redes.length) return '';
+    return '<p class="redes">Convocatorias e inscripciones en ' +
+      redes.map(function (r) {
+        return '<a href="' + esc(r.url) + '" target="_blank" rel="noopener">' + esc(r.nombre) + '</a>';
+      }).join(' y ') +
+      ' del club.</p>';
+  }
+
+  // --- Fichas de categoría ----------------------------------------------
+  var conteo = {};
+  (DATOS.noticias || []).forEach(function (nota) {
+    (nota.categorias || ['General']).forEach(function (c) { conteo[c] = (conteo[c] || 0) + 1; });
+  });
+
+  var orden = ['Partidos', 'Escuela', 'Fichajes', 'Bajas', 'Femenil', 'Cantera', 'General'];
+  var cats = orden.filter(function (c) { return conteo[c]; })
+    .concat(Object.keys(conteo).filter(function (c) { return orden.indexOf(c) === -1; }));
+
+  var fichas = [['Todas', (DATOS.noticias || []).length]].concat(
+    cats.map(function (c) { return [c, conteo[c]]; })
+  );
+
+  $('fichas').innerHTML = fichas.map(function (f) {
+    return '<button class="ficha' + (f[0] === 'Todas' ? ' activa' : '') + '" data-cat="' + esc(f[0]) + '">' +
+      esc(f[0]) + ' <span>' + f[1] + '</span></button>';
+  }).join('');
+
+  $('fichas').addEventListener('click', function (ev) {
+    var boton = ev.target.closest ? ev.target.closest('.ficha') : null;
+    if (!boton) return;
+    filtro = boton.getAttribute('data-cat');
+    mostradas = VISIBLES;
+    Array.prototype.forEach.call(document.querySelectorAll('.ficha'), function (b) {
+      b.classList.toggle('activa', b === boton);
+    });
+    // El filtro queda en la URL: permite enlazar una vista concreta
+    // (…/exec#Femenil) o embeberla ya filtrada en Google Sites.
+    try {
+      history.replaceState(null, '', '#' + encodeURIComponent(filtro));
+    } catch (err) {
+      /* algunos iframes bloquean history: no es crítico */
+    }
+    pintar();
+  });
+
+  /** Lee #Categoría de la URL al cargar y activa esa ficha. */
+  function aplicarHash() {
+    var h = '';
+    try {
+      h = decodeURIComponent((location.hash || '').replace(/^#/, ''));
+    } catch (err) {
+      h = '';
+    }
+    if (!h) return;
+
+    var existe = false;
+    for (var i = 0; i < fichas.length; i++) if (fichas[i][0] === h) existe = true;
+    if (!existe) return;
+
+    filtro = h;
+    Array.prototype.forEach.call(document.querySelectorAll('.ficha'), function (b) {
+      b.classList.toggle('activa', b.getAttribute('data-cat') === h);
+    });
+  }
+
+  // --- Búsqueda ----------------------------------------------------------
+  $('buscar').addEventListener('input', function (ev) {
+    busqueda = ev.target.value.trim().toLowerCase();
+    mostradas = VISIBLES;
+    pintar();
+  });
+
+  // --- Rejilla de noticias ----------------------------------------------
+  function filtradas() {
+    return (DATOS.noticias || []).filter(function (nota) {
+      if (filtro !== 'Todas' && (nota.categorias || []).indexOf(filtro) === -1) return false;
+      if (!busqueda) return true;
+      var texto = (nota.titulo + ' ' + nota.fuente).toLowerCase();
+      return busqueda.split(/\s+/).every(function (p) { return texto.indexOf(p) !== -1; });
+    });
+  }
+
+  function pintar() {
+    var lista = filtradas();
+    var trozo = lista.slice(0, mostradas);
+
+    $('rejilla').innerHTML = trozo.map(function (nota) {
+      var tags = (nota.categorias || []).map(function (c) {
+        return '<span class="tag ' + esc(c) + '">' + esc(c) + '</span>';
+      }).join('');
+
+      var tambien = (nota.tambienEn && nota.tambienEn.length)
+        ? '<p class="tambien">También en: ' + esc(nota.tambienEn.join(', ')) + '</p>' : '';
+
+      return '<a class="nota" href="' + esc(nota.enlace) + '" target="_blank" rel="noopener nofollow">' +
+        '<div class="tags">' + tags + '</div>' +
+        '<h3>' + esc(nota.titulo) + '</h3>' +
+        tambien +
+        '<div class="pie">' +
+          '<span class="medio">' + esc(nota.fuente) + '</span>' +
+          '<span>' + esc(relativo(nota.fechaISO)) + '</span>' +
+        '</div>' +
+      '</a>';
+    }).join('');
+
+    $('mas').style.display = lista.length > mostradas ? '' : 'none';
+    $('mas').textContent = 'Ver más noticias (' + (lista.length - mostradas) + ' restantes)';
+    $('vacio').style.display = lista.length ? 'none' : '';
+  }
+
+  $('mas').addEventListener('click', function () { mostradas += VISIBLES; pintar(); });
+  aplicarHash();
+  pintar();
+
+  // --- Diagnóstico -------------------------------------------------------
+  if (DATOS.avisos && DATOS.avisos.length) {
+    $('diag').style.display = '';
+    $('diagLista').innerHTML = DATOS.avisos.map(function (a) { return '<li>' + esc(a) + '</li>'; }).join('');
+  }
+})();
+</script>
+</body>
+</html>

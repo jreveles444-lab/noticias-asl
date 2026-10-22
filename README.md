@@ -564,6 +564,10 @@ launchctl unload -w ~/Library/LaunchAgents/mx.jreveles.noticias-asl.plist
 
 **Forzar una publicación ahora:** `bash ~/noticias-asl-worker/sitio/publicar-pages.sh`
 
+**Si editas en el proyecto original (`~/Documents/Noticias`), haz `git pull --rebase`
+antes de empujar.** El worker publica commits cada hora, así que tu copia puede
+quedar atrás. El worker, en cambio, ya hace `pull --rebase` solo en cada pasada.
+
 **Seguridad del token:** vive solo en ese archivo con permisos 600 y se usa para
 hacer push. Conviene regenerarlo cada tanto en
 <https://github.com/settings/tokens> y actualizar el archivo. Para un token más

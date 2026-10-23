@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-23T20:28:31.590Z",
+  "generadoISO": "2026-10-23T21:41:00.602Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -373,10 +373,10 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
-      "titulo": "Atlético de San Luis vs América Femenil: Fecha, hora y canal de transmisión del partido de jornada 12 - esto",
-      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbF9JOXVlSnk4bHhyRklETlZIRmcyQ1FxNzJNM1hOV3ROSVFaUkdJMEtPMG5oNFJCaGJkTmZ1RTVDNkRRYm1lOG9nSmxzVGlDZkNlclRaV1FqaFZRWDR1NFVva0trYnZkQVhxZmM0RzhIaFdSejZoZWdxVHVjWnlTYWlWTXpBdmNfektHcURidXdrZC1xZVlxLWVFVGpsYkVqYnJod2V2MnY1SWwzdU84Z2V6UWdpaFdNaGdHbHY4aVI1dDRiNmwzbzg5YnMwZ0xKT0ZfOFh5RW8tZ0JOYnFMMkpR?oc=5",
+      "titulo": "Atlético de San Luis vs América en la Liga MX Femenil: fecha, horario, dónde ver y estadísticas",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeDE3UFViQUVVNkpSSzdub3FicThESVFzZkwzWDcxbXlCcDhIN1NKb0llalpId0Zja1RRN2dPZUxzQzVsZ0Y3SEExUXBvTTUtVlh0WGNOS2JOZE1SSElKR3c1aExSa1NFbTFQSWgtU3Y0Z2loS2ZkNU5WUWlEUHZFTlVmMUowTmNQNEh3TnJxZ1p3NHRqeTRUZ2trT1BOQThfVXllQnFRd1p5bFRNcnYyYWl2VG5rWDZIeER6Q3VJcnVRWmRsZ3hYR1ppdVR4UmV0WjBXN1RwMl9xZnNa?oc=5",
       "fuente": "El Sol de México",
-      "fechaISO": "2026-10-23T19:19:53.000Z",
+      "fechaISO": "2026-10-23T20:40:42.000Z",
       "categorias": [
         "Femenil",
         "Partidos"
@@ -384,9 +384,32 @@
       "tambienEn": [
         "Récord",
         "El Heraldo de México",
+        "Récord",
+        "sdpnoticias",
+        "Mediotiempo",
+        "ABC Noticias",
+        "Récord",
+        "sdpnoticias",
+        "OnceDiario",
+        "Xpectro FM",
         "TUDN",
-        "DAZN"
+        "NNC.MX",
+        "TUDN",
+        "La Crónica de Hoy",
+        "Récord",
+        "Récord",
+        "Facebook"
       ]
+    },
+    {
+      "titulo": "¿Dónde ver Necaxa vs FC Juárez y Atlante vs Atlético de San Luis? Inicia la Jornada 14 de Liga MX",
+      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZDh2RFJ5U3pQQmVLUV9HM1ptSS1rU0p5V09scnE1UWNnSlNkdWNBdVB4TjhURVgxNUdGZUJJYzk3MXpNak80TU5uWWRidl9DSGF5TVpKWlN5QW56V2lLbUtNN0hBaWVjUmNTbVB2RmVNT3hPQmhhaHYzQUpDeDQ?oc=5",
+      "fuente": "24-horas",
+      "fechaISO": "2026-10-23T18:08:50.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "Tres partidos medirán el cierre de Atlético de San Luis",
@@ -432,6 +455,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Reporte Indigo",
         "Squawka"
       ]
     },
@@ -506,28 +530,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¿Quién transmite Atlante vs. Atlético San Luis? Horario y canal EN VIVO partido Jornada 14 Liga MX 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUJLT0hZVjBHRlpuVGMzVmk2ZnV3ck9pQWRJYURLcTlnUmR2VG9vWmFqWXllazk1TVhvNjJiSlRONHU0YzlzN3VMODlONUZLajA5dlJEWE8zOUFNcUxlX200X1RRNTltcnduZEZMOGJNR3V5aHpLeDRCUDF4bEZmZkRvSWdpU1M4YjE5V1VnYVlyTWFNb1N2U25tNXpGRkNneEZEamVCX014YXgwX1RVR1R6NF8xRWY2U1hQbDBTSzB3WXM3dHE0aFhSbHZGNDFI0gHQAUFVX3lxTE9vSDc2dGgzdm1GVWt2cEx1NXRqM0dDSTRvd29CQzFCUm16Z0VBa21vUHNiRkU3VlN3aVpfVXhLSGZoNHgwV01QSVllc3U4dmk0ZWdJclY0SjF4X1RUVF9FbWxJTFBORmpUUDdWNE1Denc3Y2FfU2QyZlVhUGpVZ0M4RmZybi1Ibkp4WC1VakhRTTdySUV5VVBEWkRxZ01xbnFqeVNfRU9FZ2NaekFGU2hvWUxjUzEzb3FhSm9uMWZadk9lNzBtZ3hLN0pqcGlzajI?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-10-22T21:56:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis vs Atlante: fecha, horario, dónde ver y estadísticas",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFhPaXhtOEpxaThsTnFEQnZhU1dwM1BJaWliMkQ5aHhHeEhNOEFyMW1mb0p0cUgxRWx3ZEJJdVA5UTE4TXQ1cHJrbjZiRHpibWc2Zmt1dEtTTS0zZTVmcGFQeTREdmtMTnMxSXFURWctUVBiWXYzbUprUndVSmw1cEtkc1NhSFRxRHpVellrZUVvVnlGZHNKWTNvUzVKZy1ZLWpqc1RzZGhlRjRMdWE3NXVENFhZbF9FbV9KYWRaMA?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-10-22T21:02:49.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "TUDN"
-      ]
-    },
-    {
       "titulo": "Atlante vs San Luis: Potros buscan triunfo clave para seguir soñando con la Liguilla",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY3NibHdfYjVMRkpsMF9TVzhZNjdOTFBoLXVYdUZZejNIV3lac2FEcXVTVGpldks2ZnVYdUlnM0tNNTV1SnlKS1IzckVaUU5nSWtURmI3aXpWLUpiUjlWNWhkRlFLV1ZjNWFXUFFZTjU5enRiRXQtWmNpaktkX2pQWmdoellDNjN0ZGhULXJSOTVBbWdRYUFsQjlrZ0ZFbk9FMVI3M250ejZiVFZ2N1hvaXRZOWNvR2s4a1I4Y2lZTHRmbExzNmJ6VHlZb2tBcWZTekE?oc=5",
       "fuente": "vanguardia.com.mx",
@@ -544,6 +546,29 @@
       "fechaISO": "2026-10-22T16:56:42.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlante enfrenta al Atlético San Luis con la urgencia de ganar de local: a qué hora y dónde ver en vivo el partido",
+      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU2pFc2M4cFMtY1I1dEdTMTZ6YTV0aGV2N21HZ0MtMGxZM0ZpX1NUa3QxQmlNMElVM0gyWUdvM3hVWi1pcWxWRWxnRDc1Z1hTbmt1MXFuQnBZdW0xdzJ1dW5fQ2REbTZTMGJORDVnN1pzTjFxaFQzVGxSckQ0MWJqaFFXM3dfUktqVlpYRlhJc0pYd3lmaUljb2tvYUVZSWF4T2ZFTTNxVFAwSnVRa3I0VHZYdGR1NXpYZi1tZGc1R2N0N1hSWjNTNDJRR1padjc2a2ZyNHNpTVRycHZXaWhXMlZFT2M5SFN4MkpJZHVvY1RhbHpGMUJfWtIBkwJBVV95cUxPYmZoQ3FSeEtudjQxMU13VTBnZ3IxMGV6RFFha0tieWlaZWgzd2FGYzloazNRMmRUVFpjVXZYNnMwUGlMU1RWQzA5UWFsbmpra2hZSlNTSHNkdFBTZkhoNEhuRDZnbmsxSEhJam15OTR4ZEFOenZ1QUlnd2dPWmptWXQ0TnRiSnhDQ3huYnZFTkFqUVY0VUhkX2RUZkNReEZvUjBpVnBIbHh4YllkMGdmMzNCTHliMDB0VTMyN3RxQ2w5d3ZaQ1hySXM0YmtPT0w2X0ZCY3dDbG5iMjI3NzRIeVB1VUhxeXJtd0pGdGczTHFhZ2FZV29HbEdDcU1aRkNnb0djeThLUGpoSHlCRXBmb3hMSQ?oc=5",
+      "fuente": "Infobae",
+      "fechaISO": "2026-10-22T16:26:28.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "El Informador"
+      ]
+    },
+    {
+      "titulo": "Chivas, Pachuca y San Luis se alistan para las jornadas finales de Liga Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZTJaYkxMSW4zXzd0RThqbFczRmRzekN0RTBzbnJwU2NmZ3J6ZWplT0VGeUcxZDRyT3pId2x4U2tZcjkyTHZ3c0h2VmphbWwtN0hnX2dVckdfd1BZejBOTlYxRE5vLXoxaC05REs0WE1XNHo0b3NhQW1VODVtSnhYYXZabVVpWllEMHhMRTU4Uy0yQTlyRWdCVDNON0dwWlFwazhmTno5MElsS2FISnpEaXB1emJfUjlHX2o0bV9hdDdRRkt4aE9TNFB1c0dUc0dyT1g4VjhNd3hQd1FScWg0?oc=5",
+      "fuente": "OnceDiario",
+      "fechaISO": "2026-10-22T01:00:41.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
       ],
       "tambienEn": []
     },
@@ -589,7 +614,8 @@
       "tambienEn": [
         "ESPN México",
         "ESPN Panamá",
-        "ESPN México"
+        "ESPN México",
+        "ESPN Deportes"
       ]
     },
     {
@@ -613,6 +639,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "El Informador",
         "Diario AS",
         "Radio Fórmula",
         "AS México",
@@ -687,16 +714,6 @@
       ]
     },
     {
-      "titulo": "Atlante FC vs Atlético de San Luis: horario y transmisión en México | Liga MX",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSENoUlR2UVpvRlU1Y0c0dXpWc1k0ZWJhdlVDaUswOHNqMnNONUgyX0xncjRoLXBKcjEyZE85b2Y0ZmR6VTRMS0VMTl9rUUh2cHBYRjNpNENyOEhMT2R0aHdWM3ctZmVqX2Q3MDI5Sl9DMnpLZHBBNHdySDE5bU5rWnJScW1Ob2l5V3pWWWRxbGVqcktyVHlTVUlR?oc=5",
-      "fuente": "NNC.MX",
-      "fechaISO": "2026-10-21T01:04:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "¡Rueda la pelota! Atlético San Luis recibe a los Gallos de Querétaro EN VIVO AQUÍ",
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2NQZ3JRQ3JLZ21Ldl80NGhzc3g0WWpaVk9jRF84SUpiYkpnX2FlYmo4NExOT0pZWUxwMWpfcVQ4ZzAyYnJRZHctbkJOeUZ4ZTFqWWJEOXFfNmlyMl9ON19FQk1IUmFNUDRBYXF1Z3g2bG9Nd3RpdFRQVEttZWtlWjU0cmItempHS2FpOE1iVTNEU0toaExSeWpFSW1SM0oyVDZTMm82STJ2SWNobDl5d3RuLTZqWnkyM3NTNWh3?oc=5",
       "fuente": "TUDN",
@@ -739,6 +756,30 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Dónde ver EN VIVO Atlético San Luis vs. Querétaro por la jornada 13 de la Liga MX: TV y streaming online",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVzE5UHJKUEZvZDJneGc5NnJpRkdZbi1TeFJYbVFzQ1RnV0VhaU1zT2FxZ2h3bGJTa3NKNnFOb2hTTms3R0U4TkJtMXhqQzRXVkpJM1doZDVXRWQyWkRwazM0UGhNS21hcWlETWs4Z2hiQ1diOVlsUmJKTmtOaFV1R0RWVHJSQWF0LWljSlQ3akhtZzEwbF9iLWNXRlN1ZFhIYzREeWNOSE9NeVpLSVYzam82WEF6cGhNbXNscGEtYlRNYldJblN3SzFkbjbSAdIBQVVfeXFMTXdseFZVbkctMGlEVFhkNEVSMERDcnY1RFBJOEJhNjAwUUFuZ3ljeERfaXBJWU50OXhLazJaM29oN2NYT0dteVIyVHpvUVBlVlNGQnJWY3daNGNOLWE1OGt0b0dCem1VZ2JjRUtRMy1DZU9VcWNiYzl6R1NjQW1DYnBZRVRTU3RieFROQ1NNYlMwNkNuVG5sSHNULWNsVjRGWjl3SHd0b0ZvbmxDQjN3WWhjNG1kdUliY1FUS0xQQmE1cW91dnZQMDlZbnRZYVNhV0V3?oc=5",
+      "fuente": "Bolavip México",
+      "fechaISO": "2026-10-20T17:02:56.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Fox Sports"
+      ]
+    },
+    {
+      "titulo": "A qué hora y dónde ver el Atlético de San Luis vs. Querétaro de Jornada Doble",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObVJWYkVLaXBBa3lZeGpNdWVsX3NjZXlnc21SUkZhaUpjWWxnUTNjQW1fYnJZM0M3dDd1eERVTmlDUkVpWlVGU29GeDFTNlZmY2ZGUVJMWTd6SFBlOThVQ2tIbjBUSlRNeFExQ2t6T192WC1JbktnVnV0bHE1Rk44WTlyRkphaE9DSXFGYU5RY1g0TkhSYWlTU2FGM2tvR0VqbHdPYWJHZEFMWnpET1ctMnlNd1B1VkdUaS1va2J3RnZZam16TDNuU2dYZ1oyT1R4Z2pLZlFnQVA0OXdxbmc?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-20T13:20:05.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Fox Sports"
+      ]
     },
     {
       "titulo": "[VIDEO] Se calienta el Clásico de la 57: queretanos dañan murales en SLP",
@@ -796,45 +837,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Dónde ver Atlético San Luis vs Querétaro: Canales y horario del partido de la Liga MX J13",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVkFXbktoRVlBRGZpNFV4N2FfLUtBS1BhR2F2aEtDRUlUNVRzbVZ2NzBKck1rZ3UyUlFTcEJfaWJ4RHpJZ1NoMWFMbW9FNkhwWFppazBpMTNJcXVJbGx4SzRqU2VJS0VLLVlTazVFcDRkeTlFOGpfeUh6d2hWcHp5Qng1TVppeVRCRThTOXNvZ21kRHBGa2NKTmZuM3lNN21hc09WcWFRQlRQb1pKdnk0LUtSSzJzeFhpMGsxaWR3aTg3ay1jeEIxTXFLU2RSd182M00xNmljRkY2b0k?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-10-19T21:08:41.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Mediotiempo",
-        "Mediotiempo",
-        "Mediotiempo",
-        "Milenio",
-        "TUDN",
-        "TUDN",
-        "El Informador",
-        "El Heraldo de México",
-        "Reporte Indigo",
-        "TUDN",
-        "sdpnoticias",
-        "Infobae",
-        "TUDN",
-        "TUDN",
-        "El Sol de México",
-        "Bolavip México",
-        "La Crónica de Hoy",
-        "MARCA",
-        "Mediotiempo",
-        "Fox Sports",
-        "Facebook",
-        "Telediario",
-        "GQ México y Latinoamérica",
-        "Facebook",
-        "Excélsior",
-        "TUDN",
-        "La Crónica de Hoy"
-      ]
-    },
-    {
       "titulo": "Gallos Blancos buscará revancha ante Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeklReEZ4WHY0Y2dVeG1HS1Z3YjVwdUwwSkRHYXhFMUhFSlFTTTNFa3V4OWFad3VTUVRaR3daaHBkZVp3alhic0hCYkIySmdlTkU3bHZMdEROTzIyZ2xOWFd6YjB1VXNfc0tNczMxNjN5ZFBPY0MzS29CX0dEbFhNT0lPTy16WjYzRWZNMG9IR1M5QWJTaXFsaGozVHM1WTZpaWdaR3l3Mk5aWUt4cUxiNTlR?oc=5",
       "fuente": "El Sol de México",
@@ -855,6 +857,7 @@
       "tambienEn": [
         "Código San Luis",
         "El Heraldo de San Luis Potosí.",
+        "El Sol de México",
         "Plano Informativo"
       ]
     },
@@ -929,17 +932,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "La Escuela del Atlético de San Luis compite en la Liga Nacional Juvenil",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRxV3RZeF8xYWZEZTA1djRfWWt0RWQ1Z3JNNDRTaTh2VU9IZTRyTE1KYVJsSG5CTGsxTUhEc3BRZGl3M0g4YXkyMUlwWWtjcnVYVmZvT0o2UFRHSVl3MUJ2YkktMGtfWWllejE4b2hfMlQwakZEdUd3RmI4MnF1dlVBSEloRWtzNjBTdE54dzBzWml4LXNaYmZsbE90YzA?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-10-18T02:10:22.000Z",
-      "categorias": [
-        "Escuela",
-        "Cantera"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "¡Rueda el balón en el Estadio Nemesio Diez! Toluca vs Atlético San Luis EN VIVO AQUÍ",
       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnBSRFNGOFpaSjdiMG1iQzZRWW81M19UZWx3UmZyaU5Wb0FxNkw4ZGlFVTc1d3l6eXRxVV9NMWRYYlgxaW1tc3VFNUlOd1FQVDZzX1V2Y1F3bGY5RHRSQzFCVUJCUG5mRlVnNG1ack1LREVValNCYmtFYjVJc2o3MHEwTHlWRUtlaWFfVGx3OEwzaUoxNVNDZVd1M1BrMy10NzNfZWlCcU04X3FJRnBZTUcyblpBTEYxT2VmajMzRXdNQQ?oc=5",
       "fuente": "TUDN",
@@ -970,7 +962,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Fox Sports",
         "Fox Sports",
         "Fox Sports"
       ]
@@ -1045,7 +1036,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "TUDN"
+      ]
     },
     {
       "titulo": "¡Vive una experiencia de alto rendimiento con Atlético de San Luis!",
@@ -1060,17 +1053,6 @@
   ],
   "comunidad": [
     {
-      "titulo": "La Escuela del Atlético de San Luis compite en la Liga Nacional Juvenil",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRxV3RZeF8xYWZEZTA1djRfWWt0RWQ1Z3JNNDRTaTh2VU9IZTRyTE1KYVJsSG5CTGsxTUhEc3BRZGl3M0g4YXkyMUlwWWtjcnVYVmZvT0o2UFRHSVl3MUJ2YkktMGtfWWllejE4b2hfMlQwakZEdUd3RmI4MnF1dlVBSEloRWtzNjBTdE54dzBzWml4LXNaYmZsbE90YzA?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-10-18T02:10:22.000Z",
-      "categorias": [
-        "Escuela",
-        "Cantera"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
       "fuente": "El Sol de México",
@@ -1081,19 +1063,10 @@
         "Escuela"
       ],
       "tambienEn": [
-        "OnceDiario"
+        "OnceDiario",
+        "Código San Luis",
+        "Código San Luis"
       ]
-    },
-    {
-      "titulo": "Copa Escuelas ADSL reunirá a más de mil 200 jugadores",
-      "enlace": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1STR6WEdMam04cUpaWkJUdWxaOXUzTVRHVnY4WGoxRVlFSUJEVUNucVlkNWxwQWNjV18ydkk4cFNlR3dsRmVuUHR1bm0wMmN2UHYyNzFPcXE?oc=5",
-      "fuente": "elexpres.com",
-      "fechaISO": "2026-07-26T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
@@ -1103,6 +1076,29 @@
       "categorias": [
         "Cantera",
         "Escuela"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-07-21T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-07-21T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela",
+        "Fichajes"
       ],
       "tambienEn": []
     }
@@ -1169,7 +1165,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 30,
+  "totalFuentes": 31,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

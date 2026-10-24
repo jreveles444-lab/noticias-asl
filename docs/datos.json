@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-24T12:32:48.320Z",
+  "generadoISO": "2026-10-24T15:39:52.253Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -65,8 +65,92 @@
       "resultado": ""
     }
   ],
-  "ultimo": null,
-  "ultimos": [],
+  "ultimo": {
+    "rival": "Atlante",
+    "escudoRival": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
+    "esLocal": false,
+    "fechaISO": "2026-10-24T03:00:00.000Z",
+    "fechaLocal": "2026-10-23",
+    "hora": "21:00",
+    "estadio": "Estadio Banorte",
+    "jornada": "",
+    "jugado": true,
+    "golesNuestros": "1",
+    "golesRival": "0",
+    "resultado": "G"
+  },
+  "ultimos": [
+    {
+      "rival": "Atlante",
+      "escudoRival": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
+      "esLocal": false,
+      "fechaISO": "2026-10-24T03:00:00.000Z",
+      "fechaLocal": "2026-10-23",
+      "hora": "21:00",
+      "estadio": "Estadio Banorte",
+      "jornada": "",
+      "jugado": true,
+      "golesNuestros": "1",
+      "golesRival": "0",
+      "resultado": "G"
+    },
+    {
+      "rival": "Querétaro",
+      "escudoRival": "https://a.espncdn.com/i/teamlogos/soccer/500/222.png",
+      "esLocal": true,
+      "fechaISO": "2026-10-21T01:00:00.000Z",
+      "fechaLocal": "2026-10-20",
+      "hora": "19:00",
+      "estadio": "Estadio Libertad Financiera",
+      "jornada": "",
+      "jugado": true,
+      "golesNuestros": "2",
+      "golesRival": "1",
+      "resultado": "G"
+    },
+    {
+      "rival": "Toluca",
+      "escudoRival": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
+      "esLocal": false,
+      "fechaISO": "2026-10-18T01:00:00.000Z",
+      "fechaLocal": "2026-10-17",
+      "hora": "19:00",
+      "estadio": "Estadio Nemesio Díez Riega",
+      "jornada": "",
+      "jugado": true,
+      "golesNuestros": "1",
+      "golesRival": "1",
+      "resultado": "E"
+    },
+    {
+      "rival": "Santos",
+      "escudoRival": "https://a.espncdn.com/i/teamlogos/soccer/500/225.png",
+      "esLocal": true,
+      "fechaISO": "2026-10-11T23:00:00.000Z",
+      "fechaLocal": "2026-10-11",
+      "hora": "17:00",
+      "estadio": "Estadio Libertad Financiera",
+      "jornada": "",
+      "jugado": true,
+      "golesNuestros": "1",
+      "golesRival": "2",
+      "resultado": "P"
+    },
+    {
+      "rival": "Pumas UNAM",
+      "escudoRival": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
+      "esLocal": false,
+      "fechaISO": "2026-09-27T18:00:00.000Z",
+      "fechaLocal": "2026-09-27",
+      "hora": "12:00",
+      "estadio": "Estadio Olímpico Universitario",
+      "jornada": "",
+      "jugado": true,
+      "golesNuestros": "3",
+      "golesRival": "2",
+      "resultado": "G"
+    }
+  ],
   "tabla": [
     {
       "rank": 1,
@@ -289,14 +373,81 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
-      "titulo": "Walter Clar falla un penalti y San Luis derrota al Atlante",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONUhQRHNUYVN1d1Rtdm13U3J1aldHbU5kOEZDeEZRaVNTYjJHYVVmN3FxOXAyaDI4VHpVd1FnenBpUzM2N0ZTb3dZZ0pVTmFWQnp4SERTcnIza05jU1dSZm5tcElva0hLOHVWbW1DSEo2MEtEQm1fZWRfcmRJeHZwQmJmTmZFYzBnTmtR?oc=5",
-      "fuente": "UNANIMO Deportes",
-      "fechaISO": "2026-10-24T11:29:08.000Z",
+      "titulo": "Diego Mejía destaca el proyecto de San Luis y la transformación del equipo",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPblNONHJyTlFPMzdUemNQYzR1VzdQa2NRb3BfVWN0QnRLNEdGU0tlaU1yWUhFWTc1bF9yTXRqcDlOQy1lN1NudHpNN2U5ck8tc2pYQ0NucEhuTndndDhVNXFjNm9XZ1BXNGxJMWNONDhUZ2xFcWJJT3ZTN2VnTGNuLWpOUlkwckRoeTVaMjZHVlNlWVpHUFgtOC1NMGU3V3I3ZkZ1OHhtLXIwM2R1aVJ1RDNIalEyU1VlZUtmaUgxemx4MGtMRU4tTA?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-10-24T14:56:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlante pierde contra Atlético San Luis y Piojo Herrera muestra molestia por penal fallido",
+      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS2FyQ3M0ZkF3R083bWx4ZDR0Ylhjc2hTWVJDWEZkMzd2RWJ3YlRMSUtRRUUzWU12bDVSWWI5bHNxX2x1V2NJa1Q4eU8yWG9tWDRjNUpibXpaNHZZSTRKMGRldFJ3ZE5sbDNDRGtzVnJZOWJpdkVWTU5KSl9Pc05ybVZJYXRDTHpKMlpHdmZYT0RIU2d3UGZjc3RlUmhibmhkeWM3dDFPWTZDMzBLQnJxRDhDZGtmcUxiampaV1VybGoxZUxkVkg1U1dnTUs3Nzg3MUHSAdIBQVVfeXFMT0Q3WEVZMFVKVlNMak5nUjRMcVp4TzcxQmZBbDRiaTBtc09xekJzWTE0ZnZoY3c0VFdvekV0RGxhRDFncjFPVkMtSEs5eTNxeE04QWFONDFxWjZqdU1CX0pxMU4ybWJ0RXl5dzYxRDlVWmJObmxKYXZfWXBKQVIyWVMtLURPaktiQkRTbFU4aWRxODlOSzUyNUN4X1YzREpFcEZXb25NcUlQQXRYWGxDT3Z3X3JvR3dKTUM5VVVybWQtT1BEdk9OYmYyZFg2SmZsZnV3?oc=5",
+      "fuente": "MARCA",
+      "fechaISO": "2026-10-24T14:47:52.000Z",
       "categorias": [
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis vence al Atlante y Juárez rescata un empate ante Necaxa",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEFPN2lrU3hxcjJDSEt0ZnZ1VmowQzI0RE45cTdYMU1BYXZvX0Z4VDhUaTVQanBIODFTNHJUQ0cwNVlJTDFud0NINzhwT3Y2WjY3UHZZQnVpVjlwV05FT2pOX2lWaTBDRXlUS0F6WmV0MDk5M1IzX2lPUlNPcTh5VUVtdXQwLTBjOURrVmJsUGtvTzdSRi1QRVZkQ2lxYjcyN0FMMjRKSU4taGRoUVE?oc=5",
+      "fuente": "Maya Comunicación",
+      "fechaISO": "2026-10-24T14:26:06.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlante no puede ni con penal y pierde con Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUQweUYtMUxrTklVaVpGT1RSZlo5XzhCTVpqTFpKd29YZDRYOFFMVGxSWWl3aEhIel9GenA1UGl3S2ZMeUotQ0ZvY3hJblYtUFczbEZCbENEc1Q1Y2h4Nm9OMXh6cW9FQloydVZLV2tHZVFpUmZPX1d3c3AtVTlFQjZ1MjRJRTc3Vjd5LWNqVnlQZEtRbVRpN0d3VmExQTJpY3RV?oc=5",
+      "fuente": "Notisistema",
+      "fechaISO": "2026-10-24T13:46:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "El Sol de México"
+      ]
+    },
+    {
+      "titulo": "Atlante vs Atlético de San Luis: resultado 0-1",
+      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5b0NEMVNWUlRCMXV6ZUF3NENldV9Cby1LbkpKcjdEdzVzZHlYUEk5bXpRbmVDc2E4MnotckhCcmZKYmNuZXc0TzdDRWhSY3Utd0c3aER3NnBDZjdiUkU3R0V0LXEwOFFXdlBoVEE5aG1NUkU2cTdaZllHWQ?oc=5",
+      "fuente": "La Verdad de Tamaulipas",
+      "fechaISO": "2026-10-24T13:23:08.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Flashscore.cl"
+      ]
+    },
+    {
+      "titulo": "Miguel Herrera pone su futuro en duda tras la derrota del Atlante ante San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFhERmdCUXhkX0hpSlpPQ25yRFhqdDRYa1FMYl95UW9zYTFRcnZmaDNOQzFZYVZXV2VjOVRlSXo1cnV4WU5KeDBqZEJXSDJDdVU4QUI2MzlOMXRRNFh1NXpXUjVuYVRkbmhYNUhyLVRVenJrc2NRaXRRRHZNaHk4YzhNSk1UWm5tWldFMnJiZHYtVjQ3UHdia0gzQTR0Z2tzTE5md0J0V2R6U2ZXNzdVYm1yS0hNZ0hJNWZUTGdVTVA?oc=5",
+      "fuente": "Claro Sports",
+      "fechaISO": "2026-10-24T13:05:38.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis venció a Atlante 0-1 en la Jornada 14 de la Liga MX",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQODh3NUd1a1RLRzl3MXdsUUw4NXlubWtEYktpRWhtWm1WMGdRanN5OWUwNjdLZ1NWY2I5NnVJSWdOVHlpazROSXVueVpmVTZfRDk3QThod1Q0ZlI1WWlDWkFHVlkzVlZTbUVablYzNFFGVE11a0RhbGFqZ2k4ajVjeks0STd0UHdYWjJhRS1LSUZtLWRHRzBjQy1pbVd0VEFuaVg4SV82Y3FwV0RvamVnZWNmUVVza1ZvZnN3MFQ4RVpGa2hDcVVRY1R5VElBQQ?oc=5",
+      "fuente": "El Heraldo de México",
+      "fechaISO": "2026-10-24T11:30:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "24-horas",
+        "Santos Laguna"
+      ]
     },
     {
       "titulo": "San Luis vs América: Pronóstico y posibles alineaciones del partido de la Liga Femenil BBVA",
@@ -306,36 +457,6 @@
       "categorias": [
         "Femenil",
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡Increíble! Atlante falla penalti a los 95 minutos y cae en casa ante San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDdzZWV5ODk0aWprUjFyRVhzcXkxTmNfUkkxUE5PSUtQVXI1XzFxc1lxTDVBbllkYUcyVmt4dUZzSkhNZlB3emJmUjNiSGp2Ymt5alZ1OXNSZTV4ZjE0Uk9KOG1FTHJxaDNRODBLU3RBdXBHbkplWmozSmY4ekV2WmtHeXNua0Y1Y01rOHZFR2w3NzRDcDNTOHRWMVFZc2E5Ymo0QXpUeWRuQQ?oc=5",
-      "fuente": "Sports Illustrated",
-      "fechaISO": "2026-10-24T07:11:36.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "San Luis Se Lleva El Triunfo Ante Atlante En Un Cierre Dramatico",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFBlMlNrcktaRXE2elUta1U0NGxIYmJ2aXRuZzVRY241SEpndGh6cHR6UWYyelVwazY5NEVieHFXelRUeWdFZ25IWE5ZaURUdkNCQXFrY2Q4dVdPRGlVcF9uR3hrcTQyY2N3QnNQV1BVSEZSSzRqeFVJZjl3Ni14NjBBUnEzZGplZkpVelFST1lud2NVTFkxbWgtMGdMYk5hSE9IZTFjTG9WT2xD?oc=5",
-      "fuente": "La Capital",
-      "fechaISO": "2026-10-24T06:50:36.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlante - Atlético de San Luis 0-1",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmZCdF85THc4b1B0cThiaXVmc1RQYjNDeXhiREFJd21Bc2xjVlZyRVpSZUl2SDRZYWxtSGlBeHp4SjJLUUg5RDR0NGd0WmdWdlMtU1hDRGNmLU5wenVDa2toaTd4clJiTVZmTFBRSUtpZlVBdEtBcGxnbFdIMS1kT1dpX2JJYlB1dWNlT0pGQ3IzSDFEOWZ0dC1EVWZRd291eHJtc1VmYzh6Zlplcm0zZFFxRTlyZkYySGxlckIzUGhSajE4clR6OUx3MA?oc=5",
-      "fuente": "Flashscore.cl",
-      "fechaISO": "2026-10-24T06:34:43.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -379,8 +500,8 @@
       ],
       "tambienEn": [
         "ESPN Deportes",
-        "ESPN Chile",
-        "ESPN Venezuela"
+        "espn.com.pe",
+        "ESPN Chile"
       ]
     },
     {
@@ -391,9 +512,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "TUDN"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis suma valiosa victoria ante Atlante en el estadio Banorte",
@@ -418,20 +537,20 @@
       "tambienEn": []
     },
     {
-      "titulo": "San Luis deja al borde del abismo al Atlante",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzE2Z3BJR2tISks3VUNoSDh0cE1QbWVzVmM3c00xRE52bG9pbUpKcDFQWnlmaUpUUXlxSllSMW1mQ21fekFkUERidXBMd1pHMFlBQkJGMnEwMWtkZDZ4RGZOLUpsWGZuaEdCMVdaZXhsQk9nZ2UzTFB0bV9ZVXhiTUdtUlgwc05XMWhNSE9Xb1ZVd1FEZXBKbnJCbmw1bmhMUGJKTzJ5MXJEQVo5bnJkMGRsa1h0VkVyRFE?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-24T05:22:02.000Z",
+      "titulo": "Galdames silencia al Atlante y Atlético de San Luis se lleva el triunfo",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNnN3cGpqMU9VZUM2dUNwSkMzbXdzMG5oOURFNnRRamVwNHVEaUQwNUwwRWZiZ1B4TWVZUEd2ZjBMOFVFVGNNZnJPSEFZT0FhbF9falpORXVONFpPdWlUcThuQy1YbXc0UjFlRV96QnRGS1R6N29DV1lnQzhyMU9Td0ZJX3p2M2JTWUVlMzQ5VzdyY055X2pCa1hwLU83SXFGYWsyLU5lYjhKUnR6azZxTldKczA4OUUtN1JHYXBHcnNFczZpcEHSAdoBQVVfeXFMTWY3QjAxZGRoQXYtaUpuY1k5STh1UG1FSGZaalgyczBKeEtKNjExVjU2T3ZGa1E2UE5UQWxNODlCakhOTmFjdEtVN0FqVzhwYWlZb1JIc3NOX0hyUXIwZ0pxa0R0Z1dxR091MDEwamFJQ1BVeFFzZWpkQzZTTkxIQmtoOFdOMzNBRWk1YjZyTTRDbjJnbzRHMXprdldJc1R2elpveDBmYnBkb2xZYWFaa05XWlVhQlVyck5kZDl6NlhheENXNnBMTFdOQjZiSlp1aEZIc0NLajU4enc?oc=5",
+      "fuente": "AS México",
+      "fechaISO": "2026-10-24T05:26:28.000Z",
       "categorias": [
         "General"
       ],
       "tambienEn": []
     },
     {
-      "titulo": "Deja San Luis moribundo al Atlante en el Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVdzV0RzSEpvUDI5WWFVeFR2VWQ5ZG9kTnJVT0dEY083ay1YZXNvYkJPRVJnNGpWdkRfc2o2bU4wYWgzRTBzZUtjRGQtbnB3OHZMUWJkNkhMV05LZEdMdmNjTFk5TGFsQTk3UFROSFNoa3pBbTVZa0J2d3lDOHU4aVBCODZmU0NnZVpENmFkSG9FUQ?oc=5",
-      "fuente": "Reforma",
-      "fechaISO": "2026-10-24T05:12:55.000Z",
+      "titulo": "San Luis deja al borde del abismo al Atlante",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzE2Z3BJR2tISks3VUNoSDh0cE1QbWVzVmM3c00xRE52bG9pbUpKcDFQWnlmaUpUUXlxSllSMW1mQ21fekFkUERidXBMd1pHMFlBQkJGMnEwMWtkZDZ4RGZOLUpsWGZuaEdCMVdaZXhsQk9nZ2UzTFB0bV9ZVXhiTUdtUlgwc05XMWhNSE9Xb1ZVd1FEZXBKbnJCbmw1bmhMUGJKTzJ5MXJEQVo5bnJkMGRsa1h0VkVyRFE?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-24T05:22:02.000Z",
       "categorias": [
         "General"
       ],
@@ -468,18 +587,21 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlante vs. Atlético San Luis - Resumen del partido",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmZhMWs5Wm1tWXlYSzlPT1ZjSmxDZmVnTDA1c0tkY1J1Sm95YmRib005bFdiSXVud3o1QlRtOWNYX2YtcG1NU2JrSHFrUFdKQWdUWVdfTVU0MUltcFdpNzF5TUJvSk9HUGR3RUx4WDFLWmdLQkR0TUpBa09lanlEalJyNWpDd3NvdzRfUWhXSkUtX0Zt?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-24T05:08:12.000Z",
+      "titulo": "¿Cómo quedó Atlante vs. Atlético San Luis? Resultado del partido de J14 en Liga MX",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkp6ekNwVkFaZ3BJQ1dMM0J6S1FVdjljTWp1eHBOSkVSQ1pGMUFqVXB4bGxvQjE5ZUVzMDF6RElSZDdweFhBYUdvYmJIajFnZTJ5Mk1HVTdzeFNVbkpzRmxuQ1RpcEFlMUg3VXlCczBhYzBDUEd0a1NDUFhSdk8yM091RksxYVpHNk53bFhVWk9XM0VOY1ZuSFo1el93X1Ji0gGgAUFVX3lxTE10bDdKVWxDNjZ6aUwxWWNnWi1aR1djRzdNVHAzZ0JoLUtJSTBKM3NLa3RQY2FNZm8xUEZJdDF3YTF1dUo2VHlWc21nenJUMkF1Z3VzUElvQTJuejV6TjlQWDdaUUdGZmNtTjVWaGg5d1luTzEzUEZxYXF6ZzJCZXdKQ3BGNkRLWmhHYlI5dXg2cEhhM1FqbGFKeFFaODBvZlU?oc=5",
+      "fuente": "Milenio",
+      "fechaISO": "2026-10-24T05:01:00.000Z",
       "categorias": [
         "Partidos"
       ],
       "tambienEn": [
-        "El Heraldo de San Luis Potosí.",
+        "Mediotiempo",
+        "TUDN",
         "El Informador",
-        "365Scores",
-        "El Informador"
+        "El Informador",
+        "TUDN",
+        "El Sol de México",
+        "Infobae"
       ]
     },
     {
@@ -520,9 +642,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "¡Gol del Atlético San Luis! ¡Tienen que cerrar el Estadio Banorte! ¡Golazo de Benjamín Galdames!",
@@ -575,21 +695,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlante vs Atlético de San Luis: alineaciones y probabilidades",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLVpFbExkQkdJV3JkMldfa2hRVVhheGdtaGZfUHJXdkdYSzFkcHlnVHczMmI1OGxJYVFXd3BlYXRkZkVSTnBPMGRCQWN5UEpidG5LQ24zUW5rcUVlV2lBOHAzLTFGNnRnN3owcUZxdXNTNGNnSVotdklGUlBEZ01WZUJYNUgwM3F4dnc0Ym1jZF9VQkpnQVc5LUxsYmdNY1JHN1JJOVhB?oc=5",
-      "fuente": "ESPN México",
-      "fechaISO": "2026-10-24T03:22:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "ESPN Guatemala",
-        "ESPN Deportes",
-        "Squawka",
-        "Squawka"
-      ]
-    },
-    {
       "titulo": "Atlante vs. Atl. San Luis (23 de Oct., 2026) Resultados en Vivo",
       "enlace": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tSGo5eHBBMmxxbkdQNzNENW4zX1RJRjFhNEgwWkg3ZkNiS0JHSlNSR3JNLTdwdnEzYjk5Y3Zzb3g1bW8xQl83aFpzU1NIX3hqc3FPVTFiT25LTjJ1TzRkMjZxN2h6Z25iM1E?oc=5",
       "fuente": "ESPN México",
@@ -598,9 +703,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "ESPN Chile",
-        "ESPN Ecuador",
-        "ESPN Chile",
         "365Scores"
       ]
     },
@@ -615,6 +717,7 @@
       "tambienEn": [
         "ESPN México",
         "ESPN Argentina",
+        "ESPN Ecuador",
         "ESPN Guatemala"
       ]
     },
@@ -640,13 +743,45 @@
     },
     {
       "titulo": "Atlante vs Atlético de San Luis GRATIS y EN VIVO: ver resultado en directo de la transmisión HOY viernes 23 d",
-      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaEdNaDJDYXBaZlFBY1VpTHVNT3RWTHFURWxkNFNCc2RxWHNTQUhfRml5am1hbTUtM09sSG5IQjFVLUxiOC1vNm1oZC1fVkhnZWJZUEpvQ0xuMU5GdzRxWTIxMVhsSmJFNUxHc2VNTEk4OUNjQzhxd2VTVlRocFN4VDhZRlZMbUV2UkRsd3Rua1M5ci1uUkhBTmh3MC1LMjRxOUNIYnlnc1RBRjk4bmN5NzB3RWlWbDU1U2NyVXEtMklQV0RrX3VocjBnSVI3OGlTMnZIR0JnQUVvd01ZakFhckl5bUxuX0Vac3JGWWQtLU9ES0xLaHY1btIBhgJBVV95cUxQd0F2azZiNDFhV3otV3NjMHEyc2pqWDZPSVRIc3hlNzYyWFZZN0tTcWJVbmJlU0NpNklRemFiYTBqSUlSODFMeXRra0swckpWaXIxdno1cUVaRTJ1OVdnNXhMajBqc2prYTJZb1VIMkp2NzgzNFo0aHJPY0NRbkJ4WHdLbkp3OEFMQWRTS0ZXN010cC0xTXZBZmh6dTVGbGpZTGVoWHM3Y0RnR0pYYXh1VlNsTFlrZXpKVFJQbm5yUkk2bDhSZTlybTY1bkhuQW1vUDdNTkNHRnR0VUZPaDFxU0g0WklVd01RY1dYNUJ3UmNCakYxYk4xUmdDMVNIb0tIRk5PN3J3?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd0F2azZiNDFhV3otV3NjMHEyc2pqWDZPSVRIc3hlNzYyWFZZN0tTcWJVbmJlU0NpNklRemFiYTBqSUlSODFMeXRra0swckpWaXIxdno1cUVaRTJ1OVdnNXhMajBqc2prYTJZb1VIMkp2NzgzNFo0aHJPY0NRbkJ4WHdLbkp3OEFMQWRTS0ZXN010cC0xTXZBZmh6dTVGbGpZTGVoWHM3Y0RnR0pYYXh1VlNsTFlrZXpKVFJQbm5yUkk2bDhSZTlybTY1bkhuQW1vUDdNTkNHRnR0VUZPaDFxU0g0WklVd01RY1dYNUJ3UmNCakYxYk4xUmdDMVNIb0tIRk5PN3J30gGGAkFVX3lxTFB3QXZrNmI0MWFXei1Xc2MwcTJzampYNk9JVEhzeGU3NjJYVlk3S1NxYlVuYmVTQ2k2SVF6YWJhMGpJSVI4MUx5dGtrSzBySlZpcjF2ejVxRVpFMnU5V2c1eExqMGpzamthMllvVUgySnY3ODM0WjRock9jQ1FuQnhYd0tuSnc4QUxBZFNLRlc3TXRwLTFNdkFmaHp1NUZsallMZWhYczdjRGdHSlhheHVWU2xMWWtlekpUUlBubnJSSTZsOFJlOXJtNjVuSG5BbW9QN01OQ0dGdHRVRk9oMXFTSDRaSVV3TVFjV1g1QndSY0JqRjFiTjFSZ0MxU0hvS0hGTk83cnc?oc=5",
       "fuente": "TV Azteca",
       "fechaISO": "2026-10-24T02:45:42.000Z",
       "categorias": [
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlante vs Atlético de San Luis: alineaciones y probabilidades",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNelhuN3RDT2JIR0lJMXI2YlZ5dFlUUG1xYXNOa0REVk9XVFZUNGVMU3BtbU1fSW1OQWVoMTVGVVNSQ1E2NHNhRGVjNGNoZmVkWllJMC15M09NZzBEOHpVV0psODZCeE9XdXNGUVkzZUh4SFRzSXBSTHdDODlJdTZEQkM5WVU5a2I1a3NzVVZfZmZxYnFxVENSWXhzQmZpU21uYy1YYkJDMHB5RDhlVGc?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-10-24T02:22:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "ESPN México",
+        "ESPN México",
+        "ESPN Guatemala",
+        "Squawka",
+        "Bolavip México",
+        "ESPN México"
+      ]
+    },
+    {
+      "titulo": "Resultados Atlante vs Atlético San Luis HOY: VIDEO, resumen y goles del partido de la Jornada 14 del Apertura",
+      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSDJkRkpIXzR5ZUpLYXN2LVNSTlRCN1M0QW5US05LN2FXMl9MLWt4NDB0ZHZKb0VUUkx4NEMySWFfc01TUXd2d2ZhTkpYVmpJMGYwVG54cTVVdHdYUmFLZktDU2RLQXdadXNzY3NqckhncEZKN2ZMWlVmMUx6QTFaM0ZTa1R4WmcwV0xnZWV6QkU3R1RMYzRaQTZyZ2Rlak14a2RpQTUtLV9NY1BhQmplZFU4ZmYxM0VHZ2s0Vy1pc1dqc1FpUEdWSjduaVhKam82R0FtZ0kxdy1SRG1JdUV0cWlVNTNxT0lEZkM1RG5aYUsyandwdUp1b0dfTXVTaVhUeWhR0gGQAkFVX3lxTE9iRUJTbFF5NXdyOHZCemdjLTBoODNRSkpHZlV1dGlIeURDdkYtc0c3YXdMLVF1UWdYSTNYLUk4RldlYjJqVE1aVlRjcjdZZDV3SG1kcFcwb3pGakxVbW9ZYlBOb1M2LS1ZNDh3NUY1NDQ4YXZ3ajhKR0tjamRGVUw1anoteFJCZU84SHYzUm00UThTVzJLS2l5WDFDa0RxTWtSZFlySE5WUGdnbDlUR2NEbXhOeS16c0Q2R09YSWc0M1c2MV80RnpmS1pvUEVldkhLT1NZWkMwZ2podFBPeWZLb2RCU3IzLWQxT3hGZnVxQWxBc01TeDJNbHVJR0hSNU9lR25JSXJGbWtWUUtPOTN0?oc=5",
+      "fuente": "La Lista",
+      "fechaISO": "2026-10-24T00:26:12.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "NNC.MX",
+        "AS México",
+        "NNC.MX",
+        "TV Azteca"
+      ]
     },
     {
       "titulo": "Atlante vs San Luis: ¿Qué Necesitan para Aspirar a la Liguilla del Apertura 2026?",
@@ -688,7 +823,7 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Claro Sports"
+        "MARCA"
       ]
     },
     {
@@ -716,25 +851,14 @@
         "TUDN",
         "TUDN",
         "La Crónica de Hoy",
-        "TUDN",
+        "El Heraldo de México",
         "El Sol de México",
-        "ABC Noticias",
-        "La Crónica de Hoy",
         "TUDN",
+        "EL GRÁFICO",
+        "La Crónica de Hoy",
         "Excélsior",
+        "TUDN",
         "TUDN"
-      ]
-    },
-    {
-      "titulo": "¿Dónde ver Necaxa vs FC Juárez y Atlante vs Atlético de San Luis? Inicia la Jornada 14 de Liga MX",
-      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZDh2RFJ5U3pQQmVLUV9HM1ptSS1rU0p5V09scnE1UWNnSlNkdWNBdVB4TjhURVgxNUdGZUJJYzk3MXpNak80TU5uWWRidl9DSGF5TVpKWlN5QW56V2lLbUtNN0hBaWVjUmNTbVB2RmVNT3hPQmhhaHYzQUpDeDQ?oc=5",
-      "fuente": "24-horas",
-      "fechaISO": "2026-10-23T18:08:50.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Telemundo"
       ]
     },
     {
@@ -759,46 +883,6 @@
         "TV Azteca",
         "Sports Illustrated"
       ]
-    },
-    {
-      "titulo": "Los potosinos visitan al Atlante",
-      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjY1UUxWVFItLXBQRjNFQVZ6SFlwY25qZVRyc3l0NUgydW5aRm5INU5sdnc3X01uNTVaQTZMQWpFSmZFcnFraUhOMXEyNFBXZ0R5TEExZ0p4VVVfYlBPdE1LY2xDNmY1YV9uMkNFZmYwa2hOOHMzUTMwcG9vSzhQSVFTcHRhQQ?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-10-23T08:19:16.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡ROMÁN TORRES VS. WALTER PORTALES!",
-      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFNQRkpxM1M5bEJBLVh1dV9fMmtZcXpGbFQ1NG1iT1FGODM0SXQ4RGZ1UDlBeDRQdUtHRm5mSWNyWVJjWlRjQW0zMzNVWVFvazJ1SVhSbkE2WGhlU19wZ3oyN0E5NktaN3paTVZXc2NhUmc5VTR3RnJWTW95VlVXREZVR1U?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-10-23T07:02:36.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "El jugador a seguir ante Atlante será Johan Caicedo",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUVjLWtwUGdydWhDeXhEX2dKTVRhQk9XUU45VmNuUjk4dHQ4d3R1ZFIyS3AzZXd5NDJOM05Tc2tNd2VpWHJVeXJDd0l0OEpZbEZDNE9HWlVPUHJhUG5DcW1RWDlLT2djZGplcjhURGNMR2xFYjlGQWkzR1BCeG1vSjZ2MFAtaUluVVV1Qk50dHpJdzdRTDRRdHVDY1k2QQ?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-10-23T07:02:36.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Importante compromiso para nuestras potosinas en casa",
-      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGJTT19WbTBUY2NTcWFiUjY0MWJTN3JfdE84NVZuREFPTjlNRi1mUW9NYlJhaTlsLTRIZjZmR0xsV1ItdWI4SVFlTFRxamZ6LXhZUWlqOTY4enBXZWhxdVZubk9aQmZ0bkwxSDNrdFpRbGJ4NHJmdk1yOEg3NThZbFVoX0lsel9jTGdOZ3lKUG1mMFRnVUx4Y0stcFBFZW5BMGc?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-10-23T06:55:12.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Atlante y San Luis deben ganar para mantener vivas sus esperanzas de liguilla",
@@ -844,15 +928,14 @@
       "tambienEn": []
     },
     {
-      "titulo": "Aficionado de Querétaro es agredido por seguidores del San Luis en el Alfonso Lastras",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQazlWQk92SzJKZmZldS1vc18zc0I3eDRUTko1bF9wZTlRZ2EyeHJ0allJSENDNXZ4ZTdWOHd6VmZUR2xLNTAxVElsNjFkdVpLZG5idDFXVXM3R3A0VTVGOEdFYTVTbVBsSXVmTUVUWGVzSlZiSjlpTmE2d1FFMGIxV2w3RnBsRFVLOXBjRm5qNzc5dGliZ0hyTTJoamVVQWtSb0FlX3ZBUE1ET3M1T25saG1scXZWM0hmcE1LcXpB0gHSAUFVX3lxTFBUUEE3cUNuRXRPXzJ5Mk1aNDE0bzFJQl91MUY1OUZaNmVaUGRnckNiT2NYbHZIU3NqR05QQk9KanhTZnJJLUdvQ2R6blAwVWIzUk95bjZrcjByVWVmV3F3RTF1b3Y1emlCcmJQOVdXc1N4Sy0zWXJvSk1UcGYtUjlZbS1YazJqUlQ5MVNTQm1XRFFnTlNaNWRHTUd5bk5henFiS2VjLUR6Z0ZsMFJIMTF0UERGQmZYTGEweW0yQ1M1azk0c1lLU1gyYWI1bk1DUWVvZw?oc=5",
-      "fuente": "Diario AS",
-      "fechaISO": "2026-10-21T17:53:11.000Z",
+      "titulo": "VIDEO: Por burlarse del rival, aficionado de Querétaro fue agredido en la victoria de Atlético San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLWk5YmZoRm5DOGQtZ19aVDRhejI5dHpHOU9XQjVVX3VQY0d5Q0pzTXM0WFpmYkNjaVJwWXd3dVhHclhUVEZEUkQyZEo4U18zZ2w5cXJkeDdfejR2djk0VC0tOUlsOUhvRVo0VVQ4bDI4T3VkTkt4Zko3dkpsZTFzRTg3VF9POVZvOEIwbXhFdTlaalUtRXhoUmpTbDdMTUwwNjA5eTYzcVd5d3RRQTZzeHNTSkh6OWFSTnNDTXlWS09GOXlnWFpBenY3ZFEyb05lbXdsRTY5a3ZUQTVUM0R3NXl6cFpXc3hldnlHcA?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-10-21T17:49:00.000Z",
       "categorias": [
         "Partidos"
       ],
       "tambienEn": [
-        "Récord",
         "MARCA"
       ]
     },
@@ -879,19 +962,8 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis venció a Gallos Blancos de Querétaro 2-1 en la Jornada 13 de la Liga MX",
-      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY0dEZE1SQnBCSWRDY19ud2J0SDNLMTgxeDBUMlhwdk9lRVdPZ2JIbFNLSG5DX1NUNGJDdGttZjdhTlRPTWhlek9BNGxpbWVjSEQxdTlwalM3VnZKdGJROFhMX3VaUXRkMkhXZjV5TTQwUmtWbDlMR0NYS1M5U2dqQWd3cVdLVkMxeW1YWUR5WnU4TmJLNkZ1c25lMmVKOGI3cHJjWDNySkZZVzRsNG1UWlRIRjlLM3RYSEF5cU5UQ2JBWWJ3MTFwTHVPd01ER1B0cFJZZ2NmSUV3NkRGb1hjVFJpTE1tZVB6?oc=5",
-      "fuente": "El Heraldo de México",
-      "fechaISO": "2026-10-21T09:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
       "tambienEn": [
-        "Bolavip México",
-        "Mediotiempo"
+        "ESPN Deportes"
       ]
     },
     {
@@ -924,7 +996,6 @@
       ],
       "tambienEn": [
         "El Comentario",
-        "MARCA",
         "Récord",
         "Mediotiempo"
       ]
@@ -934,16 +1005,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVncwRGpDSklXZ3BGZU9Zb2JZZjJuUlA0a01JaV8tLVhETnIzbk9rNHlwVXZCVFJfbU9WSHM4d0dJMkY4RFFZOXhKcGUwbjBQc2NjY3I0UEpNd0dfTmg1S19Jell5Qlg1ZlJFQTBkZ1UwbVR1T2VsQnp3N2JUZGQxM3JTWmtXRGptZXV6UTZ0aTRic1NZbmlOOUx3V3hEUGlXTUlpZWdEZjIxcHfSAasBQVVfeXFMTzVxSGFhMVBmUkVYM1V3aUI0eXNvcDhMV0VBZklEOVk1UHhyVUJwQTVFUEdPcEFMRUV2ZzlvUkhqLUJGeEpyOVVoaEJtaUNJNFVSWEhTc3Q1VGwzdzROLUhUS0JkUjBMdmRuS1RpSnBlQVYyNm5UTmExTkpXbkdudURvZUsxSjdkbHVQMGVfOHB4c1NuM2lrUGowa2tXeURjcW1YTGNCZVhOTXRN?oc=5",
       "fuente": "Mediotiempo",
       "fechaISO": "2026-10-21T02:58:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Querétaro deja ir tres puntos ante Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEdkZGczTEZacEhldHFLcnVhRUg1RmZvRndSWF9HaWlXa25MN0JqNFdGYnBpeHhoaHRXa2l6VUhGSFVtWThnYTBzcVZrVHA0Y05oMXRJNkhEWTdITWNZd2k0dlhUak5yTklody0yQ1V0STduTVZReDZGdXNrTkRYMHVidDhNRDJ6VDBzcDBLQ3JZRjdnb1U0Y1NR0gGfAUFVX3lxTE1CMmpiUHZJbkN0eXFfdFhxUVJqeGZfYm9IeWM0TmVZQVB0a3MybEJ0T1FDZTZZNU1mXzBzeU9qSWU3QTF2cW5fVGdFMVh4d0ROZWpvaFlwMjkxLU9Ed3hCd3R6ejh1eTNWQ1NjeU9NdWhKUHU0OFNzQnR5U25VZ08zWWRzSjBER2NCUlNIT1RMMmhXT2gtZHR5NkRjZzdTNA?oc=5",
-      "fuente": "Diario de México",
-      "fechaISO": "2026-10-21T02:54:13.000Z",
       "categorias": [
         "General"
       ],
@@ -960,6 +1021,19 @@
       "tambienEn": []
     },
     {
+      "titulo": "¡Atlético de San Luis destruye a la defensa de Querétaro!",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVFNZW1pX0NZaGg2Z0doRE5iaFNUSjFnWTFsVS1aQ3Y2bHhGR0p4WWd3OHAycmZGdjIzb2M2dHpFNWVVWDdjRkxneWJ5RkFOODBIcWtDWG5xRVlXazQ2UDFkMW9rc2o4SGNVRFp6cFRhenFnZnQyY3NXU1RHYWV5VTZSdjhNV0dCUlItUHRJTXRYNnhxcmRab3FOWVdyR04tUnNuOWhIdw?oc=5",
+      "fuente": "ESPN México",
+      "fechaISO": "2026-10-21T02:12:48.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "ESPN Argentina",
+        "Diario de México"
+      ]
+    },
+    {
       "titulo": "Atlante FC vs Atlético de San Luis: horario y transmisión en México | Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSENoUlR2UVpvRlU1Y0c0dXpWc1k0ZWJhdlVDaUswOHNqMnNONUgyX0xncjRoLXBKcjEyZE85b2Y0ZmR6VTRMS0VMTl9rUUh2cHBYRjNpNENyOEhMT2R0aHdWM3ctZmVqX2Q3MDI5Sl9DMnpLZHBBNHdySDE5bU5rWnJScW1Ob2l5V3pWWWRxbGVqcktyVHlTVUlR?oc=5",
       "fuente": "NNC.MX",
@@ -967,8 +1041,30 @@
       "categorias": [
         "Partidos"
       ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético San Luis vs Querétaro: cómo ver EN VIVO J13",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGRSWDJrbWJTN05yWWF1WDVMcm9EaC1sbHkwejZPMVNBdHdfTVBEMDJtd0s5VTl0LTFWSVhQYkh5TzVYT3pFaDgtZmxxdkg5VXdYQmlPd3prSTMzaVpobXY4bEowQ0lZNDJyRVRpV0NtRExNR0E1TFFIalF0eFY5emh4M3JLMXVHYl9rcWctNlBZVzdzdUwxV2RmRVpDc1k?oc=5",
+      "fuente": "Milenio",
+      "fechaISO": "2026-10-20T22:11:16.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Dónde ver EN VIVO Atlético San Luis vs. Querétaro por la jornada 13 de la Liga MX: TV y streaming online",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVzE5UHJKUEZvZDJneGc5NnJpRkdZbi1TeFJYbVFzQ1RnV0VhaU1zT2FxZ2h3bGJTa3NKNnFOb2hTTms3R0U4TkJtMXhqQzRXVkpJM1doZDVXRWQyWkRwazM0UGhNS21hcWlETWs4Z2hiQ1diOVlsUmJKTmtOaFV1R0RWVHJSQWF0LWljSlQ3akhtZzEwbF9iLWNXRlN1ZFhIYzREeWNOSE9NeVpLSVYzam82WEF6cGhNbXNscGEtYlRNYldJblN3SzFkbjbSAdIBQVVfeXFMTXdseFZVbkctMGlEVFhkNEVSMERDcnY1RFBJOEJhNjAwUUFuZ3ljeERfaXBJWU50OXhLazJaM29oN2NYT0dteVIyVHpvUVBlVlNGQnJWY3daNGNOLWE1OGt0b0dCem1VZ2JjRUtRMy1DZU9VcWNiYzl6R1NjQW1DYnBZRVRTU3RieFROQ1NNYlMwNkNuVG5sSHNULWNsVjRGWjl3SHd0b0ZvbmxDQjN3WWhjNG1kdUliY1FUS0xQQmE1cW91dnZQMDlZbnRZYVNhV0V3?oc=5",
+      "fuente": "Bolavip México",
+      "fechaISO": "2026-10-20T17:02:56.000Z",
+      "categorias": [
+        "Partidos"
+      ],
       "tambienEn": [
-        "TUDN"
+        "Mediotiempo",
+        "Fox Sports",
+        "Fox Sports"
       ]
     }
   ],
@@ -1083,10 +1179,8 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 38,
-  "avisos": [
-    "sin conexión o tiempo agotado en la fuente de datos: schedule?fixture=false"
-  ],
+  "totalFuentes": 37,
+  "avisos": [],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

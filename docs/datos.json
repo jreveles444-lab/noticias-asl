@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-25T06:46:23.828Z",
+  "generadoISO": "2026-10-25T07:46:31.591Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -516,7 +516,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Sol de México"
+      ]
     },
     {
       "titulo": "Atlético de San Luis vs América: horario y televisión de la última cita potosina en casa",
@@ -560,8 +562,7 @@
         "Partidos"
       ],
       "tambienEn": [
-        "24-horas",
-        "Consulta Monterrey"
+        "24-horas"
       ]
     },
     {
@@ -738,9 +739,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "El choque de cabezas entre Jiménez y Bambu que paralizó a todo el Atlante vs. Atlético de San Luis",
@@ -887,11 +886,11 @@
         "El Heraldo de México",
         "SDPnoticias.com",
         "El Sol de México",
-        "sdpnoticias",
+        "SDPnoticias.com",
         "Mediotiempo",
         "ABC Noticias",
-        "El Sol de México",
         "sdpnoticias",
+        "El Sol de México",
         "sdpnoticias",
         "TUDN",
         "TUDN",
@@ -904,7 +903,7 @@
         "ABC Noticias",
         "La Crónica de Hoy",
         "EL GRÁFICO",
-        "TUDN",
+        "Excélsior",
         "TUDN"
       ]
     },
@@ -977,11 +976,21 @@
       "fuente": "Infobae",
       "fechaISO": "2026-10-22T16:26:28.000Z",
       "categorias": [
-        "Partidos"
+        "General"
       ],
       "tambienEn": [
-        "Soy Referee"
+        "El Sol de México"
       ]
+    },
+    {
+      "titulo": "Jacobo Payán venderá el Estadio Alfonso Lastras Ramírez al Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMGdwdGowU1dTSjR0YzFfTDQ1VXJadnY0dWY4QkhtRXEzZWROSEVUaHJ0dkxxSTJWWF9XUkpLQnJweV9SSFBJRTNhSEJ1MU9TQ2QxbktkSGVaSUcyb19Ka2J0T3hnZlliZ2xFUkd1TnFTVkFnelFyc0RJZHJ3S05OYTVyS3I0cXFVMndpc0FZQ2M0cEhyY0ZEOFpvT05KMHRJbFVLYmZIcGIxazZWYy1oMzU4UkZvYnQ0bnpGbEtKY2p6bG1pYXJVSl9UTGJSVFE?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-10-21T23:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro",
@@ -991,7 +1000,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "elexpres.com"
+      ]
     },
     {
       "titulo": "El equipo del Atlante y Atlético San Luis derrotan a Juárez y a Querétaro en la Liga MX",
@@ -1023,6 +1034,7 @@
       ],
       "tambienEn": [
         "El Comentario",
+        "Récord",
         "Mediotiempo"
       ]
     },
@@ -1045,22 +1057,20 @@
         "General"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "¡Atlético de San Luis destruye a la defensa de Querétaro!",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVFNZW1pX0NZaGg2Z0doRE5iaFNUSjFnWTFsVS1aQ3Y2bHhGR0p4WWd3OHAycmZGdjIzb2M2dHpFNWVVWDdjRkxneWJ5RkFOODBIcWtDWG5xRVlXazQ2UDFkMW9rc2o4SGNVRFp6cFRhenFnZnQyY3NXU1RHYWV5VTZSdjhNV0dCUlItUHRJTXRYNnhxcmRab3FOWVdyR04tUnNuOWhIdw?oc=5",
-      "fuente": "ESPN México",
-      "fechaISO": "2026-10-21T02:12:48.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "ESPN Argentina",
-        "Diario de México"
-      ]
     }
   ],
   "comunidad": [
+    {
+      "titulo": "La Escuela del Atlético de San Luis compite en la Liga Nacional Juvenil",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRxV3RZeF8xYWZEZTA1djRfWWt0RWQ1Z3JNNDRTaTh2VU9IZTRyTE1KYVJsSG5CTGsxTUhEc3BRZGl3M0g4YXkyMUlwWWtjcnVYVmZvT0o2UFRHSVl3MUJ2YkktMGtfWWllejE4b2hfMlQwakZEdUd3RmI4MnF1dlVBSEloRWtzNjBTdE54dzBzWml4LXNaYmZsbE90YzA?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-10-18T02:10:22.000Z",
+      "categorias": [
+        "Escuela",
+        "Cantera"
+      ],
+      "tambienEn": []
+    },
     {
       "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
@@ -1096,22 +1106,52 @@
         "Escuela"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [],
+  "videos": [
+    {
+      "id": "J-T8eHKZ5Bw",
+      "titulo": "¡Un fin de semana más en la capital del país! | El Viaje | AP26",
+      "enlace": "https://www.youtube.com/watch?v=J-T8eHKZ5Bw",
+      "miniatura": "https://i.ytimg.com/vi/J-T8eHKZ5Bw/hqdefault.jpg",
+      "publicadoISO": "2026-10-23T16:09:32.000Z",
+      "categoria": "Del club"
+    },
+    {
+      "id": "ykHpA9ENMuQ",
+      "titulo": "¡EL LATIDO DEL CLÁSICO DE LA 57! | ADSL vs QRO | AP26",
+      "enlace": "https://www.youtube.com/watch?v=ykHpA9ENMuQ",
+      "miniatura": "https://i.ytimg.com/vi/ykHpA9ENMuQ/hqdefault.jpg",
+      "publicadoISO": "2026-10-22T03:00:07.000Z",
+      "categoria": "Resumen"
+    },
+    {
+      "id": "FhCrncidPUE",
+      "titulo": "¡LLORENTE Y LAJUD SON MAGOS! 🧙‍♂️🇪🇸🇲🇽 | Club Corona",
+      "enlace": "https://www.youtube.com/watch?v=FhCrncidPUE",
+      "miniatura": "https://i.ytimg.com/vi/FhCrncidPUE/hqdefault.jpg",
+      "publicadoISO": "2026-10-22T01:00:05.000Z",
+      "categoria": "Del club"
+    },
+    {
+      "id": "8N2BFAWl1MI",
+      "titulo": "¡Momento de prepararnos para visitar al Atlante! | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=8N2BFAWl1MI",
+      "miniatura": "https://i.ytimg.com/vi/8N2BFAWl1MI/hqdefault.jpg",
+      "publicadoISO": "2026-10-21T21:30:09.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "Li2MzyWUPek",
+      "titulo": "Diego Mejía y Esteban Gonzalez | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=Li2MzyWUPek",
+      "miniatura": "https://i.ytimg.com/vi/Li2MzyWUPek/hqdefault.jpg",
+      "publicadoISO": "2026-10-21T19:45:19.000Z",
+      "categoria": "Conferencia"
+    }
+  ],
   "redes": [
     {
       "nombre": "X",
@@ -1131,9 +1171,7 @@
     }
   ],
   "totalFuentes": 33,
-  "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
-  ],
+  "avisos": [],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

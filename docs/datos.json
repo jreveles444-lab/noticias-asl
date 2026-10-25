@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-25T19:26:45.507Z",
+  "generadoISO": "2026-10-25T19:46:24.269Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -447,7 +447,6 @@
         "Reforma",
         "La Jornada",
         "OnceDiario",
-        "TUDN",
         "ESPN Deportes"
       ]
     },
@@ -465,6 +464,10 @@
         "Mediotiempo",
         "Mediotiempo",
         "Mediotiempo",
+        "Mediotiempo",
+        "La Lista",
+        "NNC.MX",
+        "NNC.MX",
         "TV Azteca"
       ]
     },
@@ -530,7 +533,7 @@
         "365Scores",
         "Zona Franca",
         "La Crónica de Hoy",
-        "Fox Sports"
+        "EL GRÁFICO"
       ]
     },
     {
@@ -542,7 +545,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Telediario"
+        "Telediario",
+        "Milenio"
       ]
     },
     {
@@ -563,7 +567,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Soy Futbol"
+      ]
     },
     {
       "titulo": "Atlante pierde contra Atlético San Luis y Piojo Herrera muestra molestia por penal fallido",
@@ -658,6 +664,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Galdames silencia al Atlante y Atlético de San Luis se lleva el triunfo",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNnN3cGpqMU9VZUM2dUNwSkMzbXdzMG5oOURFNnRRamVwNHVEaUQwNUwwRWZiZ1B4TWVZUEd2ZjBMOFVFVGNNZnJPSEFZT0FhbF9falpORXVONFpPdWlUcThuQy1YbXc0UjFlRV96QnRGS1R6N29DV1lnQzhyMU9Td0ZJX3p2M2JTWUVlMzQ5VzdyY055X2pCa1hwLU83SXFGYWsyLU5lYjhKUnR6azZxTldKczA4OUUtN1JHYXBHcnNFczZpcEHSAdoBQVVfeXFMTWY3QjAxZGRoQXYtaUpuY1k5STh1UG1FSGZaalgyczBKeEtKNjExVjU2T3ZGa1E2UE5UQWxNODlCakhOTmFjdEtVN0FqVzhwYWlZb1JIc3NOX0hyUXIwZ0pxa0R0Z1dxR091MDEwamFJQ1BVeFFzZWpkQzZTTkxIQmtoOFdOMzNBRWk1YjZyTTRDbjJnbzRHMXprdldJc1R2elpveDBmYnBkb2xZYWFaa05XWlVhQlVyck5kZDl6NlhheENXNnBMTFdOQjZiSlp1aEZIc0NLajU4enc?oc=5",
+      "fuente": "AS México",
+      "fechaISO": "2026-10-24T05:26:28.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "San Luis deja al borde del abismo al Atlante",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzE2Z3BJR2tISks3VUNoSDh0cE1QbWVzVmM3c00xRE52bG9pbUpKcDFQWnlmaUpUUXlxSllSMW1mQ21fekFkUERidXBMd1pHMFlBQkJGMnEwMWtkZDZ4RGZOLUpsWGZuaEdCMVdaZXhsQk9nZ2UzTFB0bV9ZVXhiTUdtUlgwc05XMWhNSE9Xb1ZVd1FEZXBKbnJCbmw1bmhMUGJKTzJ5MXJEQVo5bnJkMGRsa1h0VkVyRFE?oc=5",
       "fuente": "TUDN",
@@ -697,8 +713,7 @@
       ],
       "tambienEn": [
         "El Informador",
-        "La Verdad de Tamaulipas",
-        "365Scores"
+        "La Verdad de Tamaulipas"
       ]
     },
     {
@@ -808,7 +823,6 @@
       "tambienEn": [
         "ESPN Deportes",
         "ESPN Guatemala",
-        "Squawka",
         "Squawka"
       ]
     },
@@ -871,16 +885,6 @@
       "fechaISO": "2026-10-23T21:07:25.000Z",
       "categorias": [
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "San Luis en el Azteca: la historia también juega esta noche | Columna de Arturo Mena “Nefrox”",
-      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oODMwYTJPWFlDZFhLTXBnc2FHVzI3bkdXX3VNWTB2Z3lfbnRQcG9DUmQxMFN2RlA1MnpuWDhRSUtxVms3cWFrTjBHcjFKLWk1SnpmY2JiRjZ6REIwZk96eWZwZjQ3NUphVmJFOHRhVWZnc3I3NUpyTzNqSQ?oc=5",
-      "fuente": "La Orquesta",
-      "fechaISO": "2026-10-23T17:19:45.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -959,9 +963,9 @@
     },
     {
       "titulo": "Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSWF4UUlkVFVrNk92aEpPSTVyVUstVnJzdDR4NG5zUG80ODRsUldyUklvdm91UnNpT2ExYV9xRW9DVzB3blIzMDZ1bThMYWViV05CRUJUOTBtbkw1OWVLQ2FlQmhQQXpEek1lbmhELUJEbllkUWlmcDdyVlRmME1BUXZmY2tTaGNYT01kekxQVi1uUWFvcEhOTDEtMldyaGR1ZzdHUUczYUpXSlM3YzFCWVBaclZpaDBxYUdPUGF6R2RxZ0daZjFDbndFU0JWWVl5b1hwR2RVcWc5QmliRV9aRkg3UjRHRVlfeGgw?oc=5",
-      "fuente": "ESPN México",
-      "fechaISO": "2026-10-21T16:25:27.000Z",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcFdKcE9EWTBlTE5qWGpocVRUbU11MTBXakVrM1ljZko3YXZOZ0ZBZ2pIYzhVWExjT0k5Wkg5YzVRYWNCUnhhdk1MWWFMSVAtQnFlWExMaDJXQjAwYU0tZE8yS09JT0xMT2lPZTR3clpWNC0zTS03emJFT05VZkdlWVVMY2Zyc3BpYWZ1ZlF1QzhwNS1sS2xXN3JTQ3V6NWNVQ094ejdUX3NFQUI0eVJlaWVMV1hIbUdvd3RuMnRDbmlnUXpFTTNQQ2RDVXQ4X1pJMWNuTEwyb29FcmdvdzJCOE1RMU51T0p1N2xyRUdxUHdrd0pXaWZkWHBR?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-10-21T16:03:00.000Z",
       "categorias": [
         "General"
       ],
@@ -980,16 +984,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético San Luis vs. Querétaro - Game Highlights",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXZvdzBORzRjcjJnY0FDQm92VldOeXhqZVc5bzZ5UUxyNVlnLXVoanpFZTRRWW9XZFAzVlNrLURXdmQ1emM3dW1EMHA1blVfUGF6STE2MXZrTVdCNEhsSF9VZTdESGV4T3VPVG51cWJiZUgyemZ5cWlldkhueVhqV3VaRF9rVnhhcC1rLVc5TTN4LUVq?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-21T03:03:42.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Resumen: Atlético de San Luis se impone a Querétaro en el Clásico de la 57",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEw0blNLVjFzblRPM255NnRuMXFoM0o1ckx0dWJoUTFMbVBtZzhncGt3aWNESmlkc3U2WFh6cUJlcmVjMVR3bzcwV3ozYmhPZUx4NDZIdHRQcDlOcldUcmhabXRpSHR2aVV4QmwxVzV5V2ZaYTFfSTdRMmM5UXdGWUpXV2FLWXVmU2F0enRkM3djTHAzUHVET1d2ZGxSV3RkUEN1SXhHWXIzMUh6cUpqeHVoU2ZUZw?oc=5",
       "fuente": "TUDN",
@@ -999,7 +993,6 @@
       ],
       "tambienEn": [
         "El Comentario",
-        "MARCA",
         "Récord",
         "Mediotiempo"
       ]
@@ -1051,6 +1044,16 @@
       "fechaISO": "2026-10-21T00:14:12.000Z",
       "categorias": [
         "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis-América Femenil: cómo verlo en vivo el 24 de octubre",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGFDWXhQX1N1M0pDR1hKbTljLWRieDhZejRaUURKeTdMXzhwUWd0a2ZOdDM4ZzI5LVVtejlfM1psQWx5WDBtZ0Y2THNBd1pUOHc2b0l6WEFTMDB6TkNlSTJsa3lLb3FSaDhXWFg3c2tNOHhPemtOMktmdnE2dXM1aFJ3ZkVxUVozX1JrQ05aUWZlZXA5TWVLUWRCSEZ6YXNzcDRyTjVyX1hKSnAtSHZZVGVZRzBCVEI1?oc=5",
+      "fuente": "OneFootball",
+      "fechaISO": "2026-10-20T01:21:56.000Z",
+      "categorias": [
+        "Femenil"
       ],
       "tambienEn": []
     }
@@ -1166,7 +1169,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 33,
+  "totalFuentes": 34,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

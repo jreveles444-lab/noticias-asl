@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-25T18:37:13.951Z",
+  "generadoISO": "2026-10-25T19:26:45.507Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -373,6 +373,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "ADSL Femenil cae por goleada",
+      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXR2UzR2pwRndJVVp4X01zNVAybG80cTU0bDAzY3BvOFJHcUlQR3FJVHVYM3ZHRkNkVEV0WWJZZjNTUU1SclhnMmRnOElLa1V3SkREY05qSnZ1RWV4S2RZeGZiZS0xZ213UXF5SlhsTHRVcnFVLVpladIBeEFVX3lxTFBXR2UzR2pwRndJVVp4X01zNVAybG80cTU0bDAzY3BvOFJHcUlQR3FJVHVYM3ZHRkNkVEV0WWJZZjNTUU1SclhnMmRnOElLa1V3SkREY05qSnZ1RWV4S2RZeGZiZS0xZ213UXF5SlhsTHRVcnFVLVplaQ?oc=5",
+      "fuente": "Pulso Diario San Luis",
+      "fechaISO": "2026-10-25T09:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis suma valiosa victoria ante Atlante en el estadio Banorte",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRXpsMFlRNTRNeThFSEhrX3EzMkIyUXVKREhHQmd6d0NnbTVxQ3c4WUU4RksxZ3IyVXFqVlhRTU1EbVBEd194aU5FV0FJU0Znd0pIVUpiOHhtazZkbHh0ZWtaSUdUdk00ZldpRllfdXhrTGtSOFNKNkhPRkdvbFJWWXdCQnNkc2RBOE54dlpyZnpyR0xxY1RWY3Jlekx1Qm9rNld6ZVF2NTJvbm1qdEZtaXk3eHptaklGc3FjTTlSRFRLMGZSTGF2WQ?oc=5",
       "fuente": "El Sol de México",
@@ -437,6 +447,7 @@
         "Reforma",
         "La Jornada",
         "OnceDiario",
+        "TUDN",
         "ESPN Deportes"
       ]
     },
@@ -454,9 +465,6 @@
         "Mediotiempo",
         "Mediotiempo",
         "Mediotiempo",
-        "La Lista",
-        "NNC.MX",
-        "NNC.MX",
         "TV Azteca"
       ]
     },
@@ -522,7 +530,7 @@
         "365Scores",
         "Zona Franca",
         "La Crónica de Hoy",
-        "EL GRÁFICO"
+        "Fox Sports"
       ]
     },
     {
@@ -534,8 +542,7 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Telediario",
-        "MILENIO"
+        "Telediario"
       ]
     },
     {
@@ -556,9 +563,7 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": [
-        "Soy Futbol"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlante pierde contra Atlético San Luis y Piojo Herrera muestra molestia por penal fallido",
@@ -653,16 +658,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Galdames silencia al Atlante y Atlético de San Luis se lleva el triunfo",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNnN3cGpqMU9VZUM2dUNwSkMzbXdzMG5oOURFNnRRamVwNHVEaUQwNUwwRWZiZ1B4TWVZUEd2ZjBMOFVFVGNNZnJPSEFZT0FhbF9falpORXVONFpPdWlUcThuQy1YbXc0UjFlRV96QnRGS1R6N29DV1lnQzhyMU9Td0ZJX3p2M2JTWUVlMzQ5VzdyY055X2pCa1hwLU83SXFGYWsyLU5lYjhKUnR6azZxTldKczA4OUUtN1JHYXBHcnNFczZpcEHSAdoBQVVfeXFMTWY3QjAxZGRoQXYtaUpuY1k5STh1UG1FSGZaalgyczBKeEtKNjExVjU2T3ZGa1E2UE5UQWxNODlCakhOTmFjdEtVN0FqVzhwYWlZb1JIc3NOX0hyUXIwZ0pxa0R0Z1dxR091MDEwamFJQ1BVeFFzZWpkQzZTTkxIQmtoOFdOMzNBRWk1YjZyTTRDbjJnbzRHMXprdldJc1R2elpveDBmYnBkb2xZYWFaa05XWlVhQlVyck5kZDl6NlhheENXNnBMTFdOQjZiSlp1aEZIc0NLajU4enc?oc=5",
-      "fuente": "AS México",
-      "fechaISO": "2026-10-24T05:26:28.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "San Luis deja al borde del abismo al Atlante",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzE2Z3BJR2tISks3VUNoSDh0cE1QbWVzVmM3c00xRE52bG9pbUpKcDFQWnlmaUpUUXlxSllSMW1mQ21fekFkUERidXBMd1pHMFlBQkJGMnEwMWtkZDZ4RGZOLUpsWGZuaEdCMVdaZXhsQk9nZ2UzTFB0bV9ZVXhiTUdtUlgwc05XMWhNSE9Xb1ZVd1FEZXBKbnJCbmw1bmhMUGJKTzJ5MXJEQVo5bnJkMGRsa1h0VkVyRFE?oc=5",
       "fuente": "TUDN",
@@ -702,7 +697,8 @@
       ],
       "tambienEn": [
         "El Informador",
-        "La Verdad de Tamaulipas"
+        "La Verdad de Tamaulipas",
+        "365Scores"
       ]
     },
     {
@@ -812,6 +808,7 @@
       "tambienEn": [
         "ESPN Deportes",
         "ESPN Guatemala",
+        "Squawka",
         "Squawka"
       ]
     },
@@ -878,16 +875,14 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlante vs. Atlético San Luis EN VIVO. Juego EN DIRECTO Jornada 14 Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONzZpcFZoQk0tSHJqYnJ6S3M3RGpMMlBOMG95UVU0M2VaSXZwdFVKcm02STlpSXJEaFpIYm5XbWdRaG50QmRySkxuMmtodmQ4ZkI3Zl9LeFhPcVRxQmNrQ2xvZkRrTGo2WDZJamxDQTJ4WGJuVzVjOHIxSnNXcVRnOVU3Vm9yRG5tVlNiVjFNdndvU0lnZktlVWlYcGNvVzJ1QzNoS0d6ZGJlM1VoS3daQ09QajZ0c2RxNjd4ZXBUdEVndW9HdkF3Vk5yMNIBywFBVV95cUxOejhFMnJGRWk5d3BPbkd0R0tfakpzTHd2eWhQNVpoSmpUZHNuSjZ1ODVyVGFpUGswcjUzdXRhYkwyQ05US2tGOGhEY2hqQllQSFdjcjd1R3pQTFVUVmY4R3lXV24xSjk5TndocndZbUROa3FudllHZDV6WmVMNjhCclRuSnB0Uk9TU3lBQWsyTFh2U2dNTm1uMWtZazEwcUdXTS1OaFVQUjFVWDRCVVFKWkdXb3pjSFVxZXMtU3R3elMxYmtnaGdkd3ZmYw?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-10-23T19:57:00.000Z",
+      "titulo": "San Luis en el Azteca: la historia también juega esta noche | Columna de Arturo Mena “Nefrox”",
+      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oODMwYTJPWFlDZFhLTXBnc2FHVzI3bkdXX3VNWTB2Z3lfbnRQcG9DUmQxMFN2RlA1MnpuWDhRSUtxVms3cWFrTjBHcjFKLWk1SnpmY2JiRjZ6REIwZk96eWZwZjQ3NUphVmJFOHRhVWZnc3I3NUpyTzNqSQ?oc=5",
+      "fuente": "La Orquesta",
+      "fechaISO": "2026-10-23T17:19:45.000Z",
       "categorias": [
-        "Partidos"
+        "General"
       ],
-      "tambienEn": [
-        "TUDN"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Cómo ver Atlante vs Atletico de San Luis: Detalles del partido, cadenas de TV, streaming en direct y más",
@@ -964,9 +959,9 @@
     },
     {
       "titulo": "Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcFdKcE9EWTBlTE5qWGpocVRUbU11MTBXakVrM1ljZko3YXZOZ0ZBZ2pIYzhVWExjT0k5Wkg5YzVRYWNCUnhhdk1MWWFMSVAtQnFlWExMaDJXQjAwYU0tZE8yS09JT0xMT2lPZTR3clpWNC0zTS03emJFT05VZkdlWVVMY2Zyc3BpYWZ1ZlF1QzhwNS1sS2xXN3JTQ3V6NWNVQ094ejdUX3NFQUI0eVJlaWVMV1hIbUdvd3RuMnRDbmlnUXpFTTNQQ2RDVXQ4X1pJMWNuTEwyb29FcmdvdzJCOE1RMU51T0p1N2xyRUdxUHdrd0pXaWZkWHBR?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-10-21T16:03:00.000Z",
+      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSWF4UUlkVFVrNk92aEpPSTVyVUstVnJzdDR4NG5zUG80ODRsUldyUklvdm91UnNpT2ExYV9xRW9DVzB3blIzMDZ1bThMYWViV05CRUJUOTBtbkw1OWVLQ2FlQmhQQXpEek1lbmhELUJEbllkUWlmcDdyVlRmME1BUXZmY2tTaGNYT01kekxQVi1uUWFvcEhOTDEtMldyaGR1ZzdHUUczYUpXSlM3YzFCWVBaclZpaDBxYUdPUGF6R2RxZ0daZjFDbndFU0JWWVl5b1hwR2RVcWc5QmliRV9aRkg3UjRHRVlfeGgw?oc=5",
+      "fuente": "ESPN México",
+      "fechaISO": "2026-10-21T16:25:27.000Z",
       "categorias": [
         "General"
       ],
@@ -1004,6 +999,7 @@
       ],
       "tambienEn": [
         "El Comentario",
+        "MARCA",
         "Récord",
         "Mediotiempo"
       ]
@@ -1170,7 +1166,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 32,
+  "totalFuentes": 33,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

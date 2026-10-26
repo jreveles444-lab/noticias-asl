@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-26T20:51:45.728Z",
+  "generadoISO": "2026-10-26T21:51:53.689Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -453,6 +453,19 @@
       "tambienEn": []
     },
     {
+      "titulo": "América femenil golea al Atlético San Luis y sigue volando en el liderato",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeHRHZGQtbkNVMlZIYnJyeS1jck5iaHRzcURSUDB4RnVkZTlLUUNBc1lTRk9zdi1lckdrR0hVZ1VJOVVOTFBDQXJBOUpnSjJ0ekF0N2tENXZIVF93a0RkUVFlMUlLXzRVWHZNUkw0MTN0VXVZZkh5RzJ4czJtLV8zSkRBUWFPOS14aGJvdGF5S2xUdDJrTThDY2VWM284ekRxcm1PWnFSNXM?oc=5",
+      "fuente": "Zona Franca",
+      "fechaISO": "2026-10-25T02:52:11.000Z",
+      "categorias": [
+        "Femenil",
+        "Cantera"
+      ],
+      "tambienEn": [
+        "El Sol de México"
+      ]
+    },
+    {
       "titulo": "América aplasta al Atlético de San Luis; Geyse convirtió un hat-trick",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlFfY2VKQk4yLVpOYzU5eGY4RHdNLXpOOTBtaS1BYUpfRC1tSzAtM3ZmUDZYWHAwLTBNWFU4Q0pyN2V0UnVwY19kX3AwdEV5cVYzMzU3MjkxLTZKS2dyWUI5U0pnZnRCVEJzZFdRWU43dFI3eFdZZGJ3SnB5Y19NRGthWlVrd1hCR2VHbTNyUFlUSWFweHZxcm1ka1FGRW42SEIxRFc4a2ZxblV0RFHSAcIBQVVfeXFMTzJsZWNMdjRwelExX05qdVM5c1NIbE5DRmp0YXd1WnlsZHI1R1NvNTdEWDNjQVV1Wmw3WTJDVWNGak5XenlBdDlVZkdmcXljT2RjOFFPSTVOa1RrV0FjMFhpOUNTNUpSQmRLc2hVWllJbzBLaVE5YllEdVpYbGIzb1JKNEpNNVlXTkRpNUh4aHppQ3Etc1gzQl9hd3EyUGdZTzJ5SU5CRUVOM2RkdGZsU2I0ajJzdlVJcE4tTHQ1RVdRcWc?oc=5",
       "fuente": "El Universal",
@@ -464,7 +477,7 @@
     },
     {
       "titulo": "¡Nadie las para! Geyse marca hat-trick y América Femenil aplasta a San Luis en su casa",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjdLOEhfSjcyaTdyX21WVjZXcjVRcEdCa3hjNTZ3RFYyNzRzZFo0bldjVU9PQ2RmRGJSXzBJUkktUUgyQWdjd0FiUnl1UmtDc0NoT2gzU3c4UW1xcDdXemFDSzFGRkFST3lIbHYyWjNLenk3bzRsOVQ5SEN5Y1VScFR5UE1zbk9qaUlzYzlCRzJVTWRmSWpLem9DMGIydmg4cTl2ajNtdTlNdDIzV2g2Y1h3WmRlbldVOUFSQkhKZFROOTJIUmk00gHHAUFVX3lxTE1aN0s4SF9KNzJpN3JfbVZWNldyNVFwR0JreGM1NndEVjI3NHNkWjRuV2NVT09DZGZEYlJfMElSSS1RSDJBZ2N3QWJSeXVSa0NzQ2hPaDNTdzhRbXFwN1d6YUNLMUZGQVJPeUhsdjJaM0t6eTdvNGw5VDlIQ3ljVVJwVHlQTXNuT2ppSXNjOUJHMlVNZGZJakt6b0MwYjJ2aDhxOXZqM211OU10MjNXaDZjWHdaZGVuV1U5QVJCSEpkVE45MkhSaTQ?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORm1KV2dCNVRucHJ3RHlyZV8yeHZsUHNWSlRzc0F0TUtuTEFtV1hDVWdIM3l3cGhSNXJOZXljOXZsbWVXVFZ5cDU1Mk1Zb3lvY1hCSkphbEtzNzdvdVFMYUN6aUlRUUdxY0E3NkVSODV2QURjUmVhUU5Db2NnTHJaeTNEZEhwbUJBaTJQMkdJbXo2Rnc0ZEh2S3RpZ3M5Q0pFYmlWUi00RlZZSERkVFZlb0dQejk5RGg0ODZuVFA4V1BkQTB5Nzgw0gHHAUFVX3lxTE1aN0s4SF9KNzJpN3JfbVZWNldyNVFwR0JreGM1NndEVjI3NHNkWjRuV2NVT09DZGZEYlJfMElSSS1RSDJBZ2N3QWJSeXVSa0NzQ2hPaDNTdzhRbXFwN1d6YUNLMUZGQVJPeUhsdjJaM0t6eTdvNGw5VDlIQ3ljVVJwVHlQTXNuT2ppSXNjOUJHMlVNZGZJakt6b0MwYjJ2aDhxOXZqM211OU10MjNXaDZjWHdaZGVuV1U5QVJCSEpkVE45MkhSaTQ?oc=5",
       "fuente": "Mediotiempo",
       "fechaISO": "2026-10-25T02:08:00.000Z",
       "categorias": [
@@ -473,14 +486,18 @@
       "tambienEn": []
     },
     {
-      "titulo": "América Femenil le propina una goleada de escándalo al Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUU8wX2JlRi1RTWpvM2NKaFdEd2JxTFFQSGpnTkpaMWxiUzJjZTJFUlNZS0VqWkVSazNQZjhnVzZBcWdPMGxZUVBFTXFBZzNGYkQ2YVZSeWxxUlVZRFFsSE42anBUYmgzRFFOOFFrZzEtdDZ4UEZfLUpzLUV6RDZBRmpjemtCNHJpVnNrMGtLS1F2WFFYTnE0LXYxcjN2T1l1UDdFakxDUV9XdXl2SzdHUGtRU1c?oc=5",
-      "fuente": "Potosinoticias.com",
-      "fechaISO": "2026-10-25T01:21:18.000Z",
+      "titulo": "Despedaza América al Atlético de San Luis Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVN1VGM4Ry1acXB5N3FVRlZjdTRnenVHa2swUndQR2toY3FQaHd0d0dncm1lWFlYNTkwVTJ2cEwxa3RIbWRjYVB2ZGp1YnNoWXhXcmdpZHZiYjBqOHpkZmhMcml6TFhVNWh0cTJ6WFY0UEtJWG9IYkFNellmc3JtQlFFMnp2YVRrOE1z?oc=5",
+      "fuente": "Reforma",
+      "fechaISO": "2026-10-25T02:05:49.000Z",
       "categorias": [
         "Femenil"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Sol de México",
+        "El Sol de México",
+        "Potosinoticias.com"
+      ]
     },
     {
       "titulo": "América destroza al San Luis con 7 goles en la Liga Femenil BBVA",
@@ -916,6 +933,8 @@
         "Partidos"
       ],
       "tambienEn": [
+        "El Sol de México",
+        "El Sol de México",
         "sdpnoticias",
         "El Sol de México",
         "El Sol de México",
@@ -923,17 +942,16 @@
         "Reporte Indigo",
         "Mediotiempo",
         "Mediotiempo",
-        "El Sol de México",
         "TUDN",
         "TUDN",
         "TUDN",
-        "El Sol de México",
         "TUDN",
         "El Heraldo de México",
         "La Crónica de Hoy",
         "El Sol de México",
         "ABC Noticias",
         "El Heraldo de México",
+        "Águilas Monumental",
         "Mediotiempo",
         "EL GRÁFICO",
         "La Crónica de Hoy",
@@ -1013,16 +1031,6 @@
       "fechaISO": "2026-10-23T06:55:12.000Z",
       "categorias": [
         "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlante y San Luis deben ganar para mantener vivas sus esperanzas de liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRHEwM3d0TGgwRjVCMGIyMzFYLXZSWk5jNExrR3Rqa05pdkN3Wlg0SzdaTHdHMThKVGMxXzFsR2hVaHBhMFVSSzVjVVNkR2pJVVBxVXRONk9vd3FSa2lQUEg1dWF6cGxaOUlYdDVqb0VjaGotVG5UUU5oN2dtbmdMZ3RBbzh1Wnl5VnBIR1ZJY0VCeHhGaElhT2cwWTBkSE1mal9fMVkxLW5PZy02UUVPWEZrZjdqcU1BcWM4?oc=5",
-      "fuente": "88.9 Noticias | Noticias en Vivo | Información Que Sirve",
-      "fechaISO": "2026-10-23T04:39:52.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     }

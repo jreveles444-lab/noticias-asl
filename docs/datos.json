@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-26T00:47:07.270Z",
+  "generadoISO": "2026-10-26T02:11:19.969Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -178,6 +178,18 @@
     },
     {
       "rank": 3,
+      "equipo": "Atlas",
+      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png",
+      "pj": "14",
+      "g": "7",
+      "e": "3",
+      "p": "4",
+      "dg": "-1",
+      "pts": "24",
+      "nosotros": false
+    },
+    {
+      "rank": 4,
       "equipo": "Toluca",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
       "pj": "14",
@@ -189,7 +201,7 @@
       "nosotros": false
     },
     {
-      "rank": 4,
+      "rank": 5,
       "equipo": "Cruz Azul",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
       "pj": "13",
@@ -201,7 +213,7 @@
       "nosotros": false
     },
     {
-      "rank": 5,
+      "rank": 6,
       "equipo": "León",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
       "pj": "14",
@@ -210,18 +222,6 @@
       "p": "4",
       "dg": "+3",
       "pts": "22",
-      "nosotros": false
-    },
-    {
-      "rank": 6,
-      "equipo": "Atlas",
-      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png",
-      "pj": "13",
-      "g": "6",
-      "e": "3",
-      "p": "4",
-      "dg": "-2",
-      "pts": "21",
       "nosotros": false
     },
     {
@@ -300,11 +300,11 @@
       "rank": 13,
       "equipo": "Puebla",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
-      "pj": "13",
+      "pj": "14",
       "g": "4",
       "e": "4",
-      "p": "5",
-      "dg": "-4",
+      "p": "6",
+      "dg": "-5",
       "pts": "16",
       "nosotros": false
     },
@@ -491,7 +491,6 @@
       "tambienEn": [
         "El Heraldo de México",
         "El Sol de México",
-        "El Sol de México",
         "sdpnoticias",
         "El Sol de México",
         "Récord",
@@ -501,8 +500,8 @@
         "TUDN",
         "El Informador",
         "TUDN",
-        "El Sol de México",
         "TUDN",
+        "El Sol de México",
         "La Crónica de Hoy",
         "365Scores",
         "EL GRÁFICO",
@@ -520,7 +519,7 @@
       ],
       "tambienEn": [
         "Telediario",
-        "Milenio"
+        "MILENIO"
       ]
     },
     {
@@ -530,6 +529,16 @@
       "fechaISO": "2026-10-24T16:43:00.000Z",
       "categorias": [
         "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlante cae en casa frente a San Luis y Necaxa igualó frente a los Bravos de Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXpVdW9aQ1RHZFJ6YjRXYVNYS0g5ZEFLYUhjSlNsV3E3SFMyYVE2MV9FRFpwWTVFajFoVjYwVjlDaHB0WjB6UWMyREdBUkZBNnlKYkJEQnFpXzVGYzFOb3hjZ0hQOEduajBFRDE2VzIzdUs0RWxZeGt6ZVBvYXVqdWw0dzJuVzlmTkpienNBYjd0NXpDaTNPWUx1Y20yOXMtV0taQ3Jvd2QtTDcx?oc=5",
+      "fuente": "24-horas",
+      "fechaISO": "2026-10-24T15:47:24.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     },
@@ -598,6 +607,16 @@
       "categorias": [
         "Femenil",
         "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis saca importante triunfo de visitante ante Atlante",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUxPanNQd213N2dELVJfWDZiNDdMQVlBUXRqSEhhN2J3NGdCS3ozZm5TN3FUVlhESFFwOWM1VUtLZUJjY1F5aGlIdmZvM3h0NjdncEVsWEQtbVU0YzBKV1duUkJFNVAtZmxGUHFhdTFBbWZEUVJ0RExzYXBhVHVLNTBTT0dob0RTdmZGVmx5UUEzVTJlRE9ZZ1hIN3REQQ?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-10-24T05:42:03.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     },
@@ -697,9 +716,7 @@
       ],
       "tambienEn": [
         "La Verdad de Tamaulipas",
-        "NNC.MX",
-        "El Informador",
-        "La Lista"
+        "El Informador"
       ]
     },
     {
@@ -864,16 +881,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "San Luis en el Azteca: la historia también juega esta noche | Columna de Arturo Mena “Nefrox”",
-      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oODMwYTJPWFlDZFhLTXBnc2FHVzI3bkdXX3VNWTB2Z3lfbnRQcG9DUmQxMFN2RlA1MnpuWDhRSUtxVms3cWFrTjBHcjFKLWk1SnpmY2JiRjZ6REIwZk96eWZwZjQ3NUphVmJFOHRhVWZnc3I3NUpyTzNqSQ?oc=5",
-      "fuente": "La Orquesta",
-      "fechaISO": "2026-10-23T17:19:45.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Cómo ver Atlante vs Atletico de San Luis: Detalles del partido, cadenas de TV, streaming en direct y más",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaVJJOVc2MmpzRmd3OVdWS1QyeVQyLWUzSVV4MnZUSmRldVlENHk0WkxWcEhOOEJtRFZiM2t6YUZWc29WR0U2NURRcU1OZVFHTEJBYkJNdzl6Q1pCaUJNMnltaEF2VHFlT09MUzkwSVVJTkh5a1BFM3VrRnNQWkNubERKcldfbHBGbFpsNFZWQ3VJRXFIR2hWSDZMWUF4bDkzcUtxUGc4SQ?oc=5",
       "fuente": "Goal.com",
@@ -917,6 +924,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "¡TRIUNFO EN LA CIUDAD DE MÉXICO!",
+      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkh0NUhZQ1lLMUtCTjZQdWdGb3V4Y2RuREZPR1Q5aUtqdnFld3VLSG5LM1pkMjFEcnRoMjFGYjJTTlBPcmZaT1VzZUc0bTVXNkZucE43QUlvZ05fTThJb0JaUEc3VHdpMVBjaUNna2c1TkczOFowY1JoU0RPVGdtVExR?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-10-23T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Importante compromiso para nuestras potosinas en casa",
       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGJTT19WbTBUY2NTcWFiUjY0MWJTN3JfdE84NVZuREFPTjlNRi1mUW9NYlJhaTlsLTRIZjZmR0xsV1ItdWI4SVFlTFRxamZ6LXhZUWlqOTY4enBXZWhxdVZubk9aQmZ0bkwxSDNrdFpRbGJ4NHJmdk1yOEg3NThZbFVoX0lsel9jTGdOZ3lKUG1mMFRnVUx4Y0stcFBFZW5BMGc?oc=5",
       "fuente": "Atlético San Luis",
@@ -948,14 +965,13 @@
     },
     {
       "titulo": "Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSWF4UUlkVFVrNk92aEpPSTVyVUstVnJzdDR4NG5zUG80ODRsUldyUklvdm91UnNpT2ExYV9xRW9DVzB3blIzMDZ1bThMYWViV05CRUJUOTBtbkw1OWVLQ2FlQmhQQXpEek1lbmhELUJEbllkUWlmcDdyVlRmME1BUXZmY2tTaGNYT01kekxQVi1uUWFvcEhOTDEtMldyaGR1ZzdHUUczYUpXSlM3YzFCWVBaclZpaDBxYUdPUGF6R2RxZ0daZjFDbndFU0JWWVl5b1hwR2RVcWc5QmliRV9aRkg3UjRHRVlfeGgw?oc=5",
-      "fuente": "ESPN México",
-      "fechaISO": "2026-10-21T16:25:27.000Z",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcFdKcE9EWTBlTE5qWGpocVRUbU11MTBXakVrM1ljZko3YXZOZ0ZBZ2pIYzhVWExjT0k5Wkg5YzVRYWNCUnhhdk1MWWFMSVAtQnFlWExMaDJXQjAwYU0tZE8yS09JT0xMT2lPZTR3clpWNC0zTS03emJFT05VZkdlWVVMY2Zyc3BpYWZ1ZlF1QzhwNS1sS2xXN3JTQ3V6NWNVQ094ejdUX3NFQUI0eVJlaWVMV1hIbUdvd3RuMnRDbmlnUXpFTTNQQ2RDVXQ4X1pJMWNuTEwyb29FcmdvdzJCOE1RMU51T0p1N2xyRUdxUHdrd0pXaWZkWHBR?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-10-21T16:03:00.000Z",
       "categorias": [
         "General"
       ],
       "tambienEn": [
-        "ESPN Deportes",
         "elexpres.com"
       ]
     },
@@ -1021,47 +1037,6 @@
         "General"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis-América Femenil: cómo verlo en vivo el 24 de octubre",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGFDWXhQX1N1M0pDR1hKbTljLWRieDhZejRaUURKeTdMXzhwUWd0a2ZOdDM4ZzI5LVVtejlfM1psQWx5WDBtZ0Y2THNBd1pUOHc2b0l6WEFTMDB6TkNlSTJsa3lLb3FSaDhXWFg3c2tNOHhPemtOMktmdnE2dXM1aFJ3ZkVxUVozX1JrQ05aUWZlZXA5TWVLUWRCSEZ6YXNzcDRyTjVyX1hKSnAtSHZZVGVZRzBCVEI1?oc=5",
-      "fuente": "OneFootball",
-      "fechaISO": "2026-10-20T01:21:56.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Dónde ver Atlético San Luis vs Querétaro: Canales y horario del partido de la Liga MX J13",
-      "enlace": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVkFXbktoRVlBRGZpNFV4N2FfLUtBS1BhR2F2aEtDRUlUNVRzbVZ2NzBKck1rZ3UyUlFTcEJfaWJ4RHpJZ1NoMWFMbW9FNkhwWFppazBpMTNJcXVJbGx4SzRqU2VJS0VLLVlTazVFcDRkeTlFOGpfeUh6d2hWcHp5Qng1TVppeVRCRThTOXNvZ21kRHBGa2NKTmZuM3lNN21hc09WcWFRQlRQb1pKdnk0LUtSSzJzeFhpMGsxaWR3aTg3ay1jeEIxTXFLU2RSd182M00xNmljRkY2b0k?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-10-19T21:08:41.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Mediotiempo",
-        "Mediotiempo",
-        "Facebook",
-        "TUDN",
-        "Mediotiempo",
-        "Reporte Indigo",
-        "El Heraldo de México",
-        "Infobae",
-        "TUDN",
-        "sdpnoticias",
-        "Bolavip México",
-        "MARCA",
-        "Facebook",
-        "El Sol de México",
-        "Telediario",
-        "GQ México y Latinoamérica",
-        "Facebook",
-        "Excélsior",
-        "La Crónica de Hoy"
-      ]
     }
   ],
   "comunidad": [

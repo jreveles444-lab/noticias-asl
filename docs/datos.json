@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-27T09:55:12.553Z",
+  "generadoISO": "2026-10-27T10:55:19.608Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -455,16 +455,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis reconoce a Higuera como goleadora histórica",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUlyeWpUQ3RMV2dtbnVkZHRsejZOWk9hSjU3NDk3V0otd0dwM05yQUx3Y09MOTNKQlpNRkxCcHlDS2hUTFJvQWtsdW1BWVRILTd4T3VTWXdKcnFwSW1OMDJsVWFoY0tSUVdQNEo3TGQ1cGx6MDlLcXlQMVBCOXh1dDRVLW1pRXpWZ21jc0JqdEpUX3J6b3Zfd1JURnNsTDdManVJLW40WlJ1ZkNLdzVqQnRqVFQyNkE?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-10-25T22:17:31.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "América aplasta 7-0 al Atlético de San Luis Femenil y complica su cierre de torneo",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNczdiTGJ5dVZaZk0yQ0ZOS1ZRaXNwZWRPbGJRNDdyVmpUWS1YYWd6WXQ4eXdDZHpVYi0yanNETlNJWlBGS3FaTnFscEtiRW16LXRkaVRNUXJabl9DZU1Yb3plNnZGTnIzYi1lTktwRnl0OVlBYzBZb0RuMVU4bTZRdk1fYUgzX0lGV0VNX3RPTzFZWkUtbWhtQV94RXoxekxmWUczR2lwS0JJbllGS1VBdTdDRndfSWpRY1k0TmdDYnF4b0xPZWprXw?oc=5",
       "fuente": "El Universal San Luis Potosí",
@@ -543,15 +533,13 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Sol de México",
-        "Récord",
-        "sdpnoticias",
         "Mediotiempo",
         "Mediotiempo",
         "Mediotiempo",
         "La Lista",
         "NNC.MX",
-        "NNC.MX"
+        "NNC.MX",
+        "TV Azteca"
       ]
     },
     {
@@ -576,6 +564,9 @@
       ],
       "tambienEn": [
         "El Sol de México",
+        "Récord",
+        "El Sol de México",
+        "sdpnoticias",
         "MARCA",
         "Reporte Indigo",
         "TUDN",
@@ -819,11 +810,11 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Mediotiempo",
         "TUDN",
         "TUDN",
         "El Informador",
-        "TUDN"
+        "TUDN",
+        "Infobae"
       ]
     },
     {
@@ -1027,6 +1018,7 @@
       ],
       "tambienEn": [
         "Bolavip México",
+        "Récord",
         "Telemundo"
       ]
     },
@@ -1053,9 +1045,30 @@
         "MARCA",
         "Sports Illustrated"
       ]
+    },
+    {
+      "titulo": "Los potosinos visitan al Atlante",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjY1UUxWVFItLXBQRjNFQVZ6SFlwY25qZVRyc3l0NUgydW5aRm5INU5sdnc3X01uNTVaQTZMQWpFSmZFcnFraUhOMXEyNFBXZ0R5TEExZ0p4VVVfYlBPdE1LY2xDNmY1YV9uMkNFZmYwa2hOOHMzUTMwcG9vSzhQSVFTcHRhQQ?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-10-23T08:19:16.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
+    {
+      "titulo": "La Escuela del Atlético de San Luis compite en la Liga Nacional Juvenil",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRxV3RZeF8xYWZEZTA1djRfWWt0RWQ1Z3JNNDRTaTh2VU9IZTRyTE1KYVJsSG5CTGsxTUhEc3BRZGl3M0g4YXkyMUlwWWtjcnVYVmZvT0o2UFRHSVl3MUJ2YkktMGtfWWllejE4b2hfMlQwakZEdUd3RmI4MnF1dlVBSEloRWtzNjBTdE54dzBzWml4LXNaYmZsbE90YzA?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-10-18T02:10:22.000Z",
+      "categorias": [
+        "Escuela",
+        "Cantera"
+      ],
+      "tambienEn": []
+    },
     {
       "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
@@ -1088,20 +1101,8 @@
       "fuente": "El Sol de México",
       "fechaISO": "2026-07-21T07:00:00.000Z",
       "categorias": [
-        "Cantera",
         "Escuela",
         "Fichajes"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Más de 1,200 jóvenes participarán en la Copa Escuelas ADSL 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUNsQkZSeVRWNmNlQjNEOGtudEV0QXlKZU9nUWptdGZIeXN6T2ZJbUZ5ekUwdXQ5dHA3aGhRQnhpVzBOSFRLd3J0OEhhZFVSTW1HTHk3NzVCazFWNXM0QWVmM2xhOGlNQWhBZm02ajVUTmNHeDhpVmw3QUhkZmtIMXBaOFdIZnRiM1lJWUI5UU9VQlYyU1pGdGVzLWs2SkxZVkhmZW1SRERJQm1LV29nVGF6STg?oc=5",
-      "fuente": "Plano Informativo",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
       ],
       "tambienEn": []
     }

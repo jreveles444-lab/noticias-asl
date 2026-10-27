@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-27T08:55:05.662Z",
+  "generadoISO": "2026-10-27T09:55:12.553Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -373,6 +373,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Habrá clásico potosino en la Copa Promesas",
+      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcC1nWTZvWmd2Z1pyazRUVU84eGxTVVkwM2Q5OF8yUjA4NXMySWFhcDVmSU5YdllmcjNrOHZieXF1NkpTdmlnMzNXTmhGbW04TEczZTJoaVF3N1A1d0R5YlhPVldxOHhidEYxZXFVNzJaYktJSF9USmJ6WU5MVFRPcUIwSjlkd9IBiwFBVV95cUxPSl8weDZqaFNmcFFVS3E5SnczNXJIUlowcmdhVy1fR0F5dTlDUmhUS3R3b2Q3NVFaQk90dUZHdWtIQ1J6cEtyYnlCYXgtZHgxT1Q0aTZoa3FSd0NGRlk2SFloWWVVOVpEZ1l2TlFwckJOMEh0NnRaS29XOW5iQjVGTE1iWkRucGtkRmo4?oc=5",
+      "fuente": "Pulso Diario San Luis",
+      "fechaISO": "2026-10-27T08:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis pelea por la liguilla: así será su cierre del Apertura 2026 - El Sol de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9GWm1OUThnS3lDX1ZXN0VzMTR0bGJsZmJVVjFqblZsZlY4VHBmbWV1b0hqQXRsWk01X1ZR?oc=5",
       "fuente": "Howl.Link",
@@ -448,7 +458,7 @@
       "titulo": "Atlético de San Luis reconoce a Higuera como goleadora histórica",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUlyeWpUQ3RMV2dtbnVkZHRsejZOWk9hSjU3NDk3V0otd0dwM05yQUx3Y09MOTNKQlpNRkxCcHlDS2hUTFJvQWtsdW1BWVRILTd4T3VTWXdKcnFwSW1OMDJsVWFoY0tSUVdQNEo3TGQ1cGx6MDlLcXlQMVBCOXh1dDRVLW1pRXpWZ21jc0JqdEpUX3J6b3Zfd1JURnNsTDdManVJLW40WlJ1ZkNLdzVqQnRqVFQyNkE?oc=5",
       "fuente": "El Sol de México",
-      "fechaISO": "2026-10-25T22:28:31.000Z",
+      "fechaISO": "2026-10-25T22:17:31.000Z",
       "categorias": [
         "Femenil"
       ],
@@ -520,8 +530,7 @@
         "Zona Franca",
         "La Jornada",
         "Potosinoticias.com",
-        "ESPN Deportes",
-        "TUDN"
+        "ESPN Deportes"
       ]
     },
     {
@@ -534,9 +543,15 @@
         "Partidos"
       ],
       "tambienEn": [
+        "El Sol de México",
+        "Récord",
+        "sdpnoticias",
         "Mediotiempo",
         "Mediotiempo",
-        "Mediotiempo"
+        "Mediotiempo",
+        "La Lista",
+        "NNC.MX",
+        "NNC.MX"
       ]
     },
     {
@@ -561,9 +576,6 @@
       ],
       "tambienEn": [
         "El Sol de México",
-        "Récord",
-        "El Sol de México",
-        "sdpnoticias",
         "MARCA",
         "Reporte Indigo",
         "TUDN",
@@ -572,6 +584,9 @@
         "La Crónica de Hoy",
         "El Sol de México",
         "365Scores",
+        "EL GRÁFICO",
+        "Fox Sports",
+        "La Crónica de Hoy",
         "El Informador"
       ]
     },
@@ -583,7 +598,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Milenio"
+      ]
     },
     {
       "titulo": "Atlante cae en casa frente a San Luis y Necaxa igualó frente a los Bravos de Juárez",
@@ -646,9 +663,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "365Scores"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Miguel Herrera pone su futuro en duda tras la derrota del Atlante ante San Luis",
@@ -689,7 +704,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "AS México"
+      ]
     },
     {
       "titulo": "Atlante deja escapar el empate; falla Clar un penalti y San Luis sigue con vida en el Apertura 2026",
@@ -802,11 +819,11 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Mediotiempo",
         "TUDN",
         "TUDN",
         "El Informador",
-        "TUDN",
-        "Récord"
+        "TUDN"
       ]
     },
     {
@@ -816,6 +833,16 @@
       "fechaISO": "2026-10-24T05:01:00.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlante 0-1 San Luis: Resumen, goles y resultado del partido en el Estadio Banorte",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXVnZTRfME1zV2NGVXRZd0xJeWJlbHJOZVdWRXYtQkpORDB5bWY2X2xvdTBzeFNkbzRSa2gxSXJlQXNnSzhRaUJQaVdOZ1d5UE1qaUZYZzREZmRFUWFXWW1haThranVoTWtCVG1vSFRXb3BQN1p4a2NEbkJRU05xT1lndlhCMkswR1VqY1pISFdUTEJucXhzWWhabE55U19NV3U0WlZyQTdOVVA5YWx0djgyRW9qUVlBOHU5b3ZRQkjSAdQBQVVfeXFMUFVNQjBudkVRTzdiTDF3NXBBbFFyby12RU5qeTRfdlg2MkpiYVdGX1FCUkxuaGg0Vmo5Zkp2cERNRTJacVRhY1FkcUFIbWJUU3hPX3VhRmpVbTJJVE5KTFFNSE03N1VFa3lhcklGNDhxVmo2amg0QW95bWh3STlkTDB1b29PRl9LZktDdkY1VUFYYTloaEVjRXBfSnBwMGhjY1hEQXhEWWlabEJydWlFM254ZUlrYzl0NTFPRDRCWl9mUG5sRU51blpqWE0yTUVRWmpia0g?oc=5",
+      "fuente": "AS México",
+      "fechaISO": "2026-10-24T05:00:12.000Z",
+      "categorias": [
+        "Partidos"
       ],
       "tambienEn": []
     },
@@ -905,10 +932,7 @@
         "ESPN Guatemala",
         "Squawka",
         "Bolavip México",
-        "ESPN Deportes",
-        "Squawka",
-        "ESPN Argentina",
-        "Squawka"
+        "ESPN Deportes"
       ]
     },
     {
@@ -991,9 +1015,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "TUDN"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "¿Dónde ver Necaxa vs FC Juárez y Atlante vs Atlético de San Luis? Inicia la Jornada 14 de Liga MX",
@@ -1004,6 +1026,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Bolavip México",
         "Telemundo"
       ]
     },
@@ -1027,28 +1050,9 @@
       ],
       "tambienEn": [
         "TV Azteca",
+        "MARCA",
         "Sports Illustrated"
       ]
-    },
-    {
-      "titulo": "Los potosinos visitan al Atlante",
-      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjY1UUxWVFItLXBQRjNFQVZ6SFlwY25qZVRyc3l0NUgydW5aRm5INU5sdnc3X01uNTVaQTZMQWpFSmZFcnFraUhOMXEyNFBXZ0R5TEExZ0p4VVVfYlBPdE1LY2xDNmY1YV9uMkNFZmYwa2hOOHMzUTMwcG9vSzhQSVFTcHRhQQ?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-10-23T08:19:16.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡ROMÁN TORRES VS. WALTER PORTALES!",
-      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcFNQRkpxM1M5bEJBLVh1dV9fMmtZcXpGbFQ1NG1iT1FGODM0SXQ4RGZ1UDlBeDRQdUtHRm5mSWNyWVJjWlRjQW0zMzNVWVFvazJ1SVhSbkE2WGhlU19wZ3oyN0E5NktaN3paTVZXc2NhUmc5VTR3RnJWTW95VlVXREZVR1U?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-10-23T07:02:36.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1063,19 +1067,9 @@
         "Escuela"
       ],
       "tambienEn": [
-        "OnceDiario"
+        "OnceDiario",
+        "Código San Luis"
       ]
-    },
-    {
-      "titulo": "Copa Escuelas ADSL reunirá a más de mil 200 jugadores",
-      "enlace": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1STR6WEdMam04cUpaWkJUdWxaOXUzTVRHVnY4WGoxRVlFSUJEVUNucVlkNWxwQWNjV18ydkk4cFNlR3dsRmVuUHR1bm0wMmN2UHYyNzFPcXE?oc=5",
-      "fuente": "elexpres.com",
-      "fechaISO": "2026-07-26T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
@@ -1089,17 +1083,27 @@
       "tambienEn": []
     },
     {
-      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
-      "fuente": "Código San Luis",
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-07-21T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela",
+        "Fichajes"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Más de 1,200 jóvenes participarán en la Copa Escuelas ADSL 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUNsQkZSeVRWNmNlQjNEOGtudEV0QXlKZU9nUWptdGZIeXN6T2ZJbUZ5ekUwdXQ5dHA3aGhRQnhpVzBOSFRLd3J0OEhhZFVSTW1HTHk3NzVCazFWNXM0QWVmM2xhOGlNQWhBZm02ajVUTmNHeDhpVmw3QUhkZmtIMXBaOFdIZnRiM1lJWUI5UU9VQlYyU1pGdGVzLWs2SkxZVkhmZW1SRERJQm1LV29nVGF6STg?oc=5",
+      "fuente": "Plano Informativo",
       "fechaISO": "2026-07-21T07:00:00.000Z",
       "categorias": [
         "Cantera",
         "Escuela"
       ],
-      "tambienEn": [
-        "Atlético de San Luis"
-      ]
+      "tambienEn": []
     }
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
@@ -1164,7 +1168,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 41,
+  "totalFuentes": 42,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-28T04:57:44.647Z",
+  "generadoISO": "2026-10-28T05:57:52.711Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -416,6 +416,26 @@
       "tambienEn": []
     },
     {
+      "titulo": "Regla de menores aprieta al Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHdsVXFuNlFvS25vTDNtSXhTN3BIeXJzay1YTkJvbTE2SXZTamFPWm5LM1ZhRGNXWXlxelhFWnNORmNielNkLVdxX19DdDFGVGFMZEd5dkkzM0lhaGljUEc0MTNGdWxtLW5CYVpiYzd2VzF5Z0dqUHpNOE9veENjbVdwM08zRzUtZHh4VnpDSnpfVUdM0gGaAUFVX3lxTE9QUnRCaEctYTRvQlV3Z0NYYVdRYmwxVkgzOTROZFJIV0Nrd0dMRWdXTV9Ea3pvUl9lM1IzYXA3SXRVYXVyUWVzNlg1aGFXeUt0dnk2cVRtWF9TQ3gzY2pQLS1VZXZSM0w5YnczMkpFbGZmeWs4dF95QzNMc21xdWhqNkwwLUVoZ1Q0RWIydU1pTk9RMUw3dExmaVE?oc=5",
+      "fuente": "Pulso Diario San Luis",
+      "fechaISO": "2026-10-27T23:07:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Fleetwood da el campanazo y elimina al Arsenal",
+      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVEttcUpEd01UcFpwRnJKS0Y1dW5SalFGUzF5ZExuaFd6ZDNSMzJqSFZvX01ZWmF0U29ZMmhKTkZQYzhBbUpUY0hzbTdmc2cwcWtQX0s5c0ZMVmVCQUZJWXJJZFFabEROSExvcElRRnNZbkJUMDZncUVaSU1TLXYwN21TRHdKRld1bGZ1b1ZzeUvSAZYBQVVfeXFMTVVzSG5tUkM3Z0hLVVdFTFRkS1JJZGRjR1RZcTIzTGNDcENFVEtFOG5JT2RPQVBsU2hJTXlRV3MyMGQ3aGdQRG8yV09MakxXVHk0bGdRdEZWdTNnZmxnU3I4NnRfTjU1SXdXY0hTdHR2TFZzVTVYd1pRSUtXREpJLVM0YWs0aWwwa0NIS29YWG5LWUFPZ2d3?oc=5",
+      "fuente": "Pulso Diario San Luis",
+      "fechaISO": "2026-10-27T23:07:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Inscríbete a la 7a. Carrera Atlética El Sol de San Luis y una entrada va por nuestra cuenta",
       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc0dmRGJfemlxNXE1NmRXdHJYUml5aUl3bWZkSlNzOHZWSEh6Tnl2MWRFdkwzdlVHUTdyNnN1XzhiNlFCV2VuRjhGWTd3WGRPRlExVHctNFRhMG5zdkp5X1lLSnIzN1MwekpNVnh6V2I1aC1jLS1zNVVOSE81QmtoMm4zWkZhOEZETzd1dmZWNEt6ZVY0VWJhTVZhQWNqNVJVb1l5QWxpNENmQkQ3SWctYTRHNk5pRzlfMGpqLXBCUFZSWUN1ZmZzVkxZZTE0YzVSbm53VXF3aTBtdw?oc=5",
       "fuente": "El Sol de México",
@@ -424,26 +444,6 @@
         "General"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Atlético San Luis vs Atlas EN VIVO: Dónde ver en TV, online y hora | Jornada 15 del Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0NuUXVralV3RzBDVzluNWE0RGRoeVFWWlFPdWd4RTBseVFjbE5jRUpVVEVMandIOG9ZU1FZVER2SnZueHZZT0MtU1FnZUNvNHg2MjY2Q1pSQ0RJX1N2TTVBd21pd2hfTkZENHBoQnNOTXJiVllsSWZBODFINFNneU9LOTJ2cVJQLVpCTnZ3U1JWWXd5a0JtRDlxcktreFV4SlFLRURQR3luNnRhOFloQUE3V2FIZXdsb21MZ0dPc0RhMFA3dGdlWEhWMW44Tk1ZUVc3Vw?oc=5",
-      "fuente": "Fox Sports",
-      "fechaISO": "2026-10-27T21:59:09.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "TUDN",
-        "Bolavip México",
-        "MARCA",
-        "Bolavip México",
-        "Bolavip México",
-        "MARCA",
-        "TUDN",
-        "Telediario",
-        "Telemundo"
-      ]
     },
     {
       "titulo": "Invitan a niños a participar en concurso de dibujo para prevenir riesgos por pirotecnia",
@@ -648,18 +648,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¡DEJA SAN LUIS MORIBUNDO AL ATLANTE!",
-      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3R092Vmdia0hyal9LNlBHRGRUYUY0cHVMZUZVN2xrQ1pfbWRBX09QOXhWMU8xdk1TMlRqQzBxa3VJTmREV2xHci1xaUFyWTgzRVRxTnp3aDdLVmFKc0g1akxPWlVzTG9hd29lVFRmUElxVXpwZnloMw?oc=5",
-      "fuente": "NOTIVER",
-      "fechaISO": "2026-10-24T18:03:56.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "TUDN"
-      ]
-    },
-    {
       "titulo": "Diego Mejía reconstruye al Atlético de San Luis: \"Se está armando una bonita familia\"",
       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzVpbzA1WjZZVUxKZC1GY0RHVDhaV2xWWHdKVHVKT1lZQUs4dVpkcHdsd3NCMVV1VEtYSFBfcFktUmxCTWIyVTlIWGw0MUVTakdES2ctZVdiTTZWQmVrVDVYc0Z6bm9kRDExQTVBM3RnM01aaUdXWE5ZclFidzRvVk9BTlJVSUFQWXJVSFlRN01tV183X0JpdkNiRFFRREhzeDVuRThaMXItUThG0gGsAUFVX3lxTE1YdVdZdy1wdkFXcko1NGlEUkhyeVBzQU9YSElIUVJzeDYyakh1VTJEU2xWbU1mLUdONGR3bFF5MEkzTXo2Nk1DejMyc0VLTGFTMUZ1ZFJINjc2RjhkUzJucnpDc1pSM2o3bEFpQjExVU5PQnk1Y0JfbGtQOXktS2dVRWNlczhZZ0pRS1Y0MUVRODZQYmdfa2phZDhZY3ZINzgwc1NnM2cwZUhFbXY?oc=5",
       "fuente": "MILENIO",
@@ -753,9 +741,7 @@
         "Femenil",
         "Partidos"
       ],
-      "tambienEn": [
-        "ESPN Deportes"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlante perdona a San Luis y complica su pase a la Liguilla con una derrota",
@@ -836,6 +822,16 @@
       "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2VEUmppMmgyMGY2ejVjdTZ2aEhYN1d1WmprckdCMFN4Ni1qenMxVmNzb1I0TENTUXBURzRuRTY4aWpwSVo2QlhseTFMcmxFNk9uRm1fNmw5MnBYc20zMlRHS3Y3aWxGaUNjcmcxRUlNcjRuLV9JSWgyN3JWbzFWS0poSnEwODZxWGJObEs5VWVuZHoyU3g0RXU3NVQ3YlJraWV1eW1GSTI?oc=5",
       "fuente": "Quadratín México",
       "fechaISO": "2026-10-24T05:23:45.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "San Luis deja al borde del abismo al Atlante",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzE2Z3BJR2tISks3VUNoSDh0cE1QbWVzVmM3c00xRE52bG9pbUpKcDFQWnlmaUpUUXlxSllSMW1mQ21fekFkUERidXBMd1pHMFlBQkJGMnEwMWtkZDZ4RGZOLUpsWGZuaEdCMVdaZXhsQk9nZ2UzTFB0bV9ZVXhiTUdtUlgwc05XMWhNSE9Xb1ZVd1FEZXBKbnJCbmw1bmhMUGJKTzJ5MXJEQVo5bnJkMGRsa1h0VkVyRFE?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-24T05:22:02.000Z",
       "categorias": [
         "General"
       ],
@@ -1021,16 +1017,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Resumen Atlante vs Atlético de San Luis: Miguel Herrera cerca de firmar su primer fracaso con golazo de Galdames",
-      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUGRVR1hOZzJlMU1NcG1ZbkZIU1hjMF81N0M5YmVIcng4bldkUWZMTjR4UmVzYjlRcWNpR08zd08wZUJOZFBOdjlLQ19DYkxsaEM4ZnNGcEZQRGxlT21IQmNScUtlTUpMSFRzbmFRRV9KR3BkLTVBdjVSRXEwZV9wQkVOM0xjcG1Hek5vX1JKZjZYVXgtTkxTODJLUUNDY2VWdHpjLU9GbU82SzR5UmlzOU5pcmwwZGdDVHFLQ0JPN2ZtTllsVVZTNkUySGFGMUhFbUNYWTBJUDVMenFSakVFdkhubUFTdnBvd3k1dkU1TVnSAfABQVVfeXFMT0VtNkRZdG12QUs1clg0QWFwcURkZkpPdm5WN3k1eFgtakZYRTVyOUtlV291eE96bWYxR29nM09waVdocjZ3WUNwbHNoU2pJemtFNDNLcE5MRURZcU80M09VQUZYVXVGT3hkY1VxektoXzRPQlVLNG5FYVByZTBzclJUcFVBTE9pSHFmZ3BreXY2dUdZYkE1VlFCRUE3NGNYOW5tRjE2OHRPVEdlRjRkaW83dDFLS3Z5OUlaMk9JZUptdXhSWC1jZVhQS192V1gyWVVCeExRV01vLTM3MEFWa3ZBMHpKQ3oweWtqS3BwTnlu?oc=5",
-      "fuente": "MARCA",
-      "fechaISO": "2026-10-23T21:11:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1110,7 +1096,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
+  "totalFuentes": 35,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

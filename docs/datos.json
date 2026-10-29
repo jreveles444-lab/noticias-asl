@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-29T00:02:38.932Z",
+  "generadoISO": "2026-10-29T01:02:48.669Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -573,16 +573,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Acusan indígenas omisión de la CEDH",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmVPM01reVdqWkJIYTk1clNmQl9tbE9RUTBnMkxDd25hVzJWOGUxR0pSbld3THBPTnFhbGJ1RFc2dUFUcV9xVkdBTzAyTW9ldVVSbDNEb3REM2Y4V0RyRm13Y3E2UFpXZ1gzZzVXSUVJVkptNVRQZzRUNGhHU204YkpIdHdBWlliaXBITnlYRWRiWkdj0gGaAUFVX3lxTFBpR216ZDYxMFpqNkVudmU5a09NSE5lTTkxSUNISWZwUkdZODRVWHB6ZjlDSFlsOGdTQi1OX0ZKdjgwVVFPNzNzcDNIc0VGSGVWVTRaYUE0NF9CRmpuSDlIWWxnc09VdnlpX3pabDR2MzdiN0V2cF93Z0IyWTU0SnljUTQ0Y3hlU0lPS0dJeUNDbHVPRnVmcDZka1E?oc=5",
-      "fuente": "Pulso Diario San Luis",
-      "fechaISO": "2026-10-28T08:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Detectan rituales en los panteones municipales",
       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmE1eHk4ajBiRWFDSm1kaDF4WmRsREFHNm80N1lmUndhS0JyWFBOQzBnZVI1OUczaE54YUJVa3pNaXE3SHdEc2xqejMyZm5QamIxZF9LeS1nYkpXV2EzWWlDM2NrT0Ytd0V6S3ZYSUgzeEFVTkI1c3UwOEpNeG5uU2toeWlLSFJUOHFzeUNlR3RyTEtJNkY0VGlUcldNd9IBowFBVV95cUxQMDAzMnR1Mi1zMWFHbmFMaTR5eDZSc1JKbmNtYUdaWmo2ZGVOSzRRSkkwdjhjVHNuX2R6SF9sc1hUelllT0llS1BaRV92Ri0xTWtWYUxQd002QmdpQXZRbVVWYmw3OWY1QXhhU3pWTWpwY0RUYXk3Z0FGczZOc29LSHpzUlNocy03djltUmtDVHBOcmtfaHUtdjBsRHhoSlZtbThB?oc=5",
       "fuente": "Pulso Diario San Luis",
@@ -696,7 +686,7 @@
       ],
       "tambienEn": [
         "TUDN",
-        "ESPN Deportes"
+        "DAZN"
       ]
     },
     {
@@ -705,7 +695,8 @@
       "fuente": "El Sol de México",
       "fechaISO": "2026-10-28T00:41:35.000Z",
       "categorias": [
-        "Femenil"
+        "Femenil",
+        "Cantera"
       ],
       "tambienEn": [
         "El Universal San Luis Potosí"
@@ -727,9 +718,11 @@
       "fuente": "Pulso Diario San Luis",
       "fechaISO": "2026-10-27T23:07:00.000Z",
       "categorias": [
-        "General"
+        "Cantera"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Entorno Informativo"
+      ]
     },
     {
       "titulo": "De promesa a referente: Eduardo Águila alcanza los 100 juegos con el ADSL",
@@ -928,9 +921,13 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Mediotiempo",
         "TUDN",
         "TUDN",
-        "TUDN"
+        "TUDN",
+        "El Informador",
+        "El Sol de México",
+        "Infobae"
       ]
     },
     {
@@ -952,6 +949,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "NNC.MX",
         "NNC.MX"
       ]
     },
@@ -996,9 +994,41 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¡Se acercan a la Liguilla! Atlético de San Luis consigue su segunda victoria consecutiva al derrotar 1-0 al At",
+      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaEdNaDJDYXBaZlFBY1VpTHVNT3RWTHFURWxkNFNCc2RxWHNTQUhfRml5am1hbTUtM09sSG5IQjFVLUxiOC1vNm1oZC1fVkhnZWJZUEpvQ0xuMU5GdzRxWTIxMVhsSmJFNUxHc2VNTEk4OUNjQzhxd2VTVlRocFN4VDhZRlZMbUV2UkRsd3Rua1M5ci1uUkhBTmh3MC1LMjRxOUNIYnlnc1RBRjk4bmN5NzB3RWlWbDU1U2NyVXEtMklQV0RrX3VocjBnSVI3OGlTMnZIR0JnQUVvd01ZakFhckl5bUxuX0Vac3JGWWQtLU9ES0xLaHY1btIBhgJBVV95cUxQd0F2azZiNDFhV3otV3NjMHEyc2pqWDZPSVRIc3hlNzYyWFZZN0tTcWJVbmJlU0NpNklRemFiYTBqSUlSODFMeXRra0swckpWaXIxdno1cUVaRTJ1OVdnNXhMajBqc2prYTJZb1VIMkp2NzgzNFo0aHJPY0NRbkJ4WHdLbkp3OEFMQWRTS0ZXN010cC0xTXZBZmh6dTVGbGpZTGVoWHM3Y0RnR0pYYXh1VlNsTFlrZXpKVFJQbm5yUkk2bDhSZTlybTY1bkhuQW1vUDdNTkNHRnR0VUZPaDFxU0g0WklVd01RY1dYNUJ3UmNCakYxYk4xUmdDMVNIb0tIRk5PN3J3?oc=5",
+      "fuente": "TV Azteca",
+      "fechaISO": "2026-10-24T02:45:42.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
+    {
+      "titulo": "La Escuela del Atlético de San Luis compite en la Liga Nacional Juvenil",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRxV3RZeF8xYWZEZTA1djRfWWt0RWQ1Z3JNNDRTaTh2VU9IZTRyTE1KYVJsSG5CTGsxTUhEc3BRZGl3M0g4YXkyMUlwWWtjcnVYVmZvT0o2UFRHSVl3MUJ2YkktMGtfWWllejE4b2hfMlQwakZEdUd3RmI4MnF1dlVBSEloRWtzNjBTdE54dzBzWml4LXNaYmZsbE90YzA?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-10-18T02:10:22.000Z",
+      "categorias": [
+        "Escuela",
+        "Cantera"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Copa Escuelas ADSL reunirá a más de mil 200 jugadores",
+      "enlace": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1STR6WEdMam04cUpaWkJUdWxaOXUzTVRHVnY4WGoxRVlFSUJEVUNucVlkNWxwQWNjV18ydkk4cFNlR3dsRmVuUHR1bm0wMmN2UHYyNzFPcXE?oc=5",
+      "fuente": "elexpres.com",
+      "fechaISO": "2026-07-26T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
+      ],
+      "tambienEn": []
+    },
     {
       "titulo": "Las Fuerzas Básicas de Tigres venció al Atlético de San Luis en Zuazua",
       "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNngwaUhEZWx2b1loR0VsU1ItSWlVM0tLdDJGQk5KX05EWXJHaW5kYnpxTHFNdHZEMVltZlhFMlp1NUhHNjEwVlc3bHFCQ0t6RWF0OVFtaG15aGNiOGFYOXVwUFRib1Y4Z3NvMklUODRLRnhWdThHSTRtZzJKYVlEWEpTUHVhOUZUTDBOV2ZWUy16NWY4ZW1KY0lkdC1FY0g5V3ZyTy1FTHBSMW05YVczWnBkV25LbFQwRGNGaTF6MEg1SGxZTnRUSUNoLWppV0V2ZVdYZGhIUzBwQW95SXNjWG96ZkdoR3RycEFzMWNfV1NYVGNrUGJCZ3cycUNuVGQx?oc=5",
@@ -1028,31 +1058,6 @@
         "Escuela"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": [
-        "Atlético de San Luis"
-      ]
-    },
-    {
-      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela",
-        "Fichajes"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
@@ -1076,9 +1081,9 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 22,
+  "totalFuentes": 23,
   "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
+    "YouTube: HTTP 500 (fallo del servidor de origen)"
   ],
   "colores": {
     "rojo": "#c8102e",

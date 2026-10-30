@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-10-30T15:16:15.899Z",
+  "generadoISO": "2026-10-30T16:16:24.384Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -411,7 +411,9 @@
         "El Heraldo de México",
         "365Scores",
         "Infobae",
-        "MARCA"
+        "GQ México y Latinoamérica",
+        "La Crónica de Hoy",
+        "El Comercio Perú"
       ]
     },
     {
@@ -487,6 +489,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Debate",
         "TUDN",
         "TUDN",
         "ABC Noticias",
@@ -497,7 +500,8 @@
         "TUDN",
         "El Universal",
         "MARCA",
-        "Telediario"
+        "Telediario",
+        "Fox Sports"
       ]
     },
     {
@@ -643,16 +647,6 @@
       "tambienEn": [
         "elexpres.com"
       ]
-    },
-    {
-      "titulo": "Atlético de San Luis, el equipo más cerca de cumplir la regla de menores en el Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNDBNaGxtSVlLX0VVZHY3OTk5OUlYdGU0ZXRvVlQzMEJ6aU9YYkp3eVVSenRmanNWYmNwbGVpbXl5dlJoRktXU0F4NkpGMTB1N09jRnRKbFpxVUgtay1iRW4xUTcxZ1pFS29TeWZta0hfajdOOGJBb0hMUXJwTjFfc1hBT2hwR1JQNVFlWldMakV6YnVYWmFLN1dVcDdJSDhLOU5xa0JHRURVRnVOTlZ4UmV3ckRZdkk0M2QxZVRaUnlPbmpCdzJia0ZOa1N4elFwVmVsa0F1U1hIZw?oc=5",
-      "fuente": "Plano Informativo",
-      "fechaISO": "2026-10-27T16:26:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "¿Miguel Herrera se va del Atlante? Directivo del equipo confirma su futuro tras derrota contra Atlético San Luis",
@@ -898,9 +892,7 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "¿Cómo quedó Atlante vs. Atlético San Luis? Resultado del partido de J14 en Liga MX",
@@ -915,7 +907,8 @@
         "El Informador",
         "TUDN",
         "TUDN",
-        "El Informador"
+        "El Informador",
+        "Infobae"
       ]
     },
     {
@@ -953,10 +946,10 @@
       "tambienEn": []
     },
     {
-      "titulo": "¡GOL! anota para Atlético San Luis. Benjamín Galdames",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWJIN20yRmhBQWl3YUR0TllRYWpIdUlCT2pqS3JkeEhtc2NDREVab0owN3Y1VE5yRThqMlRiNmJvWGd5REFSMlRfbkZsaUd4RG52cE8wNmsyV1NvVEhmSFpqLWVyWFdteVRqN1NLUE1hdHdtY1pzTVFUTE5UNGhPRzYtTzU0TWxxQlZTWTVDRWpCQUZJR0ZER3V3?oc=5",
+      "titulo": "¡Gol del Atlético San Luis! ¡Tienen que cerrar el Estadio Banorte! ¡Golazo de Benjamín Galdames!",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUFBZEJNWEdmRFFNWHd5Z0FqbHdaQTU3YXg5Z3FReE9DMVBYd0RnOV9BMmZrTGpSRkVka2tzenV4TXZOSmF3UW9YRndaemY3cWw2OTBkYzNpWHFMZ2RCUkdyUHlDNHNKaEptMGJPWl9qUGRhZ2VmLTVUT19vQjlRUkVjT3gwUkpGYUN2dXloMW14MktZeW5UZzNsdzJpRGFlWS1FRmdSbzFBN2FNaTA4cTJnWFF2MUxiWmxYMXYtNUU4QzdBUkFwMGtWdTk?oc=5",
       "fuente": "TUDN",
-      "fechaISO": "2026-10-24T04:19:11.000Z",
+      "fechaISO": "2026-10-24T04:22:00.000Z",
       "categorias": [
         "General"
       ],
@@ -982,9 +975,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "ESPN Argentina"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis manda a Scarlett Camberos a entrenar al llano",
@@ -1046,7 +1037,7 @@
         "ABC Noticias",
         "El Sol de México",
         "sdpnoticias",
-        "Mediotiempo",
+        "MARCA",
         "TUDN",
         "TUDN",
         "El Heraldo de México",
@@ -1055,9 +1046,9 @@
         "Mediotiempo",
         "La Crónica de Hoy",
         "EL GRÁFICO",
-        "TUDN",
-        "TUDN",
-        "Soy Referee"
+        "Mediotiempo",
+        "Excélsior",
+        "TUDN"
       ]
     },
     {
@@ -1069,9 +1060,30 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Importante compromiso para nuestras potosinas en casa",
+      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGJTT19WbTBUY2NTcWFiUjY0MWJTN3JfdE84NVZuREFPTjlNRi1mUW9NYlJhaTlsLTRIZjZmR0xsV1ItdWI4SVFlTFRxamZ6LXhZUWlqOTY4enBXZWhxdVZubk9aQmZ0bkwxSDNrdFpRbGJ4NHJmdk1yOEg3NThZbFVoX0lsel9jTGdOZ3lKUG1mMFRnVUx4Y0stcFBFZW5BMGc?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-10-23T06:55:12.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
+    {
+      "titulo": "La Escuela del Atlético de San Luis compite en la Liga Nacional Juvenil",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRxV3RZeF8xYWZEZTA1djRfWWt0RWQ1Z3JNNDRTaTh2VU9IZTRyTE1KYVJsSG5CTGsxTUhEc3BRZGl3M0g4YXkyMUlwWWtjcnVYVmZvT0o2UFRHSVl3MUJ2YkktMGtfWWllejE4b2hfMlQwakZEdUd3RmI4MnF1dlVBSEloRWtzNjBTdE54dzBzWml4LXNaYmZsbE90YzA?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-10-17T07:00:00.000Z",
+      "categorias": [
+        "Escuela",
+        "Cantera"
+      ],
+      "tambienEn": []
+    },
     {
       "titulo": "Copa Escuelas ADSL reunirá a más de mil 200 jugadores",
       "enlace": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1STR6WEdMam04cUpaWkJUdWxaOXUzTVRHVnY4WGoxRVlFSUJEVUNucVlkNWxwQWNjV18ydkk4cFNlR3dsRmVuUHR1bm0wMmN2UHYyNzFPcXE?oc=5",
@@ -1110,18 +1122,6 @@
       "categorias": [
         "Cantera",
         "Escuela"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela",
-        "Fichajes"
       ],
       "tambienEn": []
     }
@@ -1188,7 +1188,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
+  "totalFuentes": 35,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

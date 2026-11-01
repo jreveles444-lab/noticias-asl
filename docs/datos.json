@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-01T14:06:54.089Z",
+  "generadoISO": "2026-11-01T15:07:01.610Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -437,8 +437,11 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Mediotiempo",
+        "Fox Sports",
         "AS México",
-        "Fox Sports"
+        "Fox Sports",
+        "Telemundo"
       ]
     },
     {
@@ -450,7 +453,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Fox Sports",
         "Disney Plus",
         "La Verdad de Tamaulipas",
         "Santos Laguna"
@@ -793,22 +795,16 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Récord",
-        "MARCA",
-        "El Heraldo de México",
         "sdpnoticias",
         "AS México",
         "sdpnoticias",
         "Fox Sports",
         "Bolavip México",
-        "Mediotiempo",
         "Fox Sports",
         "Fox Sports",
         "MARCA",
         "MARCA",
-        "Telediario",
-        "TUDN",
-        "Récord"
+        "Telediario"
       ]
     },
     {
@@ -853,6 +849,20 @@
       "tambienEn": []
     },
     {
+      "titulo": "A qué hora y dónde ver Atlético de San Luis vs. Atlas, partido de Liga MX",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMFg1NWpWVFM5ODcxaXZkY0ljX08wcEJNQnpPYzFJeFZ3SWdIekJyVVdiMUpxckFKdUJmMVV1VENwZTIyUWl0d2JneTlWTG9rWWwzUlNBVU1MX3dxd1UzTm9OR0s5REdfWlFyeDZnWWJNRHp1Y0M1MHV1Wl9FMUV5ei1DOUwtT1pvTlFLLThiZzBBWE5CRmZKQlZWWXYzNU1xZk1qUm1XNGw4M0EtTmlwMG1KZFdfVWdXR2hoUVg5WnFUNGVSbTJQZ3FvN3YwU1JSbkozWDN1Ql85Tnlr?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-30T12:51:42.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "NNC.MX",
+        "365Scores",
+        "MARCA"
+      ]
+    },
+    {
       "titulo": "Previa San Luis vs Atlas: Sumar es una obligación",
       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNWhxMkdMbEdudmxiTjJCSnJFTFVPN01jU1c3RU02d2M5Xy1UMFJ4YUJVWFIxU1gtWkpwVmZjUEVlNEpKRWt3YnJBMjEwLVg3Vkw4WTZMcDV0YUVBRklpSjNKVDF4ekZiZTdJTGkxdWN2cEVLLXZBRHpIQ2Nkek5DQUY0aDIxdXVGLV9wSXBqaXpOR3h4QlFGZVVVdG5yaEZVNmZ4R29vdFNaLVVkZURSTUZOc2NXQzMyY01WSDRsYzVDcWl2Vnc?oc=5",
       "fuente": "VAVEL.com",
@@ -880,6 +890,7 @@
         "ABC Noticias",
         "El Informador",
         "TUDN",
+        "365Scores",
         "TUDN",
         "El Universal"
       ]
@@ -915,16 +926,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis vs Atlas: horario y transmisión en México | Liga MX",
-      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSmIzcThXOTN4WkVNM0JsMmJnbGJScHhlSnpSaHBpNzJFaFJnZ1l1aWNJREhOZWQ2U3gzOVM4eUlHUzVFVmJlOWNMSnpjX0MxdFlPakRzTHBJQ0JCbkRrMWszMXdxTFBVXy1nWTFiTlZWRUdiTjF3UkxFa0tKUlUzUTRwZXJPb1FNanJ1VEw5VHFLODQ?oc=5",
-      "fuente": "NNC.MX",
-      "fechaISO": "2026-10-28T01:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético de San Luis, Pumas, Atlas, Pachuca y Xolos sueñan con la Liguilla",
       "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSDJfNXNKMTVsdWhUaUZnVTUybXBoWWRvUTVDcDlMN29MZDFfT19RU3NVRUlYWHpabjYtRXRCQmVSYU1NUHk5Nk1ZYVZWTGw4ZzU5TDhpd2VRWjhrOTEzekhDY1ZTWWZkcWI1MTZvWTJuYVAtMW8tWng4N0lveDExLUFKRl9ZYTZZN1ZQTVVhdzNyZDJrSU5lcTBvb1ZtRjBBMTMtSUJ1YmQyNnhvQjRvT2VOeEtNX09RSzVPVTgtSWVGT04yUWJIeEtoeFA2TmN4ZmhIanpNdndvX3NnLWdCTXF2T1B3a0JVZXliX21Vb2szSHBLWUVlWlVYaw?oc=5",
       "fuente": "OnceDiario",
@@ -942,16 +943,6 @@
       "categorias": [
         "Femenil",
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Complicado encuentro en el Libertad Financiera",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW8tMDl4MXVqaV9aYktrY1FlWmJCX0RwUG9VSkRaelpzclFmTnNVTHI4WGhwX2tqTUlvb0hrcWUtUFJXWktjMFhfRVU5YzFHNjRPLXBBTUhiX3BFR2xfNG8yTEpqRkpiTlVDOGd4OVpCa0hzOU92TVk5MkVsSkR2dndTVTJITTNKSHBva3ppb1pvT3gtLWM4Vg?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-10-25T04:33:30.000Z",
-      "categorias": [
-        "Femenil"
       ],
       "tambienEn": []
     },
@@ -981,43 +972,11 @@
       "fuente": "Reforma",
       "fechaISO": "2026-10-25T02:05:49.000Z",
       "categorias": [
-        "Femenil",
-        "Partidos"
+        "Femenil"
       ],
       "tambienEn": [
-        "El Sol de México",
         "El Sol de México",
         "Código San Luis"
-      ]
-    },
-    {
-      "titulo": "Atlético San Luis vs. América Femenil: dónde y a qué hora ver EN VIVO J12",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFFObERKQlRONmhqV0FmV1oxTjlsWkhtV1lSeUotTUt5QS1qTjZHaTUzRWV6a2syNEZaY2VROXFmS055WW9UUXViQlU5TjJyd3VhMFYxYkpZdFUxbHd4YnFrWXAwZGFESjFpU0k0aXVOVFRQV01rUGZ5TjljN1Q5d3lFLXk3cGxKaGJlM0pVRHRfRGR6dXRVYVpUR0llb3pTdjlwRUpfVkdCN3I3SExVSHV3UTlCa21oRlpZLXlfYmpqVFJtVmNfN0RtNlZuSXM3NWNv0gHTAUFVX3lxTE01LWlhdXp3UUJCWk9hS2p6Q3d4bk1tNVYwdHpfMGFiUTBGSTlONXF1b2dVdTFkdk0tQS1FXzItb1h1Zk0yUklGU3o1OE9xSks3dHFvYTl5LVZtU0NTX2xjWWhtREFIdHlwQnJReGw1eGxfcjIzVEtRYmpTQ1Y0Y3ZOa1pqaklFTW1fNTY0NTVNaC1BUFJDdk1PWTlocWdXOGFpWDBCeFRvSXJZaHM5RHZwbTRySlo0bExTRWpjMEkwQVJqMGllOGhmS1JFQmNsLXFQVE0?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-10-24T22:48:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Récord",
-        "El Sol de México",
-        "El Sol de México",
-        "El Heraldo de México",
-        "sdpnoticias",
-        "Récord",
-        "El Sol de México",
-        "Telediario",
-        "TUDN",
-        "TUDN",
-        "TUDN",
-        "TUDN",
-        "El Informador",
-        "365Scores",
-        "La Crónica de Hoy",
-        "Fox Sports",
-        "La Crónica de Hoy",
-        "Récord"
       ]
     },
     {
@@ -1055,6 +1014,26 @@
       "tambienEn": [
         "ESPN Deportes"
       ]
+    },
+    {
+      "titulo": "Atlante 0-1 Atlético San Luis: Revive las mejores acciones del partido minuto a minuto",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLW9DV19vc1JNZDZ5c3NXd1NGbjRFRk5raG9jUU85eDNCaEtvcHVtRHBpN2tORnJNcDJGOFFwd1JLQlphVl9xLU16N1p4XzgwVkZER0pIREhUX0JZMmhrZEVIR3o3YzVTaXFtalM0SkJSSGZSeHI5UklfYjZJNnNfYW9paGl4RktqN1d3d3BSbS1ITzRXQ0lsR25VVGxjYzU0bUdQektrWVh4dlFfUjFWdm9ZSi1YY3FpQ1VldQ?oc=5",
+      "fuente": "Fox Sports",
+      "fechaISO": "2026-10-24T04:58:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Hora EXACTA para ver el Atlante vs Atlético San Luis y cuánto cuesta asistir al Estadio Banorte, partido de la",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRHNnNXpULTlzZnNlVzVCSFJEX01FZ19UNXhRT3k5S3ZJc2J5TUdXRDYzaWw1YV9MdmlGRG9xYm5ZV1FOaWJEZ25LakpmTkF2V0hRc0FfN0RVd1ZiYWJ3enU4V1QybnJ6QmY3WFZKUDN0WGJTc3p0Y3ZaMnUwamIwb2R6aUlhNWZ2T0JzOWtOYUZXc2Y1REhzTWNaeXg2YWRyNXRfWnJjVU81Y2V6S1Z3amxGSTV3d3lIbldBcEVLeW5uV0w0c1J2UDhTUHJYNzdsZ1VoSVRQN2FxVEt4VE55eDFMeWNHX0pqQm5YZWpxazRqcGlUdGdtR2hB0gGHAkFVX3lxTE90VVJNTkxJYnNoTUc3bG5aVE1UM0lELTBrNHBqNlRKWWtNdzdNYmkxNzFoSUdpN2dFWWRxYmh2LXpxMC1MbkJRRXJKYjh2M19rcHMxTXRVXzBlVjZjRTVXZGdzeGd2dUVUSHZRMkd0aEE1U3cxenR0czRhOXhXTTBWU256OVF6cHh6aERpMllhcVV1bUxGdm9ZYnJ6QXpWX2RqYVlQY1lFUFRpbjJZMzBadF9mXzhCMGYxczBhOHA5cmR0MDE2cVNNbFpvVlhyeGtRR3JUTFNXZjRtX3FEX2FQb25FUHVpMl9UYnhHeEJkb3NWUk1KSXFCY1dZUXdmczVWWUpPWEJr?oc=5",
+      "fuente": "TV Azteca",
+      "fechaISO": "2026-10-23T16:36:13.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1172,7 +1151,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 38,
+  "totalFuentes": 37,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

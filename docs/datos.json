@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-02T03:08:33.708Z",
+  "generadoISO": "2026-11-02T04:08:42.412Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -164,6 +164,18 @@
     },
     {
       "rank": 3,
+      "equipo": "Cruz Azul",
+      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
+      "pj": "15",
+      "g": "9",
+      "e": "2",
+      "p": "4",
+      "dg": "+10",
+      "pts": "29",
+      "nosotros": false
+    },
+    {
+      "rank": 4,
       "equipo": "Atlas",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png",
       "pj": "15",
@@ -172,18 +184,6 @@
       "p": "4",
       "dg": "0",
       "pts": "27",
-      "nosotros": false
-    },
-    {
-      "rank": 4,
-      "equipo": "Cruz Azul",
-      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
-      "pj": "14",
-      "g": "8",
-      "e": "2",
-      "p": "4",
-      "dg": "+9",
-      "pts": "26",
       "nosotros": false
     },
     {
@@ -214,11 +214,11 @@
       "rank": 7,
       "equipo": "León",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
-      "pj": "14",
+      "pj": "15",
       "g": "6",
       "e": "4",
-      "p": "4",
-      "dg": "+3",
+      "p": "5",
+      "dg": "+2",
       "pts": "22",
       "nosotros": false
     },
@@ -507,7 +507,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Sol de México"
+        "El Sol de México",
+        "MILENIO"
       ]
     },
     {
@@ -535,16 +536,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUExiZkJmVzlIYjhpMWJSemMxODd6cEVXb2Z6b1ZZX2pwNlBEVVVIYTJuQlhTVlZmQmRDU3BiVnZCc0JnZzZGWGQ4LUt0d2hvOWN3U0lhRF9TcXUwM1BfUlZSem9LcTQxeHZZZlRFeFlCYk12cmFzX0RuTmw4c3BUb1Axb2hVMTZUbTBsRWFYRGxYSTRjanFtTmdTYmpjNkFQbzFxTzh2QlZ2V1FYWkFTODZKQWJMblZi?oc=5",
       "fuente": "El Universal",
       "fechaISO": "2026-10-31T04:05:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Liga MX: Atlas vence 1-0 al San Luis con gol de Florián Monzón",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHVaSWxncXdwNXdiYmZ4ejMzR3lCMUFRYjFoelY4eEM3YkZiOFF3N3JqRnFXN045ZEY4M2w5azkweUk4NHJtRloxdl9fcXptNTVqMnp0WE5zcENlRERScmFBMFhFNHVNVy1tS25fTXVRZW0xamEwUUdvVmNudUFxZWo4UnhqeUtoRG9IX0U3OVBlRjNndFdKa0Vhb3hRUnhiTTVrSndTVGEzSE1FNDZrVlN3OUhHUQ?oc=5",
-      "fuente": "Debate",
-      "fechaISO": "2026-10-31T03:54:28.000Z",
       "categorias": [
         "General"
       ],
@@ -704,6 +695,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "¡Atajadón de Camilo Vargas! El colombiano salva al Atlas y evita el empate de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFVCOTF5ZUlkYjMxLTBXNHV6Mk5yN09EM0RPckRIUG5PZWxneXktd01Sa05vU2NsdDE3V1RIUFdnYjJMQmE1Y0l5QUFsbl9EX19UYW9pZU02UFhoY3FhNHA2bEdyXzY1S1JWMGJ5UG9GbzluVkp4bFRQNnpWaUxhYVBybTlPdmZOVzBRLVlBVUlZZy1ITFJXek8tZFBkdWdtVEo5Y2RCLTBzM0ZPekJkSWxqUjFRb2xiQWo4VjI2bjBOME1r?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-31T03:02:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atl. San Luis 0-1 Atlas (30 de Oct., 2026) Estadísticas del equipo",
       "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sVGZab0x1ZU82M0VyUFBGOW1aUlpwbGMzUEl3NFd0enNMUy1jU1liRlc4MFZpOGswcFN1d2NYZnZUZGhraF81Z2hEaEZKMy04bmhXTUs4cmlZa1BVelBYaDNtdWdyUUdTZzJxZ1NjTHRCT2h4MV9XLXdFRQ?oc=5",
       "fuente": "ESPN México",
@@ -827,7 +828,6 @@
         "MARCA",
         "sdpnoticias",
         "AS México",
-        "sdpnoticias",
         "Fox Sports",
         "Bolavip México",
         "Mediotiempo",
@@ -835,28 +835,21 @@
         "Fox Sports",
         "MARCA",
         "MARCA",
+        "AS México",
         "Telediario",
-        "TUDN",
-        "Récord"
+        "Fox Sports",
+        "Fox Sports",
+        "La Crónica de Hoy",
+        "TUDN"
       ]
     },
     {
       "titulo": "Día de Muertos ya se celebra en el Atlético San Luis vs Atlas y la afición llega disfrazada",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObUNqcHJnVjlndmRPejA0eXV4TmhiUGcxR1N3eXpvMFNVTk53SDAyTkF6RzNPX3FDSnpCcUViOWlSWUpscmJ4ek9pT0lUZUExRk5CZEs3TnJwcHQtWFpGQUgxX2RSX0x2UDBmUEFWY0lOVHE2bEVPU3ZRWGpfd3FCTVQxcHNjR19CS3FxN2FNcUVKVEtTTkhOSEpvS05HVEptSlFySmFPcGsydWhXaXNXYXdsMkZYcWw4UmpBcFZQOUVtb3k2QWtHQzVMRkJlUTBwY242bU5WX2vSAdgBQVVfeXFMTWtYRzMxMnNHbWpIVEdiRmVVVFctb21ubjdjbVZ1WS00N3dtcDJDVnlYMkJZSmJueFhuMFVCMzZDcnplQ2VkdVZzd3Rsb3E3UkVjVkRzSVl1Z0VYU3g4c2IyRmVQU1UxdkNMdE9Ic3FacEN2bndVNTBMeG1sN00tUkdVR1JuZFljekQxTFh5U1oycVFJUThBWXJXbjB4RUFqWm1aQ2M4ek0tcWo5dmg1eXg1WE9UUkpSVFF1S29Hd2lNSjN3bnltc3lUR1BaTnVGd0R0YWg3ZHl6?oc=5",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObUNqcHJnVjlndmRPejA0eXV4TmhiUGcxR1N3eXpvMFNVTk53SDAyTkF6RzNPX3FDSnpCcUViOWlSWUpscmJ4ek9pT0lUZUExRk5CZEs3TnJwcHQtWFpGQUgxX2RSX0x2UDBmUEFWY0lOVHE2bEVPU3ZRWGpfd3FCTVQxcHNjR19CS3FxN2FNcUVKVEtTTkhOSEpvS05HVEptSlFySmFPcGsydWhXaXNXYXdsMkZYcWw4UmpBcFZQOUVtb3k2QWtHQzVMRkJlUTBwY242bU5WX2s?oc=5",
       "fuente": "MARCA",
       "fechaISO": "2026-10-30T19:09:00.000Z",
       "categorias": [
         "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Desplegarán más de 700 policías para el Atlético de San Luis vs. Atlas",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMnVnV0RRN2pHWS1sdkR3UHVvR0k3ZTl3RURCZXFIOVZtMl9MTjc3dmZyTWtQcVpZTUFDZ0N2bDFjemlySERLSDh2eFQ4RzQ1VEk3LWxmU0ctMGttT2dKR3pPODNEQ19BXzJOR0o0NlFzMVotMHpCY3ZuY2wyam9ra2NVS0N2QmZoT2dTSDBGNjhfRHdzaHc3Nl9teDVlZFpRT0RVaDhubmNhYUE5YjZnLUtxZkdJaHlWZlE?oc=5",
-      "fuente": "Quadratín San Luis Potosí",
-      "fechaISO": "2026-10-30T17:40:00.000Z",
-      "categorias": [
         "Partidos"
       ],
       "tambienEn": []
@@ -916,8 +909,10 @@
         "Facebook",
         "365Scores",
         "Facebook",
-        "MARCA",
-        "Soy Referee"
+        "Facebook",
+        "GQ México y Latinoamérica",
+        "La Crónica de Hoy",
+        "El Comercio Perú"
       ]
     },
     {
@@ -1033,9 +1028,32 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Regla de menores aprieta al Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHdsVXFuNlFvS25vTDNtSXhTN3BIeXJzay1YTkJvbTE2SXZTamFPWm5LM1ZhRGNXWXlxelhFWnNORmNielNkLVdxX19DdDFGVGFMZEd5dkkzM0lhaGljUEc0MTNGdWxtLW5CYVpiYzd2VzF5Z0dqUHpNOE9veENjbVdwM08zRzUtZHh4VnpDSnpfVUdM0gGaAUFVX3lxTE9QUnRCaEctYTRvQlV3Z0NYYVdRYmwxVkgzOTROZFJIV0Nrd0dMRWdXTV9Ea3pvUl9lM1IzYXA3SXRVYXVyUWVzNlg1aGFXeUt0dnk2cVRtWF9TQ3gzY2pQLS1VZXZSM0w5YnczMkpFbGZmeWs4dF95QzNMc21xdWhqNkwwLUVoZ1Q0RWIydU1pTk9RMUw3dExmaVE?oc=5",
+      "fuente": "Pulso Diario San Luis",
+      "fechaISO": "2026-10-27T23:07:00.000Z",
+      "categorias": [
+        "Cantera"
+      ],
+      "tambienEn": [
+        "Entorno Informativo"
+      ]
     }
   ],
   "comunidad": [
+    {
+      "titulo": "La Escuela del Atlético de San Luis compite en la Liga Nacional Juvenil",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlRxV3RZeF8xYWZEZTA1djRfWWt0RWQ1Z3JNNDRTaTh2VU9IZTRyTE1KYVJsSG5CTGsxTUhEc3BRZGl3M0g4YXkyMUlwWWtjcnVYVmZvT0o2UFRHSVl3MUJ2YkktMGtfWWllejE4b2hfMlQwakZEdUd3RmI4MnF1dlVBSEloRWtzNjBTdE54dzBzWml4LXNaYmZsbE90YzA?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-10-17T07:00:00.000Z",
+      "categorias": [
+        "Escuela",
+        "Cantera"
+      ],
+      "tambienEn": []
+    },
     {
       "titulo": "Copa Escuelas ADSL reunirá a más de mil 200 jugadores",
       "enlace": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1STR6WEdMam04cUpaWkJUdWxaOXUzTVRHVnY4WGoxRVlFSUJEVUNucVlkNWxwQWNjV18ydkk4cFNlR3dsRmVuUHR1bm0wMmN2UHYyNzFPcXE?oc=5",
@@ -1076,19 +1094,6 @@
         "Escuela"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": [
-        "Atlético de San Luis"
-      ]
     }
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
@@ -1112,7 +1117,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 42,
+  "totalFuentes": 40,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-03T04:12:45.642Z",
+  "generadoISO": "2026-11-03T05:12:53.059Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -359,6 +359,18 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "León Femenil vence a San Luis pero está fuera de la Liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeEtaYVVvSWZYbXN5a01uUk9XTTFPb2Y0cUM4YldPRk5JWE1YaE1wd0xLaWF6VjIyb2FEME1zZkUtZEdua0x6VVlFaVFxRFNHa2NXYnpxNkI3N0JudVhIN3FXUzF0N2ZOU3c5Q3FMOE9ZdDBLOUk3Tk51RlliQXFwXzhUeWs0RFFsbGNodUNJbXNRLVlFTVliYUV3MFU0bkwyLUNBNE41aw?oc=5",
+      "fuente": "El Heraldo de San Luis Potosí.",
+      "fechaISO": "2026-11-03T04:55:40.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": [
+        "SoyFiera.com"
+      ]
+    },
+    {
       "titulo": "Las Fieras bajan el telón en la guarida con victoria ante San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM1dMY28xdXBsQnJkRHhWWEVsWFF6RmFOLWVPSHlwbkhZZ1dPUGtMX0NqVUZWMm96YWtyS05VRTJpRFVCRk5kOVAxU1RoSWUydXBVejl5ek9iYkVHRW5aY0ZHbE1UV1h4cGpwbkJ1THA5S1pxRkxzd05sdFVQOVFQV3ZLd2dIQWZ5aWUwbUg2Rzl3bkxiUTdVSzJtY1RKQ2ZZVzNrYW5XTTlfNEZQaUd1MHlWdTNRQQ?oc=5",
       "fuente": "El Sol de México",
@@ -412,16 +424,6 @@
         "Atlético San Luis",
         "Excélsior"
       ]
-    },
-    {
-      "titulo": "León Femenil vence a San Luis con golazo de Solange Lemos pero está fuera de la Liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdVkzeHYza2N1NlY0WkVOSnlxcVdtalpWVlQxV0Vtcmh3U3Q5bWJOSm5Dank5blZ3YURwWWhKeUVSSFJSRzd3bVY1SUUwamR6NnEzOW56X0pfc0trcTdhSkRkT3d1NWQ4R0VtRG9id1FWdHFHa1VWaWlROVhPYTVTcVJXUk1wWV9iQUk2ak9IaHBkV2ktaTk1M0pWcTY2eG1KUlR0eG4yV1NVQW5UMk1td1gwRGZHTHZwZ053QkJVRTJLOFBXYjM0ZG94b0lZZkhlRk5uNzA5X04yQThyaE5r?oc=5",
-      "fuente": "SoyFiera.com",
-      "fechaISO": "2026-11-03T03:09:31.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis Femenil visita a León en busca de puntos clave rumbo a la Liguilla",
@@ -558,6 +560,18 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Chivas Femenil arrasa: venció al Atlético San Luis y mantiene su paso perfecto en el AP26",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYWdtUXpOOV9OV2hSWXdqcm1HYWpHMzZjVkp4Rm8tRGxSRndKVWV1OXdZSEo2eHEyRUhobkVyOVBQbE1iS1RhNFVKYkRaXzNSejAzZmdScXhVRl9tNDMtUVBnMkVSaUE4aG1kRlJfSWx2RkQ3XzJXNjF4Ty1HNVVCZ1JCYkctb0xvcVIzb1FOOXBfNzBrOEpqQS1MR0tRQl9KWkR1UDFmaGc5ZS1zMVhXeUhqMGt0c2ZQekhUWEwzZjFxUkdVckNVbFlWanAzQQ?oc=5",
+      "fuente": "Chivas Femenil",
+      "fechaISO": "2026-10-31T16:40:12.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": [
+        "La Jornada"
+      ]
     },
     {
       "titulo": "Atlas venció a Atlético de San Luis 0-1 en la Jornada 15 de la Liga MX",
@@ -1069,17 +1083,6 @@
         "Código San Luis",
         "Canal 7 SLP"
       ]
-    },
-    {
-      "titulo": "América destroza al San Luis con 7 goles en la Liga Femenil BBVA",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczFfZGJ3N19wSWJOYzZBQ2NKaXZhMkZ6SFFpVGpiaENRaDdNYzdaQ1JsZEpEUkVSUzBxN21lMDdLTTBjNThVN3Voc3BURXcyZUZNc1hQOW1ld3hreFV5SWY2SmtnYjlHdE9SaFdqa1NWVm9TdVFiZkZucjU3bUduVlQ5RUl4b0FqUGFHd2FwQTFEQkd3d0ZzX2k4b081b05iSTRpWA?oc=5",
-      "fuente": "sdpnoticias",
-      "fechaISO": "2026-10-24T07:00:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1155,7 +1158,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 39,
+  "totalFuentes": 40,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

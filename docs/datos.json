@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-04T18:10:04.437Z",
+  "generadoISO": "2026-11-04T19:15:19.997Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -715,16 +715,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Liga MX: Atlas vence 1-0 al San Luis con gol de Florián Monzón",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHVaSWxncXdwNXdiYmZ4ejMzR3lCMUFRYjFoelY4eEM3YkZiOFF3N3JqRnFXN045ZEY4M2w5azkweUk4NHJtRloxdl9fcXptNTVqMnp0WE5zcENlRERScmFBMFhFNHVNVy1tS25fTXVRZW0xamEwUUdvVmNudUFxZWo4UnhqeUtoRG9IX0U3OVBlRjNndFdKa0Vhb3hRUnhiTTVrSndTVGEzSE1FNDZrVlN3OUhHUQ?oc=5",
-      "fuente": "Debate",
-      "fechaISO": "2026-10-31T03:54:28.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlas silencia al Atlético de San Luis y escala al segundo puesto",
       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnc5N1NTNWV2ZGxUb0ZaV204OXdZLW1xU3dMUElUWmZhSm8yeE5rVGVRRDdUUkZQQjVvMkltbFRDNDN0NjZqWU5BZDhFWFRwWkx6bWxqeEx0UXoxenRURm9RR19VWnNRQ2xhdmhSRHp0QVg3c2NkX2oySi1uZEZMZ05XaGY2MDA5TEctZnBB?oc=5",
       "fuente": "Amexi",
@@ -1078,6 +1068,16 @@
       "tambienEn": [
         "Atlético San Luis"
       ]
+    },
+    {
+      "titulo": "¡Vive una experiencia de alto rendimiento con Atlético de San Luis!",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDZaWjZTOGtRQzFSV2hHZks3blVLQlRnZU1HUFFDS0RJYlVCUjVNNE5nTTJiMVBVTDViZXpQTFVkQXk0MExzNnhtdnpVekdETTZFNzMza1ZfbmlqbmJBTE5LSy1HM3ZsYXlSWG9mZ2o5NGVQZ3BDMnUzVXFFM1ZJaldUTmdxNlRxWTdnRTZjT1hlNklvM3dmUUhNM1RzSHNBUTlKQmpMSF9RTmtWOG1qYg?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-10-14T07:00:00.000Z",
+      "categorias": [
+        "Cantera"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1193,7 +1193,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
+  "totalFuentes": 35,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

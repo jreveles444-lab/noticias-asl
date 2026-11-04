@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-04T20:15:28.381Z",
+  "generadoISO": "2026-11-04T21:15:36.186Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -359,6 +359,18 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Misión casi imposible: ¿Qué necesita el Atlético de San Luis para meterse a la Liguilla?",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdDNSSEdheDJuV0NNNC04ejdaWFVHQzgtZ0NfaUZzcEJyeG8tcFNTeTdWRXRKZy1TWGowb2ZoaG1BMHdBeHFpSVFkeXNpamtTSmkwT0hYNWw0SF9icktmRVljWGw1dUpiMS1fbnp2RzBMRTBYRmlkaDJtLWRHbmxTaDlYeHN6VFZ2RHMxOTQzTHcxbnQwWm1QZHl2RjA1SmxMRndheTJkVzBZWk92MV9XZU5OWklVdXdkOHM2WlFPRWRNZng0WUZVRTBUMnQ5R2dXaDU4?oc=5",
+      "fuente": "Plano Informativo",
+      "fechaISO": "2026-11-04T21:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "TUDN"
+      ]
+    },
+    {
       "titulo": "Atlético de San Luis vs FC Juárez: a qué hora juegan y dónde ver el partido de la Jornada 16 de la Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYW9jbmRuYWhUaEFxYjlqTFdZVVNxblRnQko4NEdPMFhDQVN1MFBSYTMwZWFOZnMtYXZVQ0EwczFjRTRWZHd0NVp6MnpWTGVaMzg0SUs4LVRKS0pXTGctbGVrb1d3OWtPSnY0NmhEZ0d1bWFtR2VrcHNuckpMOUk3VDI5NUI1VVg5UzlsMkxkeURQLUtvR19kUlRQVEFTUk14RHpLS1ViaWJ0VGZ3UzhfYS1lR2Yxd1ljUTJsZ0J6a2xyMFFlckMxWXYweHhhOVIzNjJfQ0huek96MkItVHpPMHFDVWtjMTFIUXFHbHZnSi0xeTFRUFE?oc=5",
       "fuente": "El Heraldo de México",
@@ -477,6 +489,7 @@
       "tambienEn": [
         "El Sol de México",
         "El Sol de México",
+        "El Sol de México",
         "Récord",
         "ESPN Deportes"
       ]
@@ -534,6 +547,7 @@
         "Récord",
         "El Sol de México",
         "El Sol de México",
+        "El Heraldo de México",
         "Mediotiempo",
         "El Sol de México",
         "Mediotiempo",
@@ -678,6 +692,7 @@
       ],
       "tambienEn": [
         "Disney Plus",
+        "Fox Sports",
         "La Verdad de Tamaulipas"
       ]
     },
@@ -774,9 +789,7 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": [
-        "La Prensa.mx"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis vs Atlas: alineaciones y probabilidades",
@@ -826,16 +839,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Los potosinos van por un nuevo triunfo en casa",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzU0TS0zSmdSeFZlZ1ZJX1EteHhxQUZsdVVQZUstTjRhWXU5MHU1QVdLTTBJSkNVb0dPSGFiOFJaZTEzMWFZblBLUk9CbDlLSlFVWHJoSzlwU3ZSdE1RVGpkOGR5UlZuaGFic2VoZ29jMWFsM3FPNDVuenVxNHlZRVJLRWFNeGM2aTVQV0ZoVmt0bkpVY2dVQw?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-10-30T20:28:10.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "HORA EXACTA para ver Atlético de San Luis vs Atlas este viernes 30 de octubre por la Liga MX; qué necesita el",
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWdhRzZ0UERKZ3BLYmJRQmdPclhzWklLcWxrTXN6OWRzemZJSy1qNWhXYTZiTzJURHN5dm42RVVaM3A4VDlVNDg1YTdrdHMzOXFjSzY4cHp2d01Td1dTZkF1LTRxNXhwMktuTExubGEtbVA3T0dIR2VyWkI5R3EzNzJKd0xZUmpnUnRGOU9XN3dTNW9iSnVmMERSLWp1VE0xYlBiT2NGVTR4cWpGVTdXT09jSWNrdV9Pa3N1NlZR0gHLAUFVX3lxTE1iNUZNdGhsLVRicC1DYTVPSUxLUlUxdDdZcjQzZ2RJMlpmZ1pQU0VNWWJoeWd1TTh0c0xoSGpRQUUwaFoyMzBqNlJma0N1N2w0bUlOaDJpUzYzTlhjaHJTNlRSTnFiTWdGS0hyb1FmcDVoeVBVM282eldZdldmZDJLdkdCTk9MS3dsVGM5ekx0Q1hEY0tYZjdEcDdIejFoUEphSC1FWFRUbTQ4anE0bHpGUU1xM0JNcjlvRW4wcTJUdzRQN19vMnJTNWZz?oc=5",
       "fuente": "TV Azteca",
@@ -855,7 +858,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "TUDN",
         "MARCA",
         "TUDN",
         "Bolavip México",
@@ -930,9 +932,7 @@
       "categorias": [
         "Femenil"
       ],
-      "tambienEn": [
-        "El Universal San Luis Potosí"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "En partido que tiene ver con la 'Liguilla', Atlético San Luis y Atlas abren este viernes la fecha 15 del 'Apertura 2026'",
@@ -1001,19 +1001,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlante vs. Atlético San Luis - Resumen del partido",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmZhMWs5Wm1tWXlYSzlPT1ZjSmxDZmVnTDA1c0tkY1J1Sm95YmRib005bFdiSXVud3o1QlRtOWNYX2YtcG1NU2JrSHFrUFdKQWdUWVdfTVU0MUltcFdpNzF5TUJvSk9HUGR3RUx4WDFLWmdLQkR0TUpBa09lanlEalJyNWpDd3NvdzRfUWhXSkUtX0Zt?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-23T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "365Scores",
-        "El Informador"
-      ]
-    },
-    {
       "titulo": "San Luis deja al borde del abismo al Atlante",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzE2Z3BJR2tISks3VUNoSDh0cE1QbWVzVmM3c00xRE52bG9pbUpKcDFQWnlmaUpUUXlxSllSMW1mQ21fekFkUERidXBMd1pHMFlBQkJGMnEwMWtkZDZ4RGZOLUpsWGZuaEdCMVdaZXhsQk9nZ2UzTFB0bV9ZVXhiTUdtUlgwc05XMWhNSE9Xb1ZVd1FEZXBKbnJCbmw1bmhMUGJKTzJ5MXJEQVo5bnJkMGRsa1h0VkVyRFE?oc=5",
       "fuente": "TUDN",
@@ -1034,17 +1021,26 @@
       "tambienEn": []
     },
     {
-      "titulo": "Resumen: Atlético de San Luis se impone a Querétaro en el Clásico de la 57",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNEw0blNLVjFzblRPM255NnRuMXFoM0o1ckx0dWJoUTFMbVBtZzhncGt3aWNESmlkc3U2WFh6cUJlcmVjMVR3bzcwV3ozYmhPZUx4NDZIdHRQcDlOcldUcmhabXRpSHR2aVV4QmwxVzV5V2ZaYTFfSTdRMmM5UXdGWUpXV2FLWXVmU2F0enRkM3djTHAzUHVET1d2ZGxSV3RkUEN1SXhHWXIzMUh6cUpqeHVoU2ZUZw?oc=5",
+      "titulo": "Atlético San Luis vs. Querétaro - Resumen del partido",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm5pR0xRSHd1dzh3RXR1Z216bTQ0TnJFVVNZaVNLT09TRWNtYTF1VHF2M2stY3Rrai1WakU5UW5fMFVrRTB3M05tRTgyOGY0aXVXWDNMTmNGVFBna1RBQVJhdzNxcXYzWkZZT2pYbzBJQTBxamU3QWFrV0x5UXJheGo0ekx6TEVueWlMLV9VNFpaNnhDbGlGVjN3?oc=5",
       "fuente": "TUDN",
       "fechaISO": "2026-10-20T07:00:00.000Z",
       "categorias": [
         "Partidos"
       ],
       "tambienEn": [
-        "MARCA",
-        "Mediotiempo"
+        "El Informador"
       ]
+    },
+    {
+      "titulo": "Atlético San Luis se queda con el Clásico de la 57 y vence a Querétaro; la afición se vuelca en festejos",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcTBoQVBIN0JHTG9yeVJVLWU5ZnNKZkRUbFhoTU5KLWNHX0UtRmVhQ05Fel9MZDF6c09RMmp6TmtxcjNrcHFYNE5KTnA4Qzk0OWNPN0RpRkw4QWczRFcweXd1YVJwbFdrckdadFE3TS1xVkVmWDUwa21jcERfTWtGTDkwdURpTndUWF8tREp5TkIyQVBncWgySjdRTzJTbGFPMkVMZFVKSlh4Y3ZrazU0dk12LUtPQU5MSE1ucnpOTlgtcjZpYmNR0gHHAUFVX3lxTE0yWkNRb2o1ZmtwV241eHBuNUZKVm5ZU2cyWExGZXpaMWpYSFVKVG14U0ctOWE1TGhadW1VWEFfbDdkeXRPYk1rZ2JTam5zMnRjd2tGRHJDWS1EczlIRmhfaWI3WkRnWHJIc25ISFE1TlVqUjVXQ1VDZHhDVHo5MFc5WkdOVUpCM045VDRYdlRkV0hLeGFSTXIybjY5MXRqbklhS2kxVy02TkNNSERFVHNCWXB0TEJSR1FwX0FPN2ZDZEdMSUZhcDA?oc=5",
+      "fuente": "MARCA",
+      "fechaISO": "2026-10-20T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "¡GOL! anota para Atlético San Luis. João Pedro",

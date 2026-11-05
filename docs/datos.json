@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T02:16:13.517Z",
+  "generadoISO": "2026-11-05T03:16:20.952Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -359,6 +359,18 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Atlético San Luis - FC Juárez | Pronóstico y cuotas 07.11.2026",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3oxX240bzhURTM2RnV6SUs1OEVJSkxtWFZUM2pVRGFkQ3RHem9aWnI4LWNZemdrX2xhbFpMZ1A1cUpfMVRRUEYyWEtYM0NIdTJyajF1a2VsZmh3YVVlNXhjNkNZX0kzWW5GRWNYeThEdlcwWnJTTGtPRUxWZVJ6aDRwLVhFVi01bXdJWVlnY2FhckE?oc=5",
+      "fuente": "Diario AS",
+      "fechaISO": "2026-11-05T02:58:39.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "rcdm.es"
+      ]
+    },
+    {
       "titulo": "Alineaciones de Atlético de San Luis contra FC Juárez",
       "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tYjJ6aG5nSlhmbmFTcXNtc3ItRHBoeW5lQUc1WmRzQmg1TTY5UnJHZzRORHhDTy1PTzRDMjF5Skp3UmZiMEFnQ25iZUJ5eWVTZkt6eE1FYjJIN1BMRDZyY21GN1VyR0M3WW13SExCNnNDNG1CRE9CQXpB?oc=5",
       "fuente": "rcdm.es",
@@ -654,30 +666,10 @@
       ]
     },
     {
-      "titulo": "Apuestas y Pronóstico del Atletico San Luis vs FC Juarez 07/11/26",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR0JVWjRFbnVKNVNDeXd2TVU1WnlyVlBpbXh1bEstVXduWXZqNEtCN0R1aEJTcEI1eTZVenBjdi0wWGtyOGZsdnVFUHlDWW5WelNwVXpvU3BXZHY3eTcwWDdoWnprS1Rsdk5EcDVNeE03ZjVHSXVqbzNGMkxkUHpvM2F6THFxbmVpNmc?oc=5",
-      "fuente": "rcdm.es",
-      "fechaISO": "2026-11-01T13:18:01.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "El DT Diego Mejía no baja los brazos",
       "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CT1JSbko2U1FmcDhfcGdEZWNKU0JIUGdxckN3Y0dDY2dyTUhRclhsZWhhM3IxLXNDZjZMWE5UWDVBNF9fTkFCaDFnVmpDSHNDczRHSjBFT2FibkVITmw1SkU2eV85TjNDTTJuaGl6eUd3Wl9KZ0kyMmtIcUZUd9IBgwFBVV95cUxPZy1NVXFyUGhuRVAwajRfM19samlXRVpwNFY0OXhhNURzZ1gxck5mUUNCN1g0M2ViVHpreUtBVWdjSjBhZ0YwX0d6Wld5UFVsWGxGMDBfSnVyWC1MblVQbEJYSTRJdGlvVUU4aV9HY2kxdTIxVXhjMjdDMG9SSGlweFdJUQ?oc=5",
       "fuente": "Pulso Diario San Luis",
       "fechaISO": "2026-11-01T08:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético San Luis - Atlas Guadalajara | Pronóstico y cuotas 31.10.2026",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEJYa1lwVjNmb0lzaFZ4SGxFSm1BWmU4NGJOZ3JBcXRiRS12WHVSZ09jcUpkb3Rma0JNRElXV1ZiOFFSemN2RnhGS1gtd3gwQ0NTQlQzMUNpVzZPa2h5ZVhYMjRwZ0VsNjNfcmpJcGpLXzZDMV9JSWVqT2ZhUnFQUkJLMVlJMEQ3RFM2NnFkT2twZXpwNml2cFNHbHVHdw?oc=5",
-      "fuente": "Diario AS",
-      "fechaISO": "2026-10-31T21:55:03.000Z",
       "categorias": [
         "General"
       ],
@@ -1069,6 +1061,18 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Femenil defenderá su tercer lugar ante Juárez y América",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTnN0T2tDdzYya2wwampuUGEwWGtBVXFpMmNJUjgyZWRXRVRfZkJKZjlkdXJDc3BITzlFWHN5dmZTZkhmQjBEWVAxRTRVakpBaTRfOUV6MXNzTlMwRHotcWZYd25vY0NXVXBMaHJCaFczcUpOdmVmN0gyQ054bTNwTHJWb2RpRVBPNEtRU09CMHpVX19IVFMwclVQX19DV0VZQUh5SHZkcU5YM1hJeE9yNHBhMGcybGVHSUt6NEk0bklpVWtkNGUw?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-10-14T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": [
+        "Atlético San Luis"
+      ]
     }
   ],
   "comunidad": [

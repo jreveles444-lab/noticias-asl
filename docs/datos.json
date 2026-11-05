@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T06:16:45.417Z",
+  "generadoISO": "2026-11-05T07:17:43.164Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -633,7 +633,7 @@
       "titulo": "León vs San Luis: Pronóstico y posibles alineaciones del partido de la Liga Femenil BBVA",
       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbGdlV0JNekRra181YW95bExOVHYzODdCQkZwb2VadmRUMGhycUxEcTRtUFhpRU1XaVZpZDVqYVRoWTNWUXpURkdra1VDTnJtQmxPdHRuTE5TaVNkb0pnSnNwWk1QellJTURDRWZFMHhNS2JVRlhtckJldFA0X2NmVGhSZ1UwajJrTktPeTlrQW9KRy1EWmZnQnZXdXpxeDhIUkJEMGJVTHZseEhqQTBsN2kyX0dBMW5SQmMzWmxLTHRwZnM?oc=5",
       "fuente": "sdpnoticias",
-      "fechaISO": "2026-11-02T13:11:16.000Z",
+      "fechaISO": "2026-11-02T13:06:00.000Z",
       "categorias": [
         "Femenil",
         "Partidos"
@@ -953,16 +953,6 @@
       ]
     },
     {
-      "titulo": "San Luis, Pumas, Atlas, Pachuca y Tijuana pelearán por los últimos boletos de la Liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVUpBWWZkYmtKY3pxTjlLeHJXaGZvM1Zacy1wV0ZkWWhkTm0wZUd2Y25hRmRONDU5WW5COXVCdUNTTzJXUDdEdE1WT2JRQ0RGRzR3bi0zekdEVEhCOFhnSEdKNENLNE9Fa29LakVydUpwMkgwZ1dIem91MUdwWXVzWHN2cWYtdHNHNFlnM3VHNzBDZE93UU5idUlGcXdsN0paZF9SbUdGeFJYbHFLYm1nekY0c0pFM3FIMVl6ZHA2a1NPWFEtYjkxNXYtaXJUcEVZbzNCWTVUUllzaEJvTFFjb01MTmtzbUJxZnoydG45Z1BQdFl6RndYT3Rtcw?oc=5",
-      "fuente": "OnceDiario",
-      "fechaISO": "2026-10-29T21:43:38.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "En partido que tiene ver con la 'Liguilla', Atlético San Luis y Atlas abren este viernes la fecha 15 del 'Apertura 2026'",
       "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdmVzTWlpNDBmR0Z1bF9CUnJVMloyZjRKclRwbkx2bEVBUGV3UGFkWHpGMmktX2drVllDMzBwazJOZ1VDUUxoY05HcjRtdDcweWx5NFlmRFpEcGtLM3llZVZTTkRBYXVsMnFPc0Znb3N4dDU0eEVzckk1Z1dVUU0zMkdQOUNiTWtPdmg3cm1MM3Bwa09mOEV2UzRJMHdfNVVWS1YyRWFrcnRwTS1LR0k4MTFVdTh3cWlvQ3VGZWQ5VzBPdWo1LUdnaWxWR0VvX3NKYU4wSHpSWnBtN1pmdVFXcU55R0Q4UUVza1p6Y0tiNGJwNE9kQy1UOGJB?oc=5",
       "fuente": "Noticieros GREM",
@@ -1069,6 +1059,16 @@
       "tambienEn": [
         "El Informador"
       ]
+    },
+    {
+      "titulo": "¡GOL! anota para Atlético San Luis. João Pedro",
+      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNml3NDJ5ay1TRTBxNG1TQUNGQzZ4MjNCWGNzbnpQNHlvdW16WFA2OXB1SlNUOUdDNWtobDlrajMxbndzTmZyNC14Q05XZkhOazlUS3UtN05MV3I2bVVsaEx2WE1HcFN6dkZ4QVVENGZIUXBsbFZqY196V0I2UmxXWWsyNmZ1M0lELXA5c0dpYXE?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-19T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [

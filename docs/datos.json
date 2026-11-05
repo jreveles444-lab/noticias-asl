@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T04:16:30.082Z",
+  "generadoISO": "2026-11-05T05:16:38.472Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -433,11 +433,11 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Fox Sports",
         "TUDN",
         "TUDN",
         "Revista GENTE",
         "TUDN",
+        "Fox Sports",
         "Mediotiempo",
         "Récord",
         "Telemundo",
@@ -542,7 +542,6 @@
       "tambienEn": [
         "El Sol de México",
         "El Sol de México",
-        "El Sol de México",
         "Récord",
         "ESPN Deportes"
       ]
@@ -606,6 +605,7 @@
         "MARCA",
         "El Sol de México",
         "Telemundo",
+        "Mediotiempo",
         "Mediotiempo",
         "Soy Referee",
         "TUDN",
@@ -922,7 +922,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "TUDN",
         "TUDN",
         "TUDN",
         "TUDN",

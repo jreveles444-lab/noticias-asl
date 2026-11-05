@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T18:19:01.920Z",
+  "generadoISO": "2026-11-05T19:19:09.768Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -359,6 +359,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Pumas recibirá al Atlético de San Luis en CU para un cierre dramático",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkZMb28zN2lTbURITEdBV3BhcWMteGQ5dTE1eXhhT3pnMWtnQ1NzaV8wWjFIaTd1dkQ1WmF5dzhjVlhhZlZmYk8wamZZN1FMUzdTVUZJWTRyUWEzLWwzWVQwYlVLVkVVM1ZfYk4xS3lUMTNOSm9ySnBVc19mQmxiRlFjZ2RTZndPcHZVS0hMNGNMRmt3RzROdEtTa0xHMC1hN1VZQU5aWWFUWE8zMElXTW1JV2ZTeHlxUmxFNjRIVUFUNGhrbEt5WTBmaUx5OU0xZWpnOTNzNGs5Vm5JbHpuQm1TTjVnZkx4ejhUTlVaQ2pBbkZSdUlPX2NVZTlJV1puU3oxa0h6MTR0UDdQMHcyYlQtZ3EwSWpvSWFHdUxNUV9Kd2x2V0pucEhFMFEwcko3WVNnT1ktZEljUW1oSU5nTDd4WUVzd0d1LVhfNzc4XzdqSWRkUWxlV2I2endYNGNBRmc?oc=5",
+      "fuente": "OnceDiario",
+      "fechaISO": "2026-11-05T18:44:28.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "¿Dónde ver EN VIVO el partido de la J16 San Luis vs Juárez?",
       "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcGd3R0xnWV9hN3lNRWpueXNwbWY4WVZuZGNqa1JsV2lxaTdDWFhfLURZSVNud19LMU9zZEZwZWRIMlR2UWRrTTZxUkpTdzlGTGh2OHJlZmxoUGtkM2UwMDBPYzNQOTk1cURobGxwcWNQaWRrWGhKYUpNM3lFMHdNb2FsT1AzYmhOTU9QVTdnMGhNRFFQN2FmM3oyTGprVWVkMmxyQ2VKaDdlaV9HVmlENHp1NHFhTGMyQ25wZG9EdjI4VW4tTWFLSUl6U1hTYzZuRjQ5QjloWm50OVRCTmh3OXFZcW3SAeoBQVVfeXFMTnNTQ2s0aEwwN04wRTZZazlVcHlXRjkwUndhbHh3UUxsVTNudFljOUtabWFwczdySDZ5SnpISTc5RTdWSnNzTGdaR2tScTRjdXhVT0FKZTNrbDZ3d3AtSG1ObnpDeDBJLWY1X2JDS3N6TW1ZOVQ3dVdiZjdSX0U0MnB6NjRrLW1scjlsS25xRFJ4UEVlNVRfVzFJZi1qb21mZzBWOW91N09Hdi1ZNHdyZE9ZX2lIUkRpWTNXaDJTSE5xTTlOM1lNYXVMQW1BLXdTeFdJOWxWenJ4TGNFbF9CZGljQnBOQlk5WG9n?oc=5",
       "fuente": "El Informador",
@@ -455,7 +465,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Telemundo"
+      ]
     },
     {
       "titulo": "Atlético de San Luis vs FC Juárez: horario y transmisión en México | Liga MX",
@@ -533,8 +545,8 @@
         "El Informador",
         "365Scores",
         "FulBox",
-        "Récord",
         "El Informador",
+        "Récord",
         "Récord",
         "Mediotiempo"
       ]
@@ -559,16 +571,6 @@
       "fechaISO": "2026-11-02T08:00:00.000Z",
       "categorias": [
         "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "El DT Diego Mejía no baja los brazos",
-      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CT1JSbko2U1FmcDhfcGdEZWNKU0JIUGdxckN3Y0dDY2dyTUhRclhsZWhhM3IxLXNDZjZMWE5UWDVBNF9fTkFCaDFnVmpDSHNDczRHSjBFT2FibkVITmw1SkU2eV85TjNDTTJuaGl6eUd3Wl9KZ0kyMmtIcUZUd9IBgwFBVV95cUxPZy1NVXFyUGhuRVAwajRfM19samlXRVpwNFY0OXhhNURzZ1gxck5mUUNCN1g0M2ViVHpreUtBVWdjSjBhZ0YwX0d6Wld5UFVsWGxGMDBfSnVyWC1MblVQbEJYSTRJdGlvVUU4aV9HY2kxdTIxVXhjMjdDMG9SSGlweFdJUQ?oc=5",
-      "fuente": "Pulso Diario San Luis",
-      "fechaISO": "2026-11-01T08:00:00.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -609,16 +611,6 @@
       ]
     },
     {
-      "titulo": "Los Rojinegros del Atlas silencian al Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9panNKTFFubGhac09ULTI5MS04RDJJbEE1TnB4Ri1rYTQxQnI2OUVsbEJYclYzVXhmSlRKNVdPNnZDLVRnNVBRVzVGT0JoanNMSmZudFM1anByR0tJUW14dGpkV2NESWt5RF9ySFVnMi1fR3c3dEt0TWROWFNlaDgxOE5vWFFDUmlpazhoTzlPQjlpYmN1Zll3SHQ5NjA?oc=5",
-      "fuente": "Enfoque Noticias",
-      "fechaISO": "2026-10-31T04:12:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Liga MX: Atlas vence a domicilio al Atlético de San Luis; los Zorros acechan el liderato",
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUExiZkJmVzlIYjhpMWJSemMxODd6cEVXb2Z6b1ZZX2pwNlBEVVVIYTJuQlhTVlZmQmRDU3BiVnZCc0JnZzZGWGQ4LUt0d2hvOWN3U0lhRF9TcXUwM1BfUlZSem9LcTQxeHZZZlRFeFlCYk12cmFzX0RuTmw4c3BUb1Axb2hVMTZUbTBsRWFYRGxYSTRjanFtTmdTYmpjNkFQbzFxTzh2QlZ2V1FYWkFTODZKQWJMblZi?oc=5",
       "fuente": "El Universal",
@@ -636,7 +628,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Hidalgo Sport"
+      ]
     },
     {
       "titulo": "Cae el Atlético de San Luis en casa ante el Atlas por la mínima diferencia",
@@ -649,18 +643,6 @@
       "tambienEn": [
         "Atlético San Luis",
         "Excélsior"
-      ]
-    },
-    {
-      "titulo": "Atlas escala al segundo lugar tras vencer a Atlético de San Luis y Juárez sorprende a Querétaro en la Jornada 15",
-      "enlace": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaTdVQ282S1QwLUJjRE1kcWc0X2p2enM5Z2dnM0hsbEhuWFFFX19SQUdIdnZiMWtEOTYxOXpGeDlsc3h2Q0NQa0l3UFg1ZWoyYU5BY0dsZWpZa0RNX0lkWGtWRTRtV1pZbHFwQmc2VHp6bG52b20xTDdoeXNocFk1aEtyaVNmdkZlbGFvT1ByNDdNRlFic2dFOFZ0NEc4N0g3Y0VINzAwR2RxanROUWNvVVAzWHlpTjJTZjdGSXZRdG9QcUk3VlNkckd3Rkp5cTA1Q1dHR3ZSWkQtTTBDd2pBSnpOTlFCY0RPNVZzejRZR0VVamhOS3VmSw?oc=5",
-      "fuente": "Revista GENTE",
-      "fechaISO": "2026-10-31T03:20:39.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Hidalgo Sport"
       ]
     },
     {
@@ -892,8 +874,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Atlético San Luis",
         "El Sol de México",
+        "Atlético San Luis",
         "El Sol de México",
         "El Sol de México",
         "El Sol de México",
@@ -942,22 +924,13 @@
       ],
       "tambienEn": [
         "Reporte Indigo",
-        "Soy Referee",
+        "Récord",
         "Récord",
         "TUDN",
         "TUDN",
+        "Soy Referee",
         "Facebook"
       ]
-    },
-    {
-      "titulo": "San Luis deja al borde del abismo al Atlante",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzE2Z3BJR2tISks3VUNoSDh0cE1QbWVzVmM3c00xRE52bG9pbUpKcDFQWnlmaUpUUXlxSllSMW1mQ21fekFkUERidXBMd1pHMFlBQkJGMnEwMWtkZDZ4RGZOLUpsWGZuaEdCMVdaZXhsQk9nZ2UzTFB0bV9ZVXhiTUdtUlgwc05XMWhNSE9Xb1ZVd1FEZXBKbnJCbmw1bmhMUGJKTzJ5MXJEQVo5bnJkMGRsa1h0VkVyRFE?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-23T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "¿Quién transmite juego del Atlante vs. Atlético San Luis HOY? Horario y canal EN VIVO partido Jornada 14 Liga MX 2026",
@@ -990,16 +963,6 @@
       "tambienEn": [
         "Mediotiempo"
       ]
-    },
-    {
-      "titulo": "¡GOL! anota para Atlético San Luis. João Pedro",
-      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNml3NDJ5ay1TRTBxNG1TQUNGQzZ4MjNCWGNzbnpQNHlvdW16WFA2OXB1SlNUOUdDNWtobDlrajMxbndzTmZyNC14Q05XZkhOazlUS3UtN05MV3I2bVVsaEx2WE1HcFN6dkZ4QVVENGZIUXBsbFZqY196V0I2UmxXWWsyNmZ1M0lELXA5c0dpYXE?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-19T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis Femenil, en busca una nueva victoria ante las Bravas de Juárez",
@@ -1053,6 +1016,49 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis vence 1-0 al Querétaro y extiende racha sin perder en la Liga Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGJXNDNrS09ucWY3Uk9Rckp6QkhTM3FCV3N1Z2J5eXpjTGROOTFQMlU1aTFneW9BWmdpZXQtdkpaN3I0dDRXY2daYnJZb1hnYVJNeDhsOXVQWFp5U2dWamJPRUVQRG5JeXlHUkt4c2VJSzVGUWhpYWQ4MVo5TmNtSHJkSE9LcDVwVVIwdXFWSzhHUHM1aGM4TzJSNUlCM2RlRjV5WDhRdFlVbjdaRzNmdXlSYkFGV0hSOVh6WGlWV2JKaEs5OS1OZ0NQNzFlY1QwSmgycm1MWnprbWRf?oc=5",
+      "fuente": "La Jornada",
+      "fechaISO": "2026-10-03T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Femenil confirma su buen momento con triunfo en La Corregidora",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1I1TmM4eWRpNk51RzFHR0V6d3ozYWwwd2V5MFY3RVdRUHpsaGNOY01EU2ZKNzdMN3NEZVVMdU4zTXB4cHVZWUFZaGpicm50SkViTW1Od1JncXA2SEtwOFozNE43UXBSbFdMZFFfUU5uOXJ0Z2o3YzRQTE80VFhzc1h4ZWlpUE5TUnVaYzl3b1A2TjZPc0FYMlpvTmFVSm1VZ0hNWXlIUHRsRmJfOXF6dm9ZZkJBeTUwNDJadnFKTlZLTzh0bmZZNklHSl8tdjF0?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-10-03T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Femenil convierte la ilusión en puntos y sueña con su primera liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeU44Q2RrdEVpSnlRUWZFVHN4Ym9tWnBxOWw2aFFnVnNhVHRKMk0wbEZZM2RwSURBS0xvRmhSdXJTSVpNVjkxYjJoblhDYTEyaEZQLThJbW01RkZ0SkY2RGRLWGVFQU44X2UtUFFiMUdwNU9qYVZxMUpSS2l2QWt0LTNEcWF2MmlWaWRIVW43V05FNzJGVzl3eDExRWlxbFljN0NldDNmQm16TThwbXNIbkdDNFNNRGVKRVRMcXM4VThIRlYydEFyOXRSX2IyTVE3WExLOUFIWVVsY2lRejlz?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-10-01T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Calendario Mexican Liga BBVA MX Femenil 2026-27",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jWmtMRDA5X1h0ZHFpUTk4WFduZDM0eldYaVo0d1FsTE1CeUZzdEJQZVdrOC1MdmY2dzF3X3JJY0xIZGJQTFVvcTZOUXBHalo5SW9semZlS3NlYk92bEpLNXppeGY1NGlKalpFNGtfUHo0WDYzVEdIVXBqTHFXQQ?oc=5",
+      "fuente": "ESPN México",
+      "fechaISO": "2026-09-30T00:40:13.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "El Sol de México"
+      ]
     }
   ],
   "comunidad": [
@@ -1112,6 +1118,14 @@
   "comunidadTitulo": "Escuela y comunidad",
   "videos": [
     {
+      "id": "A96M_eTLwWY",
+      "titulo": "ATLÉTICO DE SAN LUIS VS JUÁREZ | SUB21 | AP26 | J16",
+      "enlace": "https://www.youtube.com/watch?v=A96M_eTLwWY",
+      "miniatura": "https://i.ytimg.com/vi/A96M_eTLwWY/hqdefault.jpg",
+      "publicadoISO": "2026-11-05T18:17:18.000Z",
+      "categoria": "Del club"
+    },
+    {
       "id": "4zcA9Ry8Lf8",
       "titulo": "Robson Bambú y Aldo Cruz | Zona Mixta | AP26",
       "enlace": "https://www.youtube.com/watch?v=4zcA9Ry8Lf8",
@@ -1142,14 +1156,6 @@
       "miniatura": "https://i.ytimg.com/vi/acSRfcnpzwQ/hqdefault.jpg",
       "publicadoISO": "2026-11-03T15:22:20.000Z",
       "categoria": "Conferencia"
-    },
-    {
-      "id": "DVj_VavMbS0",
-      "titulo": "Una nueva semana comienza | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=DVj_VavMbS0",
-      "miniatura": "https://i.ytimg.com/vi/DVj_VavMbS0/hqdefault.jpg",
-      "publicadoISO": "2026-11-02T22:45:09.000Z",
-      "categoria": "Entrenamiento"
     }
   ],
   "redes": [
@@ -1170,7 +1176,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
+  "totalFuentes": 35,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

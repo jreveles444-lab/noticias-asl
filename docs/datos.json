@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-04T23:15:50.660Z",
+  "generadoISO": "2026-11-05T00:15:57.591Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -398,8 +398,7 @@
         "MILENIO",
         "Mediotiempo",
         "Récord",
-        "Telemundo",
-        "MARCA"
+        "Telemundo"
       ]
     },
     {
@@ -420,10 +419,7 @@
       "categorias": [
         "Femenil"
       ],
-      "tambienEn": [
-        "El Sol de México",
-        "El Sol de México"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "¡100 VECES ÓSCAR MACÍAS!",
@@ -476,6 +472,24 @@
       "tambienEn": []
     },
     {
+      "titulo": "Despide León Femenil el Apertura 2026 con triunfo ante Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3I0RUk3NVBxcFhuMlk2cmRHZUhpbU9Yc2RlQlJHSXQyQUJZWDdQTWpCU1NXMG05QkFTelkzakxsMWRwcHVvcmF0VGJTdXFKajlxTjFjS19FOHQwQnE2ODN1dnVFY3VMWlZibEczbFVfTk15T3NORWUyMXh6TlhqMjlZV0d0S0VBU05EU25UUGJQNlJ0V3pDaVJmOWEwRE9PQmxRQ0x4NXpCc2M?oc=5",
+      "fuente": "Quadratin Bajío",
+      "fechaISO": "2026-11-03T03:55:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México",
+        "Récord",
+        "ESPN Deportes"
+      ]
+    },
+    {
       "titulo": "Atlético de San Luis Femenil visita a León en busca de puntos clave rumbo a la Liguilla",
       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRWlrUGQ5SDRZdFhFUXVlNExyLUNZQUtQNXAtYVh1RW1HcFI1bGFpSHkwb2dnT0JXemZIMnQ0VFBBRXRROHFMUDFxQmYzRFFUNmhBZjZlelRuRUNCNk9COGp1WjRKaWEyZVFLemUyUFkxanhyS0tsYWNFb3JQRG5JaVg5SE9lLXZjQVAwUmdPZV9FeHlfenE1UGlOX1RQSnkxSzJnc3ZMZ1AwWlFNLUQ4V0J5eHQ1NklzRUJlNHFMQVFMSE05eHd3TWVYMElCaEE?oc=5",
       "fuente": "El Universal San Luis Potosí",
@@ -485,6 +499,7 @@
       ],
       "tambienEn": [
         "Récord",
+        "El Sol de México",
         "Potosinoticias.com"
       ]
     },
@@ -584,16 +599,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¡Atlas ruge en San Luis! Vence 1-0 al Atlético y se coloca segundo del A 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzd0Y2xvYk1GLVo1REg5Ym1NakRFb2dzZXQ3d2FyRjAzaC1KTU43aU9Lai0yM2RJLXJLTlFITkNiMTNyYVlBckVUMldaVm5SUVhDcGlSNFk4eWJsQW91S29sWGQwbjdTWDMtZE16VG5CRnJZRmliZ2NmVmRwa195M2JpR1gtNWJTNF9VSmRxNkw3MkdUV212bGlUbVVfeDVQ?oc=5",
-      "fuente": "CMX Noticias",
-      "fechaISO": "2026-10-31T15:03:21.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlas venció a Atlético de San Luis 0-1 en la Jornada 15 de la Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU01naE52QktxRmRLTXhIYWFWY19GYnczdUExanBOS1U5VHNqQzJJUXRGQk5xVVpycGpPc0Z0RU9zdFNpM0FBWnpoSWVaSmoteWpnNGR4VDRwTmlNSk44cHNHZ2JNR0RyRVJ1V2tndm1EanVBcmt0NVU4bm5kTXRkVU93RFlXWEdQNEdPWmVjV2t6b2FCVWJLWlN1cUlodGNnVWJVX2s4SnFIdWlSdDZ2azE2a1NSTDlabUNCdzJvcmZkRnZYYkVSOVVkOA?oc=5",
       "fuente": "El Heraldo de México",
@@ -605,6 +610,18 @@
         "Disney Plus",
         "Fox Sports",
         "La Verdad de Tamaulipas"
+      ]
+    },
+    {
+      "titulo": "Atlas vence al San Luis y escala al segundo lugar del Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3ZST0FHWnNsdmZyRkpMSFIxcDFqWDE2cTJyRVlNcEkxUDBlOEJPUjhWbUNJaHhwRnlGa0ZiaVdGMWlHMTBxU0R1eUVXdlJsQ1I3ZTBqaHZLdHBsQ0l1Njl4T3dFYU51SENQRzBoN2ZMLXJCMjAwVFJVd3hScTBJcXV4WFdjeHBFX092cFdDM29KVFBkMFkwQjNLUXJPcnRFZ0F0S9IBqgFBVV95cUxQLXRLblpfaUM5T3VySTl6SjlXZnpjblVIZ2NkTERhc1ltcHNPY0Z3UlFvdnZBUmctcjRhdWIyWlJuaUtzSjNORllsRTdmU3dEb3BQUUpld2ozTmJEUTZhQ1V5b250NmFmZVo3ZXctSnVPV3ZWRFNsWVJtLWRsUE0tVmU5MmVHOEU1cGdpam1VY3o3ak1ucVJBd0h3ajYweEJ4dWQzYmlJZDBsUQ?oc=5",
+      "fuente": "Diario de México",
+      "fechaISO": "2026-10-31T07:01:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Hidalgo Sport"
       ]
     },
     {
@@ -648,9 +665,7 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": [
-        "Hidalgo Sport"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Cae el Atlético de San Luis en casa ante el Atlas por la mínima diferencia",
@@ -663,19 +678,6 @@
       "tambienEn": [
         "Atlético San Luis",
         "Excélsior"
-      ]
-    },
-    {
-      "titulo": "Atlas vence a Atlético de San Luis y se mete entre los líderes del Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR0RtelBwM2FDaWVYcnlHc3FxUGN1dmJzWEs0V3N3X0J0QnM0LXBsYXRpZHduV2RTbTh6T3N5dU1hNWhlZEd1OTJBMUkzZVVmR3dId2Q3c1pCMHpOSE9jNy1uTHBNY2tyYVJXRUN0VURqeDdwdEMyc1A2bndyZTl6a3VlQTN5TDdKaHltWlVaamxVTFZhalBNX0hhcUJpSFhiSWhpNzFlU1ZOMEl4VDd0N3NqLXNjVnNEelpiUV9PTktsdGwzSDdGRm05QTJXVFFm?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-10-31T03:20:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "Diario de México",
-        "El Sol de México"
       ]
     },
     {
@@ -796,8 +798,8 @@
       ],
       "tambienEn": [
         "TUDN",
-        "MARCA",
         "Bolavip México",
+        "MARCA",
         "MARCA",
         "TUDN",
         "Telediario",
@@ -890,7 +892,6 @@
       ],
       "tambienEn": [
         "Atlético San Luis",
-        "El Sol de México",
         "El Sol de México",
         "El Sol de México",
         "El Sol de México",
@@ -1052,40 +1053,21 @@
         "Femenil",
         "Partidos"
       ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
+      "tambienEn": []
     },
     {
-      "titulo": "¿Cuándo juega el Atlético de San Luis en el Apertura 2026?",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjEyUXktVGlTYTd1RHBMWkJRdG1mdzM5Zk9UenRYcVlTSko1V3JfSnc0LXNjM3UtVDI5bjR4LThCVVVYdTZNeUo5V3c5NDFOSTdLLV9ia1lrdlhoMUF5MlBoMVczbGx5elN6NHJSVnNGUGo0RUFJWGtVMFlWQVpZUG95THc0UU4tNnNVUE1Bck5IOXFNcHU1a2tuYy1RbnY2UVpVVk1ubXdOU0JUOTNUdzhqMkVpczYwNkRlRXRTZFpzZVMtVWc?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-09-28T07:00:00.000Z",
+      "titulo": "La Previa SportiumBet Tigres Femenil vs. Atlético de San Luis Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGlvVE9QaGlhVFJxUjQwbTF3RHRXMHVSMDI5ZHU1Nk9XVTNSNTBMb0dhaTZ6WDg2ZjBRTC1yWjJQallKUGczVFY5UUJUYjVrNHg0QXBlcFU0eXd0Ql9wWlpWdllpRWV2azdVLUpSeVhkV01mN0drUEFqUGpsRDM3aGt1MG44Qi11RHpmcVZ3V0M1cG1ueDlpVmRQSV81RWJDX09CSnF2c3JNUmM?oc=5",
+      "fuente": "Tigres UANL",
+      "fechaISO": "2026-09-27T16:45:34.000Z",
       "categorias": [
-        "Cantera",
-        "Escuela",
-        "Fichajes"
+        "Femenil",
+        "Partidos"
       ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
+      "tambienEn": []
     }
   ],
   "comunidad": [
-    {
-      "titulo": "¿Cuándo juega el Atlético de San Luis en el Apertura 2026?",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjEyUXktVGlTYTd1RHBMWkJRdG1mdzM5Zk9UenRYcVlTSko1V3JfSnc0LXNjM3UtVDI5bjR4LThCVVVYdTZNeUo5V3c5NDFOSTdLLV9ia1lrdlhoMUF5MlBoMVczbGx5elN6NHJSVnNGUGo0RUFJWGtVMFlWQVpZUG95THc0UU4tNnNVUE1Bck5IOXFNcHU1a2tuYy1RbnY2UVpVVk1ubXdOU0JUOTNUdzhqMkVpczYwNkRlRXRTZFpzZVMtVWc?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-09-28T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela",
-        "Fichajes"
-      ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
-    },
     {
       "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
@@ -1109,6 +1091,18 @@
       "categorias": [
         "Cantera",
         "Escuela"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-07-21T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela",
+        "Fichajes"
       ],
       "tambienEn": []
     },
@@ -1145,7 +1139,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 33,
+  "totalFuentes": 35,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

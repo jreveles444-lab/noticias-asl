@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T03:16:20.952Z",
+  "generadoISO": "2026-11-05T04:16:30.082Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -440,7 +440,8 @@
         "TUDN",
         "Mediotiempo",
         "Récord",
-        "Telemundo"
+        "Telemundo",
+        "MARCA"
       ]
     },
     {
@@ -686,6 +687,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Atlético San Luis vs. Atlas. RESULTADO Jornada 15 Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWR2aXRlMEUyZEpwUVRwbUgxOGpMTXdrQ0dRSHF1MnlqYVI0Sl9KdTFIcUxxR05Ud3V4T0d5cno4d0xkZFNuVVFLcGEwM0dlV0F0bmVGV2lWUjNrQjRJcGtWRF9pblBPcVI1VXJvMllaazNoR0NXcVZGYm15bjV1dHJ2ZmYydlNjaFpRQkY2TnhiUVlSQWZGT1c1ZjRyZ2RNbDZ2NzEwVTdFWUVHS0p2ZUFEV0prVnJfcEl0R1FHd9IBvwFBVV95cUxNOV9PRnhsWHI1ZmtNSUxkYVlGWm5TVVlNUE9DQmVIX1pERWhRN0JlTmFOV0s3SUEwcWtBX1JSdDROcEJjaVdQXzRiZVVrTV9mNDhJVWtDb3M1VXlocVRyRUNLTHRTM0RTMjJjd2FVTmFXdEljOXFjQUJRTll5VVZ5UUV6UTF2NU9QVi15dVBnZU43Uy13eGhSdzFoVFNaSUFKbm1GSE5IWnR6QjdrcWRpbkhPLUF2SXdNcUE5VlUzaw?oc=5",
+      "fuente": "Mediotiempo",
+      "fechaISO": "2026-10-31T09:08:24.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlas venció a Atlético de San Luis 0-1 en la Jornada 15 de la Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU01naE52QktxRmRLTXhIYWFWY19GYnczdUExanBOS1U5VHNqQzJJUXRGQk5xVVpycGpPc0Z0RU9zdFNpM0FBWnpoSWVaSmoteWpnNGR4VDRwTmlNSk44cHNHZ2JNR0RyRVJ1V2tndm1EanVBcmt0NVU4bm5kTXRkVU93RFlXWEdQNEdPWmVjV2t6b2FCVWJLWlN1cUlodGNnVWJVX2s4SnFIdWlSdDZ2azE2a1NSTDlabUNCdzJvcmZkRnZYYkVSOVVkOA?oc=5",
       "fuente": "El Heraldo de México",
@@ -806,8 +817,7 @@
         "ESPN Deportes",
         "Bolavip México",
         "Oddschecker",
-        "ESPN Deportes",
-        "Sports Illustrated"
+        "ESPN Deportes"
       ]
     },
     {
@@ -1061,18 +1071,6 @@
         "General"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis Femenil defenderá su tercer lugar ante Juárez y América",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTnN0T2tDdzYya2wwampuUGEwWGtBVXFpMmNJUjgyZWRXRVRfZkJKZjlkdXJDc3BITzlFWHN5dmZTZkhmQjBEWVAxRTRVakpBaTRfOUV6MXNzTlMwRHotcWZYd25vY0NXVXBMaHJCaFczcUpOdmVmN0gyQ054bTNwTHJWb2RpRVBPNEtRU09CMHpVX19IVFMwclVQX19DV0VZQUh5SHZkcU5YM1hJeE9yNHBhMGcybGVHSUt6NEk0bklpVWtkNGUw?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-10-14T07:00:00.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": [
-        "Atlético San Luis"
-      ]
     }
   ],
   "comunidad": [

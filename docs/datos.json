@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T01:16:05.391Z",
+  "generadoISO": "2026-11-05T02:16:13.517Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -359,6 +359,18 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Alineaciones de Atlético de San Luis contra FC Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tYjJ6aG5nSlhmbmFTcXNtc3ItRHBoeW5lQUc1WmRzQmg1TTY5UnJHZzRORHhDTy1PTzRDMjF5Skp3UmZiMEFnQ25iZUJ5eWVTZkt6eE1FYjJIN1BMRDZyY21GN1VyR0M3WW13SExCNnNDNG1CRE9CQXpB?oc=5",
+      "fuente": "rcdm.es",
+      "fechaISO": "2026-11-05T01:30:05.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Squawka"
+      ]
+    },
+    {
       "titulo": "¡Artemio Olvera es convocado a la Selección Nacional de México Sub-20!",
       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3pMQ3l4TTVYWE9NMTlIdFRpQWlMaDRPdE1lRjVYZE5vcnRabW9lQ1VrS05lZ1E5V2I4VEs0cFAzRGxpM19GbUlqeTFxSFJ5OXVyQ1hyMW52X0wwVXpodTA1cXNsLVNnWTdqZHVwX1JXdDVBRzhLZ2lNSExXbmdJM1hyMUxzM1BxVFE0djhhZVdxYTktNlU5R2ZrZFpfTFFoNFhqMGNvcUNEbGI5SjlIbWlkTQ?oc=5",
       "fuente": "Atlético San Luis",
@@ -662,16 +674,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atletico San Luis vs FC Juarez: Pronóstico, Picks, Momios y Alineaciones",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR1V6SkVCenUwR1pGT2hnZTZZaDNQSEJOb1YyZkh1X29WeWhlVVktR2FWSm9CUWlrR1VyWnhWakxtVmZZZVNIN1NLVXFSVDdYZ0N0TlliS0tnajU2ZnZjbkxJZ3B4Vl9jbGdZaU1NMjlCLVotTklEMTdlUU9TdWU2MjQ0VENXSnRwbWU3LVcxaVVEaHh2?oc=5",
-      "fuente": "Squawka",
-      "fechaISO": "2026-11-01T02:33:25.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético San Luis - Atlas Guadalajara | Pronóstico y cuotas 31.10.2026",
       "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEJYa1lwVjNmb0lzaFZ4SGxFSm1BWmU4NGJOZ3JBcXRiRS12WHVSZ09jcUpkb3Rma0JNRElXV1ZiOFFSemN2RnhGS1gtd3gwQ0NTQlQzMUNpVzZPa2h5ZVhYMjRwZ0VsNjNfcmpJcGpLXzZDMV9JSWVqT2ZhUnFQUkJLMVlJMEQ3RFM2NnFkT2twZXpwNml2cFNHbHVHdw?oc=5",
       "fuente": "Diario AS",
@@ -703,18 +705,6 @@
         "Disney Plus",
         "Fox Sports",
         "La Verdad de Tamaulipas"
-      ]
-    },
-    {
-      "titulo": "Atlas vence al San Luis y escala al segundo lugar del Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3ZST0FHWnNsdmZyRkpMSFIxcDFqWDE2cTJyRVlNcEkxUDBlOEJPUjhWbUNJaHhwRnlGa0ZiaVdGMWlHMTBxU0R1eUVXdlJsQ1I3ZTBqaHZLdHBsQ0l1Njl4T3dFYU51SENQRzBoN2ZMLXJCMjAwVFJVd3hScTBJcXV4WFdjeHBFX092cFdDM29KVFBkMFkwQjNLUXJPcnRFZ0F0S9IBqgFBVV95cUxQLXRLblpfaUM5T3VySTl6SjlXZnpjblVIZ2NkTERhc1ltcHNPY0Z3UlFvdnZBUmctcjRhdWIyWlJuaUtzSjNORllsRTdmU3dEb3BQUUpld2ozTmJEUTZhQ1V5b250NmFmZVo3ZXctSnVPV3ZWRFNsWVJtLWRsUE0tVmU5MmVHOEU1cGdpam1VY3o3ak1ucVJBd0h3ajYweEJ4dWQzYmlJZDBsUQ?oc=5",
-      "fuente": "Diario de México",
-      "fechaISO": "2026-10-31T07:01:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "Hidalgo Sport"
       ]
     },
     {
@@ -758,7 +748,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Hidalgo Sport"
+      ]
     },
     {
       "titulo": "¡Rumbo a Liguilla! Atlas venció a domicilio a Atlético San Luis y está a nada de amarrar su boleto",
@@ -933,7 +925,6 @@
         "TUDN",
         "TUDN",
         "TUDN",
-        "EL GRÁFICO",
         "El Informador",
         "365Scores",
         "TUDN",
@@ -1068,6 +1059,16 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¡GOL! anota para Atlético San Luis. João Pedro",
+      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNml3NDJ5ay1TRTBxNG1TQUNGQzZ4MjNCWGNzbnpQNHlvdW16WFA2OXB1SlNUOUdDNWtobDlrajMxbndzTmZyNC14Q05XZkhOazlUS3UtN05MV3I2bVVsaEx2WE1HcFN6dkZ4QVVENGZIUXBsbFZqY196V0I2UmxXWWsyNmZ1M0lELXA5c0dpYXE?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-19T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1110,10 +1111,10 @@
       "tambienEn": []
     },
     {
-      "titulo": "Más de 1,200 jóvenes participarán en la Copa Escuelas ADSL 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUNsQkZSeVRWNmNlQjNEOGtudEV0QXlKZU9nUWptdGZIeXN6T2ZJbUZ5ekUwdXQ5dHA3aGhRQnhpVzBOSFRLd3J0OEhhZFVSTW1HTHk3NzVCazFWNXM0QWVmM2xhOGlNQWhBZm02ajVUTmNHeDhpVmw3QUhkZmtIMXBaOFdIZnRiM1lJWUI5UU9VQlYyU1pGdGVzLWs2SkxZVkhmZW1SRERJQm1LV29nVGF6STg?oc=5",
-      "fuente": "Plano Informativo",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
+      "titulo": "La segunda edición de la Copa Escuelas Oficiales ADSL está lista para arrancar",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBjYWNHeDhvQldPb29MUkQteHF0SzUyVmFhRTJXRnRDc3hoSWVOMko1VFFJcDhDcGIxamNfd19WbUVTTXZ2Rkd6SUxaS3dCTXBGOXdScWQ2U21uaFJ1T2ZHNDNaclQzXzl2d0JnVjh6c2huekZvZDJaa3NSbFo0c0pxUW9hZ2FTNjg2eGxhSk44dWFpeHBuUUFPOUJ5N0FZaHFjZU4wU090VHVjZWI3RXRUaHNJajFuMllsUHBzRnU?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-07-10T17:27:33.000Z",
       "categorias": [
         "Cantera",
         "Escuela"
@@ -1142,7 +1143,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
+  "totalFuentes": 34,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

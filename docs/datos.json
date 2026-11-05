@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T13:18:24.769Z",
+  "generadoISO": "2026-11-05T14:18:32.001Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -573,12 +573,11 @@
       "tambienEn": [
         "W Radio México",
         "Mediotiempo",
-        "El Sol de México",
         "Récord",
+        "El Sol de México",
         "El Sol de México",
         "El Heraldo de México",
         "Récord",
-        "El Sol de México",
         "Mediotiempo",
         "El Sol de México",
         "MARCA",
@@ -681,7 +680,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Disney Plus",
         "Fox Sports",
         "La Verdad de Tamaulipas"
       ]
@@ -800,6 +798,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "ESPN Deportes",
         "ESPN Deportes",
         "ESPN Deportes",
         "ESPN Deportes",
@@ -923,11 +922,10 @@
         "TUDN",
         "TUDN",
         "TUDN",
-        "EL GRÁFICO",
         "El Informador",
         "TUDN",
-        "365Scores",
         "TUDN",
+        "365Scores",
         "TUDN",
         "FulBox"
       ]
@@ -941,6 +939,18 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis recibe al Atlas para abrir la jornada 15 - El Sol de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnE4NExxeW1mNlViM2dveF85Q3F4MW9KQkk0bTA5MklQSHp4Vk9HNFA1U2FubTNJZEdFblpHU3JZeHYyZEpwRTdvS1BwM3FtTFl4c0hrNFVIUGkwaWF4TXEycWNSbmh3d3ZSXzR3ODlwdDJqbzVqTXdHUVYyV2hqWWhMUXFpOHFkRVpweEpSZnBpUnE2bndGdnVGcXR5T1llOUR1azZSb2JRbGI4YzBRTlJKYw?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-10-29T18:56:44.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Disney Plus"
+      ]
     },
     {
       "titulo": "Despedaza América al Atlético de San Luis Femenil",
@@ -1062,16 +1072,6 @@
       "fechaISO": "2026-10-14T07:00:00.000Z",
       "categorias": [
         "Cantera"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis se ilusiona con el boleto a la Liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjRtUXlYQ1huN0ZvRWJEbUhMSkF6TWRqSGp1Mk5YOVJrd01yUVRZd3ZJRjUxUFZHRDV5ZjJlam9GM2xLcThfeTlGaW83SUxyVmxJajRzelkwRXhzYlU4blBmdllHUVFjWC12b21Ba3J4UVBuWkNuZ1RuQ2JicTZCaENMck5sMGdmX0tKYjhHUUpqcGJqVTZVWkphOTRIYTRlSWEyRXBuT0xOaDgz?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-10-08T07:00:00.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     }

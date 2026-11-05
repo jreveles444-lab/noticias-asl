@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T07:17:43.164Z",
+  "generadoISO": "2026-11-05T08:17:48.794Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -473,19 +473,8 @@
         "Femenil"
       ],
       "tambienEn": [
-        "El Sol de México",
         "El Sol de México"
       ]
-    },
-    {
-      "titulo": "¡100 VECES ÓSCAR MACÍAS!",
-      "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xT1ZjdUlOY25vR1U2STFmZ2Y3ZTA0bHI1TkZ0UHlqM1FOVk9iOXNQTlJuMzFaak9WcTRNOWVtTTFCMlZsa21ROFdzQUdKNTVnTUdmMC12MFlfRU9jUi0wc2NkUUMtVTlNRzN3VG9nbkpRTVVjVFE?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-11-03T23:29:49.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Los cinco equipos que ya están eliminados del Apertura 2026",
@@ -531,16 +520,6 @@
       ]
     },
     {
-      "titulo": "Las Fieras bajan el telón en la guarida con victoria ante San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM1dMY28xdXBsQnJkRHhWWEVsWFF6RmFOLWVPSHlwbkhZZ1dPUGtMX0NqVUZWMm96YWtyS05VRTJpRFVCRk5kOVAxU1RoSWUydXBVejl5ek9iYkVHRW5aY0ZHbE1UV1h4cGpwbkJ1THA5S1pxRkxzd05sdFVQOVFQV3ZLd2dIQWZ5aWUwbUg2Rzl3bkxiUTdVSzJtY1RKQ2ZZVzNrYW5XTTlfNEZQaUd1MHlWdTNRQQ?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-03T04:00:20.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Despide León Femenil el Apertura 2026 con triunfo ante Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3I0RUk3NVBxcFhuMlk2cmRHZUhpbU9Yc2RlQlJHSXQyQUJZWDdQTWpCU1NXMG05QkFTelkzakxsMWRwcHVvcmF0VGJTdXFKajlxTjFjS19FOHQwQnE2ODN1dnVFY3VMWlZibEczbFVfTk15T3NORWUyMXh6TlhqMjlZV0d0S0VBU05EU25UUGJQNlJ0V3pDaVJmOWEwRE9PQmxRQ0x4NXpCc2M?oc=5",
       "fuente": "Quadratin Bajío",
@@ -550,6 +529,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "El Sol de México",
         "El Sol de México",
         "El Sol de México",
         "Récord",
@@ -606,16 +586,15 @@
       "tambienEn": [
         "W Radio México",
         "Mediotiempo",
+        "El Sol de México",
         "Récord",
         "El Sol de México",
         "El Heraldo de México",
-        "Mediotiempo",
         "El Sol de México",
         "Mediotiempo",
         "MARCA",
         "El Sol de México",
         "Telemundo",
-        "Mediotiempo",
         "Mediotiempo",
         "Soy Referee",
         "TUDN",
@@ -835,8 +814,8 @@
       "tambienEn": [
         "ESPN Deportes",
         "Bolavip México",
-        "Oddschecker",
-        "ESPN Deportes"
+        "ESPN Deportes",
+        "Oddschecker"
       ]
     },
     {
@@ -975,6 +954,7 @@
         "Atlético San Luis",
         "El Sol de México",
         "El Sol de México",
+        "Atlético San Luis",
         "Deporte Digital MX"
       ]
     },
@@ -1049,6 +1029,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Jacobo Payán venderá el Estadio Alfonso Lastras Ramírez al Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMGdwdGowU1dTSjR0YzFfTDQ1VXJadnY0dWY4QkhtRXEzZWROSEVUaHJ0dkxxSTJWWF9XUkpLQnJweV9SSFBJRTNhSEJ1MU9TQ2QxbktkSGVaSUcyb19Ka2J0T3hnZlliZ2xFUkd1TnFTVkFnelFyc0RJZHJ3S05OYTVyS3I0cXFVMndpc0FZQ2M0cEhyY0ZEOFpvT05KMHRJbFVLYmZIcGIxazZWYy1oMzU4UkZvYnQ0bnpGbEtKY2p6bG1pYXJVSl9UTGJSVFE?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-10-21T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético San Luis vs. Querétaro - Resumen del partido",
       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm5pR0xRSHd1dzh3RXR1Z216bTQ0TnJFVVNZaVNLT09TRWNtYTF1VHF2M2stY3Rrai1WakU5UW5fMFVrRTB3M05tRTgyOGY0aXVXWDNMTmNGVFBna1RBQVJhdzNxcXYzWkZZT2pYbzBJQTBxamU3QWFrV0x5UXJheGo0ekx6TEVueWlMLV9VNFpaNnhDbGlGVjN3?oc=5",
       "fuente": "TUDN",
@@ -1057,6 +1047,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "365Scores",
         "El Informador"
       ]
     },
@@ -1069,6 +1060,19 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Femenil, en busca una nueva victoria ante las Bravas de Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTJuSWhXUmtRc2VrRDNDOWgyN0NIQ3Job3UtTWZzZmtRTzlmZmllckx3WUZiaHhER1VsNk5PeDJrTHB1dllhZFdoYmphRHRSZTY1U090OEFDbG5GN2JuSnRwZVhFU204SnRwSGRpM0hSd19JenREZUp3ZWtZUGhteWw1Vks2eEU2MjZ5QXJPTWxtcDR5Vkk3MkJycnVXbTVoQ1B2UmxrM2JoTU5IOHpBc0gyZGMtYzN3amMzOVZqQVBIaVhyTlloQm1hcGF0LVU?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-10-17T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Atlético San Luis"
+      ]
     }
   ],
   "comunidad": [
@@ -1124,7 +1128,48 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [],
+  "videos": [
+    {
+      "id": "4zcA9Ry8Lf8",
+      "titulo": "Robson Bambú y Aldo Cruz | Zona Mixta | AP26",
+      "enlace": "https://www.youtube.com/watch?v=4zcA9Ry8Lf8",
+      "miniatura": "https://i.ytimg.com/vi/4zcA9Ry8Lf8/hqdefault.jpg",
+      "publicadoISO": "2026-11-04T23:00:34.000Z",
+      "categoria": "Del club"
+    },
+    {
+      "id": "KaWALDHvr_4",
+      "titulo": "¡Intenso entrenamiento de los arqueros potosinos! | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=KaWALDHvr_4",
+      "miniatura": "https://i.ytimg.com/vi/KaWALDHvr_4/hqdefault.jpg",
+      "publicadoISO": "2026-11-04T22:45:10.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "7RyS3owa-oo",
+      "titulo": "¡Martes! 🔛⚽️ | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=7RyS3owa-oo",
+      "miniatura": "https://i.ytimg.com/vi/7RyS3owa-oo/hqdefault.jpg",
+      "publicadoISO": "2026-11-03T22:15:22.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "acSRfcnpzwQ",
+      "titulo": "Oscar García | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=acSRfcnpzwQ",
+      "miniatura": "https://i.ytimg.com/vi/acSRfcnpzwQ/hqdefault.jpg",
+      "publicadoISO": "2026-11-03T15:22:20.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "DVj_VavMbS0",
+      "titulo": "Una nueva semana comienza | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=DVj_VavMbS0",
+      "miniatura": "https://i.ytimg.com/vi/DVj_VavMbS0/hqdefault.jpg",
+      "publicadoISO": "2026-11-02T22:45:09.000Z",
+      "categoria": "Entrenamiento"
+    }
+  ],
   "redes": [
     {
       "nombre": "X",
@@ -1144,9 +1189,7 @@
     }
   ],
   "totalFuentes": 34,
-  "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
-  ],
+  "avisos": [],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

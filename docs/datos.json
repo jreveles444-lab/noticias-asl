@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T11:18:10.515Z",
+  "generadoISO": "2026-11-05T12:18:17.556Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -1020,16 +1020,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Jacobo Payán venderá el Estadio Alfonso Lastras Ramírez al Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMGdwdGowU1dTSjR0YzFfTDQ1VXJadnY0dWY4QkhtRXEzZWROSEVUaHJ0dkxxSTJWWF9XUkpLQnJweV9SSFBJRTNhSEJ1MU9TQ2QxbktkSGVaSUcyb19Ka2J0T3hnZlliZ2xFUkd1TnFTVkFnelFyc0RJZHJ3S05OYTVyS3I0cXFVMndpc0FZQ2M0cEhyY0ZEOFpvT05KMHRJbFVLYmZIcGIxazZWYy1oMzU4UkZvYnQ0bnpGbEtKY2p6bG1pYXJVSl9UTGJSVFE?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-10-21T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético San Luis vs. Querétaro - Resumen del partido",
       "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm5pR0xRSHd1dzh3RXR1Z216bTQ0TnJFVVNZaVNLT09TRWNtYTF1VHF2M2stY3Rrai1WakU5UW5fMFVrRTB3M05tRTgyOGY0aXVXWDNMTmNGVFBna1RBQVJhdzNxcXYzWkZZT2pYbzBJQTBxamU3QWFrV0x5UXJheGo0ekx6TEVueWlMLV9VNFpaNnhDbGlGVjN3?oc=5",
       "fuente": "TUDN",
@@ -1072,6 +1062,16 @@
       "fechaISO": "2026-10-14T07:00:00.000Z",
       "categorias": [
         "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¡Vive una experiencia de alto rendimiento con Atlético de San Luis!",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDZaWjZTOGtRQzFSV2hHZks3blVLQlRnZU1HUFFDS0RJYlVCUjVNNE5nTTJiMVBVTDViZXpQTFVkQXk0MExzNnhtdnpVekdETTZFNzMza1ZfbmlqbmJBTE5LSy1HM3ZsYXlSWG9mZ2o5NGVQZ3BDMnUzVXFFM1ZJaldUTmdxNlRxWTdnRTZjT1hlNklvM3dmUUhNM1RzSHNBUTlKQmpMSF9RTmtWOG1qYg?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-10-14T07:00:00.000Z",
+      "categorias": [
+        "Cantera"
       ],
       "tambienEn": []
     }

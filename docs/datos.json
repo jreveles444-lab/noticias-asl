@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T12:18:17.556Z",
+  "generadoISO": "2026-11-05T13:18:24.769Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -461,7 +461,6 @@
         "Femenil"
       ],
       "tambienEn": [
-        "El Sol de México",
         "El Sol de México"
       ]
     },
@@ -585,11 +584,11 @@
         "MARCA",
         "Telemundo",
         "Mediotiempo",
+        "Soy Referee",
         "TUDN",
         "Récord",
         "TUDN",
         "sdpnoticias",
-        "Soy Referee",
         "DAZN",
         "Debate",
         "Mediotiempo",
@@ -773,16 +772,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlas duerme como sublíder del Apertura 2026 tras derrotar a domicilio al Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUWgydVpoTmR4LUdGVDdHTGdHS245Mlo1WTJReUVYUlZXSHBJaTVjX0lrc3k2VzRhTXpyZ0wzRmJiQ0liMHAxWUNaVWg3c2ZvZmw5WTIxY2NxeVYwQnVzU0w5eUlBZm55WVZpdjdkVV9MRGpsdVlBekdhTk0xUVJjTkNDRzNZN2otVFVCZWxvZTh4TWNfa1RPZW9xVXFFYTlodWNncHNXak9pbXRUTUJUMVhKQ3pfRlhVaElZQ0t4U2x5XzdjOFh6OUZBZk1LTVBZQkNqMzdFUFhWRWlpSlFJNWgwb2ktRXJGLXF3VVBtSkVYbWxkakV3?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-10-31T03:07:55.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Resumen | ¡Triunfo rojinegro! Atlas vence por la mínima al Atlético de San Luis y se lleva los tres puntos",
       "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWW1mWG5Md1VQLWpHRXpUQndQa3g4V3hGVEotR3p5X2FiQmd3ZjkzV2dHd2FpbzZyWHRxSzFGSm1aaVNsRmJBM3l1RVNCVjFXYzN1X2JqSVBhbTlMUGk4OHFpeElzdll0RHZqd3p4WVRHV0Etd1YyY3ZmMVdyV01MNzBoM2NTZEVoTHlVOWo2SEYydm96NEY5djBhMU5UbHdnd3VTTFhuYTMzREh2NmlESEtPTlpkVElNQ3NCdWRJMVV1SjdLMnZwWGxpZUtxd1lxVmxQT1p2WkpkMm14?oc=5",
       "fuente": "TUDN",
@@ -937,8 +926,8 @@
         "EL GRÁFICO",
         "El Informador",
         "TUDN",
-        "TUDN",
         "365Scores",
+        "TUDN",
         "TUDN",
         "FulBox"
       ]
@@ -966,6 +955,7 @@
         "Atlético San Luis",
         "El Sol de México",
         "El Sol de México",
+        "Atlético San Luis",
         "Deporte Digital MX"
       ]
     },
@@ -1072,6 +1062,16 @@
       "fechaISO": "2026-10-14T07:00:00.000Z",
       "categorias": [
         "Cantera"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis se ilusiona con el boleto a la Liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjRtUXlYQ1huN0ZvRWJEbUhMSkF6TWRqSGp1Mk5YOVJrd01yUVRZd3ZJRjUxUFZHRDV5ZjJlam9GM2xLcThfeTlGaW83SUxyVmxJajRzelkwRXhzYlU4blBmdllHUVFjWC12b21Ba3J4UVBuWkNuZ1RuQ2JicTZCaENMck5sMGdmX0tKYjhHUUpqcGJqVTZVWkphOTRIYTRlSWEyRXBuT0xOaDgz?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-10-08T07:00:00.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     }

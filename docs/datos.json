@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-05T14:18:32.001Z",
+  "generadoISO": "2026-11-05T15:18:39.588Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -437,7 +437,6 @@
         "TUDN",
         "Revista GENTE",
         "Mediotiempo",
-        "Récord",
         "Telemundo",
         "MARCA"
       ]
@@ -506,6 +505,16 @@
       "tambienEn": [
         "SoyFiera.com"
       ]
+    },
+    {
+      "titulo": "Las Fieras bajan el telón en la guarida con victoria ante San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM1dMY28xdXBsQnJkRHhWWEVsWFF6RmFOLWVPSHlwbkhZZ1dPUGtMX0NqVUZWMm96YWtyS05VRTJpRFVCRk5kOVAxU1RoSWUydXBVejl5ek9iYkVHRW5aY0ZHbE1UV1h4cGpwbkJ1THA5S1pxRkxzd05sdFVQOVFQV3ZLd2dIQWZ5aWUwbUg2Rzl3bkxiUTdVSzJtY1RKQ2ZZVzNrYW5XTTlfNEZQaUd1MHlWdTNRQQ?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-03T04:00:20.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "Despide León Femenil el Apertura 2026 con triunfo ante Atlético de San Luis",
@@ -662,16 +671,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético San Luis vs. Atlas. RESULTADO Jornada 15 Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWR2aXRlMEUyZEpwUVRwbUgxOGpMTXdrQ0dRSHF1MnlqYVI0Sl9KdTFIcUxxR05Ud3V4T0d5cno4d0xkZFNuVVFLcGEwM0dlV0F0bmVGV2lWUjNrQjRJcGtWRF9pblBPcVI1VXJvMllaazNoR0NXcVZGYm15bjV1dHJ2ZmYydlNjaFpRQkY2TnhiUVlSQWZGT1c1ZjRyZ2RNbDZ2NzEwVTdFWUVHS0p2ZUFEV0prVnJfcEl0R1FHd9IBvwFBVV95cUxNOV9PRnhsWHI1ZmtNSUxkYVlGWm5TVVlNUE9DQmVIX1pERWhRN0JlTmFOV0s3SUEwcWtBX1JSdDROcEJjaVdQXzRiZVVrTV9mNDhJVWtDb3M1VXlocVRyRUNLTHRTM0RTMjJjd2FVTmFXdEljOXFjQUJRTll5VVZ5UUV6UTF2NU9QVi15dVBnZU43Uy13eGhSdzFoVFNaSUFKbm1GSE5IWnR6QjdrcWRpbkhPLUF2SXdNcUE5VlUzaw?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-10-31T09:08:24.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlas venció a Atlético de San Luis 0-1 en la Jornada 15 de la Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU01naE52QktxRmRLTXhIYWFWY19GYnczdUExanBOS1U5VHNqQzJJUXRGQk5xVVpycGpPc0Z0RU9zdFNpM0FBWnpoSWVaSmoteWpnNGR4VDRwTmlNSk44cHNHZ2JNR0RyRVJ1V2tndm1EanVBcmt0NVU4bm5kTXRkVU93RFlXWEdQNEdPWmVjV2t6b2FCVWJLWlN1cUlodGNnVWJVX2s4SnFIdWlSdDZ2azE2a1NSTDlabUNCdzJvcmZkRnZYYkVSOVVkOA?oc=5",
       "fuente": "El Heraldo de México",
@@ -682,18 +681,6 @@
       "tambienEn": [
         "Fox Sports",
         "La Verdad de Tamaulipas"
-      ]
-    },
-    {
-      "titulo": "Atlas vence al San Luis y escala al segundo lugar del Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3ZST0FHWnNsdmZyRkpMSFIxcDFqWDE2cTJyRVlNcEkxUDBlOEJPUjhWbUNJaHhwRnlGa0ZiaVdGMWlHMTBxU0R1eUVXdlJsQ1I3ZTBqaHZLdHBsQ0l1Njl4T3dFYU51SENQRzBoN2ZMLXJCMjAwVFJVd3hScTBJcXV4WFdjeHBFX092cFdDM29KVFBkMFkwQjNLUXJPcnRFZ0F0S9IBqgFBVV95cUxQLXRLblpfaUM5T3VySTl6SjlXZnpjblVIZ2NkTERhc1ltcHNPY0Z3UlFvdnZBUmctcjRhdWIyWlJuaUtzSjNORllsRTdmU3dEb3BQUUpld2ozTmJEUTZhQ1V5b250NmFmZVo3ZXctSnVPV3ZWRFNsWVJtLWRsUE0tVmU5MmVHOEU1cGdpam1VY3o3ak1ucVJBd0h3ajYweEJ4dWQzYmlJZDBsUQ?oc=5",
-      "fuente": "Diario de México",
-      "fechaISO": "2026-10-31T07:01:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "Hidalgo Sport"
       ]
     },
     {
@@ -737,7 +724,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Hidalgo Sport"
+      ]
     },
     {
       "titulo": "¡Rumbo a Liguilla! Atlas venció a domicilio a Atlético San Luis y está a nada de amarrar su boleto",
@@ -866,7 +855,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "TUDN",
         "TUDN",
         "Bolavip México",
         "MARCA",
@@ -1074,6 +1062,16 @@
         "Cantera"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis se ilusiona con el boleto a la Liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjRtUXlYQ1huN0ZvRWJEbUhMSkF6TWRqSGp1Mk5YOVJrd01yUVRZd3ZJRjUxUFZHRDV5ZjJlam9GM2xLcThfeTlGaW83SUxyVmxJajRzelkwRXhzYlU4blBmdllHUVFjWC12b21Ba3J4UVBuWkNuZ1RuQ2JicTZCaENMck5sMGdmX0tKYjhHUUpqcGJqVTZVWkphOTRIYTRlSWEyRXBuT0xOaDgz?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-10-08T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1191,7 +1189,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 34,
+  "totalFuentes": 33,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

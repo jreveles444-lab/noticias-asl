@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-06T03:20:09.075Z",
+  "generadoISO": "2026-11-06T04:20:16.448Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -359,6 +359,39 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Liga MX arranca la Jornada 16 rumbo a la Liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWRYWmpfVDdyR25PcnR3UzNKQXlUbElNX3had1FOeWFrU2F6cUhRaVpLclpsZ1ZhWkU1Q1drc01sWXFXSEhza2w5YmR3NGpUR3J1bnFuWUdKS1dFbFM4RFNYWG5UQ2tjUHdqdXktTGh1dUI2YlVyWGFwbDAxeGpvemxnNlg2RjBhM2NEY1JZZG1TNFpOSHBIYQ?oc=5",
+      "fuente": "El Heraldo de San Luis Potosí.",
+      "fechaISO": "2026-11-06T03:31:33.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Dónde ver Pumas vs Atlético de San Luis: Horario y canales de transmisión del Clásico Nacional Femenil Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOa0lNNXdTVkJHQVhNWXY5OFpKZm1FVjJuUHpnVkUxLXRscTBaMWlhV2lydHJzUmFZNXk5QWZIaEc4eTM0ZXNtOEFWR2xlWkpma3cwUGY5aGFGdmdzRXIyN0NkQ1ZIekF0cXRwWnNRMTRqajY1eDAyZ3dnNW4zNldNcHJ2NFdTa003MkpUQ2lmekJRWmYtUkxibWdsT1BCOU9neWN6NmQzejUwT0xyYUsxVzV2MElTVmJGLXhBRHdUT3pGQVUtbmo3NDVRdU5ZVXVma1dmY0FRU3laWDlDZlI0Q3lfa0pXSVBVUERZWEVnbFNmdGhPTXQ0Sno2U1hENlE?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-11-06T02:33:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Mediotiempo",
+        "El Sol de México",
+        "Televisa",
+        "Reporte Indigo",
+        "TUDN",
+        "TUDN",
+        "TUDN",
+        "MARCA",
+        "MARCA",
+        "TUDN",
+        "TUDN"
+      ]
+    },
+    {
       "titulo": "San Luis vs FC Juárez: ¿Cuándo y dónde ver el partido de la Jornada 16 de la Liga MX?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRjR1bVFXc3BBcXpsTFZCWWZWUWxab1dpbkNueEVaQUxZclpaSkxvZ2VHQWFmNm1RQmJVZDdOMmxKemIyV3ltT2FDaVVmNExUWkZkeE55di1lZkZtNXgtVVFuQWNjUjVwUnFsVVZoU2VRaWhldU8tdDBJdWpSYWdVSWF4MThqbU5lYmlncklxWkdRbUxyQ2o2SklPY2hNdTFEbUxlMFMxNXdBQTMtZElBT0pKWDBtWXh0UWt6Qg?oc=5",
       "fuente": "sdpnoticias",
@@ -428,20 +461,6 @@
       ]
     },
     {
-      "titulo": "¿Quién transmite Pumas vs Atlético San Luis? Horario y CANAL jornada 14 Liga MX Femenil 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0psNndwQW1KUC1oZ1F3ZThTSGxLbXBLcVBvWDlURnVlN0E1VEEyRHZPZ3p3M0RmNnBVdDZBOFEtMkt0YnR0Si1LTWJxQUJWaldXcWlJNDNTU1lWeUViTm4tQUhyR09XLU1NUmJFMjJiZWZSTVhNLVIwQzQ4SXpsRDhmenlyUFVKMzBFOWE5RWZvMXZFYVdSeW1NYTZLUERPTUlRZ21zVDBuWDNlbXZKRVdoNVhJaWdUTDRCTTdfVEkxMVdEdlhVcklsYW9fYU9QdVhkRkpnUnLSAdgBQVVfeXFMTjRJcVQ1bU5HSWthNGM4TmpQTHMteXA3bmFHUjZ2bHMwUFBrTkZYeDBWNkdkc3FCLW1sOGMtMnBnODFoR3gxMjd6aHVmZS1yX0lXN29oTE1Nek8teTRzUTJXcWNORVRfdkFEZWJfOU1pcHp5bTd0MkdRTHJveXNfcWJycVpnWVppZG5RdldfQ2diMTZrMEgzS1l2akdOTXVUWldnVFN2U0JqT3NteUIzOGMxUWR0MjNtTGFsUkVzNFNCVFJtWjctbl92VW9qeWpKSENqYk1JSEVs?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-11-05T20:00:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Récord",
-        "Reporte Indigo"
-      ]
-    },
-    {
       "titulo": "Pumas recibirá al Atlético de San Luis en CU para un cierre dramático",
       "enlace": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkZMb28zN2lTbURITEdBV3BhcWMteGQ5dTE1eXhhT3pnMWtnQ1NzaV8wWjFIaTd1dkQ1WmF5dzhjVlhhZlZmYk8wamZZN1FMUzdTVUZJWTRyUWEzLWwzWVQwYlVLVkVVM1ZfYk4xS3lUMTNOSm9ySnBVc19mQmxiRlFjZ2RTZndPcHZVS0hMNGNMRmt3RzROdEtTa0xHMC1hN1VZQU5aWWFUWE8zMElXTW1JV2ZTeHlxUmxFNjRIVUFUNGhrbEt5WTBmaUx5OU0xZWpnOTNzNGs5Vm5JbHpuQm1TTjVnZkx4ejhUTlVaQ2pBbkZSdUlPX2NVZTlJV1puU3oxa0h6MTR0UDdQMHcyYlQtZ3EwSWpvSWFHdUxNUV9Kd2x2V0pucEhFMFEwcko3WVNnT1ktZEljUW1oSU5nTDd4WUVzd0d1LVhfNzc4XzdqSWRkUWxlV2I2endYNGNBRmc?oc=5",
       "fuente": "OnceDiario",
@@ -452,16 +471,15 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético San Luis vs FC Juárez | Pronóstico y cuotas 07.11.2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjdhWV8xeEVOX25SWGt0WVpmRG50SkpJeGxWSU8tM3dablZaZGtPYTRVb1BlUnhsSUpsMXFyVEV4V0RESHFjRk5aWWZYTENOcXhITjNuaXdoQ3R0SHdRVEpadDd3ajRYR2h6VzdCUmUwLURIQkRLR3RDRVV3RkhaWkJaQmxvOXdtV0hqVTBWVmRfZ0RRVjM2R2VVTmxOa0NuTjUxZzA3bnZYNzRIcDktQW80RDBnNmJjOFgxSUtPbkM?oc=5",
-      "fuente": "Transfermarkt",
-      "fechaISO": "2026-11-05T15:57:03.000Z",
+      "titulo": "Atlético San Luis - FC Juárez | Pronóstico y cuotas 07.11.2026",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3oxX240bzhURTM2RnV6SUs1OEVJSkxtWFZUM2pVRGFkQ3RHem9aWnI4LWNZemdrX2xhbFpMZ1A1cUpfMVRRUEYyWEtYM0NIdTJyajF1a2VsZmh3YVVlNXhjNkNZX0kzWW5GRWNYeThEdlcwWnJTTGtPRUxWZVJ6aDRwLVhFVi01bXdJWVlnY2FhckE?oc=5",
+      "fuente": "Diario AS",
+      "fechaISO": "2026-11-05T02:58:39.000Z",
       "categorias": [
         "Partidos"
       ],
       "tambienEn": [
-        "Diario AS",
-        "Diario AS",
+        "Transfermarkt",
         "rcdm.es",
         "Apuestas Ganadas"
       ]
@@ -509,16 +527,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Ricardo Gallardo acusa a políticos de aprovechar el Xantolo para proyectarse rumbo a elecciones del 2027",
-      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTzlTc09laTZBUlhNR0ItWGxxVFQ1T21GRE52MkV3MWk3NzdGaXRmODR2RVlONVZ5UU5acGtPRFhuank1SWhzWF9xYWRrdFZkWF9sODdwbFRMVkNJUS13a2JMU2dOYy1jdkxReHZRNVBIZFhLZjlzaFhQNmVjWXlFbW1YWXd5RmpGTmtYYU5PT2FCZndJTVFrV2hlS0VhdUFUVTFSaGo3d2dfWlBpZnk2UlpUNzdqS3U5cGRTNmNRaU1XeUs1VGN5MTRxMU1XcVdPY2VUMGlFY0YxS243c3BiRHBZUdIB9wFBVV95cUxPNnNiY2RLUGFUc3RYUU5ZTmJvVlRJU09tQUpyZEpZZ3YyNmlkUXY4dXIzaTdHa2dWeGJ2MnpPRjgzWTRfem9jaFpGZENRVGhUTm85bnVYcFF1Uk5aWXdqUEdGXy1QbWdoVG4zVU5wbjRid3Z5bUwxUXZNMmxQSW5MTXJMbzhjY25RNVJnbm9wTXZuSlBQbVRyTGctTkRIYWF1ZVZzQ3FIM0g2SWJzVDNGbmRhaVFvWHo2VnBacHFyOHFOaVhaRDd1QnlhTnFiV2NPZ2lGYkxyY2hkLWU4Yk1WUEVGTTZ6YXRPQjMyaUFTUDF1RC16Sndz?oc=5",
-      "fuente": "El Universal San Luis Potosí",
-      "fechaISO": "2026-11-04T21:35:12.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético de San Luis vs FC Juárez: horario y transmisión en México | Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmktTzBFbzVlTVpwWEQtNmtXUDZMN1lyb09XelBWN19wNTBHejhSVm1XUlFOVkVQODhTT3hzNXMwam9EUjUyZWNXRUZmY1VKWHE1TTVtNE1iX2lmc0lmeDZHa1YxcTBjd05BTW81bFRud2FxNXRGNXdLV0tVa2dhVjdsel9raWVYZE5saGYwNXkzVFpMNno1SA?oc=5",
       "fuente": "NNC.MX",
@@ -535,16 +543,6 @@
       "fechaISO": "2026-11-03T22:26:00.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "“La Pumita” Terrones representará a San Luis Potosí en los Juegos Nacionales Populares",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNXzFKdFM3SUF5TlV5STN6MHhkT01PV3dfbFROSHJydGxyT041aGZSRVVmTElhaGlEMUJNMTFrMjM3ZHAzZTZvcnQ1TUNBWEZpUlNwM1RaOFhnQUFhdlJIajhjQTF1RjlUNlV1TmZMQ3pnOWpQUkNRNjlmOHBCUFNGcTZFcjdaSmpzZEdwNjR6S21WMk5hZERlT0FHaDVaWHluSThOZ0pnanFmY3dyWFFmcE1NdzlJbVdoUFV3ZFNSVms?oc=5",
-      "fuente": "Potosinoticias.com",
-      "fechaISO": "2026-11-03T22:13:23.000Z",
-      "categorias": [
-        "Femenil"
       ],
       "tambienEn": []
     },
@@ -706,7 +704,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Debate"
+      ]
     },
     {
       "titulo": "¡Aaaaaaaarranca el partido! - Atlético de San Luis vs Atlas | EN VIVO",
@@ -783,10 +783,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "MARCA",
-        "MARCA",
-        "TUDN",
         "Bolavip México",
+        "TUDN",
         "Telediario"
       ]
     },
@@ -885,12 +883,9 @@
       ],
       "tambienEn": [
         "Récord",
-        "Récord",
         "TUDN",
-        "TUDN",
-        "TUDN",
-        "Facebook",
-        "Soy Referee"
+        "Soy Referee",
+        "Facebook"
       ]
     },
     {
@@ -900,6 +895,16 @@
       "fechaISO": "2026-10-23T07:00:00.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¿Quién transmite juego del Atlante vs. Atlético San Luis HOY? Horario y canal EN VIVO partido Jornada 14 Liga MX 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUJLT0hZVjBHRlpuVGMzVmk2ZnV3ck9pQWRJYURLcTlnUmR2VG9vWmFqWXllazk1TVhvNjJiSlRONHU0YzlzN3VMODlONUZLajA5dlJEWE8zOUFNcUxlX200X1RRNTltcnduZEZMOGJNR3V5aHpLeDRCUDF4bEZmZkRvSWdpU1M4YjE5V1VnYVlyTWFNb1N2U25tNXpGRkNneEZEamVCX014YXgwX1RVR1R6NF8xRWY2U1hQbDBTSzB3WXM3dHE0aFhSbHZGNDFI0gHQAUFVX3lxTE9vSDc2dGgzdm1GVWt2cEx1NXRqM0dDSTRvd29CQzFCUm16Z0VBa21vUHNiRkU3VlN3aVpfVXhLSGZoNHgwV01QSVllc3U4dmk0ZWdJclY0SjF4X1RUVF9FbWxJTFBORmpUUDdWNE1Denc3Y2FfU2QyZlVhUGpVZ0M4RmZybi1Ibkp4WC1VakhRTTdySUV5VVBEWkRxZ01xbnFqeVNfRU9FZ2NaekFGU2hvWUxjUzEzb3FhSm9uMWZadk9lNzBtZ3hLN0pqcGlzajI?oc=5",
+      "fuente": "Mediotiempo",
+      "fechaISO": "2026-10-22T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
       ],
       "tambienEn": []
     },
@@ -1007,9 +1012,7 @@
         "Femenil",
         "Partidos"
       ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "La Previa SportiumBet Tigres Femenil vs. Atlético de San Luis Femenil",
@@ -1084,7 +1087,7 @@
       "tambienEn": []
     },
     {
-      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar? - El Sol de San Luis",
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-07-21T07:00:00.000Z",

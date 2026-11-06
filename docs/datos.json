@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-06T10:22:11.947Z",
+  "generadoISO": "2026-11-06T11:22:21.424Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -359,7 +359,7 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
-      "titulo": "Pumas Femenil vs San Luis: ¿Qué necesitan para avanzar a Liguilla?",
+      "titulo": "Pumas Femenil vs Atlético de San Luis Femenil: ¿Qué necesita cada equipo para clasificar a la Liguilla?",
       "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXBXVWhuRHdLWlJOMW9mQUM4UGFrbUxRdXZoQkhYdEVkR1hWSlB3bEo4TVJzdVl0b0VjWXcyOFhobmdESXJ6MUlkR3IxUTFoXzVlalQ2SDc0NE9zQ0ZEc3UzVHA5N04wSkF4M2UyZ2pwQ0pwYlNPcXNYZjNkSUZDOA?oc=5",
       "fuente": "365Scores",
       "fechaISO": "2026-11-06T09:35:26.000Z",
@@ -368,6 +368,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Potosinoticias.com",
         "Soy Futbol"
       ]
     },
@@ -396,7 +397,7 @@
       "titulo": "Liga MX arranca la Jornada 16 rumbo a la Liguilla",
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWRYWmpfVDdyR25PcnR3UzNKQXlUbElNX3had1FOeWFrU2F6cUhRaVpLclpsZ1ZhWkU1Q1drc01sWXFXSEhza2w5YmR3NGpUR3J1bnFuWUdKS1dFbFM4RFNYWG5UQ2tjUHdqdXktTGh1dUI2YlVyWGFwbDAxeGpvemxnNlg2RjBhM2NEY1JZZG1TNFpOSHBIYQ?oc=5",
       "fuente": "El Heraldo de San Luis Potosí.",
-      "fechaISO": "2026-11-06T03:31:33.000Z",
+      "fechaISO": "2026-11-06T03:34:09.000Z",
       "categorias": [
         "Partidos"
       ],
@@ -594,16 +595,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis Femenil se juega el boleto a liguilla ante Pumas; esto necesita para clasificar",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYWMzUkNWZGZWOFFKMjJzTHNkVjFMcHZ1RkwyempoRVVRSGItcE9VdXpUT3ZyVkFrYjQzRjJKSlRvaHh1SlJIMzdkWUx6RTdHR2gxaWNwZDRyUnBfTWxJRjkxdktOVDhGN19neG5fZWh2NkMtUHRXWFl4LUQzSkJ4M3NPN2k4d1EtVi1PSDd2TUxUN1ZLM0Z4Z3JKVmZJMDNmdFpjVzRVbW11MGN1SE5zQXJwdnlDVkZLNDN6UDVIR25ibThpTW12aFlMU29HNHh6WUh0Nw?oc=5",
-      "fuente": "Potosinoticias.com",
-      "fechaISO": "2026-11-03T22:00:10.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "León vs. Atlético de San Luis Femenil EN VIVO: Dónde, cuándo y a qué hora ver el partido de la Jornada 13",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEE0V2RUQjgydS03ODRZWU1xOXRCS21XWnN3dGRkTEVla0lTY2ZiMnd3Y2JEOHRvcE1LaXk1RlZLUkxRaGtsdGZUMTZRdFdzNFRzVEF6QjRGUDZYdGpXSXFlLWFXNE5uMGkzeUhOZzdydC1BaDhzaVBBa1ZJQXlUV3JicFl6MTRtNTgzQndPWDJYSzFKVUMtZWc2T3ZMa19BZTVmcVRWZ19INGh5SlRHU1NTV0tKUGpnb3V5VVNKVUw4SDJQSFoycFdSa0M0dE5VbXc?oc=5",
       "fuente": "W Radio México",
@@ -623,8 +614,8 @@
         "Telemundo",
         "Mediotiempo",
         "Mediotiempo",
-        "El Heraldo de México",
         "TUDN",
+        "El Heraldo de México",
         "TUDN",
         "TUDN",
         "El Informador",
@@ -654,16 +645,6 @@
       "fechaISO": "2026-11-02T07:27:15.000Z",
       "categorias": [
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis no renuncia a la liguilla; Diego Mejía confía en lograr la hazaña",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb0llcEpsck1leHQzZzkxN1d1eWJsUmQ1ZzFMU2p5QnZ6MTkxWG04NXJyM0tvNFpiZFI3TWg3YXVoU3JDYllVcHlCQWhyX3FERmdmVGtZQmgwNEE3V2RtZ1hGeTRqRnkxU1pwQmNIN1hGRVVoM3lvYnVzOXE2VG1hRk1WY3I5R19wNXVVMWVxOEhkMzlUMmNxT1Q4Y3hzQ01iMl92bDc0ZWVrMFBZOFJWMXFzT2VCSVYyVjBmcGV6T3lOeU00YU82WXA0T21URk1LVU5r?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-10-31T18:02:14.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -861,7 +842,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Disney Plus"
+      ]
     },
     {
       "titulo": "Atlético San Luis vs Atlas: Pronósticos de Apuestas, Cuotas y Alineaciones 30/10/2026",
@@ -1056,6 +1039,30 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Calendario Mexican Liga BBVA MX Femenil 2026-27",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jWmtMRDA5X1h0ZHFpUTk4WFduZDM0eldYaVo0d1FsTE1CeUZzdEJQZVdrOC1MdmY2dzF3X3JJY0xIZGJQTFVvcTZOUXBHalo5SW9semZlS3NlYk92bEpLNXppeGY1NGlKalpFNGtfUHo0WDYzVEdIVXBqTHFXQQ?oc=5",
+      "fuente": "ESPN México",
+      "fechaISO": "2026-09-30T00:40:13.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "El Sol de México"
+      ]
+    },
+    {
+      "titulo": "La Previa SportiumBet Tigres Femenil vs. Atlético de San Luis Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGlvVE9QaGlhVFJxUjQwbTF3RHRXMHVSMDI5ZHU1Nk9XVTNSNTBMb0dhaTZ6WDg2ZjBRTC1yWjJQallKUGczVFY5UUJUYjVrNHg0QXBlcFU0eXd0Ql9wWlpWdllpRWV2azdVLUpSeVhkV01mN0drUEFqUGpsRDM3aGt1MG44Qi11RHpmcVZ3V0M1cG1ueDlpVmRQSV81RWJDX09CSnF2c3JNUmM?oc=5",
+      "fuente": "Tigres UANL",
+      "fechaISO": "2026-09-27T16:45:34.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1170,7 +1177,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 31,
+  "totalFuentes": 32,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

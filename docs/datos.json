@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-06T13:22:37.980Z",
+  "generadoISO": "2026-11-06T14:22:45.386Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -369,16 +369,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Busca Bravos salir del fondo ante San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmFReV9yY05kc3ppRGVlekxOMTNmTHQ5MXM3QTVSbkpFWTVoTHk2TGJXVlA2WThsZ3VvQkFMOWZQZERVMUFDT0ZrbndHemxjNTZ6VWxoNjZ1dXMxZnhmU1drVXk4V2xaNnc5OW9FOGVLZkplMXEyRm0xZzFfQXFxNVlST0tReFNnbWpGVkdLdjF4UldYc1piT3NB0gGfAUFVX3lxTE85LUpuWDhScy1MQmNsUnZHS01HSTJ5XzZkWUh6ZUNtNVVIaHNudzU0VGlMNE54Q1dzWUZ4Wk0zT3lqMjRkQmYwUTJXTXY0WUhfQnBKWC1wTHZQclFNWGk4UW1TdjU4SVZLN1VTUWdDWkQwTjdCeG1EZ0ZxckNUbWoxUGp5MmZCMEZmRE9GVlQ1SDNLYTV0RzhCRmxUcjA5NA?oc=5",
-      "fuente": "El Diario",
-      "fechaISO": "2026-11-06T12:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Pumas Femenil vs Atlético de San Luis Femenil: ¿Qué necesita cada equipo para clasificar a la Liguilla?",
       "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXBXVWhuRHdLWlJOMW9mQUM4UGFrbUxRdXZoQkhYdEVkR1hWSlB3bEo4TVJzdVl0b0VjWXcyOFhobmdESXJ6MUlkR3IxUTFoXzVlalQ2SDc0NE9zQ0ZEc3UzVHA5N04wSkF4M2UyZ2pwQ0pwYlNPcXNYZjNkSUZDOA?oc=5",
       "fuente": "365Scores",
@@ -434,6 +424,28 @@
       "tambienEn": []
     },
     {
+      "titulo": "Dónde ver Pumas vs Atlético de San Luis: Horario y canales de transmisión del Clásico Nacional Femenil Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOa0lNNXdTVkJHQVhNWXY5OFpKZm1FVjJuUHpnVkUxLXRscTBaMWlhV2lydHJzUmFZNXk5QWZIaEc4eTM0ZXNtOEFWR2xlWkpma3cwUGY5aGFGdmdzRXIyN0NkQ1ZIekF0cXRwWnNRMTRqajY1eDAyZ3dnNW4zNldNcHJ2NFdTa003MkpUQ2lmekJRWmYtUkxibWdsT1BCOU9neWN6NmQzejUwT0xyYUsxVzV2MElTVmJGLXhBRHdUT3pGQVUtbmo3NDVRdU5ZVXVma1dmY0FRU3laWDlDZlI0Q3lfa0pXSVBVUERZWEVnbFNmdGhPTXQ0Sno2U1hENlE?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-11-06T02:33:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Mediotiempo",
+        "El Sol de México",
+        "Televisa",
+        "Reporte Indigo",
+        "TUDN",
+        "TUDN",
+        "TUDN",
+        "MARCA",
+        "TUDN",
+        "TV Azteca"
+      ]
+    },
+    {
       "titulo": "San Luis vs FC Juárez: ¿Cuándo y dónde ver el partido de la Jornada 16 de la Liga MX?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRjR1bVFXc3BBcXpsTFZCWWZWUWxab1dpbkNueEVaQUxZclpaSkxvZ2VHQWFmNm1RQmJVZDdOMmxKemIyV3ltT2FDaVVmNExUWkZkeE55di1lZkZtNXgtVVFuQWNjUjVwUnFsVVZoU2VRaWhldU8tdDBJdWpSYWdVSWF4MThqbU5lYmlncklxWkdRbUxyQ2o2SklPY2hNdTFEbUxlMFMxNXdBQTMtZElBT0pKWDBtWXh0UWt6Qg?oc=5",
       "fuente": "sdpnoticias",
@@ -442,8 +454,7 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Informador",
-        "Telemundo"
+        "El Informador"
       ]
     },
     {
@@ -499,22 +510,7 @@
       "tambienEn": [
         "ESPN Argentina",
         "Fox Sports",
-        "TV Azteca",
         "ESPN Deportes"
-      ]
-    },
-    {
-      "titulo": "¿Quién transmite Pumas vs Atlético San Luis? Horario y CANAL jornada 14 Liga MX Femenil 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0psNndwQW1KUC1oZ1F3ZThTSGxLbXBLcVBvWDlURnVlN0E1VEEyRHZPZ3p3M0RmNnBVdDZBOFEtMkt0YnR0Si1LTWJxQUJWaldXcWlJNDNTU1lWeUViTm4tQUhyR09XLU1NUmJFMjJiZWZSTVhNLVIwQzQ4SXpsRDhmenlyUFVKMzBFOWE5RWZvMXZFYVdSeW1NYTZLUERPTUlRZ21zVDBuWDNlbXZKRVdoNVhJaWdUTDRCTTdfVEkxMVdEdlhVcklsYW9fYU9QdVhkRkpnUnLSAdgBQVVfeXFMTjRJcVQ1bU5HSWthNGM4TmpQTHMteXA3bmFHUjZ2bHMwUFBrTkZYeDBWNkdkc3FCLW1sOGMtMnBnODFoR3gxMjd6aHVmZS1yX0lXN29oTE1Nek8teTRzUTJXcWNORVRfdkFEZWJfOU1pcHp5bTd0MkdRTHJveXNfcWJycVpnWVppZG5RdldfQ2diMTZrMEgzS1l2akdOTXVUWldnVFN2U0JqT3NteUIzOGMxUWR0MjNtTGFsUkVzNFNCVFJtWjctbl92VW9qeWpKSENqYk1JSEVs?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-11-05T20:00:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Récord",
-        "Reporte Indigo"
       ]
     },
     {
@@ -536,8 +532,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Transfermarkt",
         "rcdm.es",
+        "Transfermarkt",
         "Apuestas Ganadas"
       ]
     },
@@ -761,7 +757,6 @@
       "tambienEn": [
         "Récord",
         "TUDN",
-        "TUDN",
         "Facebook",
         "Soy Referee"
       ]
@@ -890,9 +885,7 @@
         "Femenil",
         "Partidos"
       ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "La Previa SportiumBet Tigres Femenil vs. Atlético de San Luis Femenil",
@@ -1051,6 +1044,16 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¡GOL! anota para Atlético San Luis. David Rodríguez",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjlQQlFQRE55RVFpTFhZNlhOQXA0VmViUHBnT2JkODZwOWhnbGFBZWlXNkVJV0M5ME5rMjdfZTFLWmU0SlRScEt1T2M1dkN2X1F4cTJQVFBFdXVOYUlOZnNKSGpDZEsydi1oWFRGcGgwZUF1Y29TT01DUHBWNlJfeU9OR3d3NlctdlBTQzNfWGJwczljbXdV?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-08-30T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1166,7 +1169,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 32,
+  "totalFuentes": 30,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

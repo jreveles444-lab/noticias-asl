@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-06T08:21:53.437Z",
+  "generadoISO": "2026-11-06T09:22:02.518Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -405,7 +405,6 @@
         "Reporte Indigo",
         "TUDN",
         "TUDN",
-        "TUDN",
         "MARCA",
         "TUDN",
         "TUDN",
@@ -520,7 +519,7 @@
     {
       "titulo": "¡Artemio Olvera es convocado a la Selección Nacional de México Sub-20!",
       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3pMQ3l4TTVYWE9NMTlIdFRpQWlMaDRPdE1lRjVYZE5vcnRabW9lQ1VrS05lZ1E5V2I4VEs0cFAzRGxpM19GbUlqeTFxSFJ5OXVyQ1hyMW52X0wwVXpodTA1cXNsLVNnWTdqZHVwX1JXdDVBRzhLZ2lNSExXbmdJM1hyMUxzM1BxVFE0djhhZVdxYTktNlU5R2ZrZFpfTFFoNFhqMGNvcUNEbGI5SjlIbWlkTQ?oc=5",
-      "fuente": "Atlético de San Luis",
+      "fuente": "Atlético San Luis",
       "fechaISO": "2026-11-05T00:44:42.000Z",
       "categorias": [
         "General"
@@ -642,6 +641,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Atlético San Luis vs Juárez: match statistics and data",
+      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpZlZqRnNhaVJTXzF3MDdtMVFlelVjOUhqaDA5SXljcFpMU0x0ancyOS1tcXNraHFicDRSRjJqMGZoa3l4c1ZyS1VjT3lNbTlfVEFGVF9jSFZSMDh5VUoyb01EWDNOaFNDYjBRYTFQb2t2LVIyZ1ZGYnpTYnU5Vms?oc=5",
+      "fuente": "BetMines",
+      "fechaISO": "2026-11-02T07:27:15.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis no renuncia a la liguilla; Diego Mejía confía en lograr la hazaña",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb0llcEpsck1leHQzZzkxN1d1eWJsUmQ1ZzFMU2p5QnZ6MTkxWG04NXJyM0tvNFpiZFI3TWg3YXVoU3JDYllVcHlCQWhyX3FERmdmVGtZQmgwNEE3V2RtZ1hGeTRqRnkxU1pwQmNIN1hGRVVoM3lvYnVzOXE2VG1hRk1WY3I5R19wNXVVMWVxOEhkMzlUMmNxT1Q4Y3hzQ01iMl92bDc0ZWVrMFBZOFJWMXFzT2VCSVYyVjBmcGV6T3lOeU00YU82WXA0T21URk1LVU5r?oc=5",
       "fuente": "El Sol de México",
@@ -719,6 +728,21 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¿Cómo quedó Atlético San Luis vs. Atlas? Resultado del partido de Jornada 15 Liga MX 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1plWWIxaTVXdzUzUk1LdDFzaV8xWnZNU2VNVC1ZUnJWLWZCRzBuVW50Y2hYT2YyVlJJRy1vNnpLNGxOWWpyMExjWmtINVFXcTQ5REVCWERKMzdDbE5qeFZrTExVekpOR3hjVzBRWFpHYzc2RUdKRkNiLW5JUFdHVlpTWkloT0V3YXVkWW5YUl9wd9IBkgFBVV95cUxPSTlpM1RxVHFEY05PeHNCbXlEd3VOdzJ0WFB4WnF1RHUySFhvbTJHbTdIcDdGV0hYRWFsd256SFVXRndOanlfNzgxVndGSGdETkNwRE1uTmhFTTJTTENUaXpGckd1UTUyTHNfMFhPS3daYXdHM2tIQnF3STBNWTFoczJRYUcwa0djQjdoa0xsOEFlUQ?oc=5",
+      "fuente": "MILENIO",
+      "fechaISO": "2026-10-31T03:06:27.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Mediotiempo",
+        "Mediotiempo",
+        "TUDN",
+        "Mediotiempo"
+      ]
     },
     {
       "titulo": "Atlético San Luis 0-1 Atlas EN VIVO: Revive el minuto a minuto y goles de la Jornada 15, Liga MX Apertura 2026",
@@ -940,6 +964,18 @@
       ]
     },
     {
+      "titulo": "Atlético San Luis vs. Querétaro - Resumen del partido",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm5pR0xRSHd1dzh3RXR1Z216bTQ0TnJFVVNZaVNLT09TRWNtYTF1VHF2M2stY3Rrai1WakU5UW5fMFVrRTB3M05tRTgyOGY0aXVXWDNMTmNGVFBna1RBQVJhdzNxcXYzWkZZT2pYbzBJQTBxamU3QWFrV0x5UXJheGo0ekx6TEVueWlMLV9VNFpaNnhDbGlGVjN3?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-20T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "365Scores"
+      ]
+    },
+    {
       "titulo": "Atlético de San Luis Femenil, en busca una nueva victoria ante las Bravas de Juárez",
       "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTJuSWhXUmtRc2VrRDNDOWgyN0NIQ3Job3UtTWZzZmtRTzlmZmllckx3WUZiaHhER1VsNk5PeDJrTHB1dllhZFdoYmphRHRSZTY1U090OEFDbG5GN2JuSnRwZVhFU204SnRwSGRpM0hSd19JenREZUp3ZWtZUGhteWw1Vks2eEU2MjZ5QXJPTWxtcDR5Vkk3MkJycnVXbTVoQ1B2UmxrM2JoTU5IOHpBc0gyZGMtYzN3amMzOVZqQVBIaVhyTlloQm1hcGF0LVU?oc=5",
       "fuente": "El Sol de México",
@@ -1022,41 +1058,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "La Previa SportiumBet Tigres Femenil vs. Atlético de San Luis Femenil",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGlvVE9QaGlhVFJxUjQwbTF3RHRXMHVSMDI5ZHU1Nk9XVTNSNTBMb0dhaTZ6WDg2ZjBRTC1yWjJQallKUGczVFY5UUJUYjVrNHg0QXBlcFU0eXd0Ql9wWlpWdllpRWV2azdVLUpSeVhkV01mN0drUEFqUGpsRDM3aGt1MG44Qi11RHpmcVZ3V0M1cG1ueDlpVmRQSV81RWJDX09CSnF2c3JNUmM?oc=5",
-      "fuente": "Tigres UANL",
-      "fechaISO": "2026-09-27T16:45:34.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Pumas enfrentará al Atlético de San Luis con cuatro bajas por fecha FIFA",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmtqcWRuNXJ3M1FUZGZCLXowMjd4VFRxVkU4UUUzTllhMnBuaHBTUzY5ZUtzemxuMGVJajMxNkJnY3ZFQ2RTd2NMVnJrZHNXY2Y2cjMwVHhTb1Rpdk15eWtzb2dybkotQi02T3M5VGZGeUYxSDVqYUlpSEhYcUh5U01yMmhNYWkwQlRoem9xbllJZXNYenZVREFLaXVrZ0tqckNVUXB1Y9IBrAFBVV95cUxOYzlCZE1tcThjNmNSTjdEYUsyQWJtV1hnOFRTQ2VLb2RuSm4xR0NZaEFvc1EtZ0NkZGRla3owT0hwdHdzbjFGX2gzNUZOMnMzSlY2MW41eW5SWHdTRkJLWGZ4QXZPUGkwM29KSHA2eGNUTFNzSEdDTDdiTVl6eVBNV2l5M0E1LXZXNVNIbzY1NnVCVWxfb2FWN29oSW95UlIxZFlPRUJBMkJ0eVc5?oc=5",
-      "fuente": "Excélsior",
-      "fechaISO": "2026-09-24T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-09-22T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Partidos",
-        "Escuela"
-      ],
-      "tambienEn": [
-        "OnceDiario"
-      ]
     }
   ],
   "comunidad": [
@@ -1086,7 +1087,7 @@
       "tambienEn": []
     },
     {
-      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar? - El Sol de San Luis",
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-07-21T07:00:00.000Z",
@@ -1171,7 +1172,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 33,
+  "totalFuentes": 32,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

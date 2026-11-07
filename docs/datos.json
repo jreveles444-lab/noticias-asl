@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-07T13:26:57.293Z",
+  "generadoISO": "2026-11-07T14:27:04.658Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -347,8 +347,8 @@
     {
       "titulo": "Juárez derrota al Atlético de San Luis 1-0 en Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVHczd1hKQ0s2MFFDUjRGbUJEdC1VV21oN193enpvVDRJSVh5VVJjYjRDRm5MandfQWwzTDVDUkVuXzJQdTJnZkJBLU9ySG16MkhaNVBUNlJQbHdoZVNidEl5WGpJU1FiUnZ1YmtXd3ktWWx2OWd3MENUb1BnbE1jamZ3?oc=5",
-      "fuente": "laverdad.com.mx",
-      "fechaISO": "2026-11-07T13:25:43.000Z",
+      "fuente": "La Verdad de Tamaulipas",
+      "fechaISO": "2026-11-07T13:45:17.000Z",
       "categorias": [
         "Partidos"
       ],
@@ -945,16 +945,6 @@
       ]
     },
     {
-      "titulo": "Van los Bravos a San Luis y buscan regresar a casa con los tres puntos",
-      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdUZkZE9wVUpLQ3d3VlEzdTZpakNwcHNvSGh0cExReWZpZFo0TVh6eVc3WEVheDFyOFd6bDdiNHN5eTd5TTdDZkVTbmhjUy1wcTlCbWM1d1lkRFlyZHVHR0tIV19ITUpoX0RkR0VjYmo1clVhVjd6clZySXcwSVhienBuSWcwSHdnTVJyWFMxOG5DdUNTZ0VGNm0xb0s1MDlBYm1QZVRKTGVGZWJlajFCNnluRFRuTFl3MU5YQUF2U0M3cWhzT2FnTVZjdjFUakhrRkVEVnhRRXdXNWVEdVZ3bk5YMXNNNVVlMm9uTk1lcWV5UFk1bEUwOHVPWUlJWDFFVUREQnJxSmJUaXNTUHp3Tk01NA?oc=5",
-      "fuente": "Tiempo La Noticia Digital",
-      "fechaISO": "2026-11-06T16:19:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "San Luis y Juárez arrancan Jornada 16",
       "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXOXZhYy1hWUR3N1psSE54aURTZHVabWJqRGdXYk15Y3RVa1NoXy1MeUl4cW1jVld0bnFmNl85R0hBR2Vham56WWtKSDljSmhBTjZoRFNQUFlSV2c?oc=5",
       "fuente": "PSN Noticias",
@@ -968,7 +958,7 @@
       "titulo": "A qué hora y dónde ver Atlético de San Luis vs. Juárez, partido de la Jornada 16 de la Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdEswUnV4LVBXQ2hGb3ByVkJkck4tczllQm52YkRsMzdCa1VRRi1qeUp3bVpzVVQ4M0t2SzlqbWpzSkFBcXNLeEFGZk9lalY0ZUFnb3pBXzc4Mk9HZHlpcC1NbHdWWV9ZZUc2aVlSM25sbUFDbHZsVVNCbGxwbkdMbjNzN2tmOURXUkRKdzRiQ1pmcjhFUFBvMWVHOHhqcVNiVWVsZElkTjE4UV9PZUtvMDdVclNLbkplWkZCZGRPYlhWcHdPUV9vSHAyY2l1UVFjc0lfWTFKWU90b2cxbGc?oc=5",
       "fuente": "TUDN",
-      "fechaISO": "2026-11-06T13:19:06.000Z",
+      "fechaISO": "2026-11-06T13:06:36.000Z",
       "categorias": [
         "Partidos"
       ],
@@ -980,7 +970,6 @@
         "El Heraldo de México",
         "sdpnoticias",
         "AS México",
-        "Milenio",
         "Récord",
         "Telemundo"
       ]
@@ -1004,6 +993,16 @@
       "categorias": [
         "Femenil",
         "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Aldo Cruz será el jugador a seguir ante FC Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkNLRGwxc1loN1pvWjJ0alNETUhNRHpCQ1MwZzh3WmQzMTJtZUxRUHEwMFA0UmFrOUhTNGFUWmpvSUpHZExKSnhFbGFsMlRDV3VlWWZzVmJreXBzRk1FNS1VVTNmQWE0VzY5MVpjUURHSHZRbG5LSVZYVmV1RExwRGl5aUF6czFic2cwQ3NySE9LczJtWEtkT3NB?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-11-06T03:16:25.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     }
@@ -1123,7 +1122,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 39,
+  "totalFuentes": 38,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

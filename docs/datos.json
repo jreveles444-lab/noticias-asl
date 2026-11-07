@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-07T22:28:04.034Z",
+  "generadoISO": "2026-11-07T23:28:12.345Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,27 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Atlético de San Luis Femenil, fuera de la liguilla tras cuatro derrotas consecutivas",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYm9RQURnTFRCcFBQaVI4NFRsWUpVTG8yVExSeEt0TEdnQVhDN3NSM3N6eGh1TU04eFFmT2NmNlpuN3VIaFFNbVdCenp0YWVJc3NubnVZeUdEUWtkaTJqdlpXbHFpUlp6ZV9Bbnp4R2ZHVVRiZTBIVVRmUTV6YTItZGpnOTVWUUxtNEc3ZHVzN1JwMGkzZ0FzYUY5UHhWMUxyNXRqYkIzbk1XRHJSSWFkal80T1NGQ25ITDNSYVpXckIzMkYtZEYyRmV3MEJQT2hY?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-07T22:40:41.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Benjamín Galdames y Raymundo Fulgencio protagonizan pleito al finalizar el San Luis vs. FC Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUM5c0ZYbU9UN3BpMDJ5N3dQdVZoa091b2lBMW1mMVhfejcxNGRjY255VV9wU2Y0cVVNUEg1Z2Z4Rm5Eb2F4dEJVZW8wSWZkUTYzdWJZUDBUeWFZS2FtdGtXYTJJME9lNTlsNzN1MVI3SUJTeDAta1pvZDZDczJveTFTR1l5eXctQnlLZG41QkhfRlFZUWVUUndMeVRxb05oRmpkSTdTMVRpbTRleHRPdkYxS0cxYUpfNzBpa2gwZUJlTnJfQ0lnOWxR?oc=5",
+      "fuente": "La Opinión",
+      "fechaISO": "2026-11-07T22:11:10.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Diego Mejía lamenta eliminación del Atlético de San Luis: “Estamos muy dolidos”",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGs4UGpXc1pQQUFFSFJfWk5xN3ltejMyeHRZeEVKZFhqMmJhbWczQzVtNFB3V2FHMjVKZV9uYTdTU2U0RzduUk1yeEQ0YV9nQV9nR2RlNnVwaktQV01uQVlBSzc4R3JESHN3cDY1SHA2S1dxTklPbHBkWlFIQS02a1lKbEd2bmJubDB4QjVWbmt5Y05YV2w3OVJ3NUowemZkeWNfaTVwSDRyTUROWTViZ2h5WVd4WEs5Mkh4aEROZWJ5NTVWTTFF?oc=5",
       "fuente": "El Sol de México",
@@ -381,17 +402,6 @@
         "Publimetro México",
         "La Prensa de Coahuila"
       ]
-    },
-    {
-      "titulo": "Atlético de San Luis Femenil, fuera de la liguilla tras cuatro derrotas consecutivas",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNanp3V1JBSHpKcWRmMy0wc2tQS0g3dXpFdzBRQV84aGdPa095NzVEOE8wQWMtQTBJQU1JSXNaRV95bkJLX1dhQ0ZFR2ltR3EyWENkLTQ0Q05DanpkTDB6NUhpZUQtWUN4alFzNjFtU2t0blprVm41Q2s1c1ZvWEtVLVhDVm53ZlpBMEFnaDQtcW9nZFBja0JwTm9KcV9oMVlTbUF1ajNTYnRUeGdkQlNtcl9zWmZYX0k5TjllM2d3amdCWUVKX3Blak5DaFJBN21vMDFraw?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-07T17:14:39.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Bravos derrota de visita al Atlético de San Luis en la Jornada 16 del Apertura 2026",
@@ -574,6 +584,7 @@
       ],
       "tambienEn": [
         "El Heraldo de San Luis Potosí.",
+        "Yahoo",
         "Récord",
         "El Universal"
       ]
@@ -668,7 +679,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "ESPN"
+      ]
     },
     {
       "titulo": "FC Juárez se mantiene en el fondo de la tabla pese a la victoria ante San Luis",
@@ -794,16 +807,6 @@
       "fechaISO": "2026-11-07T01:06:00.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡Arranca el duelo entre Potosinos y Fronterizos! | Atlético de San Luis vs. Juárez",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVGZINURlV3hTNklCOEM2c0NzSXBZMEl1UHFLSDdxR2RSX21ER21EellQZmQ5MkFnWER5VXdKYWtmTDFFZWswbjFhMVlSMUZObGpyNmJNc0cwU1ZkRThSVjlzeVlvb29ZcWJtYUFJaThfdUNGNjVRckJXTW4wdTJfVEFtVUx3RTRhXzI4a3ZNNTRwaG9HZmRNTmd6X2N3aFhreDdwYmxfS2R2dWdtakJnZUgxZnN3OU5vVk5xeGM1SWdzVERU?oc=5",
-      "fuente": "espn.com.pe",
-      "fechaISO": "2026-11-07T01:02:43.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -1059,48 +1062,7 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [
-    {
-      "id": "GRULEGw-YeI",
-      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
-      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T20:00:31.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "n8su8tM3ld8",
-      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
-      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T13:01:00.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "A96M_eTLwWY",
-      "titulo": "ATLÉTICO DE SAN LUIS VS JUÁREZ | SUB21 | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=A96M_eTLwWY",
-      "miniatura": "https://i.ytimg.com/vi/A96M_eTLwWY/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T04:10:28.000Z",
-      "categoria": "Del club"
-    },
-    {
-      "id": "bi2cfipoEbw",
-      "titulo": "¡Las potosinas llegaron a CDMX listas para hacer historia! | El Viaje | AP26",
-      "enlace": "https://www.youtube.com/watch?v=bi2cfipoEbw",
-      "miniatura": "https://i.ytimg.com/vi/bi2cfipoEbw/hqdefault.jpg",
-      "publicadoISO": "2026-11-06T18:00:34.000Z",
-      "categoria": "Del club"
-    },
-    {
-      "id": "5JTyXnFtkZg",
-      "titulo": "¡Listos para recibir a Juárez! | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=5JTyXnFtkZg",
-      "miniatura": "https://i.ytimg.com/vi/5JTyXnFtkZg/hqdefault.jpg",
-      "publicadoISO": "2026-11-06T15:09:46.000Z",
-      "categoria": "Entrenamiento"
-    }
-  ],
+  "videos": [],
   "redes": [
     {
       "nombre": "X",
@@ -1120,7 +1082,9 @@
     }
   ],
   "totalFuentes": 38,
-  "avisos": [],
+  "avisos": [
+    "YouTube: HTTP 404 (no encontrado)"
+  ],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

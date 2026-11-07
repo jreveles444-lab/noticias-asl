@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-07T10:26:34.247Z",
+  "generadoISO": "2026-11-07T11:26:41.738Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Crónica y resumen Pumas 3-1 Atlético San Luis: Priscila Chinchilla impulsa el pase a la Liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS0NCQkhpNm9hZ1RGdnhQcjB0Y3p3alJySHVMX3JUeDdBWlVYdUd6MS1IWWtsWjBWdXBXTW5BYzNfdm4yNnlQeWJsdG90VDlvYXA3dU5ITk9zX09Ic0xxUWNuX1JNSmlHc2pBNzRGM0dSbFJZWXFYdGZYcV9zMFM1MUpTMUstWFotaVRuQ0dyNjBtcVE2SlBF?oc=5",
+      "fuente": "Las Futbolistas",
+      "fechaISO": "2026-11-07T10:27:58.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "DERROTA ANTE FC JUAREZ",
       "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YSFh6TTdVdEUwNE1nRXlwZFRFeWEtVG8zVnJGVjRPZWo4VWNETnV5dVJtNzZnNi1tc09xdktFbTBDQnY3S2V3N1NjTTJ2ZWtGTmlRWVIyRkI3QUdjN09IbkQxbUowTjZHU0ZHRkdFN25QMEwzRkY1Mw?oc=5",
       "fuente": "Atlético San Luis",
@@ -360,12 +370,32 @@
       "fuente": "Atlético San Luis",
       "fechaISO": "2026-11-07T08:21:19.000Z",
       "categorias": [
-        "Femenil",
-        "Partidos"
+        "Femenil"
       ],
       "tambienEn": [
-        "El Sol de México",
         "ESPN Deportes"
+      ]
+    },
+    {
+      "titulo": "Bravos sorprende y elimina al ADSL",
+      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVJCbmZ3UFJkaHhmdHVrR2ZqRm9pZDMtWmNzTDhhTUxKdmhnZWtOd3ZDeHhZUFlFbnBXc2pLMWV4SjkyakdydnB2WDhBcVo0ZVBBS2Jfd0xWM1BFdU5ZNnotdnVxT2NvekE0Ti1XOExwaV93UmIyazVveWt4QTJuMNIBgAFBVV95cUxQOFl3dzgyRVBBYU5aS3dHY1VTVE9WOElkVS1WeW5KWkdCZ3R6dTk5b2hoYmNnRWdwYnFpY1hxRThEQlBGM1oxeDRlYXN2M2x3ZHJlbE1scG5FMHdDZkpFcFVlZXVnUmRjNWxWU21tcC1XR3preTJJa2NxZ29UOV9MeQ?oc=5",
+      "fuente": "Pulso Diario San Luis",
+      "fechaISO": "2026-11-07T08:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "FC Juarez Sorprende Y Gana 0 1 Al Atletico De San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVFsTXBCNWt3VkctS1NQVkxIT0ZNVG5FQWJYZXFDeUlrblA4d0UwaFZINUp2SzluTXN5ZVVZTGsxSGVEMmRCUmtScHBQdnhFMHVjdzUwT2lPOG9KcjhFOVhrLW9oQ1JCci1Id3BQTnNaSVNrT1FpRG9YZW5TUUhScWo3OEY5c0xBWDBmY0FQdEtITkoyam1kY1R1eHJlZVk?oc=5",
+      "fuente": "La Capital",
+      "fechaISO": "2026-11-07T06:30:59.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Flashscore.pe"
       ]
     },
     {
@@ -404,29 +434,16 @@
       ]
     },
     {
-      "titulo": "Raymundo Fulgencio y Benjamín Galdames protagonizan altercado rumbo a vestidores tras el San Luis vs Juárez",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmxEek1CSXZBTlhIWWNnaW01MEl5MzRYNW82Y2JGZzM1VUllYzFlb01UbGJhWGlKZU1rb2NtYnBOUmFONEhDNnh3WnJiSEpIWnAyX3ZBT04wR2RzQmhBVnJMQ29xR0dZSEtfVWZnLVQ3U0xKUEczQ3JDS3I1S2JpemtrVTBOZE1VeC1zTTB3MDA3bl9mVGE4Nkx1OFB3c1R4SURtYXR1UXpMQUpsT3FUVEMybzZPTlRqR3ozWUc2dkcxQnkzYndjQmlHWW5TV25ONi0wMw?oc=5",
-      "fuente": "Juanfutbol",
-      "fechaISO": "2026-11-07T05:46:18.000Z",
+      "titulo": "Benjamín Galdames y Raymundo Fulgencio casi se van a los golpes tras el San Luis vs Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzcyY1c2a3RINFRFbVJsRDFMVGZTV3cteVBjeldVeUlhRTJ4QUc0UUdJb0pGZV9qYlFrTGRxcXN3MGxJQnY4aENGQWUydW40WlJqWk9sbkpUWkVSeDh2UFN0S1c1V29WckN3SXNUdGJjaVVUallZSjBDN3kwNEVzYm1kWHYtbGlBRWc2ZFk2VXp5clNZUG1CLWV5Mlpfd05Qc2NLVndPeGZaSUl3a1lnck1GaHRoRGxlM3c?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-11-07T05:33:12.000Z",
       "categorias": [
-        "Partidos",
-        "Fichajes"
+        "Fichajes",
+        "Partidos"
       ],
       "tambienEn": [
-        "Récord",
         "Mediotiempo"
-      ]
-    },
-    {
-      "titulo": "FC Juarez Sorprende Y Gana 0 1 Al Atletico De San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVFsTXBCNWt3VkctS1NQVkxIT0ZNVG5FQWJYZXFDeUlrblA4d0UwaFZINUp2SzluTXN5ZVVZTGsxSGVEMmRCUmtScHBQdnhFMHVjdzUwT2lPOG9KcjhFOVhrLW9oQ1JCci1Id3BQTnNaSVNrT1FpRG9YZW5TUUhScWo3OEY5c0xBWDBmY0FQdEtITkoyam1kY1R1eHJlZVk?oc=5",
-      "fuente": "www.lacapital.com.mx",
-      "fechaISO": "2026-11-07T05:14:11.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "Flashscore.pe"
       ]
     },
     {
@@ -462,9 +479,7 @@
         "MARCA",
         "El Heraldo de México",
         "Bolavip México",
-        "Fox Sports",
-        "TUDN",
-        "FulBox"
+        "TUDN"
       ]
     },
     {
@@ -550,16 +565,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¿Quién ganó el San Luis vs. FC Juárez? Resultado del partido J16 Liga MX 2026?",
-      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3BZLXNTeEt2cEpqcFZkZzllYUh6REYwblNoN0VZVmlHdDJoc1Y3NjNUcVRxTUZqMjRMOUo5UUFNNkxqdldwd0liRGRvLU84Z0RaZGlsbjZqMjh3TXhJMlZmUXNJSzBHV2VPa2FfQ1lVNUFnMjV2UWE2VkxtYmR1ZDhPcWczUzdJZWRicHdpeTB5SDDSAZMBQVVfeXFMT0FZUHRqU1huTmVsdTYyc2xQLU9MSm5qOXY1ZGpLOGZDZ2NOM2R0NzJYSTRIbFpNaHFyZ2h0YnVGVXZLLWFhTHYzOE1DNDczZ3RCbkJhRDhPbXBOR1ZzQVhwTXhBbnJiQ2kzOFdfSVhuMF9IbDY5NmF4eVNLZld2RU5NOU5NLXY4b2x5NVpnZF9mbU1J?oc=5",
-      "fuente": "Milenio",
-      "fechaISO": "2026-11-07T03:20:36.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético San Luis vs. Juárez - Game Highlights",
       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXV2a3BSZ3FGYlVHYjFNM0xxZmVuckhSclA5NE93dXdzV1RvdWxXSE8tQnU5SUctRFl5N1hDdmh2cXZVQmQxQmkxZ1JOdmFmWUtaZmFITGdQRFNLWWhoRVkwaGZQS2g3R002R3o4MjFaU2ZoLXNNZGFGeFdsQnlPNzJwb1RGY0czT21BWmt3?oc=5",
       "fuente": "TUDN",
@@ -580,7 +585,7 @@
         "General"
       ],
       "tambienEn": [
-        "MILENIO"
+        "VAVEL.com"
       ]
     },
     {
@@ -630,6 +635,16 @@
       "fechaISO": "2026-11-07T02:39:41.000Z",
       "categorias": [
         "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Juárez elimina virtualmente al Atlético de San Luis tras vencerlo 1-0 con penal de Óscar Estupiñán",
+      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU2ZUMTgtWk9FQ3dSRmhOYTF6UDZaeEx3Q3dZeWcyc2dSRkVRd013YkpMcGpUZmlKM3EtTXZVUi0ycGtPNGdWUVBhM2c2aFRlTXcyTTFqazRnT3dkTUwxMUxfczg2b1RYc052MFhLUWl0LXJwR1h4NUVvMkF0ZzVBS0dHOEcybUw2VVlzMFVzRVZWbldnTE03b2UwZVNqcUpiVWpqMFl3dG1QaVEzc1JQbDdORVVaOEtWVHVWOXhlUWRvLVh3ZFVZTExsb3JJZXp3YUFZTHJCVFc4akxVZkItNXFLeThXQS1O0gHuAUFVX3lxTE5Qc3dCeXpRMjRTcWtabjFjOEh4Sm5zYW5YQnlKWDBZM3haemRjYW42TTRzQVNSbFJLczBhdXZyeGRXMlRiYkhYN1cySlB6M2pRWmVEYlBuQ2dLTE1kNlZkVmQxUDU3bG5ZeVNTV3lSdU5kby1iVUdESDV3cjVNVXAyVEdoV0FTNE1YMzR6Z3FTMUx2UlF2dWd2dWl0emQxMnY5c1ZNcGNCNExPMjd4VFVQdkZJSDBFWHd6OTJwamY1VVFPNUlsdmlyamRmdkF0V0FRYVBHUFVkajBpSUNkdGwtY2xybGtfSE5LZHVPVmc?oc=5",
+      "fuente": "www.noroeste.com.mx",
+      "fechaISO": "2026-11-07T02:33:04.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     },
@@ -710,8 +725,7 @@
         "ESPN Uruguay",
         "ESPN México",
         "ESPN Guatemala",
-        "ESPN Panamá",
-        "ESPN Deportes"
+        "ESPN Panamá"
       ]
     },
     {
@@ -770,7 +784,7 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Goal.com"
+        "NNC.MX"
       ]
     },
     {
@@ -830,16 +844,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXVpUXI2YmtaNWVKclVtd2E4bm9odUlGMjV6VkRTWnlQZlpHVjh6YzNyV2hOUzFVMklFUEJ2TGtfeXc3emdYLUxfcXpxbTkzdmFOc0VNSVhfYWhxNlY3emNLaEsxSGRUS3Y3RDFueHlRWVZxUXc3bEpRU2RZRW14LWlRNFI1WVhVMXRsSEp4OFVlOVpZZktuckNPcTVpYVBDaU1GM0E3c3dJSDBhejh3ZzZIbVE5eXUyV3RuVFk1a0w3bzFQN2dSNXF1QjlkaXduUDg1MNIB1AFBVV95cUxPVV9CaW1HVlA2MjRFSE1PRmlVWVQ5SC15OFVFMEprakQ3S1VaWGc1c2VxdWpmdlpSU0lWS2Vxb2VYUGRZdG9FQWEzYUIzRTBGSm5pTnBwQ2Zid2ZaekhWblExMDBrVkhuemJoU0dEaVZLVFJWM1hncFVrUDZJMDdQN3BOeUhOM3NOdDRWVW1VUnA0eVZoUlZHUGxFX0Z3eEIyNkEzdE5uNkpvS3dqdTFoM21wMnhlWnp5M1FBMXVPUVBkRDNYSnB4UE12Qm1UMjBUcXhsaQ?oc=5",
       "fuente": "MARCA",
       "fechaISO": "2026-11-06T20:12:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¿Dónde ver San Luis vs. Juárez HOY? horario, canal de TV, alineaciones y pronóstico de la J16 Liga MX Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQUlUZlgxbjlsYTBhREJvNHpXa28zUE51QWJZc2MybmgtckYxcXlYa3JYb0d5LWcyMjJQY1RQWFJQM0hkR2VCQi1zWDFidG5sWkF6RllNWk9Fc3ZQYXZubzRLYkRlbW5UWjJaUlNYYk5pRmZvR3l5eTM5clh4c1ZrOTdlRUVEbEdieUpIYTdINjJWU1NWYkFsZV9Ua2JDY0x3ck4yb1FqZllla2xCOHgxZElCRE1uWDJuWjNEcGplOEpoWmtBdS1oWTZPRy1SZmhDWUUwbw?oc=5",
-      "fuente": "Reporte Indigo",
-      "fechaISO": "2026-11-06T19:53:52.000Z",
       "categorias": [
         "Partidos"
       ],
@@ -952,15 +956,14 @@
       ],
       "tambienEn": [
         "Facebook",
-        "Récord",
         "365Scores",
+        "La Crónica de Hoy",
         "Milenio",
         "El Heraldo de México",
         "AS México",
         "sdpnoticias",
-        "Telediario",
-        "Telemundo",
-        "Récord"
+        "Récord",
+        "Telemundo"
       ]
     },
     {
@@ -1003,16 +1006,6 @@
       "categorias": [
         "Femenil",
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis está obligado a vencer a Juárez para seguir con vida en el Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdzRRTDZsQW83LTcwcG43WWJ5U0cxVTVyYV95VjRUR1BGemhNS0FfcU9EdkgtZ0VCeU43RFVIVFpvYlFsU01pQUNxZFdTc0VNc2JfMlYtNndQa1ZJc0RhR1ZGRGhMX09tM293RmE5akhhQ21MNGN3WlBpZHF6UWJoWGZDVXNOcm9ib1lISVRoMjd2UHdCYmpNWWdrMHJRMGtYZkhpQzNfQmhPRG9kbUtlTlFCUlhhYTZXRG9rekU1VzRnOFEwdFk3aGVYWnF3VjhycFE2clRKYVh5RnBMV2c?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-05T21:02:24.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     }

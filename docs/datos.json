@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-07T19:27:40.345Z",
+  "generadoISO": "2026-11-07T20:27:47.786Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Diego Mejía lamenta eliminación del Atlético de San Luis: “Estamos muy dolidos”",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGs4UGpXc1pQQUFFSFJfWk5xN3ltejMyeHRZeEVKZFhqMmJhbWczQzVtNFB3V2FHMjVKZV9uYTdTU2U0RzduUk1yeEQ0YV9nQV9nR2RlNnVwaktQV01uQVlBSzc4R3JESHN3cDY1SHA2S1dxTklPbHBkWlFIQS02a1lKbEd2bmJubDB4QjVWbmt5Y05YV2w3OVJ3NUowemZkeWNfaTVwSDRyTUROWTViZ2h5WVd4WEs5Mkh4aEROZWJ5NTVWTTFF?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-07T19:52:30.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Jugadores de Juárez y San Luis protagonizan bronca en los vestidores: \"Eres un poco hombre\" | VIDEO",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVWxELVRkYzhmWkZzdkYzendQeGVjb25JaG5DMlp3S3hqLUttcTBGbFBvdkFGZXZKZzlsTV9EUDlWdi03ZllKOTVwaGJYOWRJSFhiUWJMaTlrMTFSOEZNaXNsMzgtdHJUSGhVOXZVeWR4VzJFREZXc1hlQ25UTGZYWER3ZGdrRzNucm5QVjNjQzZsSVk5RXNlYnNmeEJVN3RORWV2T0dxY9IBpwFBVV95cUxOdDhrY0dhRzI5Q25XRXZSUW84ZEpMM1lVVEpvbk82YS1hUjVjZU1UVUJZUG5oV3BZNnNWVk11RXdrUVpva25hNE1iRUhMaEFWdnFERUZJMGpJeDhURnp1bFIzRy1GNEN2YWplR0xBcTQyN2NCckNQa0p4Q2txRXd0M3RyTEFWU2JBa3k5d0hxdW5vWHctS21Iem5FV3lQQjlzd2l2VHVkdw?oc=5",
       "fuente": "MILENIO",
@@ -368,18 +378,9 @@
       ],
       "tambienEn": [
         "Récord",
-        "Publimetro México"
+        "Publimetro México",
+        "La Prensa de Coahuila"
       ]
-    },
-    {
-      "titulo": "Diego Mejía lamenta eliminación del Atlético de San Luis: “Estamos muy dolidos”",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGs4UGpXc1pQQUFFSFJfWk5xN3ltejMyeHRZeEVKZFhqMmJhbWczQzVtNFB3V2FHMjVKZV9uYTdTU2U0RzduUk1yeEQ0YV9nQV9nR2RlNnVwaktQV01uQVlBSzc4R3JESHN3cDY1SHA2S1dxTklPbHBkWlFIQS02a1lKbEd2bmJubDB4QjVWbmt5Y05YV2w3OVJ3NUowemZkeWNfaTVwSDRyTUROWTViZ2h5WVd4WEs5Mkh4aEROZWJ5NTVWTTFF?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-07T17:32:14.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Benjamín Galdames y Raymundo Fulgencio se confrontan y casi se van a los golpes después del San Luis vs FC Juárez (VIDEO)",
@@ -391,6 +392,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Infobae",
         "Mediotiempo"
       ]
     },
@@ -574,9 +576,19 @@
       ],
       "tambienEn": [
         "El Heraldo de San Luis Potosí.",
-        "El Universal",
-        "Récord"
+        "Récord",
+        "El Universal"
       ]
+    },
+    {
+      "titulo": "Atlético de San Luis se despide de la Liguilla: las potosinas cayeron 3-1 ante Pumas en CU",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNajVuTFp5TUEzOFhkbTNRR3FmazQyRnQzS2M4VDFDUVVNa0wweHJBNWVXZHNVRks3bG5CN044OHF4OTNLN1pyWUhKNVpfdVlfV1NxTmxtb05kUmVYOVFLdHhXOTNrRkZOUExmZ1dqaVdXUmRhMTB4V1pDSkNGWVBPa3ozVjZlekx0cWtQN2Y5QW5leEtvMXVIczAxcnd1WGloYXJKUkNycEZxeV9BemEtVzdSdVBkbWh3NWczYU50T1BCenVtcVI1LUo2OVdCRzdHYnZyMncxZHg?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-07T05:37:51.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "Fuera de Liguilla: Atlético de San Luis pierde ante el último lugar y afición abuchea a Diego Mejía",
@@ -693,16 +705,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis se despide de la Liguilla: las potosinas cayeron 3-1 ante Pumas en CU",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRFhLRjhZNU1XRFA2SFNidUZwTDY2MGM5akRGbFdLUkN5b3ZCU0ZTR0M4SXh5S0VGSERSem1GVTU5bEFnUlBsTEYtOWt0TGpCNEk5RzdWQ1NKSDRGMC01Z2pMdllvNFhYdHZOQjV0UUxEdUU1a09pMWFKWEZENWpEWFVPS181SDFqNmZFNFY5aEdMZ3l0NzNIQ1Bva3NVMzFOYzdiTVJLMUFNdy1MT2lNckxfTzhabWhTNTBRTnN0TVk0aTFMLWhPQ2p4QnZWQXVyLTZZUXgxS1BjMUxTLUZlb01tSWh2V21xckFv?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-07T02:58:54.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Bravos vence a San Luis y busca un digno cierre de torneo",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmhSQktDeFRTdy15R0dyWGJzMUNVZU9OT2hSVEVscmp4eFM3Vjd0ODJfdEMyUElxTVdHQUg1TFhjV1FJX2V1STU1ZjVzQU5QYUFaWnZxOWNqQ2pOOFRWNTBPclMwaGF1VlhYc2x2UEZYN25JektzT05jUkc4TVdrM1M0aXdmOG52bDFtYl9fdGFiQ0NZZGZGZ29MSHFZTklkQmRMUmxoZEVLZjdnNVHSAbMBQVVfeXFMTmdpSl9fYVVKUVhQUU1IX3NfX1JzQ19KVFBlVlM2VU0zUGVSMUZ4ZklLMmVNTTVLZ0hZeEtXNXNuZnV3Y2JoWndlVlNGOU0wRHN5MjlVcHd3cnJpSEh2MVlUaU9FRG1rX2gzeWw1bDFLYXR5WmN5WlBkZS03cEJNVUNPYW1welE1dXlpd08zM3lGdThaU0dwR0VfX2FpNEQydWhLQUpMZGVJdmxCN3h5WURkYTQ?oc=5",
       "fuente": "El Diario",
@@ -768,6 +770,18 @@
       ]
     },
     {
+      "titulo": "San Luis vs FC Juárez: Pronóstico y posibles alineaciones del partido de la Liga MX",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0ZoMHBDaWlpSG9SWUc4WlJkMUtpdFR0WGVabEFOQTFXbW5jTVQzSDRTaG5wZGlyMXVDcXAzUmdfUFRDZ2dnZEV6c293STl5Z1M2RzJWbHpsR1BOTDU5cXpaa3hETW9kWEk4Zkd5WS02aENnMjNLYnNvalFsZnhORkdnR2Uwd3huREw0XzMxbVdKRFZrLW9NcEczS1FIUlo0dDlwX3VjQlJ4NWp6Q2FtVlM4T1JGZkUtZDcwNw?oc=5",
+      "fuente": "sdpnoticias",
+      "fechaISO": "2026-11-07T02:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Bolavip México"
+      ]
+    },
+    {
       "titulo": "¡Cae el tercero! ¡Pero el tercero de los apagones! Otra vez falla la iluminación en San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWlVamlyS1B1Y1NwRVRhYU1OTVlySldGZlBGVXJiU0tiVlk4VlB1NmNKNVBRX3hPQVVWNUJ1MVRuSjItSXpCMUZSWFRqMkVVQVJuUnBvTEItS0QtNHlQSXpYR2Z2RmFUcmc4TDhHODVJMlk1X0xYQ3lIblNZdHUtQ05vTTlaTjVTRnVnSXFWQmpoQlZ5TDk3ZTVkeHhlSlNMdG9wR3liOEY0UURHMktCSFBacXlFdzRVd3lqeFJabElnM1ZZWnNWSXln?oc=5",
       "fuente": "TUDN",
@@ -826,7 +840,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "ESPN Deportes"
+      ]
     },
     {
       "titulo": "Atlético San Luis - FC Juárez | Pronóstico y cuotas 07.11.2026",
@@ -987,16 +1003,6 @@
       "tambienEn": [
         "ESPN Deportes"
       ]
-    },
-    {
-      "titulo": "Atletico San Luis vs FC Juarez Prediction & Picks - Liga MX",
-      "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sUm1IZHR6dnBKdHpxY05GRC13WW5TMTlxVkVHV1hyY0NwWHFORE04NXMyV3pud2tGR2lWNTEtOFdOdW9mS2RHbE5LS05hbFpJTjBYVk8wMFVkRjlpT0gyUG84V2hpTy1YYzR4N3V5LVVHZw?oc=5",
-      "fuente": "SportyTrader",
-      "fechaISO": "2026-11-06T16:41:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1056,6 +1062,14 @@
   "comunidadTitulo": "Escuela y comunidad",
   "videos": [
     {
+      "id": "GRULEGw-YeI",
+      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
+      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T20:00:31.000Z",
+      "categoria": "Conferencia"
+    },
+    {
       "id": "n8su8tM3ld8",
       "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
       "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
@@ -1086,14 +1100,6 @@
       "miniatura": "https://i.ytimg.com/vi/5JTyXnFtkZg/hqdefault.jpg",
       "publicadoISO": "2026-11-06T15:09:46.000Z",
       "categoria": "Entrenamiento"
-    },
-    {
-      "id": "4zcA9Ry8Lf8",
-      "titulo": "Robson Bambú y Aldo Cruz | Zona Mixta | AP26",
-      "enlace": "https://www.youtube.com/watch?v=4zcA9Ry8Lf8",
-      "miniatura": "https://i.ytimg.com/vi/4zcA9Ry8Lf8/hqdefault.jpg",
-      "publicadoISO": "2026-11-04T23:00:34.000Z",
-      "categoria": "Del club"
     }
   ],
   "redes": [
@@ -1114,7 +1120,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 39,
+  "totalFuentes": 38,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

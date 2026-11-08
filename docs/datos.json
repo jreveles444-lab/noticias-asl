@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-08T21:33:49.771Z",
+  "generadoISO": "2026-11-08T22:33:56.596Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -397,22 +397,22 @@
       ]
     },
     {
-      "titulo": "Se arma bronca en el San Luis vs Juárez; \"Maricón, poco hombre\"",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRElWWXpmY2c1bEJSb3p0NzBpLTRKU3dSdzgtMnNocHRLeWhWbXJLVzhjSTI4Q1FuMnp3M3JuSVp1ckgtOWd5TS1Cd3RfVXZveXQ1UWdJV1FNbUZBR2pmSHdNU1JVaHYtb0hkTVpzSTNLMDNVSm1QU3k4U3hBTXU4ZjJleDlqU3l0RXRJT1daemxzOFBFQ0dBdWc2akdFZ1FWM05JanVzWUtHYlRwV2JpMGRiTEp4WmpvMWsydDNjNmo?oc=5",
-      "fuente": "Futbol Total",
-      "fechaISO": "2026-11-08T01:07:21.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético de San Luis Femenil, fuera de la liguilla tras cuatro derrotas consecutivas",
       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYm9RQURnTFRCcFBQaVI4NFRsWUpVTG8yVExSeEt0TEdnQVhDN3NSM3N6eGh1TU04eFFmT2NmNlpuN3VIaFFNbVdCenp0YWVJc3NubnVZeUdEUWtkaTJqdlpXbHFpUlp6ZV9Bbnp4R2ZHVVRiZTBIVVRmUTV6YTItZGpnOTVWUUxtNEc3ZHVzN1JwMGkzZ0FzYUY5UHhWMUxyNXRqYkIzbk1XRHJSSWFkal80T1NGQ25ITDNSYVpXckIzMkYtZEYyRmV3MEJQT2hY?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-11-08T01:00:46.000Z",
       "categorias": [
         "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Benjamín Galdames y Raymundo Fulgencio protagonizan pleito al finalizar el San Luis vs. FC Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUM5c0ZYbU9UN3BpMDJ5N3dQdVZoa091b2lBMW1mMVhfejcxNGRjY255VV9wU2Y0cVVNUEg1Z2Z4Rm5Eb2F4dEJVZW8wSWZkUTYzdWJZUDBUeWFZS2FtdGtXYTJJME9lNTlsNzN1MVI3SUJTeDAta1pvZDZDczJveTFTR1l5eXctQnlLZG41QkhfRlFZUWVUUndMeVRxb05oRmpkSTdTMVRpbTRleHRPdkYxS0cxYUpfNzBpa2gwZUJlTnJfQ0lnOWxR?oc=5",
+      "fuente": "La Opinión",
+      "fechaISO": "2026-11-07T22:11:10.000Z",
+      "categorias": [
         "Partidos"
       ],
       "tambienEn": []
@@ -428,24 +428,9 @@
         "Fichajes"
       ],
       "tambienEn": [
-        "Récord",
         "Publimetro México",
+        "Récord",
         "La Prensa de Coahuila"
-      ]
-    },
-    {
-      "titulo": "Benjamín Galdames y Raymundo Fulgencio se confrontan y casi se van a los golpes después del San Luis vs FC Juárez (VIDEO)",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZEh4VldjdmlpZXNnTkNOVnluY2hDMkNvbkdCcm9XVnRzRHM1cmR3ajdNYzUyakx4ZFNPRFZRc2o4dHJrclVTRjd3amFYNDFIYlNvaWJHU1NseVIySHBjcW1XWWpSekFRMy0wY29mWHNGYUxJQU1NWlhDME9BSDkxR2NfUkoxb3E1SS12UUE1V0FXOC1WRWF5TEZtN2VtWTVEaGprYkVkejlla29IdUlEOTRBallHVHRZZ3FYX1had1Z3TUZrSjFub0lVUm4yaUtBYkZ3UDg0MV9EYWhPYnJwMWs2ZHNHYWlCaWtRMVBnSlBqY29GZXBPVVVwLW9INEhXQk1fMnMzVGVZZWvSAZACQVVfeXFMTXdFR2FQd3dTbG8yN3lzbXptZmUyTVVmbWRwZ1FtV2pYR2NWNTZnMmJIXzVYVlBCTGJpZTFZUTFjYjhXNF9PM3NrMFBBSXRnWHptZXFiSlMtMnVrVDJBazZILUN1WHg3VEtURmUtYjlUQ2pDQU52RkJtNEd6YlhsLUF1dWtTN2F2N3NQeUJOUHZDekV3eV9XS1d3dF9ibUhpdS1yWGo1S1ZVaWRHc0QwcmhBSzhMV01kZFpGRUxhZWYwN1pObXJ5ZUt2NzdqbEY2czB6Rjl4MFVubEdEMGd5VFlnU3VOdXlVQ3lMNTJwTVpfNk9vZDBScDdKWDFpVmFUTXlqdHkxSENKMUcxZmFWVVE?oc=5",
-      "fuente": "Radio Fórmula",
-      "fechaISO": "2026-11-07T17:18:00.000Z",
-      "categorias": [
-        "Fichajes",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Infobae",
-        "Mediotiempo",
-        "La Opinión"
       ]
     },
     {
@@ -466,7 +451,10 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Infobae",
+        "Mediotiempo"
+      ]
     },
     {
       "titulo": "San Luis consumó una dolorosa debacle al no sumar puntos en los últimos partidos",
@@ -489,14 +477,17 @@
       "tambienEn": []
     },
     {
-      "titulo": "Fulgencio y Galdames protagonizan bronca tras el Juárez vs San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0dwX1lYUDZ1Ym5nWHdaalpZMEtXRzktUUZDQzI1LVVheDJjTktsZXlBVnRVNjU5NHBudlVMT1dDNzNqc3NHNktQTThQY2MtWlFVTXVGZ3M2VFpCRDBtdFN4dlNGZkxqWmdSTHJKbE54NjkzTjZfeXBRYlJmZnVqendVS2RyR0JLREJOWGlBb21odG1fcVZNanFCMWIwMGdiQkdXTGN2cndkZGdxTktFSlVLejBCeTBLQkE?oc=5",
-      "fuente": "Soy Futbol",
-      "fechaISO": "2026-11-07T13:01:00.000Z",
+      "titulo": "Juárez derrota al Atlético de San Luis 1-0 en Liga MX",
+      "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVHczd1hKQ0s2MFFDUjRGbUJEdC1VV21oN193enpvVDRJSVh5VVJjYjRDRm5MandfQWwzTDVDUkVuXzJQdTJnZkJBLU9ySG16MkhaNVBUNlJQbHdoZVNidEl5WGpJU1FiUnZ1YmtXd3ktWWx2OWd3MENUb1BnbE1jamZ3?oc=5",
+      "fuente": "La Verdad de Tamaulipas",
+      "fechaISO": "2026-11-07T13:45:17.000Z",
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "La Capital",
+        "365Scores"
+      ]
     },
     {
       "titulo": "Crónica y resumen Pumas 3-1 Atlético San Luis: Priscila Chinchilla impulsa el pase a la Liguilla",
@@ -517,8 +508,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Heraldo de México",
         "MARCA",
+        "El Heraldo de México",
         "El Universal",
         "Bolavip México",
         "Fox Sports",
@@ -559,18 +550,6 @@
       ],
       "tambienEn": [
         "La Expresión - Periódico Digital"
-      ]
-    },
-    {
-      "titulo": "FC Juarez Sorprende Y Gana 0 1 Al Atletico De San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVFsTXBCNWt3VkctS1NQVkxIT0ZNVG5FQWJYZXFDeUlrblA4d0UwaFZINUp2SzluTXN5ZVVZTGsxSGVEMmRCUmtScHBQdnhFMHVjdzUwT2lPOG9KcjhFOVhrLW9oQ1JCci1Id3BQTnNaSVNrT1FpRG9YZW5TUUhScWo3OEY5c0xBWDBmY0FQdEtITkoyam1kY1R1eHJlZVk?oc=5",
-      "fuente": "La Capital",
-      "fechaISO": "2026-11-07T06:30:59.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "La Verdad de Tamaulipas"
       ]
     },
     {
@@ -738,6 +717,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Plano Informativo",
         "La Razón de México"
       ]
     },
@@ -751,19 +731,6 @@
       ],
       "tambienEn": [
         "Fox Sports"
-      ]
-    },
-    {
-      "titulo": "San Luis vs FC Juárez: Pronóstico y posibles alineaciones del partido de la Liga MX",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0ZoMHBDaWlpSG9SWUc4WlJkMUtpdFR0WGVabEFOQTFXbW5jTVQzSDRTaG5wZGlyMXVDcXAzUmdfUFRDZ2dnZEV6c293STl5Z1M2RzJWbHpsR1BOTDU5cXpaa3hETW9kWEk4Zkd5WS02aENnMjNLYnNvalFsZnhORkdnR2Uwd3huREw0XzMxbVdKRFZrLW9NcEczS1FIUlo0dDlwX3VjQlJ4NWp6Q2FtVlM4T1JGZkUtZDcwNw?oc=5",
-      "fuente": "sdpnoticias",
-      "fechaISO": "2026-11-07T02:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Reporte Indigo",
-        "Bolavip México"
       ]
     },
     {
@@ -943,6 +910,28 @@
       "tambienEn": []
     },
     {
+      "titulo": "Alineaciones de Atlético San Luis y FC Juárez por la Liga MX: formaciones confirmadas",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTJtMEpFSjBGUlNMMW0yM2IyWFRBeXhKb0FFLVdnekJ6ZGRBSlhRQTNQbDFWdFIxNnIyZEJ6bTZJa3oyUUpSUWVOd1p4RXZ3S1o2UGRIeWRscG9DclVqNTRLNUhhZ2tJRk5tR2JIZjVrNDRaQktJcDV1MnJlZG02VjBLR1ZaNDc0SFZuc0VKRXhfZVppODNJWmlCaFRVc1Q2Y19jSk56V2tId2FqekZUUXd30gG3AUFVX3lxTE9SbDNEVEtPVWdVNS1ybnFvTzVZZl9sNV9tMG5UWFJkMUZpOThoUDg1QUVUa21NUGlLRGtzZDBjZWNrTFVzSXdNMTQzalF1N0NpNFVBUGp0V1NCREh2aUYtZjBfWG5qSDBGZDVNQmg5QUdPbzhUc0ZvRlA3X2FlMUlHZDdnbmI0QXZ6ZFI3dERiSm1XS0FlVDhZNm5yT1d1TWFLS3FnLXN4X3hma1JXSWw3Y2RhUWFBWQ?oc=5",
+      "fuente": "Bolavip México",
+      "fechaISO": "2026-11-06T20:01:47.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¿Dónde ver San Luis vs. Juárez HOY? horario, canal de TV, alineaciones y pronóstico de la J16 Liga MX Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQUlUZlgxbjlsYTBhREJvNHpXa28zUE51QWJZc2MybmgtckYxcXlYa3JYb0d5LWcyMjJQY1RQWFJQM0hkR2VCQi1zWDFidG5sWkF6RllNWk9Fc3ZQYXZubzRLYkRlbW5UWjJaUlNYYk5pRmZvR3l5eTM5clh4c1ZrOTdlRUVEbEdieUpIYTdINjJWU1NWYkFsZV9Ua2JDY0x3ck4yb1FqZllla2xCOHgxZElCRE1uWDJuWjNEcGplOEpoWmtBdS1oWTZPRy1SZmhDWUUwbw?oc=5",
+      "fuente": "Reporte Indigo",
+      "fechaISO": "2026-11-06T19:53:52.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "sdpnoticias"
+      ]
+    },
+    {
       "titulo": "Blindan estado por partido del Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc1FabXRfZGtwZV95VkxIRk1EeHhEYU5BYVRQSjlKNk96eTVsajdyV083UUdnNWZiVEREXzV3SDdnX0dFMHg5aHdaSGMyT0pvbUdOUWJyRDdoTkhMTkFITW05UzBhemZjQzV6RTgwVHBPSkN1bGlZZGNiOEdMMHVDREw0clE?oc=5",
       "fuente": "Código San Luis",
@@ -1008,6 +997,16 @@
       "fechaISO": "2026-11-06T16:19:00.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "San Luis y Juárez arrancan Jornada 16",
+      "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXOXZhYy1hWUR3N1psSE54aURTZHVabWJqRGdXYk15Y3RVa1NoXy1MeUl4cW1jVld0bnFmNl85R0hBR2Vham56WWtKSDljSmhBTjZoRFNQUFlSV2c?oc=5",
+      "fuente": "PSN Noticias",
+      "fechaISO": "2026-11-06T16:16:32.000Z",
+      "categorias": [
+        "Partidos"
       ],
       "tambienEn": []
     }

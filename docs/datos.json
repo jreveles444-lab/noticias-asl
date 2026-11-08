@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-08T00:28:23.080Z",
+  "generadoISO": "2026-11-08T01:28:30.148Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -164,11 +164,11 @@
       "rank": 4,
       "equipo": "Atlas",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/216.png",
-      "pj": "15",
+      "pj": "16",
       "g": "8",
       "e": "3",
-      "p": "4",
-      "dg": "0",
+      "p": "5",
+      "dg": "-3",
       "pts": "27",
       "nosotros": false
     },
@@ -198,6 +198,18 @@
     },
     {
       "rank": 7,
+      "equipo": "Pachuca",
+      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
+      "pj": "16",
+      "g": "6",
+      "e": "4",
+      "p": "6",
+      "dg": "+9",
+      "pts": "22",
+      "nosotros": false
+    },
+    {
+      "rank": 8,
       "equipo": "Tijuana",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/10125.png",
       "pj": "16",
@@ -209,7 +221,7 @@
       "nosotros": false
     },
     {
-      "rank": 8,
+      "rank": 9,
       "equipo": "León",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
       "pj": "15",
@@ -221,7 +233,7 @@
       "nosotros": false
     },
     {
-      "rank": 9,
+      "rank": 10,
       "equipo": "Monterrey",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
       "pj": "14",
@@ -233,7 +245,7 @@
       "nosotros": false
     },
     {
-      "rank": 10,
+      "rank": 11,
       "equipo": "Pumas UNAM",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
       "pj": "15",
@@ -245,7 +257,7 @@
       "nosotros": false
     },
     {
-      "rank": 11,
+      "rank": 12,
       "equipo": "Querétaro",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/222.png",
       "pj": "14",
@@ -254,18 +266,6 @@
       "p": "6",
       "dg": "-3",
       "pts": "20",
-      "nosotros": false
-    },
-    {
-      "rank": 12,
-      "equipo": "Pachuca",
-      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
-      "pj": "15",
-      "g": "5",
-      "e": "4",
-      "p": "6",
-      "dg": "+6",
-      "pts": "19",
       "nosotros": false
     },
     {
@@ -348,7 +348,7 @@
       "titulo": "Diego Mejía lamenta eliminación del Atlético de San Luis: “Estamos muy dolidos”",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGs4UGpXc1pQQUFFSFJfWk5xN3ltejMyeHRZeEVKZFhqMmJhbWczQzVtNFB3V2FHMjVKZV9uYTdTU2U0RzduUk1yeEQ0YV9nQV9nR2RlNnVwaktQV01uQVlBSzc4R3JESHN3cDY1SHA2S1dxTklPbHBkWlFIQS02a1lKbEd2bmJubDB4QjVWbmt5Y05YV2w3OVJ3NUowemZkeWNfaTVwSDRyTUROWTViZ2h5WVd4WEs5Mkh4aEROZWJ5NTVWTTFF?oc=5",
       "fuente": "El Sol de México",
-      "fechaISO": "2026-11-08T00:18:04.000Z",
+      "fechaISO": "2026-11-08T00:21:48.000Z",
       "categorias": [
         "General"
       ],
@@ -537,7 +537,6 @@
         "Femenil"
       ],
       "tambienEn": [
-        "El Sol de México",
         "ESPN Deportes"
       ]
     },
@@ -821,6 +820,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Atl. San Luis 0-1 Juárez (6 de Nov., 2026) Estadísticas del equipo",
+      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM3VFVVlXV3lIaW9yUTd6dVh6bjRkVzI3eXRTYTlqQ1A1OG1meUhuT3hlQnFhQVhQT1Uyd09rU0VPN0E2LUczUmJ4ektjQ1Zvak4tREhyNFJaUk9QaEFSVFkwMTlLc3g5NjVIbjgxemhyOVQ1bU9EbUJzNEZnM1dxMVlza0NmaHpXTVQ5Vl8tdW5Ddw?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-11-07T00:57:23.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético San Luis - FC Juárez | Pronóstico y cuotas 07.11.2026",
       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3oxX240bzhURTM2RnV6SUs1OEVJSkxtWFZUM2pVRGFkQ3RHem9aWnI4LWNZemdrX2xhbFpMZ1A1cUpfMVRRUEYyWEtYM0NIdTJyajF1a2VsZmh3YVVlNXhjNkNZX0kzWW5GRWNYeThEdlcwWnJTTGtPRUxWZVJ6aDRwLVhFVi01bXdJWVlnY2FhckE?oc=5",
       "fuente": "Diario AS",
@@ -971,16 +980,6 @@
       ]
     },
     {
-      "titulo": "Atletico San Luis vs FC Juarez Prediction & Picks - Liga MX",
-      "enlace": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sUm1IZHR6dnBKdHpxY05GRC13WW5TMTlxVkVHV1hyY0NwWHFORE04NXMyV3pud2tGR2lWNTEtOFdOdW9mS2RHbE5LS05hbFpJTjBYVk8wMFVkRjlpT0gyUG84V2hpTy1YYzR4N3V5LVVHZw?oc=5",
-      "fuente": "SportyTrader",
-      "fechaISO": "2026-11-06T16:41:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético San Luis vs Juárez: alineaciones y probabilidades",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYzVHZHhobHYyX085cVJJRjdiMlZEaWtLWFNNdHJVTC1JYWphZzczcDd5MTVkc2ZIYWZ3WktqMjNiNzhiZzI3M3pLRVpuUUVuVndsN1RnMHlVdGp4OGczYWwzS1ZiaVUxVWc0cFljc0tIS2tPck9JUm1Ndmt0cnJUOHF4TjJoWFNYemt1QnUxblloNHFLTHdKdVd6SlRYbEdvQTlPaWV0ZWw3eUczQ2VERw?oc=5",
       "fuente": "ESPN México",
@@ -1080,9 +1079,9 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 39,
+  "totalFuentes": 38,
   "avisos": [
-    "YouTube: HTTP 500 (fallo del servidor de origen)"
+    "YouTube: HTTP 404 (no encontrado)"
   ],
   "colores": {
     "rojo": "#c8102e",

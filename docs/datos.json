@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-08T14:32:59.905Z",
+  "generadoISO": "2026-11-08T15:33:06.870Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -423,8 +423,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Mediotiempo",
         "Récord",
+        "Mediotiempo",
         "La Opinión"
       ]
     },
@@ -437,19 +437,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Juárez vence a Atlético de San Luis en noche de apagones",
-      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlJWNjJDNGxSaDUzaWZRdFprQllJd0VHTGlsallVZXFBczVqZHFadG5YZDd6ZlBTbnFFLTJXT1BtWlozdGNuUXR1Zkw0bERyUF9xWW0wdlhSeDQ2aEJQem1lYlU4dnloZWx2NlFLN3BNUWMzYlF0YXN4UDlVamltWExBTTc?oc=5",
-      "fuente": "La Expresión - Periódico Digital",
-      "fechaISO": "2026-11-07T15:40:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "Récord",
-        "Hoy Tamaulipas"
-      ]
     },
     {
       "titulo": "San Luis consumó una dolorosa debacle al no sumar puntos en los últimos partidos",
@@ -513,16 +500,6 @@
       ]
     },
     {
-      "titulo": "DERROTA ANTE FC JUAREZ",
-      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YSFh6TTdVdEUwNE1nRXlwZFRFeWEtVG8zVnJGVjRPZWo4VWNETnV5dVJtNzZnNi1tc09xdktFbTBDQnY3S2V3N1NjTTJ2ZWtGTmlRWVIyRkI3QUdjN09IbkQxbUowTjZHU0ZHRkdFN25QMEwzRkY1Mw?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-11-07T08:55:29.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "ATLÉTICO DE SAN LUIS FINALIZA SU PARTICIPACIÓN EN EL APERTURA 2026",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVNqODdGbHJZMnRsdzZJUUVmdlUzYkVUNF9WZHBZLU9BNjFDV0xkOEhjcW8yaGZSdUpWUEdtYXFMNjRtakdienFWX2FzVXpITG4tcURHM29faWZENVFGZFNUYzExVTRYT0E3aXJqVjFoaDVHWnI5TW9EQ3JEWDZCMGVhdWdPdFVlWG5mREVqRG5BT0dLTkpabGZkLTE5X1lHVmpwcjJ1Z1NqczRNOWJ5Tw?oc=5",
       "fuente": "Atlético San Luis",
@@ -535,6 +512,18 @@
         "OnceDiario",
         "El Sol de México",
         "ESPN Deportes"
+      ]
+    },
+    {
+      "titulo": "Bravos de Juárez se impone al Atlético de San Luis en noche de apagones",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzhEYmR3T0kxU0RIcFBOT1hkM1d4SUVEZWdjT0VjNVlXWk56MlJBZ1U1X2c3eXRtYnZ0RGNqMjFRS3RzVHRJZzZsU29JNUlaX3RzbTNtZ2FjdE1wczBDOTRiQ0xRMUtnRjZ2UWVkc25pTDlFWTBvWDdtbEI0VTVYR21OVUpudE5RcTQ2SWFsdnk4a3RnRlZhN0o4bkZWNkNmMk5qN0J4QkxpWm9FLWxsNEdtVzVVazgtQXY4OWFMbllyYkNN?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-11-07T06:46:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "La Expresión - Periódico Digital"
       ]
     },
     {
@@ -595,6 +584,20 @@
       ]
     },
     {
+      "titulo": "Atletico San Luis VS FC Juarez",
+      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZXFHTUJYOHpFSDBnTVAzWUU5bEhBNnM3dGEwbzBRSUpOMnNaUXMtQUFjaFdPSVRoVEt1TTlGdEllSjlJRy1kdndEa29pVmFLTi0wdWFtOU1UTmJDNjE1cUxzVjdpYnppVHFrYmdBN3R6c2x2dlBvME9SdGphZzExZTFRbUJtM25wOFhJM1VDSFdZRTVJWmUtbUxpVmZOWWNIZG1BVFI1MVNVRmtGdTBRaEt4RUtlai1qQ01Ld2V6azdXRXdqRmdsZ0pWR3BJckhCNHNMQkdWa1o1SVVWZlFlUVBsRThzYUIxVjFB0gH_AUFVX3lxTE1QOXRrUnJ6cW5XNzNzQTNLUXlfZzBFa2EtbFdIaEJNT1pvbWpGa3VnaDdDcXR3dWtaVFMyTUp4dUtRWkY0aWJ4WHpTSVpIWnJwM0dURlFFa1JQSmI5Tmx5TEZuZERkY1ExNzROWjBES1FmSllzVnR1cVItS0ViOGh3dGpybHdQd1V5Yjk1cmZSZHM1OWxPLTBMdGtVNThLRGp2bVFUajhzX2gwTjJGWElGN3Rwb050dC1QamJSNHgteFJJeDRiUjlmTHlvQ205S0wtdEo1RG1JRXF4d29FSTMwa204QXkyakJGNU1YczNLTWxVZFU3bEl0Y3Rxa3duVQ?oc=5",
+      "fuente": "TV Azteca",
+      "fechaISO": "2026-11-07T03:49:14.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "TUDN",
+        "rcdm.es",
+        "TUDN"
+      ]
+    },
+    {
       "titulo": "Juárez encontró luz en el Alfonso Lastras y dejó a San Luis sin respuestas",
       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT2ZmTXMxNHBONDBPOE9jbDZYVUd1ZUdVdDZ2Z0hQUVIwQ2xuZkZ2SS1JS19sYXhCZEVLcDZTdzhscTVWYzM0SVdPWGZTU1g3N1VVb3haYXZ4Y0pIX3g4eDQwTHhoSXVJYmllaVduODR0ei0tTnpaUW1sUERJZjhNWDN1dWp4VURDT2J0U2s5bWpJUVpZRm1tWEY0V0lWQ3k0Z3BKMERZekZlVWdBUnpadm5HQzRTS28zMEJFVWJfSVdETmpQRTVlMWZ30gHeAUFVX3lxTE0yUHVSRmVBLXlDX2U4bU9CX0N3eENFNE1kcUlBMkp2VUZrZUNxUGE3Q1FydmJ6VGltcGdrNTF1cUk1UmkwZW5KdXpGRVg1RE9XNU94MjQ0emxFM3ExOThOcnVIUVNfOTd1eTB2NC02N2NIWXhjcFRMODh2NVhDTDNRVTFmWHRLYVNBclBRWG9PbzVaQmIySkJyd3FtR0FXYUZKMzl1R01uWk11bVlXYkVVd3Rvc1FaOW5tRW9pcDlheWU1aWdXUGVERmNiUjBuTmR3YWE0U18tOGkyLXNDQQ?oc=5",
       "fuente": "AS México",
@@ -635,21 +638,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¿Qué pasó en el Atlético San Luis vs FC Juárez? Cuatro apagones detuvieron el partido (VIDEO)",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlJIbE5mOWFhSlRDNFdhaE9iWDhjSmtnd2tIMTFiWFpMUEM0TVpLVDdscjRvOHc3RG5BVVVabnk5d1BoNDYyQTlYUDB0cHc5aGxrdkl5Mm1tNW8xYzFfSE1maUIxNU9EcGN2YURsTDRtZ2d0Vkh6QjFaZVBVSWhUeGc5cmpnQWZjNS1RaW9VOWctNmdUanRUQXlGX1ZGOUdnNGszN1FKTUlhd1dsdnRCeEVBaldPUFg4eEcwTU1JUHk5VEJ0dHROWkl3?oc=5",
-      "fuente": "Fox Sports",
-      "fechaISO": "2026-11-07T03:19:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "365Scores",
-        "ESPN Deportes",
-        "TUDN",
-        "El Informador"
-      ]
-    },
-    {
       "titulo": "Estupiñan y el FC Juárez prácticamente apagan las esperanzas de Liguilla del San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXhpNlhKVkdEV2QwYzQyRGY2RnNBeUE3a1M1QVFlc0xBRlNrYUxRaUUyb1l3MlAwXzNVTnZUMWhjMUs4TmY3bE1nV3N1LWFkbkY3ME9KaEU5RG94Zi1MNk00U3lTcDdlU1pLdjhObHJXWXpIdUNLcWdrYUstQ0NzX3hZZnVmbVVHVmo4TXZGMGhudFNNRjdzVGJ5YVJrLS1WbzluRUhTZ08wMFhUbnR0OGc3eldaazlkWUhnX0hTaTBxZThYWW1ncUtyNjJMWnFqakFSTFdNRTl4U3hIYU9XVURqSE9CZw?oc=5",
       "fuente": "Claro Sports",
@@ -680,18 +668,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Juárez sorprende al Atlético de San Luis y se lleva la victoria en el Libertad Financiera",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYXhFQkJjOGhjSHNtaDI4MGVLbk1aaXBPNkZQeV9URTV3UjROSllZNHRMQm5lRUZKRGR6RTVCbEdYWTlrNEJPLVoxOEZMMEJXU2htM1NLTHVSQ094V2toQkNLTU9VOWgybDAxaG93NFI2cXJwRWtMWVhuUGZ5aUliZjRxYk1WY1kwSklZb3BELTI1WjBTcHBteEJYdnlxaFBZc0ZoUGt1ZzJ5SEluOUxwaUR3YW9vaTladFBVZVZLSzMzZjNPLWMydktvdFNQLVJNZ0tBMlRyZw?oc=5",
-      "fuente": "Plano Informativo",
-      "fechaISO": "2026-11-07T03:07:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Récord"
-      ]
-    },
-    {
       "titulo": "Bravos vence a San Luis y busca un digno cierre de torneo",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmhSQktDeFRTdy15R0dyWGJzMUNVZU9OT2hSVEVscmp4eFM3Vjd0ODJfdEMyUElxTVdHQUg1TFhjV1FJX2V1STU1ZjVzQU5QYUFaWnZxOWNqQ2pOOFRWNTBPclMwaGF1VlhYc2x2UEZYN25JektzT05jUkc4TVdrM1M0aXdmOG52bDFtYl9fdGFiQ0NZZGZGZ29MSHFZTklkQmRMUmxoZEVLZjdnNVHSAbMBQVVfeXFMTmdpSl9fYVVKUVhQUU1IX3NfX1JzQ19KVFBlVlM2VU0zUGVSMUZ4ZklLMmVNTTVLZ0hZeEtXNXNuZnV3Y2JoWndlVlNGOU0wRHN5MjlVcHd3cnJpSEh2MVlUaU9FRG1rX2gzeWw1bDFLYXR5WmN5WlBkZS03cEJNVUNPYW1welE1dXlpd08zM3lGdThaU0dwR0VfX2FpNEQydWhLQUpMZGVJdmxCN3h5WURkYTQ?oc=5",
       "fuente": "El Diario",
@@ -720,6 +696,43 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¡Otra vez los apagones! Atlético de San Luis y Juárez reviven la pesadilla eléctrica en el Libertad Financiera",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcU5BNnlvcXJZQms0MGpNbU9KY3Npb0E3Y0N3MVpNZTZweVdDdjZSVkNiU3BMd1gyYjlNdzBHZEh6Yi1YR2N2dDhVQTBxVGZJR1ZBZWN3eFJPcFVacndVaE1sUFJ3ZUw3d0EzbzJEaENyc3J5eFMtU0FSS3RrZTROMG95MmpIMmZ0eUZDbTBEVnRFR2dzUGtXbGNNOFVQTnIycncxb04xQXlCOHd4anZPNDRtVQ?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-11-07T02:06:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "La Razón de México"
+      ]
+    },
+    {
+      "titulo": "San Luis vs. FC Juárez: cuatro apagones frenan el duelo",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0xRYjQ1eEFNSG9zQUd1RE93c3QtU3pzR05SMFNtY181VEo0UmNjVC1NUU0zSlpLS3FJUHp1RExhYUhfX20xbEMta0hRdDFYekVBc2tWZkRRN2FVV0psclozMkZWZjFMbzlyLWt3QkVvSVl5TkdCRmVIeGNkWjNJRy1FSDRCak03Vm9VOUdfam1KOHBfTm53Vl9uczVvTEl2WUl1djY5QXh2ajZCbXRn?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-11-07T02:01:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Fox Sports"
+      ]
+    },
+    {
+      "titulo": "San Luis vs FC Juárez: Pronóstico y posibles alineaciones del partido de la Liga MX",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0ZoMHBDaWlpSG9SWUc4WlJkMUtpdFR0WGVabEFOQTFXbW5jTVQzSDRTaG5wZGlyMXVDcXAzUmdfUFRDZ2dnZEV6c293STl5Z1M2RzJWbHpsR1BOTDU5cXpaa3hETW9kWEk4Zkd5WS02aENnMjNLYnNvalFsZnhORkdnR2Uwd3huREw0XzMxbVdKRFZrLW9NcEczS1FIUlo0dDlwX3VjQlJ4NWp6Q2FtVlM4T1JGZkUtZDcwNw?oc=5",
+      "fuente": "sdpnoticias",
+      "fechaISO": "2026-11-07T02:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Reporte Indigo",
+        "Bolavip México"
+      ]
     },
     {
       "titulo": "¡Cae el tercero! ¡Pero el tercero de los apagones! Otra vez falla la iluminación en San Luis",
@@ -787,16 +800,6 @@
       ]
     },
     {
-      "titulo": "¡HORRIBLE! Atlético San Luis vs Juárez es suspendido tres veces por un apagón en el Estadio Libertad Financiera",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbmlSRGI2NktRTzlrZVAzSDkteGctSlpKckVxMjZNT3Z0NzBDS01ETnVOcGs0UVdCTTh5Q0tDZ0tjNjJTM1pCcm9IVjVESlFHaERQQk9mVG9nUUdlU3pmcDVudllvbk9tbkJvMUpPRTR6Mkx6T1BxZUY4UDJHVzFBcEUtb1ZKN2ZGcGh6bS1DVVJFUkRSNmlqTHdvWjdjYnFiNDM5dUlZNzZ5UkV5M1ZKbzJ1WG02WFdMUXJQbll3OWdBa1dEOEdHakthaUVqemNaWFo0ZlNZVTU0b0hweGY4U0Jud0xUdm9fQ3FF0gGGAkFVX3lxTE5DbHFaWmVUeUhVa1FsWTZtOU9EOW41VEFMeGVoeVlkOWZvc3IwQ1ZuV1UwS1ZqNjUzU25XZXRGOUgyaGlKZ3cxQTFoUG81eFFqQVdUU196cnREOW84WHdMMmV5U2VaclNIbVNqVEp4d2ZCM2lrLWdZUTZTdjVlZzQtMzlLOTJtNnZBdmpIOENRQjduQjhPMEdaNjZWTEk0eW4yaFhVUTJleGZ6dl82ZnlOdEtGakRVR1NvUldQaW1tRGhEQ0hHYUlOYVBLTzFic1BBSU5WcWxBam9keDMwQTFuZkhCd0ttOHJ2RF84OFlnbkx3SFkxclJWZUVZeWhaSHh5cjdUWFE?oc=5",
-      "fuente": "La Razón de México",
-      "fechaISO": "2026-11-07T00:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Más de 500 elementos policiacos vigilarán el encuentro Atlético San Luis – FC Juárez",
       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHBqZGRCa1MwNzByVVd2TDFSRTk2U3dOWXVLcmxMM0dwdVl1M0ZCNkkyaXEtMnkzYVNzT1M0bVhpb2V1QXJkREFDQXFTR3oxQlNnNTdWdVBQUXRPcFVsS0U5bE1tektzcXQzd3VQWnlNRUtrS2FCa01xT25oOFFLSlQ5QzJ2MUFueFFzbm5tcFVXM0w3cnk0ODhYTjhYaDVyTUNZa3B6ZEZPSnF4T0NGdEg4MlhFbTlCNm5nZ0lObWRmVENuOFp6SGxB?oc=5",
       "fuente": "El Tiempo del Altiplano",
@@ -827,18 +830,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Pumas derrota a Atlético de San Luis y consigue su pase a la Liguilla del Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYU11Q3hPTEh6eDM2Mm1zSWFMMjJ0T2NNOWdqQkpzY0hqWGNVZ0JsMUlQUVg5WmtmR29OSXpPeHFDal85QkVGQW80bDlSM0NZM0ZmSlBiVExhRUVVeWhsenljUjEwem1lQzY5ckxDM1B3d1U1Mi0xMGxFZzhrbWZsZFd3M1Qyc3lCbEZWdm9faW1pam8xSmowWFZpLThTRjZhOXdtTG9BUzFveVdCdEhvQTFFaW8wbGVkNXMwY0pvQ1hkUm1hMlROSlhROXNWcG94?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-11-06T22:03:06.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
     },
     {
       "titulo": "Pumas Femenil juega su última carta por la Liguilla enfrentando a Atlético de San Luis este viernes en CU.",
@@ -888,8 +879,8 @@
         "El Heraldo de México",
         "Mediotiempo",
         "La Crónica de Hoy",
-        "Mediotiempo",
         "TUDN",
+        "Mediotiempo",
         "El Universal",
         "TV Azteca",
         "DAZN",
@@ -908,28 +899,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Alineaciones de Atlético San Luis y FC Juárez por la Liga MX: formaciones confirmadas",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTJtMEpFSjBGUlNMMW0yM2IyWFRBeXhKb0FFLVdnekJ6ZGRBSlhRQTNQbDFWdFIxNnIyZEJ6bTZJa3oyUUpSUWVOd1p4RXZ3S1o2UGRIeWRscG9DclVqNTRLNUhhZ2tJRk5tR2JIZjVrNDRaQktJcDV1MnJlZG02VjBLR1ZaNDc0SFZuc0VKRXhfZVppODNJWmlCaFRVc1Q2Y19jSk56V2tId2FqekZUUXd30gG3AUFVX3lxTE9SbDNEVEtPVWdVNS1ybnFvTzVZZl9sNV9tMG5UWFJkMUZpOThoUDg1QUVUa21NUGlLRGtzZDBjZWNrTFVzSXdNMTQzalF1N0NpNFVBUGp0V1NCREh2aUYtZjBfWG5qSDBGZDVNQmg5QUdPbzhUc0ZvRlA3X2FlMUlHZDdnbmI0QXZ6ZFI3dERiSm1XS0FlVDhZNm5yT1d1TWFLS3FnLXN4X3hma1JXSWw3Y2RhUWFBWQ?oc=5",
-      "fuente": "Bolavip México",
-      "fechaISO": "2026-11-06T20:01:47.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¿Dónde ver San Luis vs. Juárez HOY? horario, canal de TV, alineaciones y pronóstico de la J16 Liga MX Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQUlUZlgxbjlsYTBhREJvNHpXa28zUE51QWJZc2MybmgtckYxcXlYa3JYb0d5LWcyMjJQY1RQWFJQM0hkR2VCQi1zWDFidG5sWkF6RllNWk9Fc3ZQYXZubzRLYkRlbW5UWjJaUlNYYk5pRmZvR3l5eTM5clh4c1ZrOTdlRUVEbEdieUpIYTdINjJWU1NWYkFsZV9Ua2JDY0x3ck4yb1FqZllla2xCOHgxZElCRE1uWDJuWjNEcGplOEpoWmtBdS1oWTZPRy1SZmhDWUUwbw?oc=5",
-      "fuente": "Reporte Indigo",
-      "fechaISO": "2026-11-06T19:53:52.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "sdpnoticias"
-      ]
     },
     {
       "titulo": "Blindan estado por partido del Atlético de San Luis",
@@ -997,7 +966,6 @@
       "tambienEn": [
         "ESPN Deportes",
         "ESPN Deportes",
-        "rcdm.es",
         "ESPN Argentina",
         "Squawka"
       ]
@@ -1033,6 +1001,7 @@
       "tambienEn": [
         "Récord",
         "Facebook",
+        "365Scores",
         "sdpnoticias",
         "El Heraldo de México",
         "AS México",
@@ -1040,6 +1009,39 @@
         "Telediario",
         "Telemundo"
       ]
+    },
+    {
+      "titulo": "Busca Bravos salir del fondo ante San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmFReV9yY05kc3ppRGVlekxOMTNmTHQ5MXM3QTVSbkpFWTVoTHk2TGJXVlA2WThsZ3VvQkFMOWZQZERVMUFDT0ZrbndHemxjNTZ6VWxoNjZ1dXMxZnhmU1drVXk4V2xaNnc5OW9FOGVLZkplMXEyRm0xZzFfQXFxNVlST0tReFNnbWpGVkdLdjF4UldYc1piT3NB0gGfAUFVX3lxTE85LUpuWDhScy1MQmNsUnZHS01HSTJ5XzZkWUh6ZUNtNVVIaHNudzU0VGlMNE54Q1dzWUZ4Wk0zT3lqMjRkQmYwUTJXTXY0WUhfQnBKWC1wTHZQclFNWGk4UW1TdjU4SVZLN1VTUWdDWkQwTjdCeG1EZ0ZxckNUbWoxUGp5MmZCMEZmRE9GVlQ1SDNLYTV0RzhCRmxUcjA5NA?oc=5",
+      "fuente": "El Diario",
+      "fechaISO": "2026-11-06T12:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Pumas Femenil vs Atlético de San Luis Femenil: ¿Qué necesita cada equipo para clasificar a la Liguilla?",
+      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXBXVWhuRHdLWlJOMW9mQUM4UGFrbUxRdXZoQkhYdEVkR1hWSlB3bEo4TVJzdVl0b0VjWXcyOFhobmdESXJ6MUlkR3IxUTFoXzVlalQ2SDc0NE9zQ0ZEc3UzVHA5N04wSkF4M2UyZ2pwQ0pwYlNPcXNYZjNkSUZDOA?oc=5",
+      "fuente": "365Scores",
+      "fechaISO": "2026-11-06T09:35:26.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "TV Azteca"
+      ]
+    },
+    {
+      "titulo": "Aldo Cruz será el jugador a seguir ante FC Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkNLRGwxc1loN1pvWjJ0alNETUhNRHpCQ1MwZzh3WmQzMTJtZUxRUHEwMFA0UmFrOUhTNGFUWmpvSUpHZExKSnhFbGFsMlRDV3VlWWZzVmJreXBzRk1FNS1VVTNmQWE0VzY5MVpjUURHSHZRbG5LSVZYVmV1RExwRGl5aUF6czFic2cwQ3NySE9LczJtWEtkT3NB?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-11-06T03:16:25.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1157,7 +1159,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 39,
+  "totalFuentes": 37,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

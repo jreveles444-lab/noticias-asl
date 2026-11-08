@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-08T13:32:52.035Z",
+  "generadoISO": "2026-11-08T14:32:59.905Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -590,7 +590,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "POSTA DEPORTES"
+      ]
     },
     {
       "titulo": "Juárez encontró luz en el Alfonso Lastras y dejó a San Luis sin respuestas",
@@ -813,8 +815,7 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Goal.com",
-        "Sofascore"
+        "Goal.com"
       ]
     },
     {
@@ -889,8 +890,8 @@
         "La Crónica de Hoy",
         "Mediotiempo",
         "TUDN",
-        "NNC.MX",
         "El Universal",
+        "TV Azteca",
         "DAZN",
         "TUDN",
         "Mediotiempo",
@@ -995,6 +996,7 @@
       ],
       "tambienEn": [
         "ESPN Deportes",
+        "ESPN Deportes",
         "rcdm.es",
         "ESPN Argentina",
         "Squawka"
@@ -1033,6 +1035,7 @@
         "Facebook",
         "sdpnoticias",
         "El Heraldo de México",
+        "AS México",
         "Récord",
         "Telediario",
         "Telemundo"

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-08T19:33:35.955Z",
+  "generadoISO": "2026-11-08T20:33:42.630Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
+      "fuente": "sdpnoticias",
+      "fechaISO": "2026-11-08T19:35:48.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "A San Luis le faltó experiencia y se desmoronó al final de la Liga Femenil",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW9ILW5zSVJmVWR4dnQ3aVFHV0FmRzJSUGx3aVlSTUprUUI5enE3cUdpYXd2ay1PZHV4MldHbGg0WTA2VGoyLTVjZTc3UDJNSzFDSmY0NW56a1g0WTZVV1BjRzloaEtXQnlFN1FGck85dmhLUjB0dW1Ra0NCZkRuS1JfcXVXa2w2aFQxNS1IT1lMNzNUSUZHamR0ck1TNWlnNGhkYUVmTUhFWUtzODFHb0dEcUV4N3BGN3M3bm9aU3A1TEFuRVZzQ3gyVmhMZDZLbHVR?oc=5",
       "fuente": "OnceDiario",
@@ -387,6 +397,16 @@
       ]
     },
     {
+      "titulo": "Se arma bronca en el San Luis vs Juárez; \"Maricón, poco hombre\"",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRElWWXpmY2c1bEJSb3p0NzBpLTRKU3dSdzgtMnNocHRLeWhWbXJLVzhjSTI4Q1FuMnp3M3JuSVp1ckgtOWd5TS1Cd3RfVXZveXQ1UWdJV1FNbUZBR2pmSHdNU1JVaHYtb0hkTVpzSTNLMDNVSm1QU3k4U3hBTXU4ZjJleDlqU3l0RXRJT1daemxzOFBFQ0dBdWc2akdFZ1FWM05JanVzWUtHYlRwV2JpMGRiTEp4WmpvMWsydDNjNmo?oc=5",
+      "fuente": "Futbol Total",
+      "fechaISO": "2026-11-08T01:07:21.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis Femenil, fuera de la liguilla tras cuatro derrotas consecutivas",
       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYm9RQURnTFRCcFBQaVI4NFRsWUpVTG8yVExSeEt0TEdnQVhDN3NSM3N6eGh1TU04eFFmT2NmNlpuN3VIaFFNbVdCenp0YWVJc3NubnVZeUdEUWtkaTJqdlpXbHFpUlp6ZV9Bbnp4R2ZHVVRiZTBIVVRmUTV6YTItZGpnOTVWUUxtNEc3ZHVzN1JwMGkzZ0FzYUY5UHhWMUxyNXRqYkIzbk1XRHJSSWFkal80T1NGQ25ITDNSYVpXckIzMkYtZEYyRmV3MEJQT2hY?oc=5",
       "fuente": "El Sol de México",
@@ -409,7 +429,23 @@
       ],
       "tambienEn": [
         "Récord",
+        "Publimetro México",
         "La Prensa de Coahuila"
+      ]
+    },
+    {
+      "titulo": "Benjamín Galdames y Raymundo Fulgencio se confrontan y casi se van a los golpes después del San Luis vs FC Juárez (VIDEO)",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZEh4VldjdmlpZXNnTkNOVnluY2hDMkNvbkdCcm9XVnRzRHM1cmR3ajdNYzUyakx4ZFNPRFZRc2o4dHJrclVTRjd3amFYNDFIYlNvaWJHU1NseVIySHBjcW1XWWpSekFRMy0wY29mWHNGYUxJQU1NWlhDME9BSDkxR2NfUkoxb3E1SS12UUE1V0FXOC1WRWF5TEZtN2VtWTVEaGprYkVkejlla29IdUlEOTRBallHVHRZZ3FYX1had1Z3TUZrSjFub0lVUm4yaUtBYkZ3UDg0MV9EYWhPYnJwMWs2ZHNHYWlCaWtRMVBnSlBqY29GZXBPVVVwLW9INEhXQk1fMnMzVGVZZWvSAZACQVVfeXFMTXdFR2FQd3dTbG8yN3lzbXptZmUyTVVmbWRwZ1FtV2pYR2NWNTZnMmJIXzVYVlBCTGJpZTFZUTFjYjhXNF9PM3NrMFBBSXRnWHptZXFiSlMtMnVrVDJBazZILUN1WHg3VEtURmUtYjlUQ2pDQU52RkJtNEd6YlhsLUF1dWtTN2F2N3NQeUJOUHZDekV3eV9XS1d3dF9ibUhpdS1yWGo1S1ZVaWRHc0QwcmhBSzhMV01kZFpGRUxhZWYwN1pObXJ5ZUt2NzdqbEY2czB6Rjl4MFVubEdEMGd5VFlnU3VOdXlVQ3lMNTJwTVpfNk9vZDBScDdKWDFpVmFUTXlqdHkxSENKMUcxZmFWVVE?oc=5",
+      "fuente": "Radio Fórmula",
+      "fechaISO": "2026-11-07T17:18:00.000Z",
+      "categorias": [
+        "Fichajes",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Infobae",
+        "Mediotiempo",
+        "La Opinión"
       ]
     },
     {
@@ -473,11 +509,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "Infobae",
-        "Mediotiempo",
-        "La Opinión"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Crónica y resumen Pumas 3-1 Atlético San Luis: Priscila Chinchilla impulsa el pase a la Liguilla",
@@ -527,8 +559,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "OnceDiario",
         "El Sol de México",
+        "Debate",
         "ESPN Deportes"
       ]
     },
@@ -669,18 +701,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Juárez sorprende al Atlético de San Luis y se lleva la victoria en el Libertad Financiera",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYXhFQkJjOGhjSHNtaDI4MGVLbk1aaXBPNkZQeV9URTV3UjROSllZNHRMQm5lRUZKRGR6RTVCbEdYWTlrNEJPLVoxOEZMMEJXU2htM1NLTHVSQ094V2toQkNLTU9VOWgybDAxaG93NFI2cXJwRWtMWVhuUGZ5aUliZjRxYk1WY1kwSklZb3BELTI1WjBTcHBteEJYdnlxaFBZc0ZoUGt1ZzJ5SEluOUxwaUR3YW9vaTladFBVZVZLSzMzZjNPLWMydktvdFNQLVJNZ0tBMlRyZw?oc=5",
-      "fuente": "Plano Informativo",
-      "fechaISO": "2026-11-07T03:07:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Récord"
-      ]
-    },
-    {
       "titulo": "Bravos vence a San Luis y busca un digno cierre de torneo",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmhSQktDeFRTdy15R0dyWGJzMUNVZU9OT2hSVEVscmp4eFM3Vjd0ODJfdEMyUElxTVdHQUg1TFhjV1FJX2V1STU1ZjVzQU5QYUFaWnZxOWNqQ2pOOFRWNTBPclMwaGF1VlhYc2x2UEZYN25JektzT05jUkc4TVdrM1M0aXdmOG52bDFtYl9fdGFiQ0NZZGZGZ29MSHFZTklkQmRMUmxoZEVLZjdnNVHSAbMBQVVfeXFMTmdpSl9fYVVKUVhQUU1IX3NfX1JzQ19KVFBlVlM2VU0zUGVSMUZ4ZklLMmVNTTVLZ0hZeEtXNXNuZnV3Y2JoWndlVlNGOU0wRHN5MjlVcHd3cnJpSEh2MVlUaU9FRG1rX2gzeWw1bDFLYXR5WmN5WlBkZS03cEJNVUNPYW1welE1dXlpd08zM3lGdThaU0dwR0VfX2FpNEQydWhLQUpMZGVJdmxCN3h5WURkYTQ?oc=5",
       "fuente": "El Diario",
@@ -709,6 +729,19 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¡Otra vez los apagones! Atlético de San Luis y Juárez reviven la pesadilla eléctrica en el Libertad Financiera",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcU5BNnlvcXJZQms0MGpNbU9KY3Npb0E3Y0N3MVpNZTZweVdDdjZSVkNiU3BMd1gyYjlNdzBHZEh6Yi1YR2N2dDhVQTBxVGZJR1ZBZWN3eFJPcFVacndVaE1sUFJ3ZUw3d0EzbzJEaENyc3J5eFMtU0FSS3RrZTROMG95MmpIMmZ0eUZDbTBEVnRFR2dzUGtXbGNNOFVQTnIycncxb04xQXlCOHd4anZPNDRtVQ?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-11-07T02:06:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Plano Informativo",
+        "La Razón de México"
+      ]
     },
     {
       "titulo": "San Luis vs. FC Juárez: cuatro apagones frenan el duelo",
@@ -797,18 +830,9 @@
       ],
       "tambienEn": [
         "Transfermarkt",
-        "rcdm.es"
+        "rcdm.es",
+        "Apuestas Ganadas"
       ]
-    },
-    {
-      "titulo": "¡HORRIBLE! Atlético San Luis vs Juárez es suspendido tres veces por un apagón en el Estadio Libertad Financiera",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbmlSRGI2NktRTzlrZVAzSDkteGctSlpKckVxMjZNT3Z0NzBDS01ETnVOcGs0UVdCTTh5Q0tDZ0tjNjJTM1pCcm9IVjVESlFHaERQQk9mVG9nUUdlU3pmcDVudllvbk9tbkJvMUpPRTR6Mkx6T1BxZUY4UDJHVzFBcEUtb1ZKN2ZGcGh6bS1DVVJFUkRSNmlqTHdvWjdjYnFiNDM5dUlZNzZ5UkV5M1ZKbzJ1WG02WFdMUXJQbll3OWdBa1dEOEdHakthaUVqemNaWFo0ZlNZVTU0b0hweGY4U0Jud0xUdm9fQ3FF0gGGAkFVX3lxTE5DbHFaWmVUeUhVa1FsWTZtOU9EOW41VEFMeGVoeVlkOWZvc3IwQ1ZuV1UwS1ZqNjUzU25XZXRGOUgyaGlKZ3cxQTFoUG81eFFqQVdUU196cnREOW84WHdMMmV5U2VaclNIbVNqVEp4d2ZCM2lrLWdZUTZTdjVlZzQtMzlLOTJtNnZBdmpIOENRQjduQjhPMEdaNjZWTEk0eW4yaFhVUTJleGZ6dl82ZnlOdEtGakRVR1NvUldQaW1tRGhEQ0hHYUlOYVBLTzFic1BBSU5WcWxBam9keDMwQTFuZkhCd0ttOHJ2RF84OFlnbkx3SFkxclJWZUVZeWhaSHh5cjdUWFE?oc=5",
-      "fuente": "La Razón de México",
-      "fechaISO": "2026-11-07T00:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Más de 500 elementos policiacos vigilarán el encuentro Atlético San Luis – FC Juárez",
@@ -859,9 +883,14 @@
       "fuente": "TV Azteca",
       "fechaISO": "2026-11-06T22:03:06.000Z",
       "categorias": [
+        "Femenil",
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Heraldo de San Luis Potosí.",
+        "OnceDiario",
+        "Récord"
+      ]
     },
     {
       "titulo": "Pumas Femenil juega su última carta por la Liguilla enfrentando a Atlético de San Luis este viernes en CU.",
@@ -983,26 +1012,6 @@
         "ESPN Argentina",
         "Squawka"
       ]
-    },
-    {
-      "titulo": "Van los Bravos a San Luis y buscan regresar a casa con los tres puntos",
-      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdUZkZE9wVUpLQ3d3VlEzdTZpakNwcHNvSGh0cExReWZpZFo0TVh6eVc3WEVheDFyOFd6bDdiNHN5eTd5TTdDZkVTbmhjUy1wcTlCbWM1d1lkRFlyZHVHR0tIV19ITUpoX0RkR0VjYmo1clVhVjd6clZySXcwSVhienBuSWcwSHdnTVJyWFMxOG5DdUNTZ0VGNm0xb0s1MDlBYm1QZVRKTGVGZWJlajFCNnluRFRuTFl3MU5YQUF2U0M3cWhzT2FnTVZjdjFUakhrRkVEVnhRRXdXNWVEdVZ3bk5YMXNNNVVlMm9uTk1lcWV5UFk1bEUwOHVPWUlJWDFFVUREQnJxSmJUaXNTUHp3Tk01NA?oc=5",
-      "fuente": "Tiempo La Noticia Digital",
-      "fechaISO": "2026-11-06T16:19:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "San Luis y Juárez arrancan Jornada 16",
-      "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXOXZhYy1hWUR3N1psSE54aURTZHVabWJqRGdXYk15Y3RVa1NoXy1MeUl4cW1jVld0bnFmNl85R0hBR2Vham56WWtKSDljSmhBTjZoRFNQUFlSV2c?oc=5",
-      "fuente": "PSN Noticias",
-      "fechaISO": "2026-11-06T16:16:32.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1120,7 +1129,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 38,
+  "totalFuentes": 37,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

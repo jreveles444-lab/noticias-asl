@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-07T23:28:12.345Z",
+  "generadoISO": "2026-11-08T00:28:23.080Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Diego Mejía lamenta eliminación del Atlético de San Luis: “Estamos muy dolidos”",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGs4UGpXc1pQQUFFSFJfWk5xN3ltejMyeHRZeEVKZFhqMmJhbWczQzVtNFB3V2FHMjVKZV9uYTdTU2U0RzduUk1yeEQ0YV9nQV9nR2RlNnVwaktQV01uQVlBSzc4R3JESHN3cDY1SHA2S1dxTklPbHBkWlFIQS02a1lKbEd2bmJubDB4QjVWbmt5Y05YV2w3OVJ3NUowemZkeWNfaTVwSDRyTUROWTViZ2h5WVd4WEs5Mkh4aEROZWJ5NTVWTTFF?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-08T00:18:04.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis Femenil, fuera de la liguilla tras cuatro derrotas consecutivas",
       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYm9RQURnTFRCcFBQaVI4NFRsWUpVTG8yVExSeEt0TEdnQVhDN3NSM3N6eGh1TU04eFFmT2NmNlpuN3VIaFFNbVdCenp0YWVJc3NubnVZeUdEUWtkaTJqdlpXbHFpUlp6ZV9Bbnp4R2ZHVVRiZTBIVVRmUTV6YTItZGpnOTVWUUxtNEc3ZHVzN1JwMGkzZ0FzYUY5UHhWMUxyNXRqYkIzbk1XRHJSSWFkal80T1NGQ25ITDNSYVpXckIzMkYtZEYyRmV3MEJQT2hY?oc=5",
       "fuente": "El Sol de México",
@@ -362,16 +372,6 @@
       "fechaISO": "2026-11-07T22:11:10.000Z",
       "categorias": [
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Diego Mejía lamenta eliminación del Atlético de San Luis: “Estamos muy dolidos”",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGs4UGpXc1pQQUFFSFJfWk5xN3ltejMyeHRZeEVKZFhqMmJhbWczQzVtNFB3V2FHMjVKZV9uYTdTU2U0RzduUk1yeEQ0YV9nQV9nR2RlNnVwaktQV01uQVlBSzc4R3JESHN3cDY1SHA2S1dxTklPbHBkWlFIQS02a1lKbEd2bmJubDB4QjVWbmt5Y05YV2w3OVJ3NUowemZkeWNfaTVwSDRyTUROWTViZ2h5WVd4WEs5Mkh4aEROZWJ5NTVWTTFF?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-07T19:59:56.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -399,7 +399,6 @@
       ],
       "tambienEn": [
         "Récord",
-        "Publimetro México",
         "La Prensa de Coahuila"
       ]
     },
@@ -513,8 +512,8 @@
       ],
       "tambienEn": [
         "El Heraldo de México",
-        "El Universal",
         "MARCA",
+        "El Universal",
         "Bolavip México",
         "TUDN"
       ]
@@ -618,7 +617,7 @@
         "General"
       ],
       "tambienEn": [
-        "ESPN Deportes"
+        "ESPN México"
       ]
     },
     {
@@ -868,18 +867,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Pumas derrota a Atlético de San Luis y consigue su pase a la Liguilla del Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYU11Q3hPTEh6eDM2Mm1zSWFMMjJ0T2NNOWdqQkpzY0hqWGNVZ0JsMUlQUVg5WmtmR29OSXpPeHFDal85QkVGQW80bDlSM0NZM0ZmSlBiVExhRUVVeWhsenljUjEwem1lQzY5ckxDM1B3d1U1Mi0xMGxFZzhrbWZsZFd3M1Qyc3lCbEZWdm9faW1pam8xSmowWFZpLThTRjZhOXdtTG9BUzFveVdCdEhvQTFFaW8wbGVkNXMwY0pvQ1hkUm1hMlROSlhROXNWcG94?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-11-06T22:03:06.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
-    },
-    {
       "titulo": "Pumas Femenil juega su última carta por la Liguilla enfrentando a Atlético de San Luis este viernes en CU.",
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vS0NpMThzVHUtbFFEYUxEeVZQbThPbmhEYjdIZWw1N1htTVBlMmh1UjlCXzRFZ3RGMkpBZjZ6cmNMd0xnRWlVQ3BRMHFzb05KTnYzc2x5QlY2S2Jsck9xcHBvYWw2elBTUjl3cjlYNkROaHJRMFd6d3BaUHUzWTA?oc=5",
       "fuente": "El Congresista",
@@ -947,7 +934,9 @@
       "categorias": [
         "Femenil"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Heraldo de San Luis Potosí."
+      ]
     },
     {
       "titulo": "Atlético de San Luis se enfrenta a Bravos en partido de la Jornada 16 este 6 de noviembre; San Luis tiene esperanzas de Liguilla ante un Juárez ya eliminado",
@@ -1005,6 +994,16 @@
         "ESPN Argentina",
         "Squawka"
       ]
+    },
+    {
+      "titulo": "San Luis y Juárez arrancan Jornada 16",
+      "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXOXZhYy1hWUR3N1psSE54aURTZHVabWJqRGdXYk15Y3RVa1NoXy1MeUl4cW1jVld0bnFmNl85R0hBR2Vham56WWtKSDljSmhBTjZoRFNQUFlSV2c?oc=5",
+      "fuente": "PSN Noticias",
+      "fechaISO": "2026-11-06T16:16:32.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1081,9 +1080,9 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 38,
+  "totalFuentes": 39,
   "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
+    "YouTube: HTTP 500 (fallo del servidor de origen)"
   ],
   "colores": {
     "rojo": "#c8102e",

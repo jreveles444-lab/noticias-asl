@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T03:34:33.018Z",
+  "generadoISO": "2026-11-09T04:34:40.939Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -152,12 +152,12 @@
       "rank": 3,
       "equipo": "Guadalajara",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png",
-      "pj": "15",
+      "pj": "16",
       "g": "8",
-      "e": "5",
+      "e": "6",
       "p": "2",
       "dg": "+11",
-      "pts": "29",
+      "pts": "30",
       "nosotros": false
     },
     {
@@ -198,6 +198,18 @@
     },
     {
       "rank": 7,
+      "equipo": "León",
+      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
+      "pj": "16",
+      "g": "6",
+      "e": "5",
+      "p": "5",
+      "dg": "+2",
+      "pts": "23",
+      "nosotros": false
+    },
+    {
+      "rank": 8,
       "equipo": "Pachuca",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
       "pj": "16",
@@ -209,7 +221,7 @@
       "nosotros": false
     },
     {
-      "rank": 8,
+      "rank": 9,
       "equipo": "Tijuana",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/10125.png",
       "pj": "16",
@@ -217,18 +229,6 @@
       "e": "7",
       "p": "4",
       "dg": "+3",
-      "pts": "22",
-      "nosotros": false
-    },
-    {
-      "rank": 9,
-      "equipo": "León",
-      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
-      "pj": "15",
-      "g": "6",
-      "e": "4",
-      "p": "5",
-      "dg": "+2",
       "pts": "22",
       "nosotros": false
     },
@@ -357,32 +357,12 @@
       ]
     },
     {
-      "titulo": "Empresarios potosinos, aliados del cambio en SLP",
-      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yc0ZCaHRSY3hRNHJzT3o2MG9jSHU5NXlLLV9VaGhzYWs1ZWw4Tk1qQVpCTFk4UWxxSzJaMHdPa0JTX2tHME5KVnJzWGtkOWpoZ3I3Wklxck1mcm45bjhyMVFMMmQ0YU9hakxjWEUzalphWXRwVGhKNjdya2w3NEk?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-11-08T23:01:53.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Sufre CEFOR Promotora San Luis segunda derrota consecutiva - El Sol de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGNMLXRRRk5XWG5TLV9DZlBjc1ZieExxalNZMXlGLWdqajc3YUEyMTZMVXBMY0kwV0JNQzN4UWlaRldvTmZoRkxuSU93dXpVSXVnM0thbzdSWERlbjh4YllTdVhZelNqeEZwTkhxUFBtaVlyTTNWMXpONTk0aGp1eTNGd1J6MndvbnlkNUloZlpMMU5GU2VqbGhtbm9HLWo5bU40enpBd2lYMnN1VHlz?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-11-08T22:04:45.000Z",
       "categorias": [
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
-      "fuente": "SDPnoticias.com",
-      "fechaISO": "2026-11-08T19:35:48.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -451,9 +431,7 @@
         "Fichajes"
       ],
       "tambienEn": [
-        "Récord",
-        "Publimetro México",
-        "La Prensa de Coahuila"
+        "Récord"
       ]
     },
     {
@@ -800,9 +778,7 @@
         "Femenil",
         "Partidos"
       ],
-      "tambienEn": [
-        "ADN | A Diario Network"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "¡Arranca la fecha 16! Ya juegan Atlético de San Luis y Bravos de Juárez",
@@ -811,6 +787,16 @@
       "fechaISO": "2026-11-07T01:06:00.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¡Arranca el duelo entre Potosinos y Fronterizos! | Atlético de San Luis vs. Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXVMNHM5a1pYQXVBQ1JHZzJuMElfYi1qaHdMWnVGam5kaHRLN2ozU0NNOUQ2dXFoaVFIWkFjNkUyd1E5blhIYnIwV3FmY2NJWUtLQmVLdG9oSzNmbTVYUU15bDBndVBnTzZFdDJFQnlsVmpRYXVXVmszWVYwTzlkYl90dzhWMGtfYTUzV0FiNXVLeG13djNOaWdqc0lWelJJdm1zTVZRNEw2SktodmVCZ1BrTTNESEpUcU00LWs3VUVnY3Vh?oc=5",
+      "fuente": "ESPN México",
+      "fechaISO": "2026-11-07T01:02:43.000Z",
+      "categorias": [
+        "Partidos"
       ],
       "tambienEn": []
     },
@@ -885,17 +871,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Pumas vs. Atlético San Luis EN VIVO. Dónde VER Jornada 14 de Liga BBVA Femenil 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTUZrbUJCT1RPRnZ3cVNyQWRWRFJ5cU56dUo5QmlGWmJxNmYtZWpGTElCQnhkOUdGMkFQZlhVeF9FSFRqYlh2eTg4X19kakVvRWx4MkxFcVVyWGVKSFFYX2hLUXE3WnN2NWtIM2VlUmxkQmpwYThlOHdVUzdvNG0tdUY2Z2c0dGd6U3JIVF9YN1NpdWNHMjBVSUVTS2hkZVhHWXU3VHhfTWU3OWk1N0o4UUVjME1uTlhvOTE3NlJHMzdQbkdJZ05kV1J30gHKAUFVX3lxTE0zdWFINlF2ckNwV0VaeFU2ZGdDNWVPVERBZHFZTVhoZ0g4aEZKSUZMYkVjU1M4UVRtNGFOMk1GYzZKekxMWXRWWWhZVnRpVFV0R1N1U3Q1b1Jtc25GNE9mcV9EQnR1elRpTm5Ecll1V0ZsREtzbkttZ0s1S1otV01CazZidTloUHNQdGNHOU8yWmJ2ZE95WTVSS05YY2NLZEdfOEJxaFNQdWluQXRHLVJBdnpqUGhMRmh6a28yT2NrV1BhdmlhckNIUXc?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-11-06T22:39:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Pumas derrota a Atlético de San Luis y consigue su pase a la Liguilla del Apertura 2026",
       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYU11Q3hPTEh6eDM2Mm1zSWFMMjJ0T2NNOWdqQkpzY0hqWGNVZ0JsMUlQUVg5WmtmR29OSXpPeHFDal85QkVGQW80bDlSM0NZM0ZmSlBiVExhRUVVeWhsenljUjEwem1lQzY5ckxDM1B3d1U1Mi0xMGxFZzhrbWZsZFd3M1Qyc3lCbEZWdm9faW1pam8xSmowWFZpLThTRjZhOXdtTG9BUzFveVdCdEhvQTFFaW8wbGVkNXMwY0pvQ1hkUm1hMlROSlhROXNWcG94?oc=5",
       "fuente": "TV Azteca",
@@ -938,6 +913,33 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Pumas Femenil vs. Atlético San Luis Femenil EN VIVO HOY: Dónde ver, horario y transmisión de la Liga MX Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdUozcHVLbE5FNldGUmpwM19RZFJQSS1IUm9FWHJTU3d0anJROXdCNDhLOUhCMW5OdzdrYXhGeDNIVFJ2akZkeEs3U0RILU4yWm1fRU9rSkM4ZEpRT1hLZlV4X18wb1hqM3NSTFF5aldZNWNKWHZ5dFdRYmJMeU9CUUN2dnpmRnIzYnQxQTNLcHdkWEd1WUtiMmh1OE5CNWE0U3owWkNBcnJsVnhxVDVtMDhRZWVBM3FhWEtnQWJDVzBfa1hsT0tKaS1tYlBnT3B4SmhnOWJlMXhyUzc3MWdoc2xZakczTzd6VjRHY3RXZ2s?oc=5",
+      "fuente": "Reporte Indigo",
+      "fechaISO": "2026-11-06T20:34:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Mediotiempo",
+        "El Universal",
+        "Mediotiempo",
+        "W Radio México",
+        "Récord",
+        "Mediotiempo",
+        "Récord",
+        "El Sol de México",
+        "El Heraldo de México",
+        "La Crónica de Hoy",
+        "TUDN",
+        "TV Azteca",
+        "DAZN",
+        "Mediotiempo",
+        "Soy Referee"
+      ]
     },
     {
       "titulo": "Resumen San Luis vs Juárez: Ni el caos con la luz ayudó a los Tuneros, que se despiden de llegar a Liguilla",
@@ -1007,6 +1009,16 @@
         "ESPN Argentina",
         "Squawka"
       ]
+    },
+    {
+      "titulo": "Van los Bravos a San Luis y buscan regresar a casa con los tres puntos",
+      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdUZkZE9wVUpLQ3d3VlEzdTZpakNwcHNvSGh0cExReWZpZFo0TVh6eVc3WEVheDFyOFd6bDdiNHN5eTd5TTdDZkVTbmhjUy1wcTlCbWM1d1lkRFlyZHVHR0tIV19ITUpoX0RkR0VjYmo1clVhVjd6clZySXcwSVhienBuSWcwSHdnTVJyWFMxOG5DdUNTZ0VGNm0xb0s1MDlBYm1QZVRKTGVGZWJlajFCNnluRFRuTFl3MU5YQUF2U0M3cWhzT2FnTVZjdjFUakhrRkVEVnhRRXdXNWVEdVZ3bk5YMXNNNVVlMm9uTk1lcWV5UFk1bEUwOHVPWUlJWDFFVUREQnJxSmJUaXNTUHp3Tk01NA?oc=5",
+      "fuente": "Tiempo La Noticia Digital",
+      "fechaISO": "2026-11-06T16:19:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1037,7 +1049,7 @@
       "tambienEn": []
     },
     {
-      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar? - El Sol de San Luis",
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-07-21T07:00:00.000Z",
@@ -1081,7 +1093,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
+  "totalFuentes": 39,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T00:34:10.623Z",
+  "generadoISO": "2026-11-09T01:34:17.894Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -379,7 +379,7 @@
     {
       "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
-      "fuente": "sdpnoticias",
+      "fuente": "SDPnoticias.com",
       "fechaISO": "2026-11-08T19:35:48.000Z",
       "categorias": [
         "General"
@@ -748,6 +748,19 @@
       ]
     },
     {
+      "titulo": "San Luis vs FC Juárez: Pronóstico y posibles alineaciones del partido de la Liga MX",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0ZoMHBDaWlpSG9SWUc4WlJkMUtpdFR0WGVabEFOQTFXbW5jTVQzSDRTaG5wZGlyMXVDcXAzUmdfUFRDZ2dnZEV6c293STl5Z1M2RzJWbHpsR1BOTDU5cXpaa3hETW9kWEk4Zkd5WS02aENnMjNLYnNvalFsZnhORkdnR2Uwd3huREw0XzMxbVdKRFZrLW9NcEczS1FIUlo0dDlwX3VjQlJ4NWp6Q2FtVlM4T1JGZkUtZDcwNw?oc=5",
+      "fuente": "sdpnoticias",
+      "fechaISO": "2026-11-07T02:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Reporte Indigo",
+        "Bolavip México"
+      ]
+    },
+    {
       "titulo": "¡Cae el tercero! ¡Pero el tercero de los apagones! Otra vez falla la iluminación en San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWlVamlyS1B1Y1NwRVRhYU1OTVlySldGZlBGVXJiU0tiVlk4VlB1NmNKNVBRX3hPQVVWNUJ1MVRuSjItSXpCMUZSWFRqMkVVQVJuUnBvTEItS0QtNHlQSXpYR2Z2RmFUcmc4TDhHODVJMlk1X0xYQ3lIblNZdHUtQ05vTTlaTjVTRnVnSXFWQmpoQlZ5TDk3ZTVkeHhlSlNMdG9wR3liOEY0UURHMktCSFBacXlFdzRVd3lqeFJabElnM1ZZWnNWSXln?oc=5",
       "fuente": "TUDN",
@@ -787,7 +800,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Reforma",
         "ADN | A Diario Network"
       ]
     },
@@ -938,26 +950,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Alineaciones de Atlético San Luis y FC Juárez por la Liga MX: formaciones confirmadas",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTJtMEpFSjBGUlNMMW0yM2IyWFRBeXhKb0FFLVdnekJ6ZGRBSlhRQTNQbDFWdFIxNnIyZEJ6bTZJa3oyUUpSUWVOd1p4RXZ3S1o2UGRIeWRscG9DclVqNTRLNUhhZ2tJRk5tR2JIZjVrNDRaQktJcDV1MnJlZG02VjBLR1ZaNDc0SFZuc0VKRXhfZVppODNJWmlCaFRVc1Q2Y19jSk56V2tId2FqekZUUXd30gG3AUFVX3lxTE9SbDNEVEtPVWdVNS1ybnFvTzVZZl9sNV9tMG5UWFJkMUZpOThoUDg1QUVUa21NUGlLRGtzZDBjZWNrTFVzSXdNMTQzalF1N0NpNFVBUGp0V1NCREh2aUYtZjBfWG5qSDBGZDVNQmg5QUdPbzhUc0ZvRlA3X2FlMUlHZDdnbmI0QXZ6ZFI3dERiSm1XS0FlVDhZNm5yT1d1TWFLS3FnLXN4X3hma1JXSWw3Y2RhUWFBWQ?oc=5",
-      "fuente": "Bolavip México",
-      "fechaISO": "2026-11-06T20:01:47.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¿Dónde ver San Luis vs. Juárez HOY? horario, canal de TV, alineaciones y pronóstico de la J16 Liga MX Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQUlUZlgxbjlsYTBhREJvNHpXa28zUE51QWJZc2MybmgtckYxcXlYa3JYb0d5LWcyMjJQY1RQWFJQM0hkR2VCQi1zWDFidG5sWkF6RllNWk9Fc3ZQYXZubzRLYkRlbW5UWjJaUlNYYk5pRmZvR3l5eTM5clh4c1ZrOTdlRUVEbEdieUpIYTdINjJWU1NWYkFsZV9Ua2JDY0x3ck4yb1FqZllla2xCOHgxZElCRE1uWDJuWjNEcGplOEpoWmtBdS1oWTZPRy1SZmhDWUUwbw?oc=5",
-      "fuente": "Reporte Indigo",
-      "fechaISO": "2026-11-06T19:53:52.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Blindan estado por partido del Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc1FabXRfZGtwZV95VkxIRk1EeHhEYU5BYVRQSjlKNk96eTVsajdyV083UUdnNWZiVEREXzV3SDdnX0dFMHg5aHdaSGMyT0pvbUdOUWJyRDdoTkhMTkFITW05UzBhemZjQzV6RTgwVHBPSkN1bGlZZGNiOEdMMHVDREw0clE?oc=5",
       "fuente": "Código San Luis",
@@ -998,6 +990,22 @@
       "tambienEn": [
         "ESPN Deportes",
         "Plano Informativo"
+      ]
+    },
+    {
+      "titulo": "Atlético San Luis vs Juárez: alineaciones y probabilidades",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYzVHZHhobHYyX085cVJJRjdiMlZEaWtLWFNNdHJVTC1JYWphZzczcDd5MTVkc2ZIYWZ3WktqMjNiNzhiZzI3M3pLRVpuUUVuVndsN1RnMHlVdGp4OGczYWwzS1ZiaVUxVWc0cFljc0tIS2tPck9JUm1Ndmt0cnJUOHF4TjJoWFNYemt1QnUxblloNHFLTHdKdVd6SlRYbEdvQTlPaWV0ZWw3eUczQ2VERw?oc=5",
+      "fuente": "ESPN México",
+      "fechaISO": "2026-11-06T16:30:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "ESPN Deportes",
+        "ESPN Deportes",
+        "rcdm.es",
+        "ESPN Argentina",
+        "Squawka"
       ]
     }
   ],
@@ -1042,7 +1050,7 @@
       ]
     },
     {
-      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar? - El Sol de San Luis",
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-07-21T07:00:00.000Z",
@@ -1075,7 +1083,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
+  "totalFuentes": 36,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

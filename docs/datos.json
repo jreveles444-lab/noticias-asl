@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T09:35:23.931Z",
+  "generadoISO": "2026-11-09T10:35:30.940Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -580,6 +580,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Con más apagones que goles, San Luis se queda fuera de la liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzhCYzlRcEprVHlWNF80aThjN2xmaHlodHhRTUNBekRYZzYzNUNBRjhDWXloUUNUVVRmNnlMM1ZPZUs3ZjBFRzJCYmR4eFF5c2FMZmIwWWRSc0dSUWc0OEYtbENDekVlU1RlcXp0VFVtQU1yREs0TElfRk9ZM181bU5fRnp2ZzRHb1JXeVQ1NE1tbzA1aWVV?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-11-07T03:35:11.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "El equipo de Necaxa ya ganó con Juan Reynoso y el Atlético San Luis prácticamente eliminado",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVRWcTl0VmRoNlVSeXZUN0hILUtncXBfM2dpX3RDVllLQ3pxY25aMnIyWjVoTmx4SVdvUHZNRGhocW84bWp0MHBXVkNRMEVXYlRFY3R5dUNMbXpLT2dLVHpOQ09nM0hfWnJBMXBqQ0xzMGZIV1pjdnJ2UmdjVm5OVWV2V1VPSXhtQmNlMkd0RTdISkFxTmlEMkF2QWlSVUdhYmNJRGhfLWI5d0JHMjd5NnljcG5rOWxfVXhkZExPN0lnMzROaURsYQ?oc=5",
       "fuente": "88.9 Noticias | Noticias en Vivo | Información Que Sirve",
@@ -860,10 +870,7 @@
         "Femenil",
         "Partidos"
       ],
-      "tambienEn": [
-        "El Heraldo de San Luis Potosí.",
-        "Récord"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Pumas Femenil juega su última carta por la Liguilla enfrentando a Atlético de San Luis este viernes en CU.",
@@ -872,16 +879,6 @@
       "fechaISO": "2026-11-06T21:47:55.000Z",
       "categorias": [
         "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¿Por qué Atlético San Luis vs. FC Juárez no va por TV abierta en México?",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2VtdGp5N0NraUxUQnNIQzZuOV81dDktdDM1dUtTYjJ5VjA3dDV6eTJMMHg1TDZ5cFNYdjJNUkQ3d2R5YzhIVGhNbzBWRHFnWHVYTFhNX0tseTRNM3d2SDFVd2FfdldUQlYzSGprdXc4dTY0UVdKRHBFSXdJTkp1bEtHQW1lNTVnb1NFMnd1Ri14QWtuWVpXZnFCcHZ2WElx0gGmAUFVX3lxTE1wbmp0SHlkeVUyc0FkaGFwV2V4enNpdlc1NWdSWXAtUl9PRmx6S3lTd1U0RGVJUUd5VFRFOC16ZHBTSXk3dTFWX1F4UEIzYk5pckRzbXN5LXFGOFVqdUx3SDVWd3Y5R3FPdjZuckY2bzZFN1pmc0haM2dOeGx2MS0ta0VZLXFhVE1uRnN3UFBYaU9RMUNTOEh1TEJTWldCa3dvRjZoVFE?oc=5",
-      "fuente": "Bolavip México",
-      "fechaISO": "2026-11-06T21:44:50.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -1135,7 +1132,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 41,
+  "totalFuentes": 40,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

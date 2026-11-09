@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T21:36:51.156Z",
+  "generadoISO": "2026-11-09T22:36:57.964Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -434,7 +434,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Universal"
+      ]
     },
     {
       "titulo": "¡Por defender a su esposa! Galdames encara a Raymundo Fulgencio tras el Atlético de San Luis vs Juárez",
@@ -712,7 +714,8 @@
         "SDPnoticias.com",
         "365Scores",
         "Récord",
-        "El Sol de México"
+        "El Sol de México",
+        "El Universal San Luis Potosí"
       ]
     },
     {
@@ -801,8 +804,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "rcdm.es",
         "Transfermarkt",
+        "rcdm.es",
         "Apuestas Ganadas"
       ]
     },
@@ -1069,6 +1072,19 @@
       "tambienEn": []
     },
     {
+      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-07-21T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
+      ],
+      "tambienEn": [
+        "Atlético San Luis"
+      ]
+    },
+    {
       "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
@@ -1077,17 +1093,6 @@
         "Cantera",
         "Escuela",
         "Fichajes"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "La segunda edición de la Copa Escuelas Oficiales ADSL está lista para arrancar",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBjYWNHeDhvQldPb29MUkQteHF0SzUyVmFhRTJXRnRDc3hoSWVOMko1VFFJcDhDcGIxamNfd19WbUVTTXZ2Rkd6SUxaS3dCTXBGOXdScWQ2U21uaFJ1T2ZHNDNaclQzXzl2d0JnVjh6c2huekZvZDJaa3NSbFo0c0pxUW9hZ2FTNjg2eGxhSk44dWFpeHBuUUFPOUJ5N0FZaHFjZU4wU090VHVjZWI3RXRUaHNJajFuMllsUHBzRnU?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-07-10T17:27:33.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
       ],
       "tambienEn": []
     }

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T05:34:48.173Z",
+  "generadoISO": "2026-11-09T06:34:55.491Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,28 +345,6 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
-      "titulo": "Atlético de San Luis suma dos años sin clasificar a la Liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkJqSXpxNWRGNlg1dDBzUGFIakcyZ3JfSFJ5djlyajJ6QVJsdjc1b0o3VTR6TnhMSFFUY3JjY1VOc3U2Y25TTWxPQVplNEQ1S0dnMTZBUVpmZ2FkNHJfaDZPSlZfTTYyWE14WGZVWkdWcWl4RElKempQOWEtTjZ6YzhiMUFSMUNfOHVUa205QjAzanF2OGUyTkxwaTVCaHQ5ZWFCWGg3Ym9IZHJVdlpn?oc=5",
-      "fuente": "El Universal San Luis Potosí",
-      "fechaISO": "2026-11-08T23:20:27.000Z",
-      "categorias": [
-        "Cantera"
-      ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
-    },
-    {
-      "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
-      "fuente": "SDPnoticias.com",
-      "fechaISO": "2026-11-08T19:35:48.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "A San Luis le faltó experiencia y se desmoronó al final de la Liga Femenil",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW9ILW5zSVJmVWR4dnQ3aVFHV0FmRzJSUGx3aVlSTUprUUI5enE3cUdpYXd2ay1PZHV4MldHbGg0WTA2VGoyLTVjZTc3UDJNSzFDSmY0NW56a1g0WTZVV1BjRzloaEtXQnlFN1FGck85dmhLUjB0dW1Ra0NCZkRuS1JfcXVXa2w2aFQxNS1IT1lMNzNUSUZHamR0ck1TNWlnNGhkYUVmTUhFWUtzODFHb0dEcUV4N3BGN3M3bm9aU3A1TEFuRVZzQ3gyVmhMZDZLbHVR?oc=5",
       "fuente": "OnceDiario",
@@ -440,7 +418,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Universal"
+      ]
     },
     {
       "titulo": "¡Por defender a su esposa! Galdames encara a Raymundo Fulgencio tras el Atlético de San Luis vs Juárez",
@@ -820,7 +800,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Mediotiempo",
         "El Informador"
       ]
     },
@@ -1019,6 +998,26 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "San Luis y Juárez arrancan Jornada 16",
+      "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXOXZhYy1hWUR3N1psSE54aURTZHVabWJqRGdXYk15Y3RVa1NoXy1MeUl4cW1jVld0bnFmNl85R0hBR2Vham56WWtKSDljSmhBTjZoRFNQUFlSV2c?oc=5",
+      "fuente": "PSN Noticias",
+      "fechaISO": "2026-11-06T16:16:32.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Cartelera de Liga MX para este viernes",
+      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZDE3Sm9kaC1HTnhPUWVPTDlGdVppXzYxQ1Jra1JEZnRpVnhvdG5aVGlCYng1bG02TXVJbzgzV2ZOLTlZQlFRODBrNUpPTU9tYWNGYVNhTEplN2gxU2h6LWhWSXJhYzZWRjdSVDBZMUJkRG81TlNwSndJSlJJMERWVm83N1lETm1XbzREUy1SVWrSAZYBQVVfeXFMTVFnTVFlZWRvVDI5eGZYLUc4aFRXMFY5ZnRtbTg2RkhNZk1qQWl6UTBod3hNcWgtVW9pUDA1azBFWWJScDJGLU1XMDhTdXBycllEOUp3blFGZGJFSmhQMXRRRGUzc3E2WC0tN1NSXzc2NjRWYjQ5OURneGQxamJzNGVuYjh4V19mbktRQlN0cUh1UDBFWkdB?oc=5",
+      "fuente": "Pulso Diario San Luis",
+      "fechaISO": "2026-11-06T15:54:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1049,7 +1048,7 @@
       "tambienEn": []
     },
     {
-      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar? - El Sol de San Luis",
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-07-21T07:00:00.000Z",
@@ -1074,7 +1073,48 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [],
+  "videos": [
+    {
+      "id": "GRULEGw-YeI",
+      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
+      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T20:00:31.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "n8su8tM3ld8",
+      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
+      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
+      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T13:01:00.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "A96M_eTLwWY",
+      "titulo": "ATLÉTICO DE SAN LUIS VS JUÁREZ | SUB21 | AP26 | J16",
+      "enlace": "https://www.youtube.com/watch?v=A96M_eTLwWY",
+      "miniatura": "https://i.ytimg.com/vi/A96M_eTLwWY/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T04:10:28.000Z",
+      "categoria": "Del club"
+    },
+    {
+      "id": "bi2cfipoEbw",
+      "titulo": "¡Las potosinas llegaron a CDMX listas para hacer historia! | El Viaje | AP26",
+      "enlace": "https://www.youtube.com/watch?v=bi2cfipoEbw",
+      "miniatura": "https://i.ytimg.com/vi/bi2cfipoEbw/hqdefault.jpg",
+      "publicadoISO": "2026-11-06T18:00:34.000Z",
+      "categoria": "Del club"
+    },
+    {
+      "id": "5JTyXnFtkZg",
+      "titulo": "¡Listos para recibir a Juárez! | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=5JTyXnFtkZg",
+      "miniatura": "https://i.ytimg.com/vi/5JTyXnFtkZg/hqdefault.jpg",
+      "publicadoISO": "2026-11-06T15:09:46.000Z",
+      "categoria": "Entrenamiento"
+    }
+  ],
   "redes": [
     {
       "nombre": "X",
@@ -1093,10 +1133,8 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 40,
-  "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
-  ],
+  "totalFuentes": 41,
+  "avisos": [],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

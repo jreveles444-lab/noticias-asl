@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T02:34:25.357Z",
+  "generadoISO": "2026-11-09T03:34:33.018Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,18 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Atlético de San Luis suma dos años sin clasificar a la Liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkJqSXpxNWRGNlg1dDBzUGFIakcyZ3JfSFJ5djlyajJ6QVJsdjc1b0o3VTR6TnhMSFFUY3JjY1VOc3U2Y25TTWxPQVplNEQ1S0dnMTZBUVpmZ2FkNHJfaDZPSlZfTTYyWE14WGZVWkdWcWl4RElKempQOWEtTjZ6YzhiMUFSMUNfOHVUa205QjAzanF2OGUyTkxwaTVCaHQ5ZWFCWGg3Ym9IZHJVdlpn?oc=5",
+      "fuente": "El Universal San Luis Potosí",
+      "fechaISO": "2026-11-08T23:20:27.000Z",
+      "categorias": [
+        "Cantera"
+      ],
+      "tambienEn": [
+        "El Sol de México"
+      ]
+    },
+    {
       "titulo": "Empresarios potosinos, aliados del cambio en SLP",
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yc0ZCaHRSY3hRNHJzT3o2MG9jSHU5NXlLLV9VaGhzYWs1ZWw4Tk1qQVpCTFk4UWxxSzJaMHdPa0JTX2tHME5KVnJzWGtkOWpoZ3I3Wklxck1mcm45bjhyMVFMMmQ0YU9hakxjWEUzalphWXRwVGhKNjdya2w3NEk?oc=5",
       "fuente": "Código San Luis",
@@ -381,16 +393,6 @@
       "fechaISO": "2026-11-08T19:06:28.000Z",
       "categorias": [
         "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Opinión / Los avances de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbngzVlBCUVFyMDNBa2k0VHhZTTZ3RWRacUhnZkhtS1pZSHNOdnZkb3Vkb0dvTndhTmNJYWVYTEJjcERIbnJYMUpsZXREb3pQaWZyOEQwVk1NSDVFYWpFWncxYVI2c1g0Z3o5S0ZWSnNJMFBXdENQRDhHaUZLRlNQMGxHUXk4ek00ZVJB?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-08T06:14:23.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -449,8 +451,8 @@
         "Fichajes"
       ],
       "tambienEn": [
-        "Publimetro México",
         "Récord",
+        "Publimetro México",
         "La Prensa de Coahuila"
       ]
     },
@@ -486,6 +488,16 @@
         "Infobae",
         "Mediotiempo"
       ]
+    },
+    {
+      "titulo": "Juarez vence a San Luis con penal de ultimo minuto en noche de apagon",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHh2WHRTLWRFQzVEQk83ampRekhrUTBJVzl5WUlHYko0emxYWVNfNFFaNzY0TzNLQVhIRUE2bkluNVNFZndIVUphSENrMU1uSmwyLXd4MmNkTVFTMHdVeXYyU09ERHdNOGhPb0ZlNEtXOHVNT3JRbmEycWlnZG9YYVMyRDg3WkNBVUp5ek9NUG56N3NYdU5mSENDZEhLekZsQy1IcUx1QkE5X25Cc0NUY0xLYTJBaU5R?oc=5",
+      "fuente": "Hoy Tamaulipas",
+      "fechaISO": "2026-11-07T15:19:15.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "¡Se dijeron de todo! Jugadores del Atletico San Luis se insultan tras derrota ante Bravos VIDEO",
@@ -995,16 +1007,6 @@
         "ESPN Argentina",
         "Squawka"
       ]
-    },
-    {
-      "titulo": "Van los Bravos a San Luis y buscan regresar a casa con los tres puntos",
-      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdUZkZE9wVUpLQ3d3VlEzdTZpakNwcHNvSGh0cExReWZpZFo0TVh6eVc3WEVheDFyOFd6bDdiNHN5eTd5TTdDZkVTbmhjUy1wcTlCbWM1d1lkRFlyZHVHR0tIV19ITUpoX0RkR0VjYmo1clVhVjd6clZySXcwSVhienBuSWcwSHdnTVJyWFMxOG5DdUNTZ0VGNm0xb0s1MDlBYm1QZVRKTGVGZWJlajFCNnluRFRuTFl3MU5YQUF2U0M3cWhzT2FnTVZjdjFUakhrRkVEVnhRRXdXNWVEdVZ3bk5YMXNNNVVlMm9uTk1lcWV5UFk1bEUwOHVPWUlJWDFFVUREQnJxSmJUaXNTUHp3Tk01NA?oc=5",
-      "fuente": "Tiempo La Noticia Digital",
-      "fechaISO": "2026-11-06T16:19:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1079,7 +1081,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
+  "totalFuentes": 37,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

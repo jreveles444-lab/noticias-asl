@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T14:35:58.911Z",
+  "generadoISO": "2026-11-09T15:36:05.650Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -344,6 +344,18 @@
   "temporada": "2026 Torneo Apertura",
   "fuenteDatos": "ESPN",
   "noticias": [
+    {
+      "titulo": "Atlético de San Luis suma dos años sin clasificar a la Liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkJqSXpxNWRGNlg1dDBzUGFIakcyZ3JfSFJ5djlyajJ6QVJsdjc1b0o3VTR6TnhMSFFUY3JjY1VOc3U2Y25TTWxPQVplNEQ1S0dnMTZBUVpmZ2FkNHJfaDZPSlZfTTYyWE14WGZVWkdWcWl4RElKempQOWEtTjZ6YzhiMUFSMUNfOHVUa205QjAzanF2OGUyTkxwaTVCaHQ5ZWFCWGg3Ym9IZHJVdlpn?oc=5",
+      "fuente": "El Universal San Luis Potosí",
+      "fechaISO": "2026-11-08T23:20:27.000Z",
+      "categorias": [
+        "Cantera"
+      ],
+      "tambienEn": [
+        "El Sol de México"
+      ]
+    },
     {
       "titulo": "A San Luis le faltó experiencia y se desmoronó al final de la Liga Femenil",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW9ILW5zSVJmVWR4dnQ3aVFHV0FmRzJSUGx3aVlSTUprUUI5enE3cUdpYXd2ay1PZHV4MldHbGg0WTA2VGoyLTVjZTc3UDJNSzFDSmY0NW56a1g0WTZVV1BjRzloaEtXQnlFN1FGck85dmhLUjB0dW1Ra0NCZkRuS1JfcXVXa2w2aFQxNS1IT1lMNzNUSUZHamR0ck1TNWlnNGhkYUVmTUhFWUtzODFHb0dEcUV4N3BGN3M3bm9aU3A1TEFuRVZzQ3gyVmhMZDZLbHVR?oc=5",
@@ -725,7 +737,9 @@
         "Femenil",
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "ADN | A Diario Network"
+      ]
     },
     {
       "titulo": "¡Arranca la fecha 16! Ya juegan Atlético de San Luis y Bravos de Juárez",
@@ -1014,16 +1028,6 @@
         "Telediario",
         "Telemundo"
       ]
-    },
-    {
-      "titulo": "Busca Bravos salir del fondo ante San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmFReV9yY05kc3ppRGVlekxOMTNmTHQ5MXM3QTVSbkpFWTVoTHk2TGJXVlA2WThsZ3VvQkFMOWZQZERVMUFDT0ZrbndHemxjNTZ6VWxoNjZ1dXMxZnhmU1drVXk4V2xaNnc5OW9FOGVLZkplMXEyRm0xZzFfQXFxNVlST0tReFNnbWpGVkdLdjF4UldYc1piT3NB0gGfAUFVX3lxTE85LUpuWDhScy1MQmNsUnZHS01HSTJ5XzZkWUh6ZUNtNVVIaHNudzU0VGlMNE54Q1dzWUZ4Wk0zT3lqMjRkQmYwUTJXTXY0WUhfQnBKWC1wTHZQclFNWGk4UW1TdjU4SVZLN1VTUWdDWkQwTjdCeG1EZ0ZxckNUbWoxUGp5MmZCMEZmRE9GVlQ1SDNLYTV0RzhCRmxUcjA5NA?oc=5",
-      "fuente": "El Diario",
-      "fechaISO": "2026-11-06T12:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1067,7 +1071,7 @@
       ]
     },
     {
-      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar? - El Sol de San Luis",
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-07-21T07:00:00.000Z",
@@ -1141,7 +1145,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 39,
+  "totalFuentes": 40,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T01:34:17.894Z",
+  "generadoISO": "2026-11-09T02:34:25.357Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -260,16 +260,28 @@
       "rank": 12,
       "equipo": "Querétaro",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/222.png",
-      "pj": "14",
+      "pj": "15",
       "g": "6",
       "e": "2",
-      "p": "6",
-      "dg": "-3",
+      "p": "7",
+      "dg": "-5",
       "pts": "20",
       "nosotros": false
     },
     {
       "rank": 13,
+      "equipo": "Puebla",
+      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
+      "pj": "16",
+      "g": "5",
+      "e": "4",
+      "p": "7",
+      "dg": "-4",
+      "pts": "19",
+      "nosotros": false
+    },
+    {
+      "rank": 14,
       "equipo": "Atlético de San Luis",
       "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/15720.png",
       "pj": "16",
@@ -279,18 +291,6 @@
       "dg": "-5",
       "pts": "19",
       "nosotros": true
-    },
-    {
-      "rank": 14,
-      "equipo": "Puebla",
-      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/231.png",
-      "pj": "15",
-      "g": "4",
-      "e": "4",
-      "p": "7",
-      "dg": "-6",
-      "pts": "16",
-      "nosotros": false
     },
     {
       "rank": 15,
@@ -345,18 +345,6 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
-      "titulo": "Atlético de San Luis suma dos años sin clasificar a la Liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkJqSXpxNWRGNlg1dDBzUGFIakcyZ3JfSFJ5djlyajJ6QVJsdjc1b0o3VTR6TnhMSFFUY3JjY1VOc3U2Y25TTWxPQVplNEQ1S0dnMTZBUVpmZ2FkNHJfaDZPSlZfTTYyWE14WGZVWkdWcWl4RElKempQOWEtTjZ6YzhiMUFSMUNfOHVUa205QjAzanF2OGUyTkxwaTVCaHQ5ZWFCWGg3Ym9IZHJVdlpn?oc=5",
-      "fuente": "El Universal San Luis Potosí",
-      "fechaISO": "2026-11-08T23:20:27.000Z",
-      "categorias": [
-        "Cantera"
-      ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
-    },
-    {
       "titulo": "Empresarios potosinos, aliados del cambio en SLP",
       "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yc0ZCaHRSY3hRNHJzT3o2MG9jSHU5NXlLLV9VaGhzYWs1ZWw4Tk1qQVpCTFk4UWxxSzJaMHdPa0JTX2tHME5KVnJzWGtkOWpoZ3I3Wklxck1mcm45bjhyMVFMMmQ0YU9hakxjWEUzalphWXRwVGhKNjdya2w3NEk?oc=5",
       "fuente": "Código San Luis",
@@ -407,16 +395,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Diego Mejía lamenta eliminación del Atlético de San Luis: “Estamos muy dolidos”",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGs4UGpXc1pQQUFFSFJfWk5xN3ltejMyeHRZeEVKZFhqMmJhbWczQzVtNFB3V2FHMjVKZV9uYTdTU2U0RzduUk1yeEQ0YV9nQV9nR2RlNnVwaktQV01uQVlBSzc4R3JESHN3cDY1SHA2S1dxTklPbHBkWlFIQS02a1lKbEd2bmJubDB4QjVWbmt5Y05YV2w3OVJ3NUowemZkeWNfaTVwSDRyTUROWTViZ2h5WVd4WEs5Mkh4aEROZWJ5NTVWTTFF?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-08T03:24:34.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "“Metete con los hombres” Futbolistas se encaran al terminar el Juárez vs Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWlsUlNSV3IwTjdPVUxtX21OckdmWi00QV9iTEwzWDZvUmdzYUJiSVY5dTZSTU81Y2JjS3E0QkNGMXB4dm5ydkw3MzZ5WTlUVDZrTXpfWktMTGtJT2lTREhRTkp3YzBJajV4bnpKMGFuNGxEOXZTeDZjNjE2SGlpSWU1bHZWdkdEb29WM2htU0w2dC1ndmtWWFJZczJlbHlwc3I2ZGZFdTB6azhQY0NGVDVrRXF4ckh4MXRDUkltalh0QnRQRmhzYmdQUFk?oc=5",
       "fuente": "TV Azteca",
@@ -435,6 +413,17 @@
       "fechaISO": "2026-11-08T01:00:46.000Z",
       "categorias": [
         "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "El tabasqueño Augusto Rosas marca 4 goles en la goleada del Toluca sub 11 sobre el Atl. San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDVvcWxCTEtRcDA0SVEzM1hqbEdHWklkaVdMNHNBby1yUjllc1BwbHhGQUtnb1lVTlMxdVNXVkxsaWoyY2cxNkNybkpsNGhZSkt4aDhZUkdvYUY5LU5FS0hndENHNzQyZWJTY2YzUkoyd0loMldYdmpsZVVjTTRuaHBmelNYM1NaamhKOGZfRFVVLXVTeWIzR21ma2NCQ2p5bGRVcWhLTWRueTFWajBvVlJwc0p1MElEQUpDSjJXM1c3dmh1OHpEWXZjVkw?oc=5",
+      "fuente": "XEVT",
+      "fechaISO": "2026-11-07T22:14:00.000Z",
+      "categorias": [
+        "Cantera",
         "Partidos"
       ],
       "tambienEn": []
@@ -466,6 +455,16 @@
       ]
     },
     {
+      "titulo": "Diego Mejía lamenta eliminación del Atlético de San Luis: “Estamos muy dolidos”",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGs4UGpXc1pQQUFFSFJfWk5xN3ltejMyeHRZeEVKZFhqMmJhbWczQzVtNFB3V2FHMjVKZV9uYTdTU2U0RzduUk1yeEQ0YV9nQV9nR2RlNnVwaktQV01uQVlBSzc4R3JESHN3cDY1SHA2S1dxTklPbHBkWlFIQS02a1lKbEd2bmJubDB4QjVWbmt5Y05YV2w3OVJ3NUowemZkeWNfaTVwSDRyTUROWTViZ2h5WVd4WEs5Mkh4aEROZWJ5NTVWTTFF?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-07T17:24:42.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Bravos derrota de visita al Atlético de San Luis en la Jornada 16 del Apertura 2026",
       "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT1hZbjBiQ2VFdHA3ak9DZXlMWDgwM1RkMUNqM0FweFdMMXowN2pLMEtwQWFzdDhHdFhkVmhQQm5KMDlBRjQ3UkZObXdvbGtMX1dBOU4xVk85cmcxeU1KNUJiSWVEZmZLbnFHNDF6VVQtRDRQZm1uNFE4eG5RczhIb0VVV0N0Q3dpVWQ5ellwMmpKUlRBb1FUNkVaUjNKbXZOcmtWUjRyalpyYVVTMnBpSS0weUdYNGtnLUs3R3Y3ajV0LURjbk5QRHoxaWQxbUEtSkRGYlNxY9IB3AFBVV95cUxQOTE1Y2FYZXR6STFCN21tQmNqTUdMLTRuaFdwV0JabnZmWXpiSjdTSVhxd1NJd3FFWnBDTjVtWjNCMW91a1Fxc0lOUldrQ3lUd2xiZkZ4UHpwekltZ2tzYXMwU05hYkljWGlzbUdib0ppYUJhaWJWdzRYenBYUmhDX1JuQlEzVnlmWkRVOGxlcmh3SGpYSGdjUjBUSlVidG4ybzNRemdHeWx3Y09NYXYzNWJ5NVc3ZHBDWmE3VDlrQ0NaT181VjJLQ2tOSXNXdnFpaS10LWl5RU96WEp4?oc=5",
       "fuente": "El Pueblo - La noticia como es",
@@ -487,16 +486,6 @@
         "Infobae",
         "Mediotiempo"
       ]
-    },
-    {
-      "titulo": "Juarez vence a San Luis con penal de ultimo minuto en noche de apagon",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHh2WHRTLWRFQzVEQk83ampRekhrUTBJVzl5WUlHYko0emxYWVNfNFFaNzY0TzNLQVhIRUE2bkluNVNFZndIVUphSENrMU1uSmwyLXd4MmNkTVFTMHdVeXYyU09ERHdNOGhPb0ZlNEtXOHVNT3JRbmEycWlnZG9YYVMyRDg3WkNBVUp5ek9NUG56N3NYdU5mSENDZEhLekZsQy1IcUx1QkE5X25Cc0NUY0xLYTJBaU5R?oc=5",
-      "fuente": "Hoy Tamaulipas",
-      "fechaISO": "2026-11-07T15:19:15.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "¡Se dijeron de todo! Jugadores del Atletico San Luis se insultan tras derrota ante Bravos VIDEO",
@@ -834,7 +823,6 @@
       ],
       "tambienEn": [
         "Mediotiempo",
-        "TUDN",
         "El Informador"
       ]
     },
@@ -1007,6 +995,16 @@
         "ESPN Argentina",
         "Squawka"
       ]
+    },
+    {
+      "titulo": "Van los Bravos a San Luis y buscan regresar a casa con los tres puntos",
+      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdUZkZE9wVUpLQ3d3VlEzdTZpakNwcHNvSGh0cExReWZpZFo0TVh6eVc3WEVheDFyOFd6bDdiNHN5eTd5TTdDZkVTbmhjUy1wcTlCbWM1d1lkRFlyZHVHR0tIV19ITUpoX0RkR0VjYmo1clVhVjd6clZySXcwSVhienBuSWcwSHdnTVJyWFMxOG5DdUNTZ0VGNm0xb0s1MDlBYm1QZVRKTGVGZWJlajFCNnluRFRuTFl3MU5YQUF2U0M3cWhzT2FnTVZjdjFUakhrRkVEVnhRRXdXNWVEdVZ3bk5YMXNNNVVlMm9uTk1lcWV5UFk1bEUwOHVPWUlJWDFFVUREQnJxSmJUaXNTUHp3Tk01NA?oc=5",
+      "fuente": "Tiempo La Noticia Digital",
+      "fechaISO": "2026-11-06T16:19:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1037,20 +1035,7 @@
       "tambienEn": []
     },
     {
-      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": [
-        "Atlético San Luis"
-      ]
-    },
-    {
-      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar? - El Sol de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-07-21T07:00:00.000Z",
@@ -1058,6 +1043,17 @@
         "Cantera",
         "Escuela",
         "Fichajes"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "La segunda edición de la Copa Escuelas Oficiales ADSL está lista para arrancar",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBjYWNHeDhvQldPb29MUkQteHF0SzUyVmFhRTJXRnRDc3hoSWVOMko1VFFJcDhDcGIxamNfd19WbUVTTXZ2Rkd6SUxaS3dCTXBGOXdScWQ2U21uaFJ1T2ZHNDNaclQzXzl2d0JnVjh6c2huekZvZDJaa3NSbFo0c0pxUW9hZ2FTNjg2eGxhSk44dWFpeHBuUUFPOUJ5N0FZaHFjZU4wU090VHVjZWI3RXRUaHNJajFuMllsUHBzRnU?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-07-10T17:27:33.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
       ],
       "tambienEn": []
     }

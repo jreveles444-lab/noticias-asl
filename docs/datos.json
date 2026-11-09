@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T17:36:20.764Z",
+  "generadoISO": "2026-11-09T18:36:28.632Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "¿Qué sostiene la confianza empresarial en San Luis Potosí?",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHItUjM1alJYX214bEhKUXlFeFVBZ1hqeGxCNENjRjU5cDctcWhMMDJhZG0yZGEzSTVRTk51Z2Njd2lveHRXOEJKNWg4eWtxMENCeHhuV1ZaLUIyN2tyWlUzeW5VTllzTnFqUHh1TnZzcTloS1RtLUpaREpwaUpuLTdmSDZjV2VObFRWcg?oc=5",
+      "fuente": "Líder Empresarial",
+      "fechaISO": "2026-11-09T17:47:48.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "A San Luis le faltó experiencia y se desmoronó al final de la Liga Femenil",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW9ILW5zSVJmVWR4dnQ3aVFHV0FmRzJSUGx3aVlSTUprUUI5enE3cUdpYXd2ay1PZHV4MldHbGg0WTA2VGoyLTVjZTc3UDJNSzFDSmY0NW56a1g0WTZVV1BjRzloaEtXQnlFN1FGck85dmhLUjB0dW1Ra0NCZkRuS1JfcXVXa2w2aFQxNS1IT1lMNzNUSUZHamR0ck1TNWlnNGhkYUVmTUhFWUtzODFHb0dEcUV4N3BGN3M3bm9aU3A1TEFuRVZzQ3gyVmhMZDZLbHVR?oc=5",
       "fuente": "OnceDiario",
@@ -408,7 +418,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Universal"
+      ]
     },
     {
       "titulo": "¡Por defender a su esposa! Galdames encara a Raymundo Fulgencio tras el Atlético de San Luis vs Juárez",
@@ -561,6 +573,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Con más apagones que goles, San Luis se queda fuera de la liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzhCYzlRcEprVHlWNF80aThjN2xmaHlodHhRTUNBekRYZzYzNUNBRjhDWXloUUNUVVRmNnlMM1ZPZUs3ZjBFRzJCYmR4eFF5c2FMZmIwWWRSc0dSUWc0OEYtbENDekVlU1RlcXp0VFVtQU1yREs0TElfRk9ZM181bU5fRnp2ZzRHb1JXeVQ1NE1tbzA1aWVV?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-11-07T03:35:11.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "El equipo de Necaxa ya ganó con Juan Reynoso y el Atlético San Luis prácticamente eliminado",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVRWcTl0VmRoNlVSeXZUN0hILUtncXBfM2dpX3RDVllLQ3pxY25aMnIyWjVoTmx4SVdvUHZNRGhocW84bWp0MHBXVkNRMEVXYlRFY3R5dUNMbXpLT2dLVHpOQ09nM0hfWnJBMXBqQ0xzMGZIV1pjdnJ2UmdjVm5OVWV2V1VPSXhtQmNlMkd0RTdISkFxTmlEMkF2QWlSVUdhYmNJRGhfLWI5d0JHMjd5NnljcG5rOWxfVXhkZExPN0lnMzROaURsYQ?oc=5",
       "fuente": "88.9 Noticias | Noticias en Vivo | Información Que Sirve",
@@ -703,7 +725,8 @@
         "SDPnoticias.com",
         "365Scores",
         "Récord",
-        "El Sol de México"
+        "El Sol de México",
+        "El Universal San Luis Potosí"
       ]
     },
     {
@@ -791,8 +814,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "rcdm.es",
         "Transfermarkt",
+        "rcdm.es",
         "Apuestas Ganadas"
       ]
     },
@@ -881,6 +904,7 @@
         "Récord",
         "El Sol de México",
         "El Heraldo de México",
+        "Mediotiempo",
         "La Crónica de Hoy",
         "TUDN",
         "TV Azteca",
@@ -1018,26 +1042,6 @@
         "Telediario",
         "Telemundo"
       ]
-    },
-    {
-      "titulo": "Busca Bravos salir del fondo ante San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTmFReV9yY05kc3ppRGVlekxOMTNmTHQ5MXM3QTVSbkpFWTVoTHk2TGJXVlA2WThsZ3VvQkFMOWZQZERVMUFDT0ZrbndHemxjNTZ6VWxoNjZ1dXMxZnhmU1drVXk4V2xaNnc5OW9FOGVLZkplMXEyRm0xZzFfQXFxNVlST0tReFNnbWpGVkdLdjF4UldYc1piT3NB0gGfAUFVX3lxTE85LUpuWDhScy1MQmNsUnZHS01HSTJ5XzZkWUh6ZUNtNVVIaHNudzU0VGlMNE54Q1dzWUZ4Wk0zT3lqMjRkQmYwUTJXTXY0WUhfQnBKWC1wTHZQclFNWGk4UW1TdjU4SVZLN1VTUWdDWkQwTjdCeG1EZ0ZxckNUbWoxUGp5MmZCMEZmRE9GVlQ1SDNLYTV0RzhCRmxUcjA5NA?oc=5",
-      "fuente": "El Diario",
-      "fechaISO": "2026-11-06T12:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Aldo Cruz será el jugador a seguir ante FC Juárez",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkNLRGwxc1loN1pvWjJ0alNETUhNRHpCQ1MwZzh3WmQzMTJtZUxRUHEwMFA0UmFrOUhTNGFUWmpvSUpHZExKSnhFbGFsMlRDV3VlWWZzVmJreXBzRk1FNS1VVTNmQWE0VzY5MVpjUURHSHZRbG5LSVZYVmV1RExwRGl5aUF6czFic2cwQ3NySE9LczJtWEtkT3NB?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-11-06T03:16:25.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1068,19 +1072,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": [
-        "Atlético San Luis"
-      ]
-    },
-    {
       "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
@@ -1089,6 +1080,17 @@
         "Cantera",
         "Escuela",
         "Fichajes"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "La segunda edición de la Copa Escuelas Oficiales ADSL está lista para arrancar",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBjYWNHeDhvQldPb29MUkQteHF0SzUyVmFhRTJXRnRDc3hoSWVOMko1VFFJcDhDcGIxamNfd19WbUVTTXZ2Rkd6SUxaS3dCTXBGOXdScWQ2U21uaFJ1T2ZHNDNaclQzXzl2d0JnVjh6c2huekZvZDJaa3NSbFo0c0pxUW9hZ2FTNjg2eGxhSk44dWFpeHBuUUFPOUJ5N0FZaHFjZU4wU090VHVjZWI3RXRUaHNJajFuMllsUHBzRnU?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-07-10T17:27:33.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
       ],
       "tambienEn": []
     }
@@ -1155,7 +1157,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
+  "totalFuentes": 38,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

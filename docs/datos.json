@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T12:35:44.414Z",
+  "generadoISO": "2026-11-09T13:35:51.450Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -442,16 +442,6 @@
       "fechaISO": "2026-11-07T15:19:15.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡Se dijeron de todo! Jugadores del Atletico San Luis se insultan tras derrota ante Bravos VIDEO",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSmd5UWdVeFVIbTd4ZWJNcWJHV0w2U0R6RFlPTEo4NENzYmdtX0hXTXQwSTZULUJyQXRUdWVGV2tWSGV1RE95RWxPckdlUU1fdVR2WEFxbFdJeUdzcnN0Ujh2ZkpEcUlPWHZmSGZ1ZTFUZzE2YWFaa3poYXYtV29zbER3LWNDS1JJTmx0SDR1Y1hyR3BHZFYtVkw4RzI2aGJWRnBXRmhCRTN1YjhFc253bFdKNWpXNW1aR2JQUXFtcmHSAc4BQVVfeXFMTU5NankyQ3pSUHpMZy1OVUlMUHhTTVpnbnNKaVJ5dnRoclhPUk9BZktpdWVsdnBzdU5ISFNOOGktS25qOGx5cWRKOUFqdXNYTGFSRGlVVE9NNGtLeDJabmRwdW8yLWg2ZTlXZWpPZTdlSmZDOTdMZ2VmU3dPbHF3T0YtTi1USEZhdVBtdFo4OXZiaElwb2xVc21GVVl1bWZIS3EwVzlOSjlRYTUyVi1pdGQyVXBHMW5sOVY0RUxQZXNCc2ZMWEJOQXVwMUdkdmc?oc=5",
-      "fuente": "La Lista",
-      "fechaISO": "2026-11-07T13:47:16.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -1012,6 +1002,28 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "A qué hora y dónde ver Atlético de San Luis vs. Juárez, partido de la Jornada 16 de la Liga MX",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdEswUnV4LVBXQ2hGb3ByVkJkck4tczllQm52YkRsMzdCa1VRRi1qeUp3bVpzVVQ4M0t2SzlqbWpzSkFBcXNLeEFGZk9lalY0ZUFnb3pBXzc4Mk9HZHlpcC1NbHdWWV9ZZUc2aVlSM25sbUFDbHZsVVNCbGxwbkdMbjNzN2tmOURXUkRKdzRiQ1pmcjhFUFBvMWVHOHhqcVNiVWVsZElkTjE4UV9PZUtvMDdVclNLbkplWkZCZGRPYlhWcHdPUV9vSHAyY2l1UVFjc0lfWTFKWU90b2cxbGc?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-11-06T13:06:36.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Récord",
+        "Facebook",
+        "365Scores",
+        "MARCA",
+        "El Heraldo de México",
+        "AS México",
+        "Bolavip México",
+        "FulBox",
+        "Récord",
+        "Telediario",
+        "Telemundo"
+      ]
     }
   ],
   "comunidad": [
@@ -1127,7 +1139,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 41,
+  "totalFuentes": 40,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

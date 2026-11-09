@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T04:34:40.939Z",
+  "generadoISO": "2026-11-09T05:34:48.173Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -357,12 +357,12 @@
       ]
     },
     {
-      "titulo": "Sufre CEFOR Promotora San Luis segunda derrota consecutiva - El Sol de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGNMLXRRRk5XWG5TLV9DZlBjc1ZieExxalNZMXlGLWdqajc3YUEyMTZMVXBMY0kwV0JNQzN4UWlaRldvTmZoRkxuSU93dXpVSXVnM0thbzdSWERlbjh4YllTdVhZelNqeEZwTkhxUFBtaVlyTTNWMXpONTk0aGp1eTNGd1J6MndvbnlkNUloZlpMMU5GU2VqbGhtbm9HLWo5bU40enpBd2lYMnN1VHlz?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-08T22:04:45.000Z",
+      "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
+      "fuente": "SDPnoticias.com",
+      "fechaISO": "2026-11-08T19:35:48.000Z",
       "categorias": [
-        "Partidos"
+        "General"
       ],
       "tambienEn": []
     },
@@ -375,18 +375,6 @@
         "Femenil"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "“Metete con los hombres” Futbolistas se encaran al terminar el Juárez vs Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWlsUlNSV3IwTjdPVUxtX21OckdmWi00QV9iTEwzWDZvUmdzYUJiSVY5dTZSTU81Y2JjS3E0QkNGMXB4dm5ydkw3MzZ5WTlUVDZrTXpfWktMTGtJT2lTREhRTkp3YzBJajV4bnpKMGFuNGxEOXZTeDZjNjE2SGlpSWU1bHZWdkdEb29WM2htU0w2dC1ndmtWWFJZczJlbHlwc3I2ZGZFdTB6azhQY0NGVDVrRXF4ckh4MXRDUkltalh0QnRQRmhzYmdQUFk?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-11-08T01:40:26.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "www.noroeste.com.mx"
-      ]
     },
     {
       "titulo": "Atlético de San Luis Femenil, fuera de la liguilla tras cuatro derrotas consecutivas",
@@ -526,9 +514,11 @@
       "fuente": "Atlético San Luis",
       "fechaISO": "2026-11-07T08:21:19.000Z",
       "categorias": [
-        "Femenil"
+        "Femenil",
+        "Partidos"
       ],
       "tambienEn": [
+        "El Sol de México",
         "Debate",
         "ESPN Deportes"
       ]
@@ -688,6 +678,16 @@
       "fechaISO": "2026-11-07T02:39:41.000Z",
       "categorias": [
         "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Juárez elimina virtualmente al Atlético de San Luis tras vencerlo 1-0 con penal de Óscar Estupiñán",
+      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU2ZUMTgtWk9FQ3dSRmhOYTF6UDZaeEx3Q3dZeWcyc2dSRkVRd013YkpMcGpUZmlKM3EtTXZVUi0ycGtPNGdWUVBhM2c2aFRlTXcyTTFqazRnT3dkTUwxMUxfczg2b1RYc052MFhLUWl0LXJwR1h4NUVvMkF0ZzVBS0dHOEcybUw2VVlzMFVzRVZWbldnTE03b2UwZVNqcUpiVWpqMFl3dG1QaVEzc1JQbDdORVVaOEtWVHVWOXhlUWRvLVh3ZFVZTExsb3JJZXp3YUFZTHJCVFc4akxVZkItNXFLeThXQS1O0gHuAUFVX3lxTE5Qc3dCeXpRMjRTcWtabjFjOEh4Sm5zYW5YQnlKWDBZM3haemRjYW42TTRzQVNSbFJLczBhdXZyeGRXMlRiYkhYN1cySlB6M2pRWmVEYlBuQ2dLTE1kNlZkVmQxUDU3bG5ZeVNTV3lSdU5kby1iVUdESDV3cjVNVXAyVEdoV0FTNE1YMzR6Z3FTMUx2UlF2dWd2dWl0emQxMnY5c1ZNcGNCNExPMjd4VFVQdkZJSDBFWHd6OTJwamY1VVFPNUlsdmlyamRmdkF0V0FRYVBHUFVkajBpSUNkdGwtY2xybGtfSE5LZHVPVmc?oc=5",
+      "fuente": "www.noroeste.com.mx",
+      "fechaISO": "2026-11-07T02:33:04.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     },
@@ -1049,7 +1049,7 @@
       "tambienEn": []
     },
     {
-      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar? - El Sol de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-07-21T07:00:00.000Z",
@@ -1093,7 +1093,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 39,
+  "totalFuentes": 40,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

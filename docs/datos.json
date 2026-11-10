@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-09T23:37:04.899Z",
+  "generadoISO": "2026-11-10T00:37:11.671Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -463,16 +463,6 @@
       ]
     },
     {
-      "titulo": "Juárez deja sin Liguilla a San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QZ1FxSF9ZVFExbmV5R1g5UDRQVzJ5cTNUMUpocEVOZktseHNTVlV6QzREbXJYaVNMeW5teWxUYVVmNEVHbXIwcTQ2TkczOExWcUZ3WmtYVUtNenNPa1Y4UlBiQzVfY0s2dzVJ?oc=5",
-      "fuente": "CMX Noticias",
-      "fechaISO": "2026-11-07T15:25:35.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Juarez vence a San Luis con penal de ultimo minuto en noche de apagon",
       "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHh2WHRTLWRFQzVEQk83ampRekhrUTBJVzl5WUlHYko0emxYWVNfNFFaNzY0TzNLQVhIRUE2bkluNVNFZndIVUphSENrMU1uSmwyLXd4MmNkTVFTMHdVeXYyU09ERHdNOGhPb0ZlNEtXOHVNT3JRbmEycWlnZG9YYVMyRDg3WkNBVUp5ek9NUG56N3NYdU5mSENDZEhLekZsQy1IcUx1QkE5X25Cc0NUY0xLYTJBaU5R?oc=5",
       "fuente": "Hoy Tamaulipas",
@@ -516,16 +506,6 @@
       "tambienEn": [
         "La Expresión - Periódico Digital"
       ]
-    },
-    {
-      "titulo": "‘Poco hombre, m...’: jugadores de Atlético San Luis y FC Juárez protagonizan pleito (VIDEO)",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYW1kbUpNNk9FVTh1Z3RHaV9fc20wNmo2UE5CLVp5QU9wa1FQS2JBZnNrVEpybWNKYkx3ZnpVRVVqTHB3aHQ3eWk1N3hoVE5TWWdSbWxVdXVXamZTNUtsN3VxdlNCWXFlT0lCMUlzRXlCVGhLTHBjZ21XMl9GNjAzMnU2d3ZIY09iZ1RWb3A3T3pvR0VHZ0o0R013UmhlUC1hV2JHVlBPLTN3dUZ2YURtUTZOTk1JM3MtbWpoa21pbEo?oc=5",
-      "fuente": "Fox Sports",
-      "fechaISO": "2026-11-07T06:01:02.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis aporta dos jugadores a las selecciones juveniles de México",
@@ -1042,6 +1022,26 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Aldo Cruz será el jugador a seguir ante FC Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMkNLRGwxc1loN1pvWjJ0alNETUhNRHpCQ1MwZzh3WmQzMTJtZUxRUHEwMFA0UmFrOUhTNGFUWmpvSUpHZExKSnhFbGFsMlRDV3VlWWZzVmJreXBzRk1FNS1VVTNmQWE0VzY5MVpjUURHSHZRbG5LSVZYVmV1RExwRGl5aUF6czFic2cwQ3NySE9LczJtWEtkT3NB?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-11-06T03:16:25.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¡¡ÁNGEL REYES ES CONVOCADO AL MUNDIAL SUB-17 CON MÉXICO!!",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemFEZkxtQVlQanJpdDluWEtjTGg4eVlIWHA4YVhvbGYxZ0V5aHlKb1JFbm9MZHFtT1lSNFpnN2VtZzlhdVFWRkVKMHVfUVNjdzFQLUtEYzFMLUtnd0tYcnhNMTdZZUZzdmFDQVpfNm5JeWlianpkRGhpSmNObnhhcXNxcGdBaUwwX2tXVFNGVEFzUXdyb2ktYnhTVG9JNGc?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-11-05T23:46:35.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1099,48 +1099,7 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [
-    {
-      "id": "3TqKVvdfwYk",
-      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
-      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
-      "publicadoISO": "2026-11-09T16:22:24.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "GRULEGw-YeI",
-      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
-      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T20:00:31.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "n8su8tM3ld8",
-      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
-      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T13:01:00.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "A96M_eTLwWY",
-      "titulo": "ATLÉTICO DE SAN LUIS VS JUÁREZ | SUB21 | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=A96M_eTLwWY",
-      "miniatura": "https://i.ytimg.com/vi/A96M_eTLwWY/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T04:10:28.000Z",
-      "categoria": "Del club"
-    },
-    {
-      "id": "bi2cfipoEbw",
-      "titulo": "¡Las potosinas llegaron a CDMX listas para hacer historia! | El Viaje | AP26",
-      "enlace": "https://www.youtube.com/watch?v=bi2cfipoEbw",
-      "miniatura": "https://i.ytimg.com/vi/bi2cfipoEbw/hqdefault.jpg",
-      "publicadoISO": "2026-11-06T18:00:34.000Z",
-      "categoria": "Del club"
-    }
-  ],
+  "videos": [],
   "redes": [
     {
       "nombre": "X",
@@ -1159,8 +1118,10 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
-  "avisos": [],
+  "totalFuentes": 35,
+  "avisos": [
+    "YouTube: HTTP 404 (no encontrado)"
+  ],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

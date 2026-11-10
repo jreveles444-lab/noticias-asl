@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-10T19:09:35.409Z",
+  "generadoISO": "2026-11-10T20:09:43.219Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -366,6 +366,7 @@
       "tambienEn": [
         "El Sol de México",
         "El Sol de México",
+        "ESPN Argentina",
         "ESPN Deportes"
       ]
     },
@@ -388,6 +389,16 @@
       "fechaISO": "2026-11-08T15:06:00.000Z",
       "categorias": [
         "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Opinión / Los avances de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbngzVlBCUVFyMDNBa2k0VHhZTTZ3RWRacUhnZkhtS1pZSHNOdnZkb3Vkb0dvTndhTmNJYWVYTEJjcERIbnJYMUpsZXREb3pQaWZyOEQwVk1NSDVFYWpFWncxYVI2c1g0Z3o5S0ZWSnNJMFBXdENQRDhHaUZLRlNQMGxHUXk4ek00ZVJB?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-08T06:14:23.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     },
@@ -599,16 +610,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Con más apagones que goles, San Luis se queda fuera de la liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzhCYzlRcEprVHlWNF80aThjN2xmaHlodHhRTUNBekRYZzYzNUNBRjhDWXloUUNUVVRmNnlMM1ZPZUs3ZjBFRzJCYmR4eFF5c2FMZmIwWWRSc0dSUWc0OEYtbENDekVlU1RlcXp0VFVtQU1yREs0TElfRk9ZM181bU5fRnp2ZzRHb1JXeVQ1NE1tbzA1aWVV?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-11-07T03:35:11.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "El equipo de Necaxa ya ganó con Juan Reynoso y el Atlético San Luis prácticamente eliminado",
       "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVRWcTl0VmRoNlVSeXZUN0hILUtncXBfM2dpX3RDVllLQ3pxY25aMnIyWjVoTmx4SVdvUHZNRGhocW84bWp0MHBXVkNRMEVXYlRFY3R5dUNMbXpLT2dLVHpOQ09nM0hfWnJBMXBqQ0xzMGZIV1pjdnJ2UmdjVm5OVWV2V1VPSXhtQmNlMkd0RTdISkFxTmlEMkF2QWlSVUdhYmNJRGhfLWI5d0JHMjd5NnljcG5rOWxfVXhkZExPN0lnMzROaURsYQ?oc=5",
       "fuente": "88.9 Noticias | Noticias en Vivo | Información Que Sirve",
@@ -643,16 +644,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFBvY0VkNEI4YV9rbEVZWkVOczdqc1RRSl9BbXFxVWN4ZmNOSjByMURZbEZSSC1HVXNkTFdpel9vVFlTOTR0TkVEMkk4blYxTTFRNXEzMW8yUDBHNmJKVjJYeURBeWRTT2hyTXZEOThzWjJKSVdXZFRsLWlSYnhsdFBnTGVkdGI3NlFKbEtzSGhVUDVxSTR1emFOSUtjeUdoWmdQcnRSZmRidTBGZFHSAcIBQVVfeXFMUDRZMDNackRYaDQ3Zk5wMXdqVnM1OERWMl82T1I4OWd2SDRXNTc3NlY4V2MwYUZkSkpjTlJRZVdxRHQyMnl1TDIyYjdqdEZLSkdwRGg4bTR6VGJ4REhMMzY1TUZ1Y085eHQ1RjdwMjJDblhGa3M4ZDBWV3FWNlhBR2tLX2pCel9CUDlER2ZTVDdCTV9FVnBoT0dNczRLSm0xWWxaU0VoWkdMRnBVUzdyd0RRODVPMWRuTmx2bWxHUWNSLUE?oc=5",
       "fuente": "AS México",
       "fechaISO": "2026-11-07T03:10:44.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Bravos vence a San Luis y busca un digno cierre de torneo",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmhSQktDeFRTdy15R0dyWGJzMUNVZU9OT2hSVEVscmp4eFM3Vjd0ODJfdEMyUElxTVdHQUg1TFhjV1FJX2V1STU1ZjVzQU5QYUFaWnZxOWNqQ2pOOFRWNTBPclMwaGF1VlhYc2x2UEZYN25JektzT05jUkc4TVdrM1M0aXdmOG52bDFtYl9fdGFiQ0NZZGZGZ29MSHFZTklkQmRMUmxoZEVLZjdnNVHSAbMBQVVfeXFMTmdpSl9fYVVKUVhQUU1IX3NfX1JzQ19KVFBlVlM2VU0zUGVSMUZ4ZklLMmVNTTVLZ0hZeEtXNXNuZnV3Y2JoWndlVlNGOU0wRHN5MjlVcHd3cnJpSEh2MVlUaU9FRG1rX2gzeWw1bDFLYXR5WmN5WlBkZS03cEJNVUNPYW1welE1dXlpd08zM3lGdThaU0dwR0VfX2FpNEQydWhLQUpMZGVJdmxCN3h5WURkYTQ?oc=5",
-      "fuente": "El Diario",
-      "fechaISO": "2026-11-07T02:54:00.000Z",
       "categorias": [
         "General"
       ],
@@ -698,16 +689,6 @@
       "fechaISO": "2026-11-07T02:01:00.000Z",
       "categorias": [
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡Cae el tercero! ¡Pero el tercero de los apagones! Otra vez falla la iluminación en San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWlVamlyS1B1Y1NwRVRhYU1OTVlySldGZlBGVXJiU0tiVlk4VlB1NmNKNVBRX3hPQVVWNUJ1MVRuSjItSXpCMUZSWFRqMkVVQVJuUnBvTEItS0QtNHlQSXpYR2Z2RmFUcmc4TDhHODVJMlk1X0xYQ3lIblNZdHUtQ05vTTlaTjVTRnVnSXFWQmpoQlZ5TDk3ZTVkeHhlSlNMdG9wR3liOEY0UURHMktCSFBacXlFdzRVd3lqeFJabElnM1ZZWnNWSXln?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-11-07T01:37:00.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -1026,6 +1007,27 @@
         "Reporte Indigo",
         "Mediotiempo"
       ]
+    },
+    {
+      "titulo": "Dónde ver hoy en directo el Atlético de San Luis vs. FC Juárez: ¿quién retransmite el partido por televisión y en streaming?",
+      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOS3VJVXV3d01QNURtelNXTmJFbnZ0UHN1MWNqYkZtVGh0RjVZaTJWZ2o4emRTTnFYOUhkMW5sR2s3QU91R3VQVVRRclp2VldFQ1lzdzFaMWRoMVpLU1FoNERnUDVoaHAxMUJIQjhlYmNCbTlQRUhyRkVSdml3d2N0UExLcHlwTlotSnlnZ1BwU1BaYkRrZC1XVnpHNEtfNlRKUWwzYjFON3ZtcnFoRGl1c2dTUXp3YWxJSG1zRFVDaWdPSExMNnU0bV9KQWpsdVlsNVcwaHRGX1ZXbXlmaW44dXZMUWJFR2dlMG1JVFhXUGM3Yk1LYmlORzJFSTN6akMtMDVJ?oc=5",
+      "fuente": "Goal.com",
+      "fechaISO": "2026-11-06T12:36:25.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Pumas Femenil vs Atlético de San Luis Femenil: ¿Qué necesita cada equipo para clasificar a la Liguilla?",
+      "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXBXVWhuRHdLWlJOMW9mQUM4UGFrbUxRdXZoQkhYdEVkR1hWSlB3bEo4TVJzdVl0b0VjWXcyOFhobmdESXJ6MUlkR3IxUTFoXzVlalQ2SDc0NE9zQ0ZEc3UzVHA5N04wSkF4M2UyZ2pwQ0pwYlNPcXNYZjNkSUZDOA?oc=5",
+      "fuente": "365Scores",
+      "fechaISO": "2026-11-06T09:35:26.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [

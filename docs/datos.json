@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-10T04:42:24.472Z",
+  "generadoISO": "2026-11-10T05:42:31.416Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -1073,48 +1073,7 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [
-    {
-      "id": "3TqKVvdfwYk",
-      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
-      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
-      "publicadoISO": "2026-11-09T16:22:24.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "GRULEGw-YeI",
-      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
-      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T20:00:31.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "n8su8tM3ld8",
-      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
-      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T13:01:00.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "A96M_eTLwWY",
-      "titulo": "ATLÉTICO DE SAN LUIS VS JUÁREZ | SUB21 | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=A96M_eTLwWY",
-      "miniatura": "https://i.ytimg.com/vi/A96M_eTLwWY/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T04:10:28.000Z",
-      "categoria": "Del club"
-    },
-    {
-      "id": "bi2cfipoEbw",
-      "titulo": "¡Las potosinas llegaron a CDMX listas para hacer historia! | El Viaje | AP26",
-      "enlace": "https://www.youtube.com/watch?v=bi2cfipoEbw",
-      "miniatura": "https://i.ytimg.com/vi/bi2cfipoEbw/hqdefault.jpg",
-      "publicadoISO": "2026-11-06T18:00:34.000Z",
-      "categoria": "Del club"
-    }
-  ],
+  "videos": [],
   "redes": [
     {
       "nombre": "X",
@@ -1134,7 +1093,9 @@
     }
   ],
   "totalFuentes": 39,
-  "avisos": [],
+  "avisos": [
+    "YouTube: HTTP 404 (no encontrado)"
+  ],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

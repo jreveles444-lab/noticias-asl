@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-10T18:09:27.439Z",
+  "generadoISO": "2026-11-10T19:09:35.409Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -446,7 +446,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Universal"
+      ]
     },
     {
       "titulo": "¡Por defender a su esposa! Galdames encara a Raymundo Fulgencio tras el Atlético de San Luis vs Juárez",
@@ -633,16 +635,6 @@
       "fechaISO": "2026-11-07T03:16:23.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "FC Juárez se mantiene en el fondo de la tabla pese a la victoria ante San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWTNCTTZkQnNGV25mSUhNeENqUkptTVJIemRPdDNrc05NNjQyMXBWdUROOFp2NDlKZ0t5WXNIQWpFVWQ2ZHU5bkZiT1loN3ZHUXI0ZUFsTEd3VEdyUHJGb2h4Rzd3ZHVjNnpIc09qaEs4c1pBYkRmTDhpdWl2aU94a3Y1Z0w2aXVEOVhDNXNUVzlkaFRrU2k1TlhGbV84bHNUM2ZnSXV4RVNXeV9Gd0h5emt2Q3ljUkk?oc=5",
-      "fuente": "sdpnoticias",
-      "fechaISO": "2026-11-07T03:15:00.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -835,8 +827,8 @@
         "Reporte Indigo",
         "TUDN",
         "TUDN",
-        "MARCA",
         "TUDN",
+        "MARCA",
         "MARCA",
         "TUDN",
         "TV Azteca"
@@ -1021,6 +1013,19 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Dónde ver San Luis vs Juárez: Canal de TV y hora del partido de la Jornada 16 del Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk0xdmVyWFhzWHRuVGtYc0IwS3JkUHRwekJzelNiQVlUS1lneUdpR1NUSnhIa2MtUmZSbFh6d3lqRjl6U3RrMWYxTHE2VWdxQ1VFb0FnUmc0dWR5LWJ0cHdaTEtUZmJCX2FHOU9UTkNGcjFYci1VZzluWnFTV1FQNHNlTHp4TG9PaDJQdTIwTWFTVnNYZXpsWTBFVVZQQ2N1dXY5dUg3MHhjbFFsNTFwUmlvWDRha2ktdG1SbXc0Y096VzjSAcMBQVVfeXFMUFpPNk83ZE5qUEFyVUpIa29vZmJFbFBYeTFlQ01ZbWJqMzRHb0U1ZjBpRG1VQ3RmSzdMR3NNdVF1a0h2Q3lmcjJ5eHFZekN5eHBKR0hZU0gyU3lZSGg1X3psQUcybDJUQWFiZ2tuX2FFc3Nza0QzeWs1T0JDSkg4TVJteW5qdFZIRGEwaGZ0bVJpSUtHMDRvR2xTSDd5UGFzOGlvU2R6TktOTEhZZmVKTHVUVlZDQzEyOWdWc3pHVG50MkdZ?oc=5",
+      "fuente": "MARCA",
+      "fechaISO": "2026-11-06T15:03:33.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Reporte Indigo",
+        "Mediotiempo"
+      ]
     }
   ],
   "comunidad": [
@@ -1138,7 +1143,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 38,
+  "totalFuentes": 37,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

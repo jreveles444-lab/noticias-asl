@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-10T01:37:18.358Z",
+  "generadoISO": "2026-11-10T02:42:12.370Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -416,17 +416,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "El tabasqueño Augusto Rosas marca 4 goles en la goleada del Toluca sub 11 sobre el Atl. San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDVvcWxCTEtRcDA0SVEzM1hqbEdHWklkaVdMNHNBby1yUjllc1BwbHhGQUtnb1lVTlMxdVNXVkxsaWoyY2cxNkNybkpsNGhZSkt4aDhZUkdvYUY5LU5FS0hndENHNzQyZWJTY2YzUkoyd0loMldYdmpsZVVjTTRuaHBmelNYM1NaamhKOGZfRFVVLXVTeWIzR21ma2NCQ2p5bGRVcWhLTWRueTFWajBvVlJwc0p1MElEQUpDSjJXM1c3dmh1OHpEWXZjVkw?oc=5",
-      "fuente": "XEVT",
-      "fechaISO": "2026-11-07T22:14:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "“Métete con los hombres”: Galdames y Fulgencio se retan a golpes post San Luis vs Juárez",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZm1FamlpLXFvMFBUOW0zY0NKT1p2MS15SENNT3FxeVRFa254elpIVnVGM3dMX0xnZXZoVVFNSzNpcUlodmZpOTRucjQzY0phcFFYTjJVMDNuU0xFaHZXSFhCTXd3YjdrMHV6SXpfMVZXU2pSZDBFdHpNSzBtRlpiWWZuUUJPcTNJNmpPVXRnUS1qa3lyUndDUXduSUQzcWlhR0NsMGloTXZUTktadEM0bWR5V0E1cTVQQ2lsRVhLQl9FUFR40gHEAUFVX3lxTFBtX1BHRjZFdzdBM2NyQ0ZRUkFjWVg3eWpuNmItblZoWmRpQjhEZmM2UThuSGtNLV9GcWpsMjB5SlAtM1VBWUdNMkpuNWhqc2pxeV92WkV3d20tSkJadjVnMWlTNEJ3SXc0ZGRwY3hIcERqRTNaOU5lT296cEdMNTVkZW1WZU55WXE5NldyYjEwN0hhbjJJTUp6N0ZSNmZBaF9EUDA1b3NPeFNwNFFLTFBSN0JXZlhPanVzYUJtU01lSDBEYW8?oc=5",
       "fuente": "MARCA",
@@ -582,16 +571,6 @@
       "fechaISO": "2026-11-07T03:45:42.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Con más apagones que goles, San Luis se queda fuera de la liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzhCYzlRcEprVHlWNF80aThjN2xmaHlodHhRTUNBekRYZzYzNUNBRjhDWXloUUNUVVRmNnlMM1ZPZUs3ZjBFRzJCYmR4eFF5c2FMZmIwWWRSc0dSUWc0OEYtbENDekVlU1RlcXp0VFVtQU1yREs0TElfRk9ZM181bU5fRnp2ZzRHb1JXeVQ1NE1tbzA1aWVV?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-11-07T03:35:11.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -1016,6 +995,31 @@
         "ESPN Argentina",
         "Squawka"
       ]
+    },
+    {
+      "titulo": "San Luis y Juárez arrancan Jornada 16",
+      "enlace": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXOXZhYy1hWUR3N1psSE54aURTZHVabWJqRGdXYk15Y3RVa1NoXy1MeUl4cW1jVld0bnFmNl85R0hBR2Vham56WWtKSDljSmhBTjZoRFNQUFlSV2c?oc=5",
+      "fuente": "PSN Noticias",
+      "fechaISO": "2026-11-06T16:16:32.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Dónde ver San Luis vs Juárez: Canal de TV y hora del partido de la Jornada 16 del Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk0xdmVyWFhzWHRuVGtYc0IwS3JkUHRwekJzelNiQVlUS1lneUdpR1NUSnhIa2MtUmZSbFh6d3lqRjl6U3RrMWYxTHE2VWdxQ1VFb0FnUmc0dWR5LWJ0cHdaTEtUZmJCX2FHOU9UTkNGcjFYci1VZzluWnFTV1FQNHNlTHp4TG9PaDJQdTIwTWFTVnNYZXpsWTBFVVZQQ2N1dXY5dUg3MHhjbFFsNTFwUmlvWDRha2ktdG1SbXc0Y096VzjSAcMBQVVfeXFMUFpPNk83ZE5qUEFyVUpIa29vZmJFbFBYeTFlQ01ZbWJqMzRHb0U1ZjBpRG1VQ3RmSzdMR3NNdVF1a0h2Q3lmcjJ5eHFZekN5eHBKR0hZU0gyU3lZSGg1X3psQUcybDJUQWFiZ2tuX2FFc3Nza0QzeWs1T0JDSkg4TVJteW5qdFZIRGEwaGZ0bVJpSUtHMDRvR2xTSDd5UGFzOGlvU2R6TktOTEhZZmVKTHVUVlZDQzEyOWdWc3pHVG50MkdZ?oc=5",
+      "fuente": "MARCA",
+      "fechaISO": "2026-11-06T15:03:33.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Reporte Indigo",
+        "Mediotiempo",
+        "Fox Sports",
+        "FulBox"
+      ]
     }
   ],
   "comunidad": [
@@ -1046,19 +1050,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": [
-        "Atlético San Luis"
-      ]
-    },
-    {
       "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
       "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
       "fuente": "El Sol de México",
@@ -1067,6 +1058,17 @@
         "Cantera",
         "Escuela",
         "Fichajes"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "La segunda edición de la Copa Escuelas Oficiales ADSL está lista para arrancar",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBjYWNHeDhvQldPb29MUkQteHF0SzUyVmFhRTJXRnRDc3hoSWVOMko1VFFJcDhDcGIxamNfd19WbUVTTXZ2Rkd6SUxaS3dCTXBGOXdScWQ2U21uaFJ1T2ZHNDNaclQzXzl2d0JnVjh6c2huekZvZDJaa3NSbFo0c0pxUW9hZ2FTNjg2eGxhSk44dWFpeHBuUUFPOUJ5N0FZaHFjZU4wU090VHVjZWI3RXRUaHNJajFuMllsUHBzRnU?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-07-10T17:27:33.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
       ],
       "tambienEn": []
     }

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-11T15:17:07.496Z",
+  "generadoISO": "2026-11-11T16:17:14.494Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -367,7 +367,7 @@
     {
       "titulo": "Club Puebla buscará la victoria ante San Luis 'por orgullo', revela Gerardo Espinoza",
       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDZNUlJMcVNYdV9NNG1IbUEta1ZEM21mdGo4OFhDa2FUek9qOXhrVHZETlFwV1p3UG1MVHQ4UjFfbzBib0t5QXc3ckswTl9vRXlvOXk3Qm4xWVlDVllNOEM0VFlhcDVKOEY2c2JkQkgzbmR3VW9RSFlUTlJKTHJkZGxwSkp5ZFAwWjJLcnJrem7SAZABQVVfeXFMTThPZzVYbGNRNm9ZVmR1OW1KalpvYVhZM0pkdjVBT0tYQ29vUm4tQWtKWVJnSlFtejVxSEZseEtsRmVkd0VNTnhtbHdRLVRvLW0wb09zR3UxejJKMXFPNFVlTTN6TFpQVFhlVkZxZzh2N3lDM1Q5NnAxbS04QXo0WnJsbGlsT180T0VMUnhFWnNL?oc=5",
-      "fuente": "Milenio",
+      "fuente": "MILENIO",
       "fechaISO": "2026-11-09T19:19:59.000Z",
       "categorias": [
         "Partidos"
@@ -400,6 +400,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
+      "fuente": "sdpnoticias",
+      "fechaISO": "2026-11-08T19:35:48.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "A San Luis le faltó experiencia y se desmoronó al final de la Liga Femenil",
       "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW9ILW5zSVJmVWR4dnQ3aVFHV0FmRzJSUGx3aVlSTUprUUI5enE3cUdpYXd2ay1PZHV4MldHbGg0WTA2VGoyLTVjZTc3UDJNSzFDSmY0NW56a1g0WTZVV1BjRzloaEtXQnlFN1FGck85dmhLUjB0dW1Ra0NCZkRuS1JfcXVXa2w2aFQxNS1IT1lMNzNUSUZHamR0ck1TNWlnNGhkYUVmTUhFWUtzODFHb0dEcUV4N3BGN3M3bm9aU3A1TEFuRVZzQ3gyVmhMZDZLbHVR?oc=5",
       "fuente": "OnceDiario",
@@ -416,6 +426,16 @@
       "fechaISO": "2026-11-08T15:06:00.000Z",
       "categorias": [
         "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Opinión / Los avances de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbngzVlBCUVFyMDNBa2k0VHhZTTZ3RWRacUhnZkhtS1pZSHNOdnZkb3Vkb0dvTndhTmNJYWVYTEJjcERIbnJYMUpsZXREb3pQaWZyOEQwVk1NSDVFYWpFWncxYVI2c1g0Z3o5S0ZWSnNJMFBXdENQRDhHaUZLRlNQMGxHUXk4ek00ZVJB?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-08T06:14:23.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     },
@@ -481,7 +501,6 @@
       ],
       "tambienEn": [
         "El Heraldo de México",
-        "La Capital",
         "365Scores"
       ]
     },
@@ -997,28 +1016,6 @@
         "Femenil"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "¿Dónde ver EN VIVO el partido de la J16 San Luis vs Juárez?",
-      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcGd3R0xnWV9hN3lNRWpueXNwbWY4WVZuZGNqa1JsV2lxaTdDWFhfLURZSVNud19LMU9zZEZwZWRIMlR2UWRrTTZxUkpTdzlGTGh2OHJlZmxoUGtkM2UwMDBPYzNQOTk1cURobGxwcWNQaWRrWGhKYUpNM3lFMHdNb2FsT1AzYmhOTU9QVTdnMGhNRFFQN2FmM3oyTGprVWVkMmxyQ2VKaDdlaV9HVmlENHp1NHFhTGMyQ25wZG9EdjI4VW4tTWFLSUl6U1hTYzZuRjQ5QjloWm50OVRCTmh3OXFZcW3SAeoBQVVfeXFMTnNTQ2s0aEwwN04wRTZZazlVcHlXRjkwUndhbHh3UUxsVTNudFljOUtabWFwczdySDZ5SnpISTc5RTdWSnNzTGdaR2tScTRjdXhVT0FKZTNrbDZ3d3AtSG1ObnpDeDBJLWY1X2JDS3N6TW1ZOVQ3dVdiZjdSX0U0MnB6NjRrLW1scjlsS25xRFJ4UEVlNVRfVzFJZi1qb21mZzBWOW91N09Hdi1ZNHdyZE9ZX2lIUkRpWTNXaDJTSE5xTTlOM1lNYXVMQW1BLXdTeFdJOWxWenJ4TGNFbF9CZGljQnBOQlk5WG9n?oc=5",
-      "fuente": "El Informador",
-      "fechaISO": "2026-11-05T18:00:44.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis Femenil busca una histórica clasificación a la liguilla ante Pumas",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU1lkeEd2cVhzWlFBLXBNU3lyN2M0aC1TdnFTbnFHOUtjeHI4blFHRXI3dmx1d0xNa0NKYnl1Q3owUXFYVG5URFpDalFCWXdFZ0x1TWJXN0U2ZTF0RWFEZS0yU1dnSXRvOW4wSVlnMHI3Y0xJZTlNSHgyUm9pcjhQcXpKa24ySGp6N0xqQlhpeWFhTzROVkpMZWpmZ3JsWExVYkFya1lORlNUTHpfQWxtVXQyb3FaZjgwazIydzVaUWIyV25TTDBLTnJfZW1HLWFMRmtPRWl3?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-05T08:00:00.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": [
-        "Récord"
-      ]
     }
   ],
   "comunidad": [
@@ -1043,17 +1040,6 @@
       ]
     },
     {
-      "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2p0bWJxQmRWdmdHUHhaLVNuQ0dDSkFDclljNjRzTlRCdjJqcHV3VkhWNUVVem5haG1QY1l6ZE1mMjhxUGRrckw4aWp6MDdfYXUyVHhORVBvdEQwNjhpRC1pbDQ1SEdfT0N3azlWaktWMFVINkFtVUV0UjJOVVNpcllTZl9yQ1lQd2c?oc=5",
-      "fuente": "Canal 7 SLP",
-      "fechaISO": "2026-07-22T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
       "fuente": "Código San Luis",
@@ -1075,6 +1061,17 @@
         "Cantera",
         "Escuela",
         "Fichajes"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Escuela ADSL lanza plan deportivo para fortalecer Fuerzas Básicas",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ZON21GdTJNd3g2OVFkRzFLOXVabHlZd2dwbDFIaXRzMlNmOW1VRXJmSnVlempUZVVuVURtX1BNNXA4ZTZjekFaZkdlNWFCVndCSVExd2pRVjJ1aVNHYm9nc2VuZmk1YXZQaWtvUlFXZzNnVldJVWYwbExfQzZydUdYV2ZXaml6ek9WSFphcWdkYm5pd29wenVSR3lqVk1RQU1NcldNS25qSDJoN1plTA?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2025-11-20T08:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
       ],
       "tambienEn": []
     }
@@ -1141,7 +1138,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 39,
+  "totalFuentes": 37,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

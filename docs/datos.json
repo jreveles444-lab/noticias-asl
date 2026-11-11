@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-11T04:10:42.202Z",
+  "generadoISO": "2026-11-11T05:10:49.135Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -401,16 +401,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Empresarios destacan inversión en infraestructura y condiciones para el desarrollo en SLP",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZmozQ01BeDgzUjVfVm5ONy1jM3pUcGJ4THdmV0JFT2VHSHFQVHRKTVdzVDh1OVVuUHFmd3VhbGE5bHlWOVJWb3lSczJ3VGFVeTNJYTZVX25NZUFVM0NPLVhvRm12a2NXeUhLVk9pVUdKV2llSGJ6dFViYjV1ZVhqcWlzdnZucVp0RVBONXBVamYyVHc4RUxrNXo2NDNCUkNPbGtSeTV6OWJoMnVxUU8zLU1iaGdTY1FKT1kxdVI3Wk1idk5wZUV6ME1WSHlhZw?oc=5",
-      "fuente": "El Heraldo de San Luis Potosí.",
-      "fechaISO": "2026-11-09T04:56:35.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
       "fuente": "sdpnoticias",
@@ -626,7 +616,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "TUDN",
         "TUDN"
       ]
     },
@@ -791,16 +780,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Más de 500 elementos policiacos vigilarán el encuentro Atlético San Luis – FC Juárez",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHBqZGRCa1MwNzByVVd2TDFSRTk2U3dOWXVLcmxMM0dwdVl1M0ZCNkkyaXEtMnkzYVNzT1M0bVhpb2V1QXJkREFDQXFTR3oxQlNnNTdWdVBQUXRPcFVsS0U5bE1tektzcXQzd3VQWnlNRUtrS2FCa01xT25oOFFLSlQ5QzJ2MUFueFFzbm5tcFVXM0w3cnk0ODhYTjhYaDVyTUNZa3B6ZEZPSnF4T0NGdEg4MlhFbTlCNm5nZ0lObWRmVENuOFp6SGxB?oc=5",
-      "fuente": "El Tiempo del Altiplano",
-      "fechaISO": "2026-11-06T23:09:14.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "San Luis y Juárez se enfrentan en la Jornada 16 de Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUy1wQUgzcXZwaXdfYXhDRVR3ZzV3MGY4eVNlcmMzOUtJNjZqSXlwbkJvXzN6R1k5em9GWVc4Z1JZVVZhZUhUT3ctQVZVSFF3VFZWTGJvbXhLM3pUTzRkalEwcmFaZ21XSFA1ZmNURUJHa0Z4NjkySldsMW9rV25meUhPdWlzV19O?oc=5",
       "fuente": "Consulta Monterrey",
@@ -891,6 +870,16 @@
       ]
     },
     {
+      "titulo": "Blindan estado por partido del Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc1FabXRfZGtwZV95VkxIRk1EeHhEYU5BYVRQSjlKNk96eTVsajdyV083UUdnNWZiVEREXzV3SDdnX0dFMHg5aHdaSGMyT0pvbUdOUWJyRDdoTkhMTkFITW05UzBhemZjQzV6RTgwVHBPSkN1bGlZZGNiOEdMMHVDREw0clE?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-11-06T18:06:34.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis, Pumas y Pachuca disputan los últimos dos boletos a liguilla de Liga Femenil",
       "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSU05R3ZBYTRyRjdtUXVuaDdTOGtnb29GZ01nQkNCZDMxMGlUSGNMLUpOYVVCRkhabEFhcXRRYk1sb1phOVc2em5pazFGdllFQXNVajR0b1NKUHZIQ3NCU1pGSlYtTHAyRk5SdkZXdjdQVUJMbkxVV00tSVZSTUxhVGJIcWI5SWhqdldPd0xoeXFEZ2FUcVNYUnhRTEY3bW41c05mUEVQZ0dNUXZLTktYUjRaNFVTY1JNaVhaTEpKRdIBxAFBVV95cUxNSUlWUF9pWU5YcWhkUm8tOGdmR2RPME9XUHc2R0hnNVRzTDFWTGRyaFJCTEV3Y2lUVzI4a2R4RjJyZDRMS1BoTjhBellhMnpoM255cUJTNEVBSWx0Vi1wYTZQa1ZfWDJlS1YtaWFqRW5rSXhUaEtyVlgwOENUWm1WSnFrNzRmUUlrUTNNdHRJN2V4Wkh6N3ZUSjdiSHV4QWZJSkFNZENUdFVNd3FaWlZ6M0MxWHp0cmZqaU53N2lzUGdjY1FJ?oc=5",
       "fuente": "Excélsior",
@@ -973,6 +962,18 @@
       "tambienEn": []
     },
     {
+      "titulo": "Más de 500 policías vigilarán partido Atlético de San Luis vs FC Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0VhUnNhVDBTY19wOGtWZ083cGZlUVpLdW1UYjRJR1Y0bnJ5S25lS2QzVjFDN3Z1d0FQODVZOVo5X1ZMZ2xZZTdlTkJZVnVQU290OWdzTEJxZUFqSFhBTlgxbnNhclEydXA5d25PemxBTHBnWVRMOXQ1cFhRbWUyUldrQVJUSmZES292WUgyd3pkaUpGeGJ6cEI0Tk1rVlkway1LV0kxRnlPZmU2dWc?oc=5",
+      "fuente": "Plano Informativo",
+      "fechaISO": "2026-11-06T15:54:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "El Tiempo del Altiplano"
+      ]
+    },
+    {
       "titulo": "Pumas Femenil vs Atlético de San Luis Femenil: ¿Qué necesita cada equipo para clasificar a la Liguilla?",
       "enlace": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXBXVWhuRHdLWlJOMW9mQUM4UGFrbUxRdXZoQkhYdEVkR1hWSlB3bEo4TVJzdVl0b0VjWXcyOFhobmdESXJ6MUlkR3IxUTFoXzVlalQ2SDc0NE9zQ0ZEc3UzVHA5N04wSkF4M2UyZ2pwQ0pwYlNPcXNYZjNkSUZDOA?oc=5",
       "fuente": "365Scores",
@@ -994,6 +995,7 @@
       ],
       "tambienEn": [
         "El Sol de México",
+        "TUDN",
         "TUDN",
         "TUDN",
         "TUDN",

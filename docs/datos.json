@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-11T08:16:15.875Z",
+  "generadoISO": "2026-11-11T09:16:24.071Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -388,26 +388,6 @@
         "ESPN Argentina",
         "ESPN Deportes"
       ]
-    },
-    {
-      "titulo": "¿Qué sostiene la confianza empresarial en San Luis Potosí?",
-      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHItUjM1alJYX214bEhKUXlFeFVBZ1hqeGxCNENjRjU5cDctcWhMMDJhZG0yZGEzSTVRTk51Z2Njd2lveHRXOEJKNWg4eWtxMENCeHhuV1ZaLUIyN2tyWlUzeW5VTllzTnFqUHh1TnZzcTloS1RtLUpaREpwaUpuLTdmSDZjV2VObFRWcg?oc=5",
-      "fuente": "Líder Empresarial",
-      "fechaISO": "2026-11-09T17:47:48.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
-      "fuente": "sdpnoticias",
-      "fechaISO": "2026-11-08T19:35:48.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "A San Luis le faltó experiencia y se desmoronó al final de la Liga Femenil",
@@ -1020,6 +1000,26 @@
         "SDPnoticias.com",
         "El Universal"
       ]
+    },
+    {
+      "titulo": "Pumas recibirá al Atlético de San Luis en CU para un cierre dramático",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkZMb28zN2lTbURITEdBV3BhcWMteGQ5dTE1eXhhT3pnMWtnQ1NzaV8wWjFIaTd1dkQ1WmF5dzhjVlhhZlZmYk8wamZZN1FMUzdTVUZJWTRyUWEzLWwzWVQwYlVLVkVVM1ZfYk4xS3lUMTNOSm9ySnBVc19mQmxiRlFjZ2RTZndPcHZVS0hMNGNMRmt3RzROdEtTa0xHMC1hN1VZQU5aWWFUWE8zMElXTW1JV2ZTeHlxUmxFNjRIVUFUNGhrbEt5WTBmaUx5OU0xZWpnOTNzNGs5Vm5JbHpuQm1TTjVnZkx4ejhUTlVaQ2pBbkZSdUlPX2NVZTlJV1puU3oxa0h6MTR0UDdQMHcyYlQtZ3EwSWpvSWFHdUxNUV9Kd2x2V0pucEhFMFEwcko3WVNnT1ktZEljUW1oSU5nTDd4WUVzd0d1LVhfNzc4XzdqSWRkUWxlV2I2endYNGNBRmc?oc=5",
+      "fuente": "OnceDiario",
+      "fechaISO": "2026-11-05T18:44:28.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¿Dónde ver EN VIVO el partido de la J16 San Luis vs Juárez?",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcGd3R0xnWV9hN3lNRWpueXNwbWY4WVZuZGNqa1JsV2lxaTdDWFhfLURZSVNud19LMU9zZEZwZWRIMlR2UWRrTTZxUkpTdzlGTGh2OHJlZmxoUGtkM2UwMDBPYzNQOTk1cURobGxwcWNQaWRrWGhKYUpNM3lFMHdNb2FsT1AzYmhOTU9QVTdnMGhNRFFQN2FmM3oyTGprVWVkMmxyQ2VKaDdlaV9HVmlENHp1NHFhTGMyQ25wZG9EdjI4VW4tTWFLSUl6U1hTYzZuRjQ5QjloWm50OVRCTmh3OXFZcW3SAeoBQVVfeXFMTnNTQ2s0aEwwN04wRTZZazlVcHlXRjkwUndhbHh3UUxsVTNudFljOUtabWFwczdySDZ5SnpISTc5RTdWSnNzTGdaR2tScTRjdXhVT0FKZTNrbDZ3d3AtSG1ObnpDeDBJLWY1X2JDS3N6TW1ZOVQ3dVdiZjdSX0U0MnB6NjRrLW1scjlsS25xRFJ4UEVlNVRfVzFJZi1qb21mZzBWOW91N09Hdi1ZNHdyZE9ZX2lIUkRpWTNXaDJTSE5xTTlOM1lNYXVMQW1BLXdTeFdJOWxWenJ4TGNFbF9CZGljQnBOQlk5WG9n?oc=5",
+      "fuente": "El Informador",
+      "fechaISO": "2026-11-05T18:00:44.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [

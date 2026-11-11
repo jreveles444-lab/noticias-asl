@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-11T05:10:49.135Z",
+  "generadoISO": "2026-11-11T06:10:57.848Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -385,7 +385,6 @@
       ],
       "tambienEn": [
         "El Sol de México",
-        "El Sol de México",
         "ESPN Argentina",
         "ESPN Deportes"
       ]
@@ -688,6 +687,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Plano Informativo",
         "La Razón de México"
       ]
     },
@@ -866,6 +866,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "MARCA",
         "FulBox"
       ]
     },
@@ -998,7 +999,6 @@
         "TUDN",
         "TUDN",
         "TUDN",
-        "TUDN",
         "MARCA",
         "MARCA",
         "TUDN",
@@ -1098,7 +1098,7 @@
   ],
   "totalFuentes": 39,
   "avisos": [
-    "YouTube: HTTP 500 (fallo del servidor de origen)"
+    "YouTube: HTTP 404 (no encontrado)"
   ],
   "colores": {
     "rojo": "#c8102e",

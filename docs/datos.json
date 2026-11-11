@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-11T03:10:34.746Z",
+  "generadoISO": "2026-11-11T04:10:42.202Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -1096,7 +1096,7 @@
   ],
   "totalFuentes": 39,
   "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
+    "YouTube: HTTP 500 (fallo del servidor de origen)"
   ],
   "colores": {
     "rojo": "#c8102e",

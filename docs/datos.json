@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-11T17:17:21.526Z",
+  "generadoISO": "2026-11-11T18:17:29.047Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Precio de boletos para partido Club Puebla y Atlético San Luis | ¿Cómo comprarlos PASO A PASO?",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1M0U0Nqc3BXWlp5T1Nldlo1RWt3Smw2UzFyaUI0a2otWWhjZDA2TldNUHlXTUpKT3RhZ2RvZjFlMnRxRFY1ZzA5OGJObkJCMFozd2ptUzBBSEhmQXlFS2ttcG5zMTBlSXJiN1hCYm1MUEJVSkNGTFVXLXlwTnRZMUlvNF9kd29rRzNrSzQ4MXM2aVJERXRzTGRR0gGaAUFVX3lxTE1PUzRTQ2pzcFdaWnlPU2V2WjVFa3dKbDZTMXJpQjRrai1ZaGNkMDZOV01QeVdNSkpPdGFnZG9mMWUydHFEVjVnMDk4Yk5uQkIwWjN3am1TMEFISGZBeUVLa21wbnMxMGVJcmI3WEJibUxQQlVKQ0ZMVVcteXBOdFkxSW80X2R3b2tHM2tLNDgxczZpUkRFdHNMZFE?oc=5",
+      "fuente": "Milenio",
+      "fechaISO": "2026-11-11T18:05:54.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis Femenil se despide del Apertura 2026 sin lograr llegar a la Liguilla",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON3lyVnFtWHlobG5Eb0FZRzJhaEZQRFFQRm1LNC1tUWg0Vm13ZDY0N2V0OWtxWWQzTHNBNm5qTlVrdWYzQ0V2RXFWYWwtWjFZSE1EYVZ6QWd5d0VrUjhXN0hzS0xZRWw0UEN1NkhrYWlnRDY2OTNpSEJuUU9Pa1VZYV9rd3lUOVJpeDV3V2ZKLW9Ebmk3SEs0OG5WQVZiUnBQeEE3cFdIUXduY0VhaXh2MVdKSUZxZEtpeWR4ZlowVUlRRHlkbFhSUE5UWnUzTTFhWlE?oc=5",
       "fuente": "El Universal San Luis Potosí",
@@ -394,16 +404,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHItUjM1alJYX214bEhKUXlFeFVBZ1hqeGxCNENjRjU5cDctcWhMMDJhZG0yZGEzSTVRTk51Z2Njd2lveHRXOEJKNWg4eWtxMENCeHhuV1ZaLUIyN2tyWlUzeW5VTllzTnFqUHh1TnZzcTloS1RtLUpaREpwaUpuLTdmSDZjV2VObFRWcg?oc=5",
       "fuente": "Líder Empresarial",
       "fechaISO": "2026-11-09T17:47:48.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
-      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
-      "fuente": "sdpnoticias",
-      "fechaISO": "2026-11-08T19:35:48.000Z",
       "categorias": [
         "General"
       ],
@@ -627,6 +627,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "¿Quién ganó el San Luis vs. FC Juárez? Resultado del partido J16 Liga MX 2026?",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3BZLXNTeEt2cEpqcFZkZzllYUh6REYwblNoN0VZVmlHdDJoc1Y3NjNUcVRxTUZqMjRMOUo5UUFNNkxqdldwd0liRGRvLU84Z0RaZGlsbjZqMjh3TXhJMlZmUXNJSzBHV2VPa2FfQ1lVNUFnMjV2UWE2VkxtYmR1ZDhPcWczUzdJZWRicHdpeTB5SDDSAZMBQVVfeXFMT0FZUHRqU1huTmVsdTYyc2xQLU9MSm5qOXY1ZGpLOGZDZ2NOM2R0NzJYSTRIbFpNaHFyZ2h0YnVGVXZLLWFhTHYzOE1DNDczZ3RCbkJhRDhPbXBOR1ZzQVhwTXhBbnJiQ2kzOFdfSVhuMF9IbDY5NmF4eVNLZld2RU5NOU5NLXY4b2x5NVpnZF9mbU1J?oc=5",
+      "fuente": "MILENIO",
+      "fechaISO": "2026-11-07T03:20:36.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "San Luis – FC Juárez sufre apagones en el primer tiempo",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFBvY0VkNEI4YV9rbEVZWkVOczdqc1RRSl9BbXFxVWN4ZmNOSjByMURZbEZSSC1HVXNkTFdpel9vVFlTOTR0TkVEMkk4blYxTTFRNXEzMW8yUDBHNmJKVjJYeURBeWRTT2hyTXZEOThzWjJKSVdXZFRsLWlSYnhsdFBnTGVkdGI3NlFKbEtzSGhVUDVxSTR1emFOSUtjeUdoWmdQcnRSZmRidTBGZFHSAcIBQVVfeXFMUDRZMDNackRYaDQ3Zk5wMXdqVnM1OERWMl82T1I4OWd2SDRXNTc3NlY4V2MwYUZkSkpjTlJRZVdxRHQyMnl1TDIyYjdqdEZLSkdwRGg4bTR6VGJ4REhMMzY1TUZ1Y085eHQ1RjdwMjJDblhGa3M4ZDBWV3FWNlhBR2tLX2pCel9CUDlER2ZTVDdCTV9FVnBoT0dNczRLSm0xWWxaU0VoWkdMRnBVUzdyd0RRODVPMWRuTmx2bWxHUWNSLUE?oc=5",
       "fuente": "AS México",
@@ -787,7 +797,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "W Radio México",
         "Récord",
         "El Heraldo de México",
         "Récord",
@@ -911,6 +920,7 @@
         "Femenil"
       ],
       "tambienEn": [
+        "El Sol de México",
         "ESPN México"
       ]
     },
@@ -1006,16 +1016,6 @@
         "SDPnoticias.com",
         "El Universal"
       ]
-    },
-    {
-      "titulo": "Pumas recibirá al Atlético de San Luis en CU para un cierre dramático",
-      "enlace": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVkZMb28zN2lTbURITEdBV3BhcWMteGQ5dTE1eXhhT3pnMWtnQ1NzaV8wWjFIaTd1dkQ1WmF5dzhjVlhhZlZmYk8wamZZN1FMUzdTVUZJWTRyUWEzLWwzWVQwYlVLVkVVM1ZfYk4xS3lUMTNOSm9ySnBVc19mQmxiRlFjZ2RTZndPcHZVS0hMNGNMRmt3RzROdEtTa0xHMC1hN1VZQU5aWWFUWE8zMElXTW1JV2ZTeHlxUmxFNjRIVUFUNGhrbEt5WTBmaUx5OU0xZWpnOTNzNGs5Vm5JbHpuQm1TTjVnZkx4ejhUTlVaQ2pBbkZSdUlPX2NVZTlJV1puU3oxa0h6MTR0UDdQMHcyYlQtZ3EwSWpvSWFHdUxNUV9Kd2x2V0pucEhFMFEwcko3WVNnT1ktZEljUW1oSU5nTDd4WUVzd0d1LVhfNzc4XzdqSWRkUWxlV2I2endYNGNBRmc?oc=5",
-      "fuente": "OnceDiario",
-      "fechaISO": "2026-11-05T18:44:28.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1138,7 +1138,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
+  "totalFuentes": 38,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

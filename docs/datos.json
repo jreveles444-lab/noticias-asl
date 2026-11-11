@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-10T23:10:05.142Z",
+  "generadoISO": "2026-11-11T00:10:12.255Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -381,12 +381,52 @@
       ]
     },
     {
+      "titulo": "¿Qué sostiene la confianza empresarial en San Luis Potosí?",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHItUjM1alJYX214bEhKUXlFeFVBZ1hqeGxCNENjRjU5cDctcWhMMDJhZG0yZGEzSTVRTk51Z2Njd2lveHRXOEJKNWg4eWtxMENCeHhuV1ZaLUIyN2tyWlUzeW5VTllzTnFqUHh1TnZzcTloS1RtLUpaREpwaUpuLTdmSDZjV2VObFRWcg?oc=5",
+      "fuente": "Líder Empresarial",
+      "fechaISO": "2026-11-09T17:47:48.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Empresarios destacan inversión en infraestructura y condiciones para el desarrollo en SLP",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZmozQ01BeDgzUjVfVm5ONy1jM3pUcGJ4THdmV0JFT2VHSHFQVHRKTVdzVDh1OVVuUHFmd3VhbGE5bHlWOVJWb3lSczJ3VGFVeTNJYTZVX25NZUFVM0NPLVhvRm12a2NXeUhLVk9pVUdKV2llSGJ6dFViYjV1ZVhqcWlzdnZucVp0RVBONXBVamYyVHc4RUxrNXo2NDNCUkNPbGtSeTV6OWJoMnVxUU8zLU1iaGdTY1FKT1kxdVI3Wk1idk5wZUV6ME1WSHlhZw?oc=5",
+      "fuente": "El Heraldo de San Luis Potosí.",
+      "fechaISO": "2026-11-09T04:56:35.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
+      "fuente": "sdpnoticias",
+      "fechaISO": "2026-11-08T19:35:48.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Pumas sella su pase a Liguilla ante San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVp1TjAwYmQtcjdXZk5qOW0xWk1LVE5IYXM1Ukx0SVNyUFBncVp6Tm1aeW50Z2FFai12andlUXRXS3BEUm5pX2xkWnVLSmRYSmRzNl9GQlEyRXJSNHJIUDM2YTJYbkZFUUszM1VOSWJRZ1E5VmJ5SHdCWDl6UUZrRml3ckRRZHNySzhfTtIBkgFBVV95cUxNZ3J1MlBFWXJpSlpTVmwzZHNkSUZPNWl2TGJrRkNVRVFOOEVqR1EyODBvYU5PeFdNeGRtcEtrQUlCTlM2aTJJTEVESjNVcUlQMERucG9FbEl6bURhTld0TE1la2xiWGlpVC0yRi1pN3FWbHBjWk9vRnNiai1vZEpKOW5vSmFtbjFqZGZlc3ZacHBvdw?oc=5",
       "fuente": "Pulso Diario San Luis",
       "fechaISO": "2026-11-08T15:06:00.000Z",
       "categorias": [
         "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Opinión / Los avances de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbngzVlBCUVFyMDNBa2k0VHhZTTZ3RWRacUhnZkhtS1pZSHNOdnZkb3Vkb0dvTndhTmNJYWVYTEJjcERIbnJYMUpsZXREb3pQaWZyOEQwVk1NSDVFYWpFWncxYVI2c1g0Z3o5S0ZWSnNJMFBXdENQRDhHaUZLRlNQMGxHUXk4ek00ZVJB?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-08T06:14:23.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     },
@@ -443,26 +483,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Juárez deja sin Liguilla a San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QZ1FxSF9ZVFExbmV5R1g5UDRQVzJ5cTNUMUpocEVOZktseHNTVlV6QzREbXJYaVNMeW5teWxUYVVmNEVHbXIwcTQ2TkczOExWcUZ3WmtYVUtNenNPa1Y4UlBiQzVfY0s2dzVJ?oc=5",
-      "fuente": "CMX Noticias",
-      "fechaISO": "2026-11-07T15:25:35.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Juarez vence a San Luis con penal de ultimo minuto en noche de apagon",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHh2WHRTLWRFQzVEQk83ampRekhrUTBJVzl5WUlHYko0emxYWVNfNFFaNzY0TzNLQVhIRUE2bkluNVNFZndIVUphSENrMU1uSmwyLXd4MmNkTVFTMHdVeXYyU09ERHdNOGhPb0ZlNEtXOHVNT3JRbmEycWlnZG9YYVMyRDg3WkNBVUp5ek9NUG56N3NYdU5mSENDZEhLekZsQy1IcUx1QkE5X25Cc0NUY0xLYTJBaU5R?oc=5",
-      "fuente": "Hoy Tamaulipas",
-      "fechaISO": "2026-11-07T15:19:15.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Juárez derrota al Atlético de San Luis 1-0 en Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVHczd1hKQ0s2MFFDUjRGbUJEdC1VV21oN193enpvVDRJSVh5VVJjYjRDRm5MandfQWwzTDVDUkVuXzJQdTJnZkJBLU9ySG16MkhaNVBUNlJQbHdoZVNidEl5WGpJU1FiUnZ1YmtXd3ktWWx2OWd3MENUb1BnbE1jamZ3?oc=5",
       "fuente": "La Verdad de Tamaulipas",
@@ -472,7 +492,6 @@
       ],
       "tambienEn": [
         "El Heraldo de México",
-        "La Capital",
         "365Scores"
       ]
     },
@@ -509,6 +528,18 @@
       ]
     },
     {
+      "titulo": "Juárez vuelve a ganar en el Apertura 2026 y deja a San Luis prácticamente fuera de liguilla",
+      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVJJZC1lQ3VKSlppc0NEd2FKQnFMdW5rT2JiTTViWElWUlZWUVVQM3htWW93aGdZRnlXZUxSX2VnSHRMUEowaXBsdjFraFM1YzlQSTg3Nng5WnJUUm1xMUVqSTdTRGJDVjFJYjJQSjVJZ0diT0tmcFItT2RmQVVkeXVBaW9MbFZkbVlhZTJYaHo4ZXR5M1A3b0tCaVHSAZwBQVVfeXFMTTZxY2VudDh3QnJLMTIybE5GZFllbnkzX0dWQXJSNDBVbEhSVlA1RWpONXJnWDZhUzJuNVhlM3E3bGJWVkxkN0ppMDhva2hUam4wWWxkWjV1OFdWWkoxQW5tcjVzenZfUk1XcjU2REFWUWIyTUFxZzBTa3prRUxLVTc0bnVoajdTbi1nMWZLUnJwWEVtUlVta0hhOXZu?oc=5",
+      "fuente": "MILENIO",
+      "fechaISO": "2026-11-07T06:16:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Claro Sports"
+      ]
+    },
+    {
       "titulo": "Atlético de San Luis aporta dos jugadores a las selecciones juveniles de México",
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2toMWF6elN6MFhlR2wxenlGVWVVV0FZXzFpMkppZ09xVm1SY3U1TUItMUkxRUZqbHpSN3JOVVFiT3JsRDd0eWljYmdJaFh6aEk2dzVNNEg4QzZXeDFOcE5FUFQ3VWhTLXFpSjNqSUJsVDViQV9MZVJfZ1BEOUd5SnlkckNURG4zRFFLckEtM0JrY2FoQm82RUtmcUdNZTZMUXBPQmh3N1B2M01sSHhQVHV6QzI1YTIwZ3ZEME1HelJ2bGhQMnNzUEVFTQ?oc=5",
       "fuente": "El Sol de México",
@@ -524,12 +555,10 @@
       "fuente": "ADN | A Diario Network",
       "fechaISO": "2026-11-07T05:52:09.000Z",
       "categorias": [
-        "Femenil",
-        "Partidos"
+        "Femenil"
       ],
       "tambienEn": [
         "El Heraldo de San Luis Potosí.",
-        "Plano Informativo",
         "Récord"
       ]
     },
@@ -603,18 +632,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Estupiñan y el FC Juárez prácticamente apagan las esperanzas de Liguilla del San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXhpNlhKVkdEV2QwYzQyRGY2RnNBeUE3a1M1QVFlc0xBRlNrYUxRaUUyb1l3MlAwXzNVTnZUMWhjMUs4TmY3bE1nV3N1LWFkbkY3ME9KaEU5RG94Zi1MNk00U3lTcDdlU1pLdjhObHJXWXpIdUNLcWdrYUstQ0NzX3hZZnVmbVVHVmo4TXZGMGhudFNNRjdzVGJ5YVJrLS1WbzluRUhTZ08wMFhUbnR0OGc3eldaazlkWUhnX0hTaTBxZThYWW1ncUtyNjJMWnFqakFSTFdNRTl4U3hIYU9XVURqSE9CZw?oc=5",
-      "fuente": "Claro Sports",
-      "fechaISO": "2026-11-07T03:16:23.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "MILENIO"
-      ]
-    },
-    {
       "titulo": "San Luis – FC Juárez sufre apagones en el primer tiempo",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaFBvY0VkNEI4YV9rbEVZWkVOczdqc1RRSl9BbXFxVWN4ZmNOSjByMURZbEZSSC1HVXNkTFdpel9vVFlTOTR0TkVEMkk4blYxTTFRNXEzMW8yUDBHNmJKVjJYeURBeWRTT2hyTXZEOThzWjJKSVdXZFRsLWlSYnhsdFBnTGVkdGI3NlFKbEtzSGhVUDVxSTR1emFOSUtjeUdoWmdQcnRSZmRidTBGZFHSAcIBQVVfeXFMUDRZMDNackRYaDQ3Zk5wMXdqVnM1OERWMl82T1I4OWd2SDRXNTc3NlY4V2MwYUZkSkpjTlJRZVdxRHQyMnl1TDIyYjdqdEZLSkdwRGg4bTR6VGJ4REhMMzY1TUZ1Y085eHQ1RjdwMjJDblhGa3M4ZDBWV3FWNlhBR2tLX2pCel9CUDlER2ZTVDdCTV9FVnBoT0dNczRLSm0xWWxaU0VoWkdMRnBVUzdyd0RRODVPMWRuTmx2bWxHUWNSLUE?oc=5",
       "fuente": "AS México",
@@ -663,7 +680,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Plano Informativo",
         "La Razón de México"
       ]
     },
@@ -721,18 +737,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "San Luis vs FC Juárez EN VIVO | Minuto a minuto del partido del Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVRjYk1oWFlTa21RWVl4cGNUbV81d1BvRFVIYlMyUGdOQ2wyWmFxN295SWNRaTMzTENtTC1WV1FXQ3doMzNCMHM1UlhCbndQY2d0ZUZ3Mmo4UjZ3dGtNNVNaYXlzTVFuLW5ZTmVQWkhaOFBPUFdrbnZ5VmNzeHpiLVViTjMwM2J6QXYxNzZGbDFzeVZQREpmQ1VzWHpsZHVNV1JDUEs3WENFOTVhN2xDbFozTmgzOS1qUU1EanVqczk4ejhYbGJUUWpR0gHeAUFVX3lxTE5CXy1sZl9SZlM0ZnBRb3U1cGpCaXRkMXN6b0d5ZVpyVi0wenJXUE1PLTJZb01ralo1bEdIVVYtQWdnZDI3WXE5cjZ1WmJJSW9hZW5OWGROLXF0N3BIdGtMQzVxUTF4WU1EOWVQUEhsamR0WTFQOXBzS0hGQWgxdV9pWjE0MldQX245Q3haSHJ5eV9CSGNRMmVvcVNtbTZnYXhvU2RQbnBfek0zRjB1VUJyMDRBYnN0V3pYejFPdzV1TEtHbHctY0s5SUtCTmsyQVJLUmYwRmk3X3dGemdZdw?oc=5",
-      "fuente": "El Universal",
-      "fechaISO": "2026-11-07T00:29:01.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "El Informador"
-      ]
-    },
-    {
       "titulo": "Atlético San Luis - FC Juárez | Pronóstico y cuotas 07.11.2026",
       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3oxX240bzhURTM2RnV6SUs1OEVJSkxtWFZUM2pVRGFkQ3RHem9aWnI4LWNZemdrX2xhbFpMZ1A1cUpfMVRRUEYyWEtYM0NIdTJyajF1a2VsZmh3YVVlNXhjNkNZX0kzWW5GRWNYeThEdlcwWnJTTGtPRUxWZVJ6aDRwLVhFVi01bXdJWVlnY2FhckE?oc=5",
       "fuente": "Diario AS",
@@ -752,6 +756,16 @@
       "fechaISO": "2026-11-06T23:56:05.000Z",
       "categorias": [
         "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Más de 500 elementos policiacos vigilarán el encuentro Atlético San Luis – FC Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHBqZGRCa1MwNzByVVd2TDFSRTk2U3dOWXVLcmxMM0dwdVl1M0ZCNkkyaXEtMnkzYVNzT1M0bVhpb2V1QXJkREFDQXFTR3oxQlNnNTdWdVBQUXRPcFVsS0U5bE1tektzcXQzd3VQWnlNRUtrS2FCa01xT25oOFFLSlQ5QzJ2MUFueFFzbm5tcFVXM0w3cnk0ODhYTjhYaDVyTUNZa3B6ZEZPSnF4T0NGdEg4MlhFbTlCNm5nZ0lObWRmVENuOFp6SGxB?oc=5",
+      "fuente": "El Tiempo del Altiplano",
+      "fechaISO": "2026-11-06T23:09:14.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     },
@@ -911,6 +925,7 @@
         "ESPN Deportes",
         "ESPN Deportes",
         "ESPN Deportes",
+        "ESPN Argentina",
         "ESPN Argentina"
       ]
     },
@@ -925,18 +940,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Más de 500 policías vigilarán partido Atlético de San Luis vs FC Juárez",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0VhUnNhVDBTY19wOGtWZ083cGZlUVpLdW1UYjRJR1Y0bnJ5S25lS2QzVjFDN3Z1d0FQODVZOVo5X1ZMZ2xZZTdlTkJZVnVQU290OWdzTEJxZUFqSFhBTlgxbnNhclEydXA5d25PemxBTHBnWVRMOXQ1cFhRbWUyUldrQVJUSmZES292WUgyd3pkaUpGeGJ6cEI0Tk1rVlkway1LV0kxRnlPZmU2dWc?oc=5",
-      "fuente": "Plano Informativo",
-      "fechaISO": "2026-11-06T15:54:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "El Tiempo del Altiplano"
-      ]
-    },
-    {
       "titulo": "Dónde ver San Luis vs Juárez: Canal de TV y hora del partido de la Jornada 16 del Apertura 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk0xdmVyWFhzWHRuVGtYc0IwS3JkUHRwekJzelNiQVlUS1lneUdpR1NUSnhIa2MtUmZSbFh6d3lqRjl6U3RrMWYxTHE2VWdxQ1VFb0FnUmc0dWR5LWJ0cHdaTEtUZmJCX2FHOU9UTkNGcjFYci1VZzluWnFTV1FQNHNlTHp4TG9PaDJQdTIwTWFTVnNYZXpsWTBFVVZQQ2N1dXY5dUg3MHhjbFFsNTFwUmlvWDRha2ktdG1SbXc0Y096VzjSAcMBQVVfeXFMUFpPNk83ZE5qUEFyVUpIa29vZmJFbFBYeTFlQ01ZbWJqMzRHb0U1ZjBpRG1VQ3RmSzdMR3NNdVF1a0h2Q3lmcjJ5eHFZekN5eHBKR0hZU0gyU3lZSGg1X3psQUcybDJUQWFiZ2tuX2FFc3Nza0QzeWs1T0JDSkg4TVJteW5qdFZIRGEwaGZ0bVJpSUtHMDRvR2xTSDd5UGFzOGlvU2R6TktOTEhZZmVKTHVUVlZDQzEyOWdWc3pHVG50MkdZ?oc=5",
       "fuente": "MARCA",
@@ -945,7 +948,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Reporte Indigo",
         "FulBox",
         "Telediario"
       ]
@@ -972,6 +974,7 @@
       ],
       "tambienEn": [
         "El Sol de México",
+        "TUDN",
         "TUDN",
         "TUDN",
         "TUDN",
@@ -1015,19 +1018,6 @@
         "Femenil"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis Femenil busca una histórica clasificación a la liguilla ante Pumas",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU1lkeEd2cVhzWlFBLXBNU3lyN2M0aC1TdnFTbnFHOUtjeHI4blFHRXI3dmx1d0xNa0NKYnl1Q3owUXFYVG5URFpDalFCWXdFZ0x1TWJXN0U2ZTF0RWFEZS0yU1dnSXRvOW4wSVlnMHI3Y0xJZTlNSHgyUm9pcjhQcXpKa24ySGp6N0xqQlhpeWFhTzROVkpMZWpmZ3JsWExVYkFya1lORlNUTHpfQWxtVXQyb3FaZjgwazIydzVaUWIyV25TTDBLTnJfZW1HLWFMRmtPRWl3?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-05T08:00:00.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": [
-        "Yahoo",
-        "Récord"
-      ]
     }
   ],
   "comunidad": [
@@ -1087,6 +1077,14 @@
   "comunidadTitulo": "Escuela y comunidad",
   "videos": [
     {
+      "id": "ibb-gHsYxgU",
+      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
+      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
+      "publicadoISO": "2026-11-10T23:30:57.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
       "id": "3TqKVvdfwYk",
       "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
       "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
@@ -1116,14 +1114,6 @@
       "enlace": "https://www.youtube.com/watch?v=A96M_eTLwWY",
       "miniatura": "https://i.ytimg.com/vi/A96M_eTLwWY/hqdefault.jpg",
       "publicadoISO": "2026-11-07T04:10:28.000Z",
-      "categoria": "Del club"
-    },
-    {
-      "id": "bi2cfipoEbw",
-      "titulo": "¡Las potosinas llegaron a CDMX listas para hacer historia! | El Viaje | AP26",
-      "enlace": "https://www.youtube.com/watch?v=bi2cfipoEbw",
-      "miniatura": "https://i.ytimg.com/vi/bi2cfipoEbw/hqdefault.jpg",
-      "publicadoISO": "2026-11-06T18:00:34.000Z",
       "categoria": "Del club"
     }
   ],

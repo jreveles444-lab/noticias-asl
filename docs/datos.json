@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-11T20:17:44.693Z",
+  "generadoISO": "2026-11-11T21:17:52.161Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -589,6 +589,7 @@
       "tambienEn": [
         "El Heraldo de San Luis Potosí.",
         "Yahoo",
+        "El Universal",
         "Récord"
       ]
     },
@@ -827,7 +828,8 @@
         "Récord",
         "El Heraldo de México",
         "Récord",
-        "MARCA"
+        "MARCA",
+        "Telemundo"
       ]
     },
     {
@@ -891,7 +893,6 @@
       ],
       "tambienEn": [
         "La Crónica de Hoy",
-        "MARCA",
         "TUDN",
         "TUDN",
         "FulBox",
@@ -916,9 +917,7 @@
       "categorias": [
         "Femenil"
       ],
-      "tambienEn": [
-        "El Universal"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis se enfrenta a Bravos en partido de la Jornada 16 este 6 de noviembre; San Luis tiene esperanzas de Liguilla ante un Juárez ya eliminado",

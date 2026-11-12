@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-12T05:18:51.478Z",
+  "generadoISO": "2026-11-12T06:18:58.953Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -360,6 +360,7 @@
         "TV Azteca",
         "El Sol de México",
         "El Universal San Luis Potosí",
+        "Momento | San Luis Potosi",
         "Debate"
       ]
     },
@@ -374,10 +375,10 @@
       "tambienEn": []
     },
     {
-      "titulo": "El Estadio \"Plan de San Luis\" homenajeado en la Gala de Atletismo",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOG53dEFGdUhPQXBqYW5DSUJiWVNjaXRidEdsWWZqVUpNYXB1b2lkOHg3TGQ5RGltYlQ5aDN3WVRZel9Gc3ByTEQxVE9WY0FHYXAtNlZBQXJoTUx4cS1ObXBmZTFoakI3X2t3VzNvZURHbVRMZmdXNVhkQkh1TWktMElVRm0wY01KbkZvampNbDRFbVJ3eVU0VnE1b2E2ZEk2SlJ5THlYTQ?oc=5",
+      "titulo": "La Novena Gala de Atletismo rendirá homenaje a los 69 años del Estadio “Plan de San Luis”",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTV4elJfWWJmZUdiN05HZHhWaFJfN1o0M0Z2eFJhOXR3VmJVY1cyM3gyVWV2c2dCbzRCMVNsV19IYjU3dlluU2dzcU1XQTJmVkViV2lMa3gtX0I3VC1fQnNZWG9mVE9wNW1SZmJIMGY0MFhjTmtGZ0JYRGV5OTJMOXU4dzlkSThMWGxaTmhBU1lJOUVvOWRGM1RGRUJsYzh4WFd0NQ?oc=5",
       "fuente": "Potosinoticias.com",
-      "fechaISO": "2026-11-11T22:24:45.000Z",
+      "fechaISO": "2026-11-11T22:24:21.000Z",
       "categorias": [
         "General"
       ],
@@ -409,7 +410,7 @@
       "fuente": "Potosinoticias.com",
       "fechaISO": "2026-11-11T21:49:53.000Z",
       "categorias": [
-        "Femenil"
+        "General"
       ],
       "tambienEn": []
     },
@@ -450,16 +451,6 @@
       "fechaISO": "2026-11-10T19:30:37.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Club Puebla buscará la victoria ante San Luis 'por orgullo', revela Gerardo Espinoza",
-      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDZNUlJMcVNYdV9NNG1IbUEta1ZEM21mdGo4OFhDa2FUek9qOXhrVHZETlFwV1p3UG1MVHQ4UjFfbzBib0t5QXc3ckswTl9vRXlvOXk3Qm4xWVlDVllNOEM0VFlhcDVKOEY2c2JkQkgzbmR3VW9RSFlUTlJKTHJkZGxwSkp5ZFAwWjJLcnJrem7SAZABQVVfeXFMTThPZzVYbGNRNm9ZVmR1OW1KalpvYVhZM0pkdjVBT0tYQ29vUm4tQWtKWVJnSlFtejVxSEZseEtsRmVkd0VNTnhtbHdRLVRvLW0wb09zR3UxejJKMXFPNFVlTTN6TFpQVFhlVkZxZzh2N3lDM1Q5NnAxbS04QXo0WnJsbGlsT180T0VMUnhFWnNL?oc=5",
-      "fuente": "Milenio",
-      "fechaISO": "2026-11-09T19:19:59.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -793,7 +784,8 @@
         "Femenil"
       ],
       "tambienEn": [
-        "Récord"
+        "Récord",
+        "Soy Futbol"
       ]
     },
     {
@@ -908,16 +900,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¡Atlético de San Luis destruye a la defensa de Querétaro!",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0tIb0tNTmtBSENEWFUzRUF6Zm1xOVFTb2xvMzJhN09BSVktYTdUd19qYndHV3kzSE9GOFdjWUtTSGY4cGQ1T3pKN054S3VkSXpONkotNHJDaGVoLU1FYWxNZ3VBSEhZM21ZUWhRVUpGYkI4N3dJQlByalI0TVlQcW1kYm5FeDhYWHZCckRkRnd1Xzk2NUF0OEZxbFc1SjFZbXNfX04xTQ?oc=5",
-      "fuente": "ESPN Argentina",
-      "fechaISO": "2026-10-20T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético de San Luis vs. Querétaro: alineaciones y probabilidades",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYzBDanhKbVYwYm5ZOGg3R3k3V3QxSmlrQU02TURPWF91LWZ3QXJJMnQzdW1tU010MGlmZnQ4MllfQi04RDF3TEZ3V2syOEpVaGlXTmpmdnVuZ1RqOFRhTlFkRVdpczNBa25BV3NFTG94MW1XRVgwSVJUMmxMcjNQZnluRENWTW5Xd1JwTDdxa2hkTVk5TkRDVkVndk9CMzNLNDJYRkRRQ05aOERQdzFNdmpZVDlLMzNRWHlJX1ZsSDdseWZjQUpr?oc=5",
       "fuente": "ESPN Deportes",
@@ -926,7 +908,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "ESPN Argentina",
         "ESPN México"
       ]
     },
@@ -1014,6 +995,27 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-09-22T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis vence a Pachuca y se consolida en la parte alta de la tabla de la Liga Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2s0X3NmY2Q5Y1RQUHVNWGNnUVM0VEpFYTZ4Z0toRW9KYnM1MWd5QUU4aXpmc0ViWl9ZVHIzU1QwaGxZcldlMUJQTmpSNmtfRlJsaFJKMEN2M2N6VkduOTlNc0kwNzFzdERIOWlNb0xQdTJwX25ZcVhRQ3d1UWF4ZGJ3TFBiYTVSSFNkRTBSVmpzaklEeVkwMUxtM0t3ZjNvUG1KQmEwSWZVNHF0QUw3VkpwcFZna0t4UUUyZWhwbkJHbDFjckxvSFRNelRuVDVld2MxMFQxVTVhZUZIRmVNeHJuMHNqYURwblE?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-09-20T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1076,48 +1078,7 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [
-    {
-      "id": "6elvhAmUX18",
-      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
-      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
-      "publicadoISO": "2026-11-12T01:20:48.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "ibb-gHsYxgU",
-      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
-      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
-      "publicadoISO": "2026-11-10T23:30:57.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "3TqKVvdfwYk",
-      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
-      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
-      "publicadoISO": "2026-11-09T16:22:24.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "GRULEGw-YeI",
-      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
-      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T20:00:31.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "n8su8tM3ld8",
-      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
-      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T13:01:00.000Z",
-      "categoria": "Entrenamiento"
-    }
-  ],
+  "videos": [],
   "redes": [
     {
       "nombre": "X",
@@ -1136,8 +1097,10 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 30,
-  "avisos": [],
+  "totalFuentes": 29,
+  "avisos": [
+    "YouTube: HTTP 404 (no encontrado)"
+  ],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-12T07:19:06.202Z",
+  "generadoISO": "2026-11-12T08:19:13.160Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Atlético de San Luis, presente en el Congreso BNI Reconnect 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXB0TFkyOFVudFNZWDQ1elZ4R3BkTFdwQjB6a3ZSUUxYTTJLbEhteHhrNEY4aG1fLUNCMnpERlpFajg2MXJDS3kwRUcxVS1WdzJuc0pFaFFUdXdSanBPQ2swc2pSVzVzaGdxN2tvc1oxUHdsejZTV3FHX2JxYWFUWG8yWGFxblY5Q0VZeFBBOXpLUjREdTJGZ2lqcFJ4dUMyUnRVSg?oc=5",
+      "fuente": "Potosinoticias.com",
+      "fechaISO": "2026-11-12T03:30:14.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis Femenil finaliza su participación en el Apertura 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzRNUU9WZFhNcUlpY2xUQjBUR09IQVB0NHBSUFBhLUttd2NkaFliRXNTbFdjYmdOdU1zSExkUEd4RVNjTU5wc3V5OVRaSG9lYnlocEJJSmx4YVJZcHJReGx3enhfU2ozNW5jci0tZDJMUVMwblhheWpRZ0I5d0pFTjM1cGhVeko2alRHNDQ1MUxCYXl2VThwaF83d29FM3BBUEU0Z25idFFmTE5peFJROE95X0g2bWFTb0NB?oc=5",
       "fuente": "Atlético San Luis",
@@ -646,7 +656,9 @@
         "Femenil",
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Sol de México"
+      ]
     },
     {
       "titulo": "Pumas vs. Atlético San Luis EN VIVO. Dónde VER Jornada 14 de Liga BBVA Femenil 2026",
@@ -739,9 +751,7 @@
         "Femenil",
         "Partidos"
       ],
-      "tambienEn": [
-        "Soy Futbol"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis vs. Bravos: disfruta el partido de la Jornada 16 por ViX | Canal 5 Home | Canal5",
@@ -930,7 +940,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "365Scores"
+      ]
     },
     {
       "titulo": "Atlético de San Luis Femenil defenderá su tercer lugar ante Juárez y América",
@@ -1004,17 +1016,6 @@
         "General"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-09-22T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Partidos"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1076,7 +1077,48 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [],
+  "videos": [
+    {
+      "id": "6elvhAmUX18",
+      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
+      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
+      "publicadoISO": "2026-11-12T01:20:48.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "ibb-gHsYxgU",
+      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
+      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
+      "publicadoISO": "2026-11-10T23:30:57.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "3TqKVvdfwYk",
+      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
+      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
+      "publicadoISO": "2026-11-09T16:22:24.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "GRULEGw-YeI",
+      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
+      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T20:00:31.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "n8su8tM3ld8",
+      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
+      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
+      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T13:01:00.000Z",
+      "categoria": "Entrenamiento"
+    }
+  ],
   "redes": [
     {
       "nombre": "X",
@@ -1096,9 +1138,7 @@
     }
   ],
   "totalFuentes": 29,
-  "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
-  ],
+  "avisos": [],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

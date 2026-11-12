@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-12T14:19:55.653Z",
+  "generadoISO": "2026-11-12T15:20:03.041Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Puebla, San Luis y Santos quedaron lejos de los primeros 10 puestos: así terminó la parte baja de la Liga MX, ¿quién decepcionó más?",
+      "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSHV3TmhJeXI5ODZha2Zib1pXalIxZ2dvWkJONUYxSVJtNjNIbGoyMlpTZFhMd3Z3Q29fMHNESGNCbGZhWGVqZWlZVXhWZ01oNXBkMmY2MWplSnl5aWtoN01zaXlkWGdvREJRUFJHUnZLcmxLaDR1RGQzRFJtMHFrZWdLem5EOWg5bFZxeV9XajJHVWZZeGFLbkNLUEZPQURkRDRhREFaNFk3SHkwWmhGb3J4ek02Q3NFaHZORjJUa0I1U3BlU1RHYUlUbHdQRmFqaU9ReVl0eU12VDlCLU5PRzROUGptOVF1TUl5WWh1SVpkTlk0azJqZ1N3NlU2SkdXbnc?oc=5",
+      "fuente": "Soy Futbol",
+      "fechaISO": "2026-11-12T14:56:43.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Club Puebla obligado a la victoria ante San Luis para evitar una de sus peores campañas históricas como local",
       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRG9qMjhqT1hjblJsdlJ3aDdvRmdLczduZHZoT2F6ZmpaM1dvRW91WnpRYmswYVZzLTJpS1lFX0JmNkdoallJcmZUdHVLRHJuazVYMk1EZkEyVi1SbDNjRDRqSkN2aTVIMGNRZzFITXRvNlAxS21zWTRyb24tdTk5OVZMSjNRdW13dTZMbWlJbkhJMkVBN0hnOWRBN09qdnZ6Y0tWWjZ0WlliTVR6LVlNd0Z1MG5GbUJVbTAxc2piLXdqa0tCbGplSzhVdnVPamtQRkpKRHFMS2YtU1Y5RlVPT0djTHBwSDZKYmFJdA?oc=5",
       "fuente": "Diario Cambio",
@@ -399,7 +409,6 @@
         "Reforma",
         "Atlético San Luis",
         "El Sol de México",
-        "El Sol de México",
         "Atlético San Luis",
         "Atlético San Luis"
       ]
@@ -409,16 +418,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3lJcllCdDhCUGZkcTcwYXNUcDNWLVE5YzlWaVk5azUxTGh2UzVqWUJkX05FRHhEd3Z4dFN2UkhTeDAxVGtJUmcxeUpVYXo2WWk2eWVzUEFJMzlVVTRnQ2plMVU2TmFSeGxXZkZGcEpEcFNpdU5weTZ0R1k0WHdiWm5tZmtMN2w5R0lTUlBDeV9FaFZfcGdvLXpmSmN5dmZTMVpNclpWeGlyZW90YWkyeWVZXzFPSUJHdlE?oc=5",
       "fuente": "Potosinoticias.com",
       "fechaISO": "2026-11-11T21:49:53.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Precio de boletos para partido Club Puebla y Atlético San Luis | ¿Cómo comprarlos PASO A PASO?",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1M0U0Nqc3BXWlp5T1Nldlo1RWt3Smw2UzFyaUI0a2otWWhjZDA2TldNUHlXTUpKT3RhZ2RvZjFlMnRxRFY1ZzA5OGJObkJCMFozd2ptUzBBSEhmQXlFS2ttcG5zMTBlSXJiN1hCYm1MUEJVSkNGTFVXLXlwTnRZMUlvNF9kd29rRzNrSzQ4MXM2aVJERXRzTGRR0gGaAUFVX3lxTE1PUzRTQ2pzcFdaWnlPU2V2WjVFa3dKbDZTMXJpQjRrai1ZaGNkMDZOV01QeVdNSkpPdGFnZG9mMWUydHFEVjVnMDk4Yk5uQkIwWjN3am1TMEFISGZBeUVLa21wbnMxMGVJcmI3WEJibUxQQlVKQ0ZMVVcteXBOdFkxSW80X2R3b2tHM2tLNDgxczZpUkRFdHNMZFE?oc=5",
-      "fuente": "Milenio",
-      "fechaISO": "2026-11-11T18:05:54.000Z",
       "categorias": [
         "General"
       ],
@@ -441,6 +440,16 @@
       "fechaISO": "2026-11-10T19:30:37.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Club Puebla buscará la victoria ante San Luis 'por orgullo', revela Gerardo Espinoza",
+      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDZNUlJMcVNYdV9NNG1IbUEta1ZEM21mdGo4OFhDa2FUek9qOXhrVHZETlFwV1p3UG1MVHQ4UjFfbzBib0t5QXc3ckswTl9vRXlvOXk3Qm4xWVlDVllNOEM0VFlhcDVKOEY2c2JkQkgzbmR3VW9RSFlUTlJKTHJkZGxwSkp5ZFAwWjJLcnJrem7SAZABQVVfeXFMTThPZzVYbGNRNm9ZVmR1OW1KalpvYVhZM0pkdjVBT0tYQ29vUm4tQWtKWVJnSlFtejVxSEZseEtsRmVkd0VNTnhtbHdRLVRvLW0wb09zR3UxejJKMXFPNFVlTTN6TFpQVFhlVkZxZzh2N3lDM1Q5NnAxbS04QXo0WnJsbGlsT180T0VMUnhFWnNL?oc=5",
+      "fuente": "Milenio",
+      "fechaISO": "2026-11-09T19:19:59.000Z",
+      "categorias": [
+        "Partidos"
       ],
       "tambienEn": []
     },
@@ -569,8 +578,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "TUDN",
-        "TUDN",
         "TUDN"
       ]
     },
@@ -601,16 +608,6 @@
       "fechaISO": "2026-11-07T01:13:13.000Z",
       "categorias": [
         "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡Arranca la fecha 16! Ya juegan Atlético de San Luis y Bravos de Juárez",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3NrNjBuWXc0ZkpzdEdESXRtNl9Hc2xGejR1cXN4YjBkOEFKQWhBbmVSSUtpczJhZUIwaExOQXB3d3M3alIzWTh1ZnpicmNJMGpMODVaZXd1SXh3RE93OGROMHBTWkxrSFM3OWIyTUphNm9sQ09yVUhwaC02Q2VnUWticnM5ZF94NUVLdEtWNFlHYmp4cXkxVU12Q3FnRlBGaXUtem9zMHk3S0RMMFpmSA?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-11-07T01:06:00.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -692,6 +689,7 @@
         "Femenil"
       ],
       "tambienEn": [
+        "El Sol de México",
         "ESPN México"
       ]
     },
@@ -866,16 +864,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Así quedó la tabla de posiciones de la Liga MX tras la victoria de Atlético San Luis ante Atlante",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWVOV01nOWRxc3h1eHVYQXNwMzNIN1pnRmFNM3UxLVVsVkxsY3BKX29kdERWS1R3WjVIdldGbTlyNmo3X3NDY0w5MVJXcUFwR0g2Ni0wTHhaSWY0ZmpJQWx3T0JOdktPLTR6VFRWMEJybUx2cE92Z1RxNHRPNEVLQmV4dlBJNlhsR3JVaFhjZC0wM2s2ZjNBUm44M1J4WUkyMVBMQzJ6NDJqaFBpelI2djdBR19JYUh2Yk9oVlBpWFQya05JaEHSAcsBQVVfeXFMTzhNNERidFd0cHhodm9PYkNQWEJ5WFVQcmRvNzNzWjhFUEFBVDZONDBPUEJKRlhTZmxDQVIyNG9DczNYNW1IU2hCdXBFay1hSmZ6dVdNOFh5d2I2TERDd1J3cG5vY0lJVjFweC1sRTM1X1M1TzZkT3lQS3R0WS0yVllBc3FoWEdaR0hrY2xhQTBZVEFVZ2Jfa0NyV2VBUGdoUU5HSHhnV0puMi1zMWx0SnZBSmtvZ0ZSek15ekZzQzdlbXdmeGZCd2NaTVU?oc=5",
-      "fuente": "Bolavip México",
-      "fechaISO": "2026-10-23T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro",
       "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSzhOeFJoNG1GYTZzOXNkZThuaVZfUHhlSk8tQUVxczdINEo5VS1zMTBGckpmTHZhMjBuOEI5amZSeHptUXZ6RWxrandsOXh0YlU1US1HNHZiYmJidDNKWFBpRjdydVRUX01HWE51ajhkUlc2MGk2OElZZEFWVTM4U25ZNExxb1Y5RWE1MF9oVnViR3gwaHF0cG5HRlJQelBfMlVLbEctTzlRNXlpY3c3TVFTaVdQVlFQUVFnM2cyYXVTdVpXWWhJakdiV2FyTGJkUXMwNHVvYWZRaC05eTlUdGdNYmxUVURoX19DYTluWU84RFU?oc=5",
       "fuente": "ESPN Deportes",
@@ -1002,8 +990,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Milenio",
         "MILENIO",
+        "Milenio",
         "MILENIO",
         "TUDN"
       ]
@@ -1031,6 +1019,16 @@
       "tambienEn": [
         "OnceDiario"
       ]
+    },
+    {
+      "titulo": "Atlético de San Luis vence a Pachuca y se consolida en la parte alta de la tabla de la Liga Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2s0X3NmY2Q5Y1RQUHVNWGNnUVM0VEpFYTZ4Z0toRW9KYnM1MWd5QUU4aXpmc0ViWl9ZVHIzU1QwaGxZcldlMUJQTmpSNmtfRlJsaFJKMEN2M2N6VkduOTlNc0kwNzFzdERIOWlNb0xQdTJwX25ZcVhRQ3d1UWF4ZGJ3TFBiYTVSSFNkRTBSVmpzaklEeVkwMUxtM0t3ZjNvUG1KQmEwSWZVNHF0QUw3VkpwcFZna0t4UUUyZWhwbkJHbDFjckxvSFRNelRuVDVld2MxMFQxVTVhZUZIRmVNeHJuMHNqYURwblE?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-09-20T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [

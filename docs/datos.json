@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-12T15:20:03.041Z",
+  "generadoISO": "2026-11-12T16:20:10.278Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,18 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Fernando Torres rechazó dirigir al Atlético de San Luis en la Liga MX: ¿por qué no aceptó?",
+      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUGEtbjctNXlrTDk1ZzRkbXFDeGdIZE0yemFLYWdwd2NtbExKU19sZlJiN21DTzBDS3JCdTVockZtLWpHeDZ5Nlc1U21FSUJQcUkzVXEtbFpLa0hiVGJoa1IwdkdRa0pmUzFXd1FneDZUQ0ZoWnM4dURPWTBHSjQ3RnJMQ1hRYl9naE5hV1JIcm9kYnJWOUt3ZWxGX2FGWGxQZXdsd1Y3XzIyeGpLYjBzT1ZjRjRrazVPRHFxVXZsWmlNSWNBUjRPM3RBVUprV20tcVo3bDAwN28?oc=5",
+      "fuente": "Soy Futbol",
+      "fechaISO": "2026-11-12T15:46:25.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Potosinoticias.com"
+      ]
+    },
+    {
       "titulo": "Puebla, San Luis y Santos quedaron lejos de los primeros 10 puestos: así terminó la parte baja de la Liga MX, ¿quién decepcionó más?",
       "enlace": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSHV3TmhJeXI5ODZha2Zib1pXalIxZ2dvWkJONUYxSVJtNjNIbGoyMlpTZFhMd3Z3Q29fMHNESGNCbGZhWGVqZWlZVXhWZ01oNXBkMmY2MWplSnl5aWtoN01zaXlkWGdvREJRUFJHUnZLcmxLaDR1RGQzRFJtMHFrZWdLem5EOWg5bFZxeV9XajJHVWZZeGFLbkNLUEZPQURkRDRhREFaNFk3SHkwWmhGb3J4ek02Q3NFaHZORjJUa0I1U3BlU1RHYUlUbHdQRmFqaU9ReVl0eU12VDlCLU5PRzROUGptOVF1TUl5WWh1SVpkTlk0azJqZ1N3NlU2SkdXbnc?oc=5",
       "fuente": "Soy Futbol",
@@ -414,16 +426,6 @@
       ]
     },
     {
-      "titulo": "Fernando Torres rechazó al Atlético de San Luis para seguir su camino en Madrid",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR3lJcllCdDhCUGZkcTcwYXNUcDNWLVE5YzlWaVk5azUxTGh2UzVqWUJkX05FRHhEd3Z4dFN2UkhTeDAxVGtJUmcxeUpVYXo2WWk2eWVzUEFJMzlVVTRnQ2plMVU2TmFSeGxXZkZGcEpEcFNpdU5weTZ0R1k0WHdiWm5tZmtMN2w5R0lTUlBDeV9FaFZfcGdvLXpmSmN5dmZTMVpNclpWeGlyZW90YWkyeWVZXzFPSUJHdlE?oc=5",
-      "fuente": "Potosinoticias.com",
-      "fechaISO": "2026-11-11T21:49:53.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "SE VIENE FECHA FIFA y NATION LEAGUE ¿SE MERECÍA UNA OPORTUNIDAD DAVID RODRÍGUEZ?",
       "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1J4SmkzME5LQ2xSTlI0azZPRE9RdHFkWE80S3hvb1RuaGFGcUI5eEllUjZHWFlVX1BlT3VqWmhUeDV4cXA3c2xRU19VZFZ3U2xMRmhnZmxia3VDaHpqcE1qdXh6VW0xeXQyLTFGMmJyWFl4UjF6d3FocjVKdExYZ2w1OWNvM1BUckZYUmd0c19ZQ3BXMjdpSVBqak1Bd1NKUldobWZDcTZaRVFtX2NJ?oc=5",
       "fuente": "Momento | San Luis Potosi",
@@ -440,16 +442,6 @@
       "fechaISO": "2026-11-10T19:30:37.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Club Puebla buscará la victoria ante San Luis 'por orgullo', revela Gerardo Espinoza",
-      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDZNUlJMcVNYdV9NNG1IbUEta1ZEM21mdGo4OFhDa2FUek9qOXhrVHZETlFwV1p3UG1MVHQ4UjFfbzBib0t5QXc3ckswTl9vRXlvOXk3Qm4xWVlDVllNOEM0VFlhcDVKOEY2c2JkQkgzbmR3VW9RSFlUTlJKTHJkZGxwSkp5ZFAwWjJLcnJrem7SAZABQVVfeXFMTThPZzVYbGNRNm9ZVmR1OW1KalpvYVhZM0pkdjVBT0tYQ29vUm4tQWtKWVJnSlFtejVxSEZseEtsRmVkd0VNTnhtbHdRLVRvLW0wb09zR3UxejJKMXFPNFVlTTN6TFpQVFhlVkZxZzh2N3lDM1Q5NnAxbS04QXo0WnJsbGlsT180T0VMUnhFWnNL?oc=5",
-      "fuente": "Milenio",
-      "fechaISO": "2026-11-09T19:19:59.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -782,6 +774,16 @@
         "El Informador",
         "El Informador"
       ]
+    },
+    {
+      "titulo": "¿Por qué no juegan Elías Montiel y Kevin Zenón en Atlético San Luis vs. Atlas por el Apertura 2026?",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDlYLUszWURsdEh2ekhDUklfUVNGc0dqNWhQWnpUSDVMTWlMc2lSQ1RfR0gyTXEyTF9CR1lhbU9GcEhCOEpmaklWMDdPYlhYb0pfSnd1WG9rRmZvSEdSQnJ6ajhFZ1J0VkVQc3pHVExuLV9rRVgtamFqRFBuamd3dDhCNXpIeVU5b0hpLVNmOUtiSkJTR0JlbUZ6Y1pOSFIxWk5TYmFoODk2ZHJERWxIUU85WmpPV094azB3bVdZaUIwQm510gHKAUFVX3lxTE1oSTJDcUFoVGc3WE1FaWpNVzRmNUlCSE9UUHNKa3lpYXVoZlBkUklQdHJDWkg4VjY2RDg4WktESmlDbV9mazA0eXZUQUVLTk42MEd2X2F1V0RwX3ZfR3NnTTNEdk9BdzdOX2hRMzYtalRXd2VYMWRJQ3p4VE1McVNvRDlOUWRHZDN4b2dVczlRcXpTOGFjNXZSTlpGaVpqbW5Eb2lNb0hGaGJoOTlTTXVpdmZBMkxRLURuOEh2M0JVZnpKMDJ3OTFvMnc?oc=5",
+      "fuente": "Bolavip México",
+      "fechaISO": "2026-10-30T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "América golea 7-0 al Atlético de San Luis Femenil en el Apertura 2026",

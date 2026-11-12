@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-12T03:18:37.024Z",
+  "generadoISO": "2026-11-12T04:18:44.742Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -360,8 +360,7 @@
         "TV Azteca",
         "El Sol de México",
         "El Universal San Luis Potosí",
-        "Debate",
-        "Momento | San Luis Potosi"
+        "Debate"
       ]
     },
     {
@@ -370,7 +369,7 @@
       "fuente": "El Universal San Luis Potosí",
       "fechaISO": "2026-11-12T00:23:35.000Z",
       "categorias": [
-        "General"
+        "Femenil"
       ],
       "tambienEn": []
     },
@@ -475,16 +474,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Empresarios destacan inversión en infraestructura y condiciones para el desarrollo en SLP",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZmozQ01BeDgzUjVfVm5ONy1jM3pUcGJ4THdmV0JFT2VHSHFQVHRKTVdzVDh1OVVuUHFmd3VhbGE5bHlWOVJWb3lSczJ3VGFVeTNJYTZVX25NZUFVM0NPLVhvRm12a2NXeUhLVk9pVUdKV2llSGJ6dFViYjV1ZVhqcWlzdnZucVp0RVBONXBVamYyVHc4RUxrNXo2NDNCUkNPbGtSeTV6OWJoMnVxUU8zLU1iaGdTY1FKT1kxdVI3Wk1idk5wZUV6ME1WSHlhZw?oc=5",
-      "fuente": "El Heraldo de San Luis Potosí.",
-      "fechaISO": "2026-11-09T04:56:35.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Empresarios potosinos reconocen avances de Ricardo Gallardo en San Luis Potosí",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcl9TTk55ZmxvOUpoZzVkNkNnMk1nVENLWDBCNDNQbGVWazE0NHR3bDc0eE5ZOHpweXJaMk1RSlppYlRwT1RqV2NaMFA2dV9FWko0Uk5uV01kRy1pai00Y28wT21vUlc2UXRZdEpmdG9jeGRJaFgtYkxIZkNpOHJtYXVhSTR4V2R6enRfeE52UjczbFBsZVRBQTZySGxVR2JjYU51NXJFYm0za1FhdnlVWXZjdUFVZw?oc=5",
       "fuente": "sdpnoticias",
@@ -511,16 +500,6 @@
       "fechaISO": "2026-11-08T15:06:00.000Z",
       "categorias": [
         "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Opinión / Los avances de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbngzVlBCUVFyMDNBa2k0VHhZTTZ3RWRacUhnZkhtS1pZSHNOdnZkb3Vkb0dvTndhTmNJYWVYTEJjcERIbnJYMUpsZXREb3pQaWZyOEQwVk1NSDVFYWpFWncxYVI2c1g0Z3o5S0ZWSnNJMFBXdENQRDhHaUZLRlNQMGxHUXk4ek00ZVJB?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-08T06:14:23.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -693,9 +672,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "De10 Sports"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Pumas Femenil juega su última carta por la Liguilla enfrentando a Atlético de San Luis este viernes en CU.",
@@ -1016,6 +993,27 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "La Previa SportiumBet Tigres Femenil vs. Atlético de San Luis Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGlvVE9QaGlhVFJxUjQwbTF3RHRXMHVSMDI5ZHU1Nk9XVTNSNTBMb0dhaTZ6WDg2ZjBRTC1yWjJQallKUGczVFY5UUJUYjVrNHg0QXBlcFU0eXd0Ql9wWlpWdllpRWV2azdVLUpSeVhkV01mN0drUEFqUGpsRDM3aGt1MG44Qi11RHpmcVZ3V0M1cG1ueDlpVmRQSV81RWJDX09CSnF2c3JNUmM?oc=5",
+      "fuente": "Tigres UANL",
+      "fechaISO": "2026-09-27T16:45:34.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Pumas enfrentará al Atlético de San Luis con cuatro bajas por fecha FIFA",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmtqcWRuNXJ3M1FUZGZCLXowMjd4VFRxVkU4UUUzTllhMnBuaHBTUzY5ZUtzemxuMGVJajMxNkJnY3ZFQ2RTd2NMVnJrZHNXY2Y2cjMwVHhTb1Rpdk15eWtzb2dybkotQi02T3M5VGZGeUYxSDVqYUlpSEhYcUh5U01yMmhNYWkwQlRoem9xbllJZXNYenZVREFLaXVrZ0tqckNVUXB1Y9IBrAFBVV95cUxOYzlCZE1tcThjNmNSTjdEYUsyQWJtV1hnOFRTQ2VLb2RuSm4xR0NZaEFvc1EtZ0NkZGRla3owT0hwdHdzbjFGX2gzNUZOMnMzSlY2MW41eW5SWHdTRkJLWGZ4QXZPUGkwM29KSHA2eGNUTFNzSEdDTDdiTVl6eVBNV2l5M0E1LXZXNVNIbzY1NnVCVWxfb2FWN29oSW95UlIxZFlPRUJBMkJ0eVc5?oc=5",
+      "fuente": "Excélsior",
+      "fechaISO": "2026-09-24T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1035,19 +1033,9 @@
         "El Sol de México",
         "El Sol de México",
         "El Sol de México",
-        "El Sol de México"
+        "El Sol de México",
+        "Código San Luis"
       ]
-    },
-    {
-      "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2p0bWJxQmRWdmdHUHhaLVNuQ0dDSkFDclljNjRzTlRCdjJqcHV3VkhWNUVVem5haG1QY1l6ZE1mMjhxUGRrckw4aWp6MDdfYXUyVHhORVBvdEQwNjhpRC1pbDQ1SEdfT0N3azlWaktWMFVINkFtVUV0UjJOVVNpcllTZl9yQ1lQd2c?oc=5",
-      "fuente": "Canal 7 SLP",
-      "fechaISO": "2026-07-22T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
@@ -1073,52 +1061,22 @@
         "Fichajes"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Escuela ADSL lanza plan deportivo para fortalecer Fuerzas Básicas",
+      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ZON21GdTJNd3g2OVFkRzFLOXVabHlZd2dwbDFIaXRzMlNmOW1VRXJmSnVlempUZVVuVURtX1BNNXA4ZTZjekFaZkdlNWFCVndCSVExd2pRVjJ1aVNHYm9nc2VuZmk1YXZQaWtvUlFXZzNnVldJVWYwbExfQzZydUdYV2ZXaml6ek9WSFphcWdkYm5pd29wenVSR3lqVk1RQU1NcldNS25qSDJoN1plTA?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2025-11-20T08:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [
-    {
-      "id": "6elvhAmUX18",
-      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
-      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
-      "publicadoISO": "2026-11-12T01:20:48.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "ibb-gHsYxgU",
-      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
-      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
-      "publicadoISO": "2026-11-10T23:30:57.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "3TqKVvdfwYk",
-      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
-      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
-      "publicadoISO": "2026-11-09T16:22:24.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "GRULEGw-YeI",
-      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
-      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T20:00:31.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "n8su8tM3ld8",
-      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
-      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T13:01:00.000Z",
-      "categoria": "Entrenamiento"
-    }
-  ],
+  "videos": [],
   "redes": [
     {
       "nombre": "X",
@@ -1138,7 +1096,9 @@
     }
   ],
   "totalFuentes": 30,
-  "avisos": [],
+  "avisos": [
+    "YouTube: HTTP 404 (no encontrado)"
+  ],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

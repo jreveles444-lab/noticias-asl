@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-12T00:18:13.210Z",
+  "generadoISO": "2026-11-12T01:18:20.530Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,35 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Atlético de San Luis Femenil finaliza su participación en el Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzRNUU9WZFhNcUlpY2xUQjBUR09IQVB0NHBSUFBhLUttd2NkaFliRXNTbFdjYmdOdU1zSExkUEd4RVNjTU5wc3V5OVRaSG9lYnlocEJJSmx4YVJZcHJReGx3enhfU2ozNW5jci0tZDJMUVMwblhheWpRZ0I5d0pFTjM1cGhVeko2alRHNDQ1MUxCYXl2VThwaF83d29FM3BBUEU0Z25idFFmTE5peFJROE95X0g2bWFTb0NB?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-11-12T00:25:11.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Récord",
+        "El Sol de México",
+        "El Sol de México",
+        "TV Azteca",
+        "El Sol de México",
+        "El Universal San Luis Potosí",
+        "Mediotiempo"
+      ]
+    },
+    {
+      "titulo": "¡Está de fiesta! Tunita, la mascota que conquistó al Atlético de San Luis, celebra su cumpleaños",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzFUdFhrVzhPOFZqa0xZSUJUUm1oeEhPaUZTaThiNTN3M3pkUGx4NGp6M01uZUJBdWhOam1FaXRLVmY1dDVpYk5ScXEtVkdOUVQ1TUkwbVkzTHJxeDNYTFlPdTVlSmcwZHdKM3kwaC1GWWwzbmZqTmFJVG9CbEZrREstV04xTGsxeHRUX1NjT0VBNTRCSXVxUS12cm9QVjByeE5TWDRpNm1HRUs0RXlTZlB1dXByeXQwR1JTYllFb2RoTXZYRGtLdDdFUkN3NWlsYm9aR3pB?oc=5",
+      "fuente": "El Universal San Luis Potosí",
+      "fechaISO": "2026-11-12T00:23:35.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "El Estadio \"Plan de San Luis\" homenajeado en la Gala de Atletismo",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOG53dEFGdUhPQXBqYW5DSUJiWVNjaXRidEdsWWZqVUpNYXB1b2lkOHg3TGQ5RGltYlQ5aDN3WVRZel9Gc3ByTEQxVE9WY0FHYXAtNlZBQXJoTUx4cS1ObXBmZTFoakI3X2t3VzNvZURHbVRMZmdXNVhkQkh1TWktMElVRm0wY01KbkZvampNbDRFbVJ3eVU0VnE1b2E2ZEk2SlJ5THlYTQ?oc=5",
       "fuente": "Potosinoticias.com",
@@ -413,21 +442,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis finaliza su participación en el Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3FKbFZqS0lCOXZoUktuUVRHSk9QcWo1cGJ2dFZpWmxNdGpqVEthbWJ0RmtULS1iN05iRmhDdmYwVVBacXRqZlR3T2toYUJMUmlwMktnNVFRVGxxSE9ldDJZVnZOMFZEaG5qVGRYdGtSS2NqRkJRaFkyakFRYlR6X1ZPZ3h5MGdxVWFURkRDNzdhcmxnMUFPUzZNQ2xSZWxWNGNNLVZMeGxiUlVSNzJ1NQ?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-11-09T19:12:25.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "El Sol de México",
-        "ESPN Argentina",
-        "ESPN Deportes"
-      ]
     },
     {
       "titulo": "¿Qué sostiene la confianza empresarial en San Luis Potosí?",
@@ -517,16 +531,6 @@
       "fechaISO": "2026-11-07T18:30:59.000Z",
       "categorias": [
         "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡Por defender a su esposa! Galdames encara a Raymundo Fulgencio tras el Atlético de San Luis vs Juárez",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNemFZemNZRnlaM1dUUWxDa2JaZUduM3lfdXdiRGh0cFpqd3AzdlhyYjluWFhwblhNTzZrbjQtOWhldmltZEJYZWpUTGlwU0YwdzJ2anlZNjNIVGd6WmJLY0hlbTBnemR2NDc0VVhwaUladzFzM1p6dTZ4ZEM5MWlubm52cmlMV19TaGx6bUdPNndEUE05ZG9DbGpPNkFBQzVGeXJfU0FDYzV6Vnl0VzRodGs5aTEtUTRnTHNvQ2dJRlZ3bkRuZU1tNi1TczcxbDBTU0tadHZUaGtNaWZ4RW9LbUlNa1hoeDB2X0ZN?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-11-07T15:44:00.000Z",
-      "categorias": [
         "Partidos"
       ],
       "tambienEn": []
@@ -855,19 +859,14 @@
       "tambienEn": []
     },
     {
-      "titulo": "América golea 7-0 al Atlético de San Luis Femenil en el Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMThvWlk4dlV5bjlqWlBXd1hsT2RmRl9WR1RleVF5V1F4MXJ3NU5ObkEtbFB2M09TU3Q0Zm5VU2lqSnd5RTNMNzB1YXZWcjFkaWo4cEtpQjc1TFRxZFdQWEptdlZOR1QtSUJiNGlmVHZwb3dMMEh3WW81WEJDclJBMlJXV0NkMGJsMi1GZmUzeF8zUDN4cnNuRFVwZU84S2tFVk9ONTEta3RmT3dIZlFadHlhcGNRQVJSTnprMEZn?oc=5",
-      "fuente": "El Sol de México",
+      "titulo": "¡Nadie las para! Geyse marca hat-trick y América Femenil aplasta a San Luis en su casa",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORm1KV2dCNVRucHJ3RHlyZV8yeHZsUHNWSlRzc0F0TUtuTEFtV1hDVWdIM3l3cGhSNXJOZXljOXZsbWVXVFZ5cDU1Mk1Zb3lvY1hCSkphbEtzNzdvdVFMYUN6aUlRUUdxY0E3NkVSODV2QURjUmVhUU5Db2NnTHJaeTNEZEhwbUJBaTJQMkdJbXo2Rnc0ZEh2S3RpZ3M5Q0pFYmlWUi00RlZZSERkVFZlb0dQejk5RGg0ODZuVFA4V1BkQTB5Nzgw0gHHAUFVX3lxTE1aN0s4SF9KNzJpN3JfbVZWNldyNVFwR0JreGM1NndEVjI3NHNkWjRuV2NVT09DZGZEYlJfMElSSS1RSDJBZ2N3QWJSeXVSa0NzQ2hPaDNTdzhRbXFwN1d6YUNLMUZGQVJPeUhsdjJaM0t6eTdvNGw5VDlIQ3ljVVJwVHlQTXNuT2ppSXNjOUJHMlVNZGZJakt6b0MwYjJ2aDhxOXZqM211OU10MjNXaDZjWHdaZGVuV1U5QVJCSEpkVE45MkhSaTQ?oc=5",
+      "fuente": "Mediotiempo",
       "fechaISO": "2026-10-24T07:00:00.000Z",
       "categorias": [
-        "Femenil",
-        "Partidos"
+        "Femenil"
       ],
-      "tambienEn": [
-        "La Jornada",
-        "TV Azteca",
-        "El Universal San Luis Potosí"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlante pierde contra Atlético San Luis y Piojo Herrera muestra molestia por penal fallido",
@@ -889,7 +888,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Récord",
         "Reporte Indigo",
         "TUDN",
         "Mediotiempo"
@@ -1140,7 +1138,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 30,
+  "totalFuentes": 31,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

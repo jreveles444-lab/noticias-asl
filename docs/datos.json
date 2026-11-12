@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-12T01:18:20.530Z",
+  "generadoISO": "2026-11-12T02:18:28.281Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -360,7 +360,8 @@
         "TV Azteca",
         "El Sol de México",
         "El Universal San Luis Potosí",
-        "Mediotiempo"
+        "Debate",
+        "Momento | San Luis Potosi"
       ]
     },
     {
@@ -434,6 +435,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Atlético de San Luis tratará de cerrar dignamente el torneo",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXVwbXJmdXpEQko5TzBVYnFncHVnRlE1YTRTdGNXRWlZenYydjNBeW9RRUJ0MUxzNV9XU00wT2psanhqUXcyLTRFaVkxdzR4b2tnMGFMRDFvcWx5Nmp5bkd6Q0wyYmpWaW1sd1RDS1JuUnlJZzQxWWhHMDNjRTJnZGJsNWFfb0IzNGVQUmRPQzlRRTYzUDJBbjJwTWhLNjQ?oc=5",
+      "fuente": "Potosinoticias.com",
+      "fechaISO": "2026-11-10T19:30:37.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Club Puebla buscará la victoria ante San Luis 'por orgullo', revela Gerardo Espinoza",
       "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDZNUlJMcVNYdV9NNG1IbUEta1ZEM21mdGo4OFhDa2FUek9qOXhrVHZETlFwV1p3UG1MVHQ4UjFfbzBib0t5QXc3ckswTl9vRXlvOXk3Qm4xWVlDVllNOEM0VFlhcDVKOEY2c2JkQkgzbmR3VW9RSFlUTlJKTHJkZGxwSkp5ZFAwWjJLcnJrem7SAZABQVVfeXFMTThPZzVYbGNRNm9ZVmR1OW1KalpvYVhZM0pkdjVBT0tYQ29vUm4tQWtKWVJnSlFtejVxSEZseEtsRmVkd0VNTnhtbHdRLVRvLW0wb09zR3UxejJKMXFPNFVlTTN6TFpQVFhlVkZxZzh2N3lDM1Q5NnAxbS04QXo0WnJsbGlsT180T0VMUnhFWnNL?oc=5",
       "fuente": "Milenio",
@@ -458,16 +469,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZmozQ01BeDgzUjVfVm5ONy1jM3pUcGJ4THdmV0JFT2VHSHFQVHRKTVdzVDh1OVVuUHFmd3VhbGE5bHlWOVJWb3lSczJ3VGFVeTNJYTZVX25NZUFVM0NPLVhvRm12a2NXeUhLVk9pVUdKV2llSGJ6dFViYjV1ZVhqcWlzdnZucVp0RVBONXBVamYyVHc4RUxrNXo2NDNCUkNPbGtSeTV6OWJoMnVxUU8zLU1iaGdTY1FKT1kxdVI3Wk1idk5wZUV6ME1WSHlhZw?oc=5",
       "fuente": "El Heraldo de San Luis Potosí.",
       "fechaISO": "2026-11-09T04:56:35.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Empresarios potosinos, aliados del cambio en SLP",
-      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yc0ZCaHRSY3hRNHJzT3o2MG9jSHU5NXlLLV9VaGhzYWs1ZWw4Tk1qQVpCTFk4UWxxSzJaMHdPa0JTX2tHME5KVnJzWGtkOWpoZ3I3Wklxck1mcm45bjhyMVFMMmQ0YU9hakxjWEUzalphWXRwVGhKNjdya2w3NEk?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-11-08T23:01:53.000Z",
       "categorias": [
         "General"
       ],
@@ -568,8 +569,8 @@
         "El Heraldo de San Luis Potosí.",
         "Yahoo",
         "Plano Informativo",
-        "El Universal",
-        "Récord"
+        "Récord",
+        "El Universal"
       ]
     },
     {
@@ -605,6 +606,16 @@
         "TUDN",
         "TUDN"
       ]
+    },
+    {
+      "titulo": "Estupiñan y el FC Juárez prácticamente apagan las esperanzas de Liguilla del San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXhpNlhKVkdEV2QwYzQyRGY2RnNBeUE3a1M1QVFlc0xBRlNrYUxRaUUyb1l3MlAwXzNVTnZUMWhjMUs4TmY3bE1nV3N1LWFkbkY3ME9KaEU5RG94Zi1MNk00U3lTcDdlU1pLdjhObHJXWXpIdUNLcWdrYUstQ0NzX3hZZnVmbVVHVmo4TXZGMGhudFNNRjdzVGJ5YVJrLS1WbzluRUhTZ08wMFhUbnR0OGc3eldaazlkWUhnX0hTaTBxZThYWW1ncUtyNjJMWnFqakFSTFdNRTl4U3hIYU9XVURqSE9CZw?oc=5",
+      "fuente": "Claro Sports",
+      "fechaISO": "2026-11-07T03:16:23.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "Pumas venció 3-1 a San Luis para avanzar a Liguilla; las potosinas, eliminadas",
@@ -682,7 +693,8 @@
         "Récord",
         "El Heraldo de México",
         "Récord",
-        "MARCA"
+        "MARCA",
+        "Telemundo"
       ]
     },
     {
@@ -796,7 +808,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "SDPnoticias.com",
         "El Universal"
       ]
     },
@@ -986,7 +997,9 @@
       "categorias": [
         "Femenil"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Atlético San Luis"
+      ]
     },
     {
       "titulo": "¡Vive una experiencia de alto rendimiento con Atlético de San Luis!",
@@ -1005,16 +1018,6 @@
       "fechaISO": "2026-10-08T07:00:00.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis vence 1-0 al Querétaro y extiende racha sin perder en la Liga Femenil",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGJXNDNrS09ucWY3Uk9Rckp6QkhTM3FCV3N1Z2J5eXpjTGROOTFQMlU1aTFneW9BWmdpZXQtdkpaN3I0dDRXY2daYnJZb1hnYVJNeDhsOXVQWFp5U2dWamJPRUVQRG5JeXlHUkt4c2VJSzVGUWhpYWQ4MVo5TmNtSHJkSE9LcDVwVVIwdXFWSzhHUHM1aGM4TzJSNUlCM2RlRjV5WDhRdFlVbjdaRzNmdXlSYkFGV0hSOVh6WGlWV2JKaEs5OS1OZ0NQNzFlY1QwSmgycm1MWnprbWRf?oc=5",
-      "fuente": "La Jornada",
-      "fechaISO": "2026-10-03T07:00:00.000Z",
-      "categorias": [
-        "Femenil"
       ],
       "tambienEn": []
     }
@@ -1080,6 +1083,14 @@
   "comunidadTitulo": "Escuela y comunidad",
   "videos": [
     {
+      "id": "6elvhAmUX18",
+      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
+      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
+      "publicadoISO": "2026-11-12T01:20:48.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
       "id": "ibb-gHsYxgU",
       "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
       "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
@@ -1110,14 +1121,6 @@
       "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
       "publicadoISO": "2026-11-07T13:01:00.000Z",
       "categoria": "Entrenamiento"
-    },
-    {
-      "id": "A96M_eTLwWY",
-      "titulo": "ATLÉTICO DE SAN LUIS VS JUÁREZ | SUB21 | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=A96M_eTLwWY",
-      "miniatura": "https://i.ytimg.com/vi/A96M_eTLwWY/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T04:10:28.000Z",
-      "categoria": "Del club"
     }
   ],
   "redes": [
@@ -1138,7 +1141,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 31,
+  "totalFuentes": 30,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-12T18:20:24.432Z",
+  "generadoISO": "2026-11-12T19:20:31.905Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "El Niño Torres rechazó al San Luis por el Atleti y su filial ya está a un punto del descenso",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSEM5UUVpb1dnM2paUnFUSXl4QUxMeUtXeVBMUk1LTEJIQk8wVloxeXhhb1ZqVFp5cjR0QU9ORDJkT0cyV1pyQ0tfdTFDdVRMZ0JFWXg5akVNYlRLY2RQaC1jSHZJU0lzOVVmSUVpUFZIQmpEaER3UDBDdWJpZENGXzFtaVpxVnRNRUstUjF2NWxubFRHY21hY1NEeTQ4amZYYTRHRXBQLXVBZGVxSkJJZWpYQUFtNE5xbVNOeHdic3VKbXZTN0dlcUJkOTFvdTA0N1hfckl2eTBNeC1w?oc=5",
+      "fuente": "El Futbolero México",
+      "fechaISO": "2026-11-12T18:23:59.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "¡Desde 50 pesos! Club Puebla baja costos de boletos para partido ante San Luis en cierre de Apertura 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWluUkFfQ1JELVdVS2JKMDgxb3V0RkpsUW5Ka01NUlVqc3ZRdTltM1A0RGo0c09ZOXIxc2RXTGgwaUlkakhHWTI2ZzFYVDlnYjBCbTdnYURNM3dNd3JlWUZka3VBUW5sd0phOG93YjFneHpkaHBDSkZNRDFralJoX2tUTjRueDdsVEFjQ0VMbnp4MW1Lc3g1ZHNEM3ExVDctOHRLWUw4Y3BXUdIBqgFBVV95cUxNQjZhWGhraDFBNWpYemduUHl4T1ExS0xENklTRW16UWNCQWZ1Q2xhREZwdWNKOXhtSXJycHRHaHJ2aEdxel9BNldsRlJubW5TZGRZOXExN3hzT29WeWZ5RUM0dVF2MUFIOHBXQzNURXhxbV9qaDctMjg5bFBsbHpTeWdMSnNRVWUzeHB6UUdwY1A0QlZMd1NrVVdoekhpb3FJTzk2WTJwQlpUdw?oc=5",
       "fuente": "MILENIO",
@@ -355,6 +365,19 @@
       "tambienEn": []
     },
     {
+      "titulo": "A un paso de México: la razón por la que Fernando “Niño” Torres rechazó dirigir al Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd25HdHNqSGpEeVZ6NWRFcEFyOHpsSFZzWDhkN25hc2YwUE83bTNRX2lRRnY1T2hwUTRNYzBwaWRHdWtiMDc2TUlwYmNhVXdQcU80WkZLYzZOVGhfbWEwUTRXdnZvVmF6UTAtazUza0FEdVlWd2lxYzFycEUtSHpfYXhBNkdHUFdnMzV0TjNiWWJ4Rk5rS1o2c2dBd0JkQ0phbDJCR282RGhxRW1PZHBERno0TVhydHNGU053OHpJN2c3bUE3NTBnNnpGLWNQSF8tREtnLUFEa1QxZXJjWWlfTHk5Qy1TS2PSAYICQVVfeXFMT1BaVFExenFWSTJfTjZ0ZjFMVGhsUWR3amxUSEl5MTZ4N3NidTN5aldNNU8wRmstQnh0ZE9hRkMxeFNBYkdMZVRRLXdFdktfYVZMZ2ctcnMzOGo3SElHUTV0dF9hTnBGOTBVRHZ2YVdBSjRfQW84VEwtX1dIMmxXZWhHbW1nN0sybmZoTHZvNHFteXpJOVJ3cGEwZEhycUJhR19rOXktUWZQMlo4cVlaQnhkcFFKMHR6MXVjbW51N3dvaWJiYk01VGZ2RU5FcXplYl9nT18xU24xV2hKb2JYNXZ2Qzhoa0dDcWF1RVhueU94VVRfYkNKRmloOUhFOF9VcTF3?oc=5",
+      "fuente": "Infobae",
+      "fechaISO": "2026-11-12T16:36:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Potosinoticias.com",
+        "Soy Futbol"
+      ]
+    },
+    {
       "titulo": "¿Fernando Torres al Atlético de San Luis?",
       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPajdPZFp6UkI2bGVyTkxseGxXNDlwZl84blJsalFzaTRveEpwbkNESm5KbTlCd0RJMUFDTlRiVTg3LUdnUFVCWUxLTFV1S2FwV1FYNDQ1cVZCMG5zUGs4eTlOUGdEZ0Yzbm5vZ19aaXBEcGxzcWFTUWEwdzlOTGd0eExJcmh4dWU2Ym9CbTBfVGVBa0JUU2phQmg0QXdEVUNfZU1WUDJn?oc=5",
       "fuente": "Futbol Total",
@@ -362,23 +385,7 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": [
-        "Transfermarkt",
-        "MLS Español"
-      ]
-    },
-    {
-      "titulo": "Fernando Torres rechazó dirigir al Atlético de San Luis en la Liga MX: ¿por qué no aceptó?",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUGEtbjctNXlrTDk1ZzRkbXFDeGdIZE0yemFLYWdwd2NtbExKU19sZlJiN21DTzBDS3JCdTVockZtLWpHeDZ5Nlc1U21FSUJQcUkzVXEtbFpLa0hiVGJoa1IwdkdRa0pmUzFXd1FneDZUQ0ZoWnM4dURPWTBHSjQ3RnJMQ1hRYl9naE5hV1JIcm9kYnJWOUt3ZWxGX2FGWGxQZXdsd1Y3XzIyeGpLYjBzT1ZjRjRrazVPRHFxVXZsWmlNSWNBUjRPM3RBVUprV20tcVo3bDAwN28?oc=5",
-      "fuente": "Soy Futbol",
-      "fechaISO": "2026-11-12T15:46:25.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "Infobae",
-        "Potosinoticias.com"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Puebla, San Luis y Santos quedaron lejos de los primeros 10 puestos: así terminó la parte baja de la Liga MX, ¿quién decepcionó más?",
@@ -431,16 +438,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "SE VIENE FECHA FIFA y NATION LEAGUE ¿SE MERECÍA UNA OPORTUNIDAD DAVID RODRÍGUEZ?",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1J4SmkzME5LQ2xSTlI0azZPRE9RdHFkWE80S3hvb1RuaGFGcUI5eEllUjZHWFlVX1BlT3VqWmhUeDV4cXA3c2xRU19VZFZ3U2xMRmhnZmxia3VDaHpqcE1qdXh6VW0xeXQyLTFGMmJyWFl4UjF6d3FocjVKdExYZ2w1OWNvM1BUckZYUmd0c19ZQ3BXMjdpSVBqak1Bd1NKUldobWZDcTZaRVFtX2NJ?oc=5",
-      "fuente": "Momento | San Luis Potosi",
-      "fechaISO": "2026-11-11T15:44:35.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético de San Luis Femenil se despide del Apertura 2026 sin lograr llegar a la Liguilla",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON3lyVnFtWHlobG5Eb0FZRzJhaEZQRFFQRm1LNC1tUWg0Vm13ZDY0N2V0OWtxWWQzTHNBNm5qTlVrdWYzQ0V2RXFWYWwtWjFZSE1EYVZ6QWd5d0VrUjhXN0hzS0xZRWw0UEN1NkhrYWlnRDY2OTNpSEJuUU9Pa1VZYV9rd3lUOVJpeDV3V2ZKLW9Ebmk3SEs0OG5WQVZiUnBQeEE3cFdIUXduY0VhaXh2MVdKSUZxZEtpeWR4ZlowVUlRRHlkbFhSUE5UWnUzTTFhWlE?oc=5",
       "fuente": "El Universal San Luis Potosí",
@@ -457,6 +454,16 @@
       "fechaISO": "2026-11-10T19:30:37.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Club Puebla buscará la victoria ante San Luis 'por orgullo', revela Gerardo Espinoza",
+      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDZNUlJMcVNYdV9NNG1IbUEta1ZEM21mdGo4OFhDa2FUek9qOXhrVHZETlFwV1p3UG1MVHQ4UjFfbzBib0t5QXc3ckswTl9vRXlvOXk3Qm4xWVlDVllNOEM0VFlhcDVKOEY2c2JkQkgzbmR3VW9RSFlUTlJKTHJkZGxwSkp5ZFAwWjJLcnJrem7SAZABQVVfeXFMTThPZzVYbGNRNm9ZVmR1OW1KalpvYVhZM0pkdjVBT0tYQ29vUm4tQWtKWVJnSlFtejVxSEZseEtsRmVkd0VNTnhtbHdRLVRvLW0wb09zR3UxejJKMXFPNFVlTTN6TFpQVFhlVkZxZzh2N3lDM1Q5NnAxbS04QXo0WnJsbGlsT180T0VMUnhFWnNL?oc=5",
+      "fuente": "Milenio",
+      "fechaISO": "2026-11-09T19:19:59.000Z",
+      "categorias": [
+        "Partidos"
       ],
       "tambienEn": []
     },
@@ -498,16 +505,6 @@
       "tambienEn": [
         "El Sol de México"
       ]
-    },
-    {
-      "titulo": "A San Luis le faltó experiencia y se desmoronó al final de la Liga Femenil",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUW9ILW5zSVJmVWR4dnQ3aVFHV0FmRzJSUGx3aVlSTUprUUI5enE3cUdpYXd2ay1PZHV4MldHbGg0WTA2VGoyLTVjZTc3UDJNSzFDSmY0NW56a1g0WTZVV1BjRzloaEtXQnlFN1FGck85dmhLUjB0dW1Ra0NCZkRuS1JfcXVXa2w2aFQxNS1IT1lMNzNUSUZHamR0ck1TNWlnNGhkYUVmTUhFWUtzODFHb0dEcUV4N3BGN3M3bm9aU3A1TEFuRVZzQ3gyVmhMZDZLbHVR?oc=5",
-      "fuente": "OnceDiario",
-      "fechaISO": "2026-11-08T19:06:28.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Pumas sella su pase a Liguilla ante San Luis",
@@ -629,16 +626,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Pumas venció 3-1 a San Luis para avanzar a Liguilla; las potosinas, eliminadas",
-      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmViUUM0ZUh2TUxteVg3c1ZLZ3FMZFR0SlF1SU10aEdSZHQzOUNoRFdTWjhOMnVYUFRHWWtPVm9KTERWYWV5Y0JVRzFXUTFXZVZBa2FnV1F1OGtDTU9sRUlnMzlYUlhaWE5RNE1qSEV0OHlnb1k0ZDdzWUllcExOQzdOLTVGNW1kSVM2SUJwZ2VLOXJkNHQxSEZBWHZVRG1uRDFZQ1BObFM5R2ZmU1RkYm1uTzN5THBmVmZfNjlXdDZldGpzQ2J0Yg?oc=5",
-      "fuente": "OnceDiario",
-      "fechaISO": "2026-11-07T02:39:41.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "San Luis perdió con el sotanero Bravos en casa y quedó eliminado",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTNKdF9vdEtyY244TFA5bGRkYS1BbnkyQnVQUDUydUhUM3lMV1kwLWFQWG5BbmppXy01T194ODdhNWNSLWxoMTFlM2lpR05zN3pNWHlRVDNOd0xSbUktZ1g3aVQ4NXZLa0JiTEdlZkRWcm80Uk85RWM4U21lMGVRX3ZfVV9GVTJYVTl6NEVaZjBDSHViZ3JzbHBoUXZWNlkxXzVrMlJWNERVcDlWX0w1TA?oc=5",
       "fuente": "Ovaciones",
@@ -717,21 +704,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¿Dónde ver San Luis vs. Juárez HOY? horario, canal de TV, alineaciones y pronóstico de la J16 Liga MX Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQUlUZlgxbjlsYTBhREJvNHpXa28zUE51QWJZc2MybmgtckYxcXlYa3JYb0d5LWcyMjJQY1RQWFJQM0hkR2VCQi1zWDFidG5sWkF6RllNWk9Fc3ZQYXZubzRLYkRlbW5UWjJaUlNYYk5pRmZvR3l5eTM5clh4c1ZrOTdlRUVEbEdieUpIYTdINjJWU1NWYkFsZV9Ua2JDY0x3ck4yb1FqZllla2xCOHgxZElCRE1uWDJuWjNEcGplOEpoWmtBdS1oWTZPRy1SZmhDWUUwbw?oc=5",
-      "fuente": "Reporte Indigo",
-      "fechaISO": "2026-11-06T19:53:52.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "TUDN",
-        "TUDN",
-        "Récord"
-      ]
-    },
-    {
       "titulo": "Atlético de San Luis, Pumas y Pachuca disputan los últimos dos boletos a liguilla de Liga Femenil",
       "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSU05R3ZBYTRyRjdtUXVuaDdTOGtnb29GZ01nQkNCZDMxMGlUSGNMLUpOYVVCRkhabEFhcXRRYk1sb1phOVc2em5pazFGdllFQXNVajR0b1NKUHZIQ3NCU1pGSlYtTHAyRk5SdkZXdjdQVUJMbkxVV00tSVZSTUxhVGJIcWI5SWhqdldPd0xoeXFEZ2FUcVNYUnhRTEY3bW41c05mUEVQZ0dNUXZLTktYUjRaNFVTY1JNaVhaTEpKRdIBxAFBVV95cUxNSUlWUF9pWU5YcWhkUm8tOGdmR2RPME9XUHc2R0hnNVRzTDFWTGRyaFJCTEV3Y2lUVzI4a2R4RjJyZDRMS1BoTjhBellhMnpoM255cUJTNEVBSWx0Vi1wYTZQa1ZfWDJlS1YtaWFqRW5rSXhUaEtyVlgwOENUWm1WSnFrNzRmUUlrUTNNdHRJN2V4Wkh6N3ZUSjdiSHV4QWZJSkFNZENUdFVNd3FaWlZ6M0MxWHp0cmZqaU53N2lzUGdjY1FJ?oc=5",
       "fuente": "Excélsior",
@@ -776,6 +748,7 @@
       "tambienEn": [
         "Bolavip México",
         "TV Azteca",
+        "Récord",
         "Telediario",
         "Récord",
         "Telemundo"
@@ -913,7 +886,8 @@
       "tambienEn": [
         "Récord",
         "Reporte Indigo",
-        "TUDN"
+        "TUDN",
+        "Mediotiempo"
       ]
     },
     {
@@ -967,7 +941,7 @@
       "tambienEn": [
         "ESPN Argentina",
         "ESPN México",
-        "ESPN Chile"
+        "ESPN Colombia"
       ]
     },
     {
@@ -1023,6 +997,29 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Femenil confirma su buen momento con triunfo en La Corregidora",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1I1TmM4eWRpNk51RzFHR0V6d3ozYWwwd2V5MFY3RVdRUHpsaGNOY01EU2ZKNzdMN3NEZVVMdU4zTXB4cHVZWUFZaGpicm50SkViTW1Od1JncXA2SEtwOFozNE43UXBSbFdMZFFfUU5uOXJ0Z2o3YzRQTE80VFhzc1h4ZWlpUE5TUnVaYzl3b1A2TjZPc0FYMlpvTmFVSm1VZ0hNWXlIUHRsRmJfOXF6dm9ZZkJBeTUwNDJadnFKTlZLTzh0bmZZNklHSl8tdjF0?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-10-03T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Calendario Mexican Liga BBVA MX Femenil 2026-27",
+      "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jWmtMRDA5X1h0ZHFpUTk4WFduZDM0eldYaVo0d1FsTE1CeUZzdEJQZVdrOC1MdmY2dzF3X3JJY0xIZGJQTFVvcTZOUXBHalo5SW9semZlS3NlYk92bEpLNXppeGY1NGlKalpFNGtfUHo0WDYzVEdIVXBqTHFXQQ?oc=5",
+      "fuente": "ESPN México",
+      "fechaISO": "2026-09-30T00:40:13.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "ESPN Deportes"
+      ]
     }
   ],
   "comunidad": [
@@ -1139,7 +1136,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 33,
+  "totalFuentes": 35,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

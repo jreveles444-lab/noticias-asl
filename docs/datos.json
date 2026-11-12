@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-12T08:19:13.160Z",
+  "generadoISO": "2026-11-12T09:19:20.272Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -409,7 +409,6 @@
         "Reforma",
         "Atlético San Luis",
         "El Sol de México",
-        "El Sol de México",
         "Atlético San Luis",
         "Atlético San Luis"
       ]
@@ -461,16 +460,6 @@
       "fechaISO": "2026-11-10T19:30:37.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Club Puebla buscará la victoria ante San Luis 'por orgullo', revela Gerardo Espinoza",
-      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRDZNUlJMcVNYdV9NNG1IbUEta1ZEM21mdGo4OFhDa2FUek9qOXhrVHZETlFwV1p3UG1MVHQ4UjFfbzBib0t5QXc3ckswTl9vRXlvOXk3Qm4xWVlDVllNOEM0VFlhcDVKOEY2c2JkQkgzbmR3VW9RSFlUTlJKTHJkZGxwSkp5ZFAwWjJLcnJrem7SAZABQVVfeXFMTThPZzVYbGNRNm9ZVmR1OW1KalpvYVhZM0pkdjVBT0tYQ29vUm4tQWtKWVJnSlFtejVxSEZseEtsRmVkd0VNTnhtbHdRLVRvLW0wb09zR3UxejJKMXFPNFVlTTN6TFpQVFhlVkZxZzh2N3lDM1Q5NnAxbS04QXo0WnJsbGlsT180T0VMUnhFWnNL?oc=5",
-      "fuente": "Milenio",
-      "fechaISO": "2026-11-09T19:19:59.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -670,6 +659,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "W Radio México",
         "Récord",
         "El Heraldo de México",
         "Récord",
@@ -738,8 +728,11 @@
         "Partidos"
       ],
       "tambienEn": [
+        "TV Azteca",
         "Récord",
-        "Récord"
+        "Telediario",
+        "Récord",
+        "Telemundo"
       ]
     },
     {
@@ -818,7 +811,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Chivas",
         "El Informador",
         "El Informador",
         "El Informador",
@@ -830,6 +822,16 @@
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2tqeUJSUlBlVk43T1ZWOXI3UWI5OHBBN0hKYkpNVnVQQUtLeEcwN3dlWlpDM0hTYml4d285Z2RtX3NhaEc5d3NNMGpqUXotb2szLXpQOWVIN2YzQzFFS21yRWp5dGl3R3BhSk5FY0h5dmkwME40RjRqR3R3cXB0WGJITERvVHFLd0ZfUlJ1ZFVjQjU5dnBqOXpMeHRLaVExZlIteEVySXdSTzFBR2ZHQmdiN1J1MHg1TFNhRTYtMTdacEEwUEEw0gHMAUFVX3lxTE9CbEp1SlVWUnJ1dEhHTUtBczNPRU5Mb1B4MVNVSnlFQ25MU04yTG95UldQaDgwcTJUQlFpLVNHMFpLR0dZWlRxcnB6d3p1RUFJWk1hcU10WVJ3VTJpRWJiVHM2TmdVcmNoRno0Rk54Ui1tQkFOb00yellJM1d3UkRXd2Q4SnVRbkZYejFUOTY4X0M2bm5YVWxNMkNfYThKSW9hdTNCaHl6YWI0RERzaDZ5Wjd5TGd6b3haWGVXdHhGOEFqa2dOaEhNalJVbg?oc=5",
       "fuente": "Bolavip México",
       "fechaISO": "2026-10-30T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¡Ya rueda el balón! Atlante vs Atlético de San Luis EN VIVO AQUÍ",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS3JEY2JqUWJ1ZHBCa29MQkFJeWtFMUhBa1Z2c1BNVjJNZUNsdzFGSG91ZTlDYkowMGZzNnJuT0dtbTJwbDRPTmpnbTA5MTJWQTlBTWR2QWlOUlNKQUFtekc5YWVUTWNFVk9xRmVpeDQ1Y1NrRFF4SzRUeERzcU9DMl90ZXluc0w4YWV0eHNzMzM4R01IWHZRNU5qVlF6YU0tRVl2bkM2SQ?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-24T07:00:00.000Z",
       "categorias": [
         "Partidos"
       ],
@@ -945,12 +947,13 @@
       ]
     },
     {
-      "titulo": "Atlético de San Luis Femenil defenderá su tercer lugar ante Juárez y América",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTnN0T2tDdzYya2wwampuUGEwWGtBVXFpMmNJUjgyZWRXRVRfZkJKZjlkdXJDc3BITzlFWHN5dmZTZkhmQjBEWVAxRTRVakpBaTRfOUV6MXNzTlMwRHotcWZYd25vY0NXVXBMaHJCaFczcUpOdmVmN0gyQ054bTNwTHJWb2RpRVBPNEtRU09CMHpVX19IVFMwclVQX19DV0VZQUh5SHZkcU5YM1hJeE9yNHBhMGcybGVHSUt6NEk0bklpVWtkNGUw?oc=5",
+      "titulo": "Atlético de San Luis Femenil, en busca una nueva victoria ante las Bravas de Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUTJuSWhXUmtRc2VrRDNDOWgyN0NIQ3Job3UtTWZzZmtRTzlmZmllckx3WUZiaHhER1VsNk5PeDJrTHB1dllhZFdoYmphRHRSZTY1U090OEFDbG5GN2JuSnRwZVhFU204SnRwSGRpM0hSd19JenREZUp3ZWtZUGhteWw1Vks2eEU2MjZ5QXJPTWxtcDR5Vkk3MkJycnVXbTVoQ1B2UmxrM2JoTU5IOHpBc0gyZGMtYzN3amMzOVZqQVBIaVhyTlloQm1hcGF0LVU?oc=5",
       "fuente": "El Sol de México",
-      "fechaISO": "2026-10-14T07:00:00.000Z",
+      "fechaISO": "2026-10-17T07:00:00.000Z",
       "categorias": [
-        "Femenil"
+        "Femenil",
+        "Partidos"
       ],
       "tambienEn": [
         "Atlético San Luis"
@@ -1008,14 +1011,17 @@
       "tambienEn": []
     },
     {
-      "titulo": "Pumas enfrentará al Atlético de San Luis con cuatro bajas por fecha FIFA",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmtqcWRuNXJ3M1FUZGZCLXowMjd4VFRxVkU4UUUzTllhMnBuaHBTUzY5ZUtzemxuMGVJajMxNkJnY3ZFQ2RTd2NMVnJrZHNXY2Y2cjMwVHhTb1Rpdk15eWtzb2dybkotQi02T3M5VGZGeUYxSDVqYUlpSEhYcUh5U01yMmhNYWkwQlRoem9xbllJZXNYenZVREFLaXVrZ0tqckNVUXB1Y9IBrAFBVV95cUxOYzlCZE1tcThjNmNSTjdEYUsyQWJtV1hnOFRTQ2VLb2RuSm4xR0NZaEFvc1EtZ0NkZGRla3owT0hwdHdzbjFGX2gzNUZOMnMzSlY2MW41eW5SWHdTRkJLWGZ4QXZPUGkwM29KSHA2eGNUTFNzSEdDTDdiTVl6eVBNV2l5M0E1LXZXNVNIbzY1NnVCVWxfb2FWN29oSW95UlIxZFlPRUJBMkJ0eVc5?oc=5",
-      "fuente": "Excélsior",
-      "fechaISO": "2026-09-24T07:00:00.000Z",
+      "titulo": "Pumas vs. Atlético San Luis. Resumen y resultado del partido de la J10 Liga MX 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDJxT1hVRXFjWmthalByMloxOFY4NW1wakVaQWplRXA0WUIzdGU4REVDRS1BOVFhMGZ3LVBCeW1UbThmTC1nOEVzSlNESXc1LUFIcC0tRzVkODdkTWEzb3B6VF96MWFDVFBTRXdpUngySlFHOFRobFVrb0xFNGxuR2d1RWR3XzFzTzRXWFU1OVZOenZ2UUVMQWFvaFRQNDRZOVBQU2NXb3hRczZlNGtGajlmMzJYMkpkZXp4N0RmNjRISFVFSTlKdnh30gHKAUFVX3lxTE5nS012WEN4UnJFbFFiWGpXSHZIam96bVUtTFZGUHNYdkFuX3k0UGRaWWxjelFqZlA1N1pteWhrRjlLMlBIbk1JXzEzVm16QTk4ZGxMMHo1M3M4Vlo3NUZ3b0pNSTFncnBCblNzSXNoYUVTSUk4aU1EMlpYOWltX0xuT0hNTW52LVpCYTBSQk9obHRCdndEQlFxbmo0eE9KaVFQcmZQUnI0MnZkTm5rcmhoTG1vWTF6RlVQTV82Yjc5VzV3b3JlTVFKY1E?oc=5",
+      "fuente": "Mediotiempo",
+      "fechaISO": "2026-09-27T14:22:44.000Z",
       "categorias": [
-        "General"
+        "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Milenio",
+        "TUDN"
+      ]
     }
   ],
   "comunidad": [

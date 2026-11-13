@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-13T15:22:56.774Z",
+  "generadoISO": "2026-11-13T16:23:06.138Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -470,6 +470,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "La Novena Gala de Atletismo rendirá homenaje a los 69 años del Estadio “Plan de San Luis”",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTV4elJfWWJmZUdiN05HZHhWaFJfN1o0M0Z2eFJhOXR3VmJVY1cyM3gyVWV2c2dCbzRCMVNsV19IYjU3dlluU2dzcU1XQTJmVkViV2lMa3gtX0I3VC1fQnNZWG9mVE9wNW1SZmJIMGY0MFhjTmtGZ0JYRGV5OTJMOXU4dzlkSThMWGxaTmhBU1lJOUVvOWRGM1RGRUJsYzh4WFd0NQ?oc=5",
+      "fuente": "Potosinoticias.com",
+      "fechaISO": "2026-11-11T22:24:21.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "¿Qué sostiene la confianza empresarial en San Luis Potosí?",
       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVHItUjM1alJYX214bEhKUXlFeFVBZ1hqeGxCNENjRjU5cDctcWhMMDJhZG0yZGEzSTVRTk51Z2Njd2lveHRXOEJKNWg4eWtxMENCeHhuV1ZaLUIyN2tyWlUzeW5VTllzTnFqUHh1TnZzcTloS1RtLUpaREpwaUpuLTdmSDZjV2VObFRWcg?oc=5",
       "fuente": "Líder Empresarial",
@@ -490,16 +500,6 @@
       "tambienEn": [
         "El Sol de México"
       ]
-    },
-    {
-      "titulo": "“Metete con los hombres” Futbolistas se encaran al terminar el Juárez vs Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWlsUlNSV3IwTjdPVUxtX21OckdmWi00QV9iTEwzWDZvUmdzYUJiSVY5dTZSTU81Y2JjS3E0QkNGMXB4dm5ydkw3MzZ5WTlUVDZrTXpfWktMTGtJT2lTREhRTkp3YzBJajV4bnpKMGFuNGxEOXZTeDZjNjE2SGlpSWU1bHZWdkdEb29WM2htU0w2dC1ndmtWWFJZczJlbHlwc3I2ZGZFdTB6azhQY0NGVDVrRXF4ckh4MXRDUkltalh0QnRQRmhzYmdQUFk?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-11-08T01:40:26.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "“Métete con los hombres”: Galdames y Fulgencio se retan a golpes post San Luis vs Juárez",
@@ -957,7 +957,9 @@
         "Partidos",
         "Escuela"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "OnceDiario"
+      ]
     },
     {
       "titulo": "Atlético de San Luis vence a Pachuca y se consolida en la parte alta de la tabla de la Liga Femenil",
@@ -968,20 +970,6 @@
         "Femenil"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Fuerzas Básicas del Atlético de San Luis también sufren derrotas",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlBkRkY4aUlSNlN4a0FUT0hiUV9KbVJ5bjVHemM4N3YzSHJIWUtzZ0ZVOTZ2SmoyM0pEbEd3TF96eEljNjZkWWlXbzJVX0JkOGYxaHVYVmkxS3JzWWMtVzFWNEhEeVVVaV83dHBrNHo2dzF4dzFzYm1IVVdrU1ZhaEViYmVJd2RiYVBMZlJFZ3h5Uzh6NnAxcEZ4Qk5BRTFfZlM2U2I4Rjd6X0NvTG1YMWFsODFVZmc?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-09-08T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "OnceDiario",
-        "OnceDiario"
-      ]
     },
     {
       "titulo": "Atlético de San Luis vs Chivas: Resultado del partido de Jornada 7 de Liga MX 2026",
@@ -1018,6 +1006,16 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¿Cómo ver el Atlético San Luis vs Chivas en TV y streaming?",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjVqMFJCS05PdnJfNURYZGZaaVItT044alpuSW10dmE2dWt3TVZPMU1PaDdTNXA1OGZGXzB2emZfUkIzUkN6dXVjRjB6MDh0Y3lVZmx0dkJxbTJsLXdBOXpiaVI5Qm4tQkluRnQxQkx0ZUZyRTUyNlYwbHAzLVVaZVVuOEFHMFpEOXBhMk9HNFFzRzA?oc=5",
+      "fuente": "Sports Illustrated",
+      "fechaISO": "2026-09-05T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1041,7 +1039,9 @@
         "Partidos",
         "Escuela"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "OnceDiario"
+      ]
     },
     {
       "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
@@ -1131,7 +1131,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 34,
+  "totalFuentes": 36,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

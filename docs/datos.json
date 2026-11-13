@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-13T06:22:00.227Z",
+  "generadoISO": "2026-11-13T07:21:58.968Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -400,9 +400,11 @@
       "fuente": "MILENIO",
       "fechaISO": "2026-11-12T17:29:00.000Z",
       "categorias": [
-        "General"
+        "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Grada Puebla"
+      ]
     },
     {
       "titulo": "¿Fernando Torres al Atlético de San Luis?",
@@ -466,7 +468,7 @@
       "fuente": "El Universal San Luis Potosí",
       "fechaISO": "2026-11-12T00:23:35.000Z",
       "categorias": [
-        "Femenil"
+        "General"
       ],
       "tambienEn": []
     },
@@ -871,7 +873,7 @@
       "tambienEn": [
         "ESPN Argentina",
         "ESPN México",
-        "ESPN Chile"
+        "ESPN Guatemala"
       ]
     },
     {
@@ -958,7 +960,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "ESPN Deportes"
+        "ESPN Deportes",
+        "ESPN Argentina"
       ]
     },
     {
@@ -971,21 +974,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Pumas vs. Atlético San Luis. Resumen y resultado del partido de la J10 Liga MX 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDJxT1hVRXFjWmthalByMloxOFY4NW1wakVaQWplRXA0WUIzdGU4REVDRS1BOVFhMGZ3LVBCeW1UbThmTC1nOEVzSlNESXc1LUFIcC0tRzVkODdkTWEzb3B6VF96MWFDVFBTRXdpUngySlFHOFRobFVrb0xFNGxuR2d1RWR3XzFzTzRXWFU1OVZOenZ2UUVMQWFvaFRQNDRZOVBQU2NXb3hRczZlNGtGajlmMzJYMkpkZXp4N0RmNjRISFVFSTlKdnh30gHKAUFVX3lxTE5nS012WEN4UnJFbFFiWGpXSHZIam96bVUtTFZGUHNYdkFuX3k0UGRaWWxjelFqZlA1N1pteWhrRjlLMlBIbk1JXzEzVm16QTk4ZGxMMHo1M3M4Vlo3NUZ3b0pNSTFncnBCblNzSXNoYUVTSUk4aU1EMlpYOWltX0xuT0hNTW52LVpCYTBSQk9obHRCdndEQlFxbmo0eE9KaVFQcmZQUnI0MnZkTm5rcmhoTG1vWTF6RlVQTV82Yjc5VzV3b3JlTVFKY1E?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-09-27T14:22:44.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Milenio",
-        "Milenio",
-        "MILENIO",
-        "TUDN"
-      ]
     },
     {
       "titulo": "Pumas enfrentará al Atlético de San Luis con cuatro bajas por fecha FIFA",
@@ -1018,6 +1006,20 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "León vs. Atlético San Luis. Resumen y resultado del partido de la J8 Liga MX ONLINE 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNenlmeWVaU2ZlOEdJVE9JWjBOMnRTVnJUSHk0VV8zajlSTFVOUnZtdC1tUks5S0VpMC1uNDZIZl9qMEJ0Ym1WdTVyRDIzNDkzYUlmMnVqQTUwOERwbDFoSV9maDFjZmVwdm94cGR0cW5BZVhnWmtLOGtaRmxYbnA4SUhnRk9qY2xfQXFXVmpIWjBQWlpCYWE1cEZnWUxCQnA5NlUtQUt6Y1RtUVFKcUo4NzZxWjREd25MRWU3atIBvAFBVV95cUxNbmVlWlMzenFHMF91N3RYX3ljblcwMGEycXV2SXlMdFRLbW9zc01NaXR1QWRqd3hvUi03MW5rMU1QN1l2ZUlIRXctZGJtWXlHalR5S21TMW5FYVlQNkpkNWgxVUk5NEdwSU14ZzBLQzFxSk5pU2l2Z3g1T0JhQzlyMl96UXJwYi1KSlRTd1puS1pDVGZYWHdPQU91d0x0RERxTWZzMVh4RW1GMHY4X3VTRGdXRnlsTlNlQ1F0eA?oc=5",
+      "fuente": "Mediotiempo",
+      "fechaISO": "2026-09-14T14:09:01.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Milenio",
+        "MILENIO",
+        "TUDN"
+      ]
     }
   ],
   "comunidad": [

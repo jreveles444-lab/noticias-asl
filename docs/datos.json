@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-13T13:22:41.717Z",
+  "generadoISO": "2026-11-13T14:22:49.285Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -466,16 +466,6 @@
       "fechaISO": "2026-11-12T12:00:00.000Z",
       "categorias": [
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis, presente en el Congreso BNI Reconnect 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXB0TFkyOFVudFNZWDQ1elZ4R3BkTFdwQjB6a3ZSUUxYTTJLbEhteHhrNEY4aG1fLUNCMnpERlpFajg2MXJDS3kwRUcxVS1WdzJuc0pFaFFUdXdSanBPQ2swc2pSVzVzaGdxN2tvc1oxUHdsejZTV3FHX2JxYWFUWG8yWGFxblY5Q0VZeFBBOXpLUjREdTJGZ2lqcFJ4dUMyUnRVSg?oc=5",
-      "fuente": "Potosinoticias.com",
-      "fechaISO": "2026-11-12T03:30:14.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -1014,6 +1004,20 @@
         "MILENIO",
         "TUDN"
       ]
+    },
+    {
+      "titulo": "Fuerzas Básicas del Atlético de San Luis también sufren derrotas",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlBkRkY4aUlSNlN4a0FUT0hiUV9KbVJ5bjVHemM4N3YzSHJIWUtzZ0ZVOTZ2SmoyM0pEbEd3TF96eEljNjZkWWlXbzJVX0JkOGYxaHVYVmkxS3JzWWMtVzFWNEhEeVVVaV83dHBrNHo2dzF4dzFzYm1IVVdrU1ZhaEViYmVJd2RiYVBMZlJFZ3h5Uzh6NnAxcEZ4Qk5BRTFfZlM2U2I4Rjd6X0NvTG1YMWFsODFVZmc?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-09-08T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "OnceDiario",
+        "OnceDiario"
+      ]
     }
   ],
   "comunidad": [
@@ -1127,7 +1131,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
+  "totalFuentes": 35,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

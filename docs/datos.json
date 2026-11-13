@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-13T09:22:13.526Z",
+  "generadoISO": "2026-11-13T10:22:20.840Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -424,10 +424,7 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": [
-        "Transfermarkt",
-        "MLS Español"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Fernando Torres rechazó dirigir al Atlético de San Luis en la Liga MX: ¿por qué no aceptó?",
@@ -606,6 +603,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "¿Quién ganó el San Luis vs. FC Juárez? Resultado del partido J16 Liga MX 2026?",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3BZLXNTeEt2cEpqcFZkZzllYUh6REYwblNoN0VZVmlHdDJoc1Y3NjNUcVRxTUZqMjRMOUo5UUFNNkxqdldwd0liRGRvLU84Z0RaZGlsbjZqMjh3TXhJMlZmUXNJSzBHV2VPa2FfQ1lVNUFnMjV2UWE2VkxtYmR1ZDhPcWczUzdJZWRicHdpeTB5SDDSAZMBQVVfeXFMT0FZUHRqU1huTmVsdTYyc2xQLU9MSm5qOXY1ZGpLOGZDZ2NOM2R0NzJYSTRIbFpNaHFyZ2h0YnVGVXZLLWFhTHYzOE1DNDczZ3RCbkJhRDhPbXBOR1ZzQVhwTXhBbnJiQ2kzOFdfSVhuMF9IbDY5NmF4eVNLZld2RU5NOU5NLXY4b2x5NVpnZF9mbU1J?oc=5",
+      "fuente": "MILENIO",
+      "fechaISO": "2026-11-07T01:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "San Luis y Juárez se enfrentan en la Jornada 16 de Liga MX",
       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUy1wQUgzcXZwaXdfYXhDRVR3ZzV3MGY4eVNlcmMzOUtJNjZqSXlwbkJvXzN6R1k5em9GWVc4Z1JZVVZhZUhUT3ctQVZVSFF3VFZWTGJvbXhLM3pUTzRkalEwcmFaZ21XSFA1ZmNURUJHa0Z4NjkySldsMW9rV25meUhPdWlzV19O?oc=5",
       "fuente": "Consulta Monterrey",
@@ -694,6 +701,16 @@
       "fechaISO": "2026-11-05T23:00:00.000Z",
       "categorias": [
         "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¿Dónde ver EN VIVO el partido de la J16 San Luis vs Juárez?",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcGd3R0xnWV9hN3lNRWpueXNwbWY4WVZuZGNqa1JsV2lxaTdDWFhfLURZSVNud19LMU9zZEZwZWRIMlR2UWRrTTZxUkpTdzlGTGh2OHJlZmxoUGtkM2UwMDBPYzNQOTk1cURobGxwcWNQaWRrWGhKYUpNM3lFMHdNb2FsT1AzYmhOTU9QVTdnMGhNRFFQN2FmM3oyTGprVWVkMmxyQ2VKaDdlaV9HVmlENHp1NHFhTGMyQ25wZG9EdjI4VW4tTWFLSUl6U1hTYzZuRjQ5QjloWm50OVRCTmh3OXFZcW3SAeoBQVVfeXFMTnNTQ2s0aEwwN04wRTZZazlVcHlXRjkwUndhbHh3UUxsVTNudFljOUtabWFwczdySDZ5SnpISTc5RTdWSnNzTGdaR2tScTRjdXhVT0FKZTNrbDZ3d3AtSG1ObnpDeDBJLWY1X2JDS3N6TW1ZOVQ3dVdiZjdSX0U0MnB6NjRrLW1scjlsS25xRFJ4UEVlNVRfVzFJZi1qb21mZzBWOW91N09Hdi1ZNHdyZE9ZX2lIUkRpWTNXaDJTSE5xTTlOM1lNYXVMQW1BLXdTeFdJOWxWenJ4TGNFbF9CZGljQnBOQlk5WG9n?oc=5",
+      "fuente": "El Informador",
+      "fechaISO": "2026-11-05T18:00:44.000Z",
+      "categorias": [
         "Partidos"
       ],
       "tambienEn": []
@@ -838,6 +855,7 @@
         "TUDN",
         "TUDN",
         "TUDN",
+        "Récord",
         "Facebook"
       ]
     },
@@ -870,20 +888,9 @@
         "Partidos"
       ],
       "tambienEn": [
-        "ESPN Argentina",
         "ESPN México",
         "ESPN Guatemala"
       ]
-    },
-    {
-      "titulo": "¡Atlético de San Luis destruye a la defensa de Querétaro!",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0tIb0tNTmtBSENEWFUzRUF6Zm1xOVFTb2xvMzJhN09BSVktYTdUd19qYndHV3kzSE9GOFdjWUtTSGY4cGQ1T3pKN054S3VkSXpONkotNHJDaGVoLU1FYWxNZ3VBSEhZM21ZUWhRVUpGYkI4N3dJQlByalI0TVlQcW1kYm5FeDhYWHZCckRkRnd1Xzk2NUF0OEZxbFc1SjFZbXNfX04xTQ?oc=5",
-      "fuente": "ESPN Argentina",
-      "fechaISO": "2026-10-20T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Atlético San Luis vs. Querétaro - Resumen del partido",
@@ -916,16 +923,6 @@
       "fechaISO": "2026-10-14T07:00:00.000Z",
       "categorias": [
         "Cantera"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¿Dónde ver EN VIVO el partido de la J11 San Luis vs Santos?",
-      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYXUyemJUTmhUb3l5Zzc5Q1dpVlg3bEM5aVgtMzJYd2pCSjdBVWtrTklCcTFGTWxiRlVtOVJac2NtMldtNF80VTE1ZHNSNVM0TEM4ckVvakhUSFNmZENralVMclkwRjI1X1pVMWE1LVc4MHBaSTdKUG9WNDNpdE8yQ3ZKTEpIS0FsYTZVT25sdDRDT015Y0RzcTJ2eUtEcF9jVzA0RVIybXMyM0YyTnM4QWkxcEpfZUVWVU1tdFJtX0FRNEx4Y0dVTWs3czVOOVpBWU11UWZ0dFQxa1ktdk9GejFYcnFoRXVtWk81a1VJZFI4YnRIdnMzcVo2VTNRUdIBgwJBVV95cUxQMVVYdXFFMV84M2hXSXRNNFFpeDJNQjVCQ2R1Zl81c0wzN2xxTXpIZ3BHTzZGYWV5SlEyVzBZN3FMTmdJSnRJdml6eTNhSVVtMmRobjZGdEg1UGt1aE01UFAyZFdxR1U2MXBiU0NxMnVSZGFUVVp0WU9kajlVZXp6alJZRTBJUWRvdnV6eXhDckdTRUNaRUVqaGE0SHJkdC1pUjdLTFFFMXhaclI1VDlabEhkTExCZTJ1TkdfeHc3RnBOb0dRQlJVY3FfYXVyZms5M180ak91MGJlSnZxN0lDc05zZWxyZGF6SGJtQlRQUlE4NG1mX0NzSjlkSm5VbTA3TU5N?oc=5",
-      "fuente": "El Informador",
-      "fechaISO": "2026-10-10T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -1131,7 +1128,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 38,
+  "totalFuentes": 37,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

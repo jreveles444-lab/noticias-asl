@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-13T07:21:58.968Z",
+  "generadoISO": "2026-11-13T08:22:05.487Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,10 +345,20 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Enrique Galindo lleva a las escuelas campaña para evitar accidentes por pirotecnia",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVA5T3c2ZEQyTzh0UkpNZS1aZ1Q0amYwWTdKMG1EVWYzdVQ1VmNQSkx3azQzRktmMDRHQ0hWei1BdUxYOG5xME5pY1c4UVZfTVljYlRGb1BJdXJzc1F4anBrV3dwSEVvRUJGV2dvdUUwa1lhTWRNUDJXZGpUWjdqMThrNmc2Mzl0?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-11-13T07:51:18.000Z",
+      "categorias": [
+        "Escuela"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Enyerliannys Higuera brilló con San Luis y sueña con ver a Venezuela al Mundial",
       "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYWFVWWstdDcxak5Ed0poWWxmSWFVUGJPU2lwMFlIa0lxS0ZhWW5vZEZYM3JZUWVxWjVPbHh1cFZvajdmRVhkUDlyMnJaMllGaWZ1c3dYY3lEblFsQTFTcVF2X2RwT2xodDNKbldmZ0w1dGhXdkJqVHFtcGlUYmtpaG1fd3Z4c2VxM25qaHdoUG15Qjl1dG1YNGVnU01TTTNkaXljNW1NcjBRTnpkUGJRZi1POHFMbGlScDBYbmRReTVHUE8tZW9DUWdFMlRwdXo3d0NHVy1WcmhjRXE0UWVvdA?oc=5",
       "fuente": "OnceDiario",
-      "fechaISO": "2026-11-13T02:07:16.000Z",
+      "fechaISO": "2026-11-13T02:08:15.000Z",
       "categorias": [
         "Femenil"
       ],
@@ -457,16 +467,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXB0TFkyOFVudFNZWDQ1elZ4R3BkTFdwQjB6a3ZSUUxYTTJLbEhteHhrNEY4aG1fLUNCMnpERlpFajg2MXJDS3kwRUcxVS1WdzJuc0pFaFFUdXdSanBPQ2swc2pSVzVzaGdxN2tvc1oxUHdsejZTV3FHX2JxYWFUWG8yWGFxblY5Q0VZeFBBOXpLUjREdTJGZ2lqcFJ4dUMyUnRVSg?oc=5",
       "fuente": "Potosinoticias.com",
       "fechaISO": "2026-11-12T03:30:14.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡Está de fiesta! Tunita, la mascota que conquistó al Atlético de San Luis, celebra su cumpleaños",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzFUdFhrVzhPOFZqa0xZSUJUUm1oeEhPaUZTaThiNTN3M3pkUGx4NGp6M01uZUJBdWhOam1FaXRLVmY1dDVpYk5ScXEtVkdOUVQ1TUkwbVkzTHJxeDNYTFlPdTVlSmcwZHdKM3kwaC1GWWwzbmZqTmFJVG9CbEZrREstV04xTGsxeHRUX1NjT0VBNTRCSXVxUS12cm9QVjByeE5TWDRpNm1HRUs0RXlTZlB1dXByeXQwR1JTYllFb2RoTXZYRGtLdDdFUkN3NWlsYm9aR3pB?oc=5",
-      "fuente": "El Universal San Luis Potosí",
-      "fechaISO": "2026-11-12T00:23:35.000Z",
       "categorias": [
         "General"
       ],
@@ -677,22 +677,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Dónde ver Pumas vs Atlético de San Luis: Horario y canales de transmisión del Clásico Nacional Femenil Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOa0lNNXdTVkJHQVhNWXY5OFpKZm1FVjJuUHpnVkUxLXRscTBaMWlhV2lydHJzUmFZNXk5QWZIaEc4eTM0ZXNtOEFWR2xlWkpma3cwUGY5aGFGdmdzRXIyN0NkQ1ZIekF0cXRwWnNRMTRqajY1eDAyZ3dnNW4zNldNcHJ2NFdTa003MkpUQ2lmekJRWmYtUkxibWdsT1BCOU9neWN6NmQzejUwT0xyYUsxVzV2MElTVmJGLXhBRHdUT3pGQVUtbmo3NDVRdU5ZVXVma1dmY0FRU3laWDlDZlI0Q3lfa0pXSVBVUERZWEVnbFNmdGhPTXQ0Sno2U1hENlE?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-11-06T02:36:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "TUDN",
-        "TUDN",
-        "TUDN",
-        "TV Azteca"
-      ]
-    },
-    {
       "titulo": "Atlético de San Luis vs. Bravos: disfruta el partido de la Jornada 16 por ViX | Canal 5 Home | Canal5",
       "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclFvcEtpNDVfb2RkR3ZCRGJpVDhpaDVFN2F6OEk1NUxCRE9CeUZxclgzMkhCZ0I5X29OZm1fLURPNHo4Zm00WkNqZ1Jha2JfVEd4YzBCZks4OUpDMXpHV1VWcjJ5YVpONGctTlJIdWsyYkhXU0M5Y25XMktVUERldzNFdWRzSmtUMHRNaklWeGNmM1V4M01tQmZtaUp4MG9VVkl6ZlRVaFVsRUl2ZVF2TnRvTQ?oc=5",
       "fuente": "Televisa",
@@ -715,14 +699,20 @@
       "tambienEn": []
     },
     {
-      "titulo": "¿Dónde ver EN VIVO el partido de la J16 San Luis vs Juárez?",
-      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcGd3R0xnWV9hN3lNRWpueXNwbWY4WVZuZGNqa1JsV2lxaTdDWFhfLURZSVNud19LMU9zZEZwZWRIMlR2UWRrTTZxUkpTdzlGTGh2OHJlZmxoUGtkM2UwMDBPYzNQOTk1cURobGxwcWNQaWRrWGhKYUpNM3lFMHdNb2FsT1AzYmhOTU9QVTdnMGhNRFFQN2FmM3oyTGprVWVkMmxyQ2VKaDdlaV9HVmlENHp1NHFhTGMyQ25wZG9EdjI4VW4tTWFLSUl6U1hTYzZuRjQ5QjloWm50OVRCTmh3OXFZcW3SAeoBQVVfeXFMTnNTQ2s0aEwwN04wRTZZazlVcHlXRjkwUndhbHh3UUxsVTNudFljOUtabWFwczdySDZ5SnpISTc5RTdWSnNzTGdaR2tScTRjdXhVT0FKZTNrbDZ3d3AtSG1ObnpDeDBJLWY1X2JDS3N6TW1ZOVQ3dVdiZjdSX0U0MnB6NjRrLW1scjlsS25xRFJ4UEVlNVRfVzFJZi1qb21mZzBWOW91N09Hdi1ZNHdyZE9ZX2lIUkRpWTNXaDJTSE5xTTlOM1lNYXVMQW1BLXdTeFdJOWxWenJ4TGNFbF9CZGljQnBOQlk5WG9n?oc=5",
-      "fuente": "El Informador",
-      "fechaISO": "2026-11-05T18:00:44.000Z",
+      "titulo": "Dónde ver Pumas vs Atlético de San Luis: Horario y canales de transmisión del Clásico Nacional Femenil Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOa0lNNXdTVkJHQVhNWXY5OFpKZm1FVjJuUHpnVkUxLXRscTBaMWlhV2lydHJzUmFZNXk5QWZIaEc4eTM0ZXNtOEFWR2xlWkpma3cwUGY5aGFGdmdzRXIyN0NkQ1ZIekF0cXRwWnNRMTRqajY1eDAyZ3dnNW4zNldNcHJ2NFdTa003MkpUQ2lmekJRWmYtUkxibWdsT1BCOU9neWN6NmQzejUwT0xyYUsxVzV2MElTVmJGLXhBRHdUT3pGQVUtbmo3NDVRdU5ZVXVma1dmY0FRU3laWDlDZlI0Q3lfa0pXSVBVUERZWEVnbFNmdGhPTXQ0Sno2U1hENlE?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-11-05T08:00:00.000Z",
       "categorias": [
+        "Femenil",
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "TUDN",
+        "TUDN",
+        "TUDN",
+        "TV Azteca"
+      ]
     },
     {
       "titulo": "León vs. Atlético de San Luis Femenil EN VIVO: Dónde, cuándo y a qué hora ver el partido de la Jornada 13",
@@ -921,6 +911,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "¿Dónde ver EN VIVO el partido de la J11 San Luis vs Santos?",
+      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYXUyemJUTmhUb3l5Zzc5Q1dpVlg3bEM5aVgtMzJYd2pCSjdBVWtrTklCcTFGTWxiRlVtOVJac2NtMldtNF80VTE1ZHNSNVM0TEM4ckVvakhUSFNmZENralVMclkwRjI1X1pVMWE1LVc4MHBaSTdKUG9WNDNpdE8yQ3ZKTEpIS0FsYTZVT25sdDRDT015Y0RzcTJ2eUtEcF9jVzA0RVIybXMyM0YyTnM4QWkxcEpfZUVWVU1tdFJtX0FRNEx4Y0dVTWs3czVOOVpBWU11UWZ0dFQxa1ktdk9GejFYcnFoRXVtWk81a1VJZFI4YnRIdnMzcVo2VTNRUdIBgwJBVV95cUxQMVVYdXFFMV84M2hXSXRNNFFpeDJNQjVCQ2R1Zl81c0wzN2xxTXpIZ3BHTzZGYWV5SlEyVzBZN3FMTmdJSnRJdml6eTNhSVVtMmRobjZGdEg1UGt1aE01UFAyZFdxR1U2MXBiU0NxMnVSZGFUVVp0WU9kajlVZXp6alJZRTBJUWRvdnV6eXhDckdTRUNaRUVqaGE0SHJkdC1pUjdLTFFFMXhaclI1VDlabEhkTExCZTJ1TkdfeHc3RnBOb0dRQlJVY3FfYXVyZms5M180ak91MGJlSnZxN0lDc05zZWxyZGF6SGJtQlRQUlE4NG1mX0NzSjlkSm5VbTA3TU5N?oc=5",
+      "fuente": "El Informador",
+      "fechaISO": "2026-10-10T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis se ilusiona con el boleto a la Liguilla",
       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjRtUXlYQ1huN0ZvRWJEbUhMSkF6TWRqSGp1Mk5YOVJrd01yUVRZd3ZJRjUxUFZHRDV5ZjJlam9GM2xLcThfeTlGaW83SUxyVmxJajRzelkwRXhzYlU4blBmdllHUVFjWC12b21Ba3J4UVBuWkNuZ1RuQ2JicTZCaENMck5sMGdmX0tKYjhHUUpqcGJqVTZVWkphOTRIYTRlSWEyRXBuT0xOaDgz?oc=5",
       "fuente": "ESPN Deportes",
@@ -960,8 +960,7 @@
         "Partidos"
       ],
       "tambienEn": [
-        "ESPN Deportes",
-        "ESPN Argentina"
+        "ESPN Deportes"
       ]
     },
     {
@@ -995,7 +994,9 @@
         "Partidos",
         "Escuela"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "OnceDiario"
+      ]
     },
     {
       "titulo": "Atlético de San Luis vence a Pachuca y se consolida en la parte alta de la tabla de la Liga Femenil",
@@ -1016,13 +1017,23 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Milenio",
+        "MILENIO",
         "MILENIO",
         "TUDN"
       ]
     }
   ],
   "comunidad": [
+    {
+      "titulo": "Enrique Galindo lleva a las escuelas campaña para evitar accidentes por pirotecnia",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVA5T3c2ZEQyTzh0UkpNZS1aZ1Q0amYwWTdKMG1EVWYzdVQ1VmNQSkx3azQzRktmMDRHQ0hWei1BdUxYOG5xME5pY1c4UVZfTVljYlRGb1BJdXJzc1F4anBrV3dwSEVvRUJGV2dvdUUwa1lhTWRNUDJXZGpUWjdqMThrNmc2Mzl0?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-11-13T07:51:18.000Z",
+      "categorias": [
+        "Escuela"
+      ],
+      "tambienEn": []
+    },
     {
       "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
@@ -1033,7 +1044,9 @@
         "Partidos",
         "Escuela"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "OnceDiario"
+      ]
     },
     {
       "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
@@ -1059,22 +1072,52 @@
         "Fichajes"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Escuela ADSL lanza plan deportivo para fortalecer Fuerzas Básicas",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1ZON21GdTJNd3g2OVFkRzFLOXVabHlZd2dwbDFIaXRzMlNmOW1VRXJmSnVlempUZVVuVURtX1BNNXA4ZTZjekFaZkdlNWFCVndCSVExd2pRVjJ1aVNHYm9nc2VuZmk1YXZQaWtvUlFXZzNnVldJVWYwbExfQzZydUdYV2ZXaml6ek9WSFphcWdkYm5pd29wenVSR3lqVk1RQU1NcldNS25qSDJoN1plTA?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2025-11-20T08:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [],
+  "videos": [
+    {
+      "id": "6elvhAmUX18",
+      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
+      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
+      "publicadoISO": "2026-11-12T01:20:48.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "ibb-gHsYxgU",
+      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
+      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
+      "publicadoISO": "2026-11-10T23:30:57.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "3TqKVvdfwYk",
+      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
+      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
+      "publicadoISO": "2026-11-09T16:22:24.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "GRULEGw-YeI",
+      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
+      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T20:00:31.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "n8su8tM3ld8",
+      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
+      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
+      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T13:01:00.000Z",
+      "categoria": "Entrenamiento"
+    }
+  ],
   "redes": [
     {
       "nombre": "X",
@@ -1093,10 +1136,8 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
-  "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
-  ],
+  "totalFuentes": 37,
+  "avisos": [],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

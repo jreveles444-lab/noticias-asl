@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-13T08:22:05.487Z",
+  "generadoISO": "2026-11-13T09:22:13.526Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -777,6 +777,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Atletico San Luis U19 (W) 0-1 Chivas Guadalajara U19 (W)",
+      "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ubUpHS0c1emYtNm0tUV80Q3NVd3Awa2FpSmpsUkdhTnFVSEl0Tl91VHJLREJBZEY2YVIwTjVKSnB1azhWRWxlLVp0c0VYcmNIaXVLcThVX0k3YmNCRFFOUTVtUXRrZDB4bkRR?oc=5",
+      "fuente": "Elbotola",
+      "fechaISO": "2026-10-25T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Despedaza América al Atlético de San Luis Femenil",
       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVN1VGM4Ry1acXB5N3FVRlZjdTRnenVHa2swUndQR2toY3FQaHd0d0dncm1lWFlYNTkwVTJ2cEwxa3RIbWRjYVB2ZGp1YnNoWXhXcmdpZHZiYjBqOHpkZmhMcml6TFhVNWh0cTJ6WFY0UEtJWG9IYkFNellmc3JtQlFFMnp2YVRrOE1z?oc=5",
       "fuente": "Reforma",
@@ -828,7 +838,6 @@
         "TUDN",
         "TUDN",
         "TUDN",
-        "Récord",
         "Facebook"
       ]
     },
@@ -1007,20 +1016,6 @@
         "Femenil"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "León vs. Atlético San Luis. Resumen y resultado del partido de la J8 Liga MX ONLINE 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNenlmeWVaU2ZlOEdJVE9JWjBOMnRTVnJUSHk0VV8zajlSTFVOUnZtdC1tUks5S0VpMC1uNDZIZl9qMEJ0Ym1WdTVyRDIzNDkzYUlmMnVqQTUwOERwbDFoSV9maDFjZmVwdm94cGR0cW5BZVhnWmtLOGtaRmxYbnA4SUhnRk9qY2xfQXFXVmpIWjBQWlpCYWE1cEZnWUxCQnA5NlUtQUt6Y1RtUVFKcUo4NzZxWjREd25MRWU3atIBvAFBVV95cUxNbmVlWlMzenFHMF91N3RYX3ljblcwMGEycXV2SXlMdFRLbW9zc01NaXR1QWRqd3hvUi03MW5rMU1QN1l2ZUlIRXctZGJtWXlHalR5S21TMW5FYVlQNkpkNWgxVUk5NEdwSU14ZzBLQzFxSk5pU2l2Z3g1T0JhQzlyMl96UXJwYi1KSlRTd1puS1pDVGZYWHdPQU91d0x0RERxTWZzMVh4RW1GMHY4X3VTRGdXRnlsTlNlQ1F0eA?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-09-14T14:09:01.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "MILENIO",
-        "MILENIO",
-        "TUDN"
-      ]
     }
   ],
   "comunidad": [
@@ -1136,7 +1131,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
+  "totalFuentes": 38,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

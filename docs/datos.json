@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-13T02:21:20.931Z",
+  "generadoISO": "2026-11-13T03:21:28.067Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -903,6 +903,18 @@
       ]
     },
     {
+      "titulo": "Atlético de San Luis Femenil defenderá su tercer lugar ante Juárez y América",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTnN0T2tDdzYya2wwampuUGEwWGtBVXFpMmNJUjgyZWRXRVRfZkJKZjlkdXJDc3BITzlFWHN5dmZTZkhmQjBEWVAxRTRVakpBaTRfOUV6MXNzTlMwRHotcWZYd25vY0NXVXBMaHJCaFczcUpOdmVmN0gyQ054bTNwTHJWb2RpRVBPNEtRU09CMHpVX19IVFMwclVQX19DV0VZQUh5SHZkcU5YM1hJeE9yNHBhMGcybGVHSUt6NEk0bklpVWtkNGUw?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-10-14T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": [
+        "Atlético San Luis"
+      ]
+    },
+    {
       "titulo": "¡Vive una experiencia de alto rendimiento con Atlético de San Luis!",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDZaWjZTOGtRQzFSV2hHZks3blVLQlRnZU1HUFFDS0RJYlVCUjVNNE5nTTJiMVBVTDViZXpQTFVkQXk0MExzNnhtdnpVekdETTZFNzMza1ZfbmlqbmJBTE5LSy1HM3ZsYXlSWG9mZ2o5NGVQZ3BDMnUzVXFFM1ZJaldUTmdxNlRxWTdnRTZjT1hlNklvM3dmUUhNM1RzSHNBUTlKQmpMSF9RTmtWOG1qYg?oc=5",
       "fuente": "Atlético San Luis",
@@ -964,7 +976,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Sol de México",
         "ESPN Deportes"
       ]
     },
@@ -1009,20 +1020,6 @@
         "Femenil"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "León vs. Atlético San Luis. Resumen y resultado del partido de la J8 Liga MX ONLINE 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNenlmeWVaU2ZlOEdJVE9JWjBOMnRTVnJUSHk0VV8zajlSTFVOUnZtdC1tUks5S0VpMC1uNDZIZl9qMEJ0Ym1WdTVyRDIzNDkzYUlmMnVqQTUwOERwbDFoSV9maDFjZmVwdm94cGR0cW5BZVhnWmtLOGtaRmxYbnA4SUhnRk9qY2xfQXFXVmpIWjBQWlpCYWE1cEZnWUxCQnA5NlUtQUt6Y1RtUVFKcUo4NzZxWjREd25MRWU3atIBvAFBVV95cUxNbmVlWlMzenFHMF91N3RYX3ljblcwMGEycXV2SXlMdFRLbW9zc01NaXR1QWRqd3hvUi03MW5rMU1QN1l2ZUlIRXctZGJtWXlHalR5S21TMW5FYVlQNkpkNWgxVUk5NEdwSU14ZzBLQzFxSk5pU2l2Z3g1T0JhQzlyMl96UXJwYi1KSlRTd1puS1pDVGZYWHdPQU91d0x0RERxTWZzMVh4RW1GMHY4X3VTRGdXRnlsTlNlQ1F0eA?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-09-14T14:09:01.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Milenio",
-        "MILENIO",
-        "TUDN"
-      ]
     }
   ],
   "comunidad": [
@@ -1102,7 +1099,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
+  "totalFuentes": 36,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

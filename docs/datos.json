@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-13T20:23:45.425Z",
+  "generadoISO": "2026-11-13T21:23:52.550Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -672,7 +672,8 @@
         "El Sol de México",
         "Atlético San Luis",
         "sdpnoticias",
-        "Soy Futbol"
+        "Soy Futbol",
+        "Récord"
       ]
     },
     {
@@ -854,6 +855,7 @@
         "El Sol de México",
         "El Sol de México",
         "El Sol de México",
+        "El Sol de México",
         "TUDN"
       ]
     },
@@ -925,21 +927,21 @@
         "Partidos"
       ],
       "tambienEn": [
+        "ESPN Argentina",
         "ESPN México",
         "ESPN Guatemala"
       ]
     },
     {
-      "titulo": "Atlético San Luis vs. Querétaro - Resumen del partido",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm5pR0xRSHd1dzh3RXR1Z216bTQ0TnJFVVNZaVNLT09TRWNtYTF1VHF2M2stY3Rrai1WakU5UW5fMFVrRTB3M05tRTgyOGY0aXVXWDNMTmNGVFBna1RBQVJhdzNxcXYzWkZZT2pYbzBJQTBxamU3QWFrV0x5UXJheGo0ekx6TEVueWlMLV9VNFpaNnhDbGlGVjN3?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-20T07:00:00.000Z",
+      "titulo": "Marcador en directo, H2H y alineaciones del Atlético de San Luis – FC Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTRnQUk0Vjc4V2k2TjVvd2tGdmoyMm9LTG5wbDItR01tMUpqdzdlU2lyTzZENXY1anA0X08ydkJsaW9LbDBHRHdYZmhITndaeFJ2cmtseTV3WEJKX2xUdFZ5cGd0V2NSWnlZcWdsTEEwc1VLYVB0NDVmSlVUWElGM3gtZzZWakpxZFozQg?oc=5",
+      "fuente": "Sofascore",
+      "fechaISO": "2026-10-18T07:00:00.000Z",
       "categorias": [
+        "Femenil",
         "Partidos"
       ],
-      "tambienEn": [
-        "365Scores"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis Femenil defenderá su tercer lugar ante Juárez y América",
@@ -984,16 +986,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis Femenil convierte la ilusión en puntos y sueña con su primera liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeU44Q2RrdEVpSnlRUWZFVHN4Ym9tWnBxOWw2aFFnVnNhVHRKMk0wbEZZM2RwSURBS0xvRmhSdXJTSVpNVjkxYjJoblhDYTEyaEZQLThJbW01RkZ0SkY2RGRLWGVFQU44X2UtUFFiMUdwNU9qYVZxMUpSS2l2QWt0LTNEcWF2MmlWaWRIVW43V05FNzJGVzl3eDExRWlxbFljN0NldDNmQm16TThwbXNIbkdDNFNNRGVKRVRMcXM4VThIRlYydEFyOXRSX2IyTVE3WExLOUFIWVVsY2lRejlz?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-10-01T07:00:00.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético de San Luis Calendario Mexican Liga BBVA MX Femenil 2026-27",
       "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jWmtMRDA5X1h0ZHFpUTk4WFduZDM0eldYaVo0d1FsTE1CeUZzdEJQZVdrOC1MdmY2dzF3X3JJY0xIZGJQTFVvcTZOUXBHalo5SW9semZlS3NlYk92bEpLNXppeGY1NGlKalpFNGtfUHo0WDYzVEdIVXBqTHFXQQ?oc=5",
       "fuente": "ESPN México",
@@ -1026,6 +1018,20 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-09-22T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Partidos",
+        "Escuela"
+      ],
+      "tambienEn": [
+        "OnceDiario"
+      ]
     }
   ],
   "comunidad": [
@@ -1141,7 +1147,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 39,
+  "totalFuentes": 40,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

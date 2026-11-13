@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-12T23:20:59.370Z",
+  "generadoISO": "2026-11-13T00:21:06.454Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -534,18 +534,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atletico San Luis VS FC Juarez",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZXFHTUJYOHpFSDBnTVAzWUU5bEhBNnM3dGEwbzBRSUpOMnNaUXMtQUFjaFdPSVRoVEt1TTlGdEllSjlJRy1kdndEa29pVmFLTi0wdWFtOU1UTmJDNjE1cUxzVjdpYnppVHFrYmdBN3R6c2x2dlBvME9SdGphZzExZTFRbUJtM25wOFhJM1VDSFdZRTVJWmUtbUxpVmZOWWNIZG1BVFI1MVNVRmtGdTBRaEt4RUtlai1qQ01Ld2V6azdXRXdqRmdsZ0pWR3BJckhCNHNMQkdWa1o1SVVWZlFlUVBsRThzYUIxVjFB0gH_AUFVX3lxTE1QOXRrUnJ6cW5XNzNzQTNLUXlfZzBFa2EtbFdIaEJNT1pvbWpGa3VnaDdDcXR3dWtaVFMyTUp4dUtRWkY0aWJ4WHpTSVpIWnJwM0dURlFFa1JQSmI5Tmx5TEZuZERkY1ExNzROWjBES1FmSllzVnR1cVItS0ViOGh3dGpybHdQd1V5Yjk1cmZSZHM1OWxPLTBMdGtVNThLRGp2bVFUajhzX2gwTjJGWElGN3Rwb050dC1QamJSNHgteFJJeDRiUjlmTHlvQ205S0wtdEo1RG1JRXF4d29FSTMwa204QXkyakJGNU1YczNLTWxVZFU3bEl0Y3Rxa3duVQ?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-11-07T03:49:14.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "TUDN"
-      ]
-    },
-    {
       "titulo": "Estupiñan y el FC Juárez prácticamente apagan las esperanzas de Liguilla del San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXhpNlhKVkdEV2QwYzQyRGY2RnNBeUE3a1M1QVFlc0xBRlNrYUxRaUUyb1l3MlAwXzNVTnZUMWhjMUs4TmY3bE1nV3N1LWFkbkY3ME9KaEU5RG94Zi1MNk00U3lTcDdlU1pLdjhObHJXWXpIdUNLcWdrYUstQ0NzX3hZZnVmbVVHVmo4TXZGMGhudFNNRjdzVGJ5YVJrLS1WbzluRUhTZ08wMFhUbnR0OGc3eldaazlkWUhnX0hTaTBxZThYWW1ncUtyNjJMWnFqakFSTFdNRTl4U3hIYU9XVURqSE9CZw?oc=5",
       "fuente": "Claro Sports",
@@ -574,18 +562,6 @@
         "General"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "¿Quién ganó el San Luis vs. FC Juárez? Resultado del partido J16 Liga MX 2026?",
-      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3BZLXNTeEt2cEpqcFZkZzllYUh6REYwblNoN0VZVmlHdDJoc1Y3NjNUcVRxTUZqMjRMOUo5UUFNNkxqdldwd0liRGRvLU84Z0RaZGlsbjZqMjh3TXhJMlZmUXNJSzBHV2VPa2FfQ1lVNUFnMjV2UWE2VkxtYmR1ZDhPcWczUzdJZWRicHdpeTB5SDDSAZMBQVVfeXFMT0FZUHRqU1huTmVsdTYyc2xQLU9MSm5qOXY1ZGpLOGZDZ2NOM2R0NzJYSTRIbFpNaHFyZ2h0YnVGVXZLLWFhTHYzOE1DNDczZ3RCbkJhRDhPbXBOR1ZzQVhwTXhBbnJiQ2kzOFdfSVhuMF9IbDY5NmF4eVNLZld2RU5NOU5NLXY4b2x5NVpnZF9mbU1J?oc=5",
-      "fuente": "Milenio",
-      "fechaISO": "2026-11-07T01:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Mediotiempo"
-      ]
     },
     {
       "titulo": "San Luis y Juárez se enfrentan en la Jornada 16 de Liga MX",
@@ -712,7 +688,8 @@
         "Mediotiempo",
         "Bolavip México",
         "El Informador",
-        "Récord"
+        "Récord",
+        "Mediotiempo"
       ]
     },
     {
@@ -964,6 +941,21 @@
       "tambienEn": []
     },
     {
+      "titulo": "Pumas vs. Atlético San Luis. Resumen y resultado del partido de la J10 Liga MX 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDJxT1hVRXFjWmthalByMloxOFY4NW1wakVaQWplRXA0WUIzdGU4REVDRS1BOVFhMGZ3LVBCeW1UbThmTC1nOEVzSlNESXc1LUFIcC0tRzVkODdkTWEzb3B6VF96MWFDVFBTRXdpUngySlFHOFRobFVrb0xFNGxuR2d1RWR3XzFzTzRXWFU1OVZOenZ2UUVMQWFvaFRQNDRZOVBQU2NXb3hRczZlNGtGajlmMzJYMkpkZXp4N0RmNjRISFVFSTlKdnh30gHKAUFVX3lxTE5nS012WEN4UnJFbFFiWGpXSHZIam96bVUtTFZGUHNYdkFuX3k0UGRaWWxjelFqZlA1N1pteWhrRjlLMlBIbk1JXzEzVm16QTk4ZGxMMHo1M3M4Vlo3NUZ3b0pNSTFncnBCblNzSXNoYUVTSUk4aU1EMlpYOWltX0xuT0hNTW52LVpCYTBSQk9obHRCdndEQlFxbmo0eE9KaVFQcmZQUnI0MnZkTm5rcmhoTG1vWTF6RlVQTV82Yjc5VzV3b3JlTVFKY1E?oc=5",
+      "fuente": "Mediotiempo",
+      "fechaISO": "2026-09-27T14:22:44.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Milenio",
+        "MILENIO",
+        "Milenio",
+        "TUDN"
+      ]
+    },
+    {
       "titulo": "Pumas enfrentará al Atlético de San Luis con cuatro bajas por fecha FIFA",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmtqcWRuNXJ3M1FUZGZCLXowMjd4VFRxVkU4UUUzTllhMnBuaHBTUzY5ZUtzemxuMGVJajMxNkJnY3ZFQ2RTd2NMVnJrZHNXY2Y2cjMwVHhTb1Rpdk15eWtzb2dybkotQi02T3M5VGZGeUYxSDVqYUlpSEhYcUh5U01yMmhNYWkwQlRoem9xbllJZXNYenZVREFLaXVrZ0tqckNVUXB1Y9IBrAFBVV95cUxOYzlCZE1tcThjNmNSTjdEYUsyQWJtV1hnOFRTQ2VLb2RuSm4xR0NZaEFvc1EtZ0NkZGRla3owT0hwdHdzbjFGX2gzNUZOMnMzSlY2MW41eW5SWHdTRkJLWGZ4QXZPUGkwM29KSHA2eGNUTFNzSEdDTDdiTVl6eVBNV2l5M0E1LXZXNVNIbzY1NnVCVWxfb2FWN29oSW95UlIxZFlPRUJBMkJ0eVc5?oc=5",
       "fuente": "Excélsior",
@@ -980,12 +972,9 @@
       "fechaISO": "2026-09-22T07:00:00.000Z",
       "categorias": [
         "Cantera",
-        "Partidos",
-        "Escuela"
+        "Partidos"
       ],
-      "tambienEn": [
-        "OnceDiario"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis vence a Pachuca y se consolida en la parte alta de la tabla de la Liga Femenil",
@@ -996,20 +985,6 @@
         "Femenil"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "León vs. Atlético San Luis. Resumen y resultado del partido de la J8 Liga MX ONLINE 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNenlmeWVaU2ZlOEdJVE9JWjBOMnRTVnJUSHk0VV8zajlSTFVOUnZtdC1tUks5S0VpMC1uNDZIZl9qMEJ0Ym1WdTVyRDIzNDkzYUlmMnVqQTUwOERwbDFoSV9maDFjZmVwdm94cGR0cW5BZVhnWmtLOGtaRmxYbnA4SUhnRk9qY2xfQXFXVmpIWjBQWlpCYWE1cEZnWUxCQnA5NlUtQUt6Y1RtUVFKcUo4NzZxWjREd25MRWU3atIBvAFBVV95cUxNbmVlWlMzenFHMF91N3RYX3ljblcwMGEycXV2SXlMdFRLbW9zc01NaXR1QWRqd3hvUi03MW5rMU1QN1l2ZUlIRXctZGJtWXlHalR5S21TMW5FYVlQNkpkNWgxVUk5NEdwSU14ZzBLQzFxSk5pU2l2Z3g1T0JhQzlyMl96UXJwYi1KSlRTd1puS1pDVGZYWHdPQU91d0x0RERxTWZzMVh4RW1GMHY4X3VTRGdXRnlsTlNlQ1F0eA?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-09-14T14:09:01.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Milenio",
-        "MILENIO",
-        "TUDN"
-      ]
     },
     {
       "titulo": "Atlético de San Luis, Chivas y su estrecha relación en el mercado",
@@ -1032,34 +1007,45 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¡Goleada a domicilio! Chivas Sub-21 por fin levanta el camino y se luce ante el Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOczFjQjVoYXB5ZFJ3ZHhGdTZvQjEzb3MtTFdTNzVlS0xFeVVmU3A2cFlUOWREZnBtWTJITDNJRkNEZ0piN2hQcDBVaGdkc1lSYVFtTW15T0hsYUtqeTlqc2d6Z1ZLaWNlbDdORGU5c1ZtcEVpd3c3RzZ6eGk5cE0xYUdfMHQyWUJuNzVabURKbmluMThRdzFfOUJvcXV4T2Nkanc4eXAwVVVrcUkxY2ZNdy1Fc2JrVVhVNHFrYW04UExRaDJnZW5CbDM3SU4wQXdTM3plQjBMX1lLZzJsODNF0gHfAUFVX3lxTE5zMWNCNWhhcHlkUndkeEZ1Nm9CMTNvcy1MV1M3NWVLTEV5VWZTcDZwWVQ5ZERmcG1ZMkhMM0lGQ0RnSmI3aFBwMFVoZ2RzWVJhUW1NbXlPSGxhS2p5OWpzZ3pnVktpY2VsN05EZTlzVm1wRWl3dzdHNnp4aTlwTTFhR18wdDJZQm43NVptREpuaW4xOFF3MV85Qm9xdXhPY2Rqdzh5cDBVVWtxSTFjZk13LUVzYmtVWFU0cWthbThQTFFoMmdlbkJsMzdJTjBBd1MzemVCMExfWUtnMmw4M0U?oc=5",
+      "fuente": "Rebaño Pasión",
+      "fechaISO": "2026-09-05T07:00:00.000Z",
+      "categorias": [
+        "Cantera"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis, la segunda oportunidad para los canteranos de Chivas",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFRxWEZadm1OYjBFOGlPb0hsRzJ1U080XzYyYTBmcDljWk5aaTJXcUROek1qcUM4bkFqcmU5Z0lDOU01S0VjVHRnYjFmOVdZVDBSMEhEazdSSDNBVXQzOEJ0amdReS1HVm15T3RXMl94bXdCWVdtRC1MWGtYSGZ0eUZkVTJRMG94aWMzRl9CTUhISVZ5azliakx1cXNxLXVReTlzaU1XYUVDemppNUx1emNORXlIWGRaTWg4aDBzZDN0cUVaVHfSAcsBQVVfeXFMTVEwX194YnZucG16MWlmbVpZMl9iRmwzXzlVUlhLbG1WM2JOMGJjV3IwaUxURlhuTnFFMUlFR25OaWhpbXZmU1BKQ0gxZWFEWkg3a094VUJpTHB3cEI2eUdlWnIwQUhoUDZVaTZfeFdhMk90RHdFazB5T2pPek9jdUl1aUo4czBZZTNCTnZrMkxNUHQ0TUZPMWpWa0Y0bWg3T2pKekc0N3RkelBhSFRLeVh2OVhlMHJuZU95RG4wYkhVcHlTQ3FlY3RKczg?oc=5",
+      "fuente": "El Informador",
+      "fechaISO": "2026-09-03T07:00:00.000Z",
+      "categorias": [
+        "Cantera"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
     {
-      "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-09-22T07:00:00.000Z",
+      "titulo": "Las Fuerzas Básicas de Tigres venció al Atlético de San Luis en Zuazua",
+      "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNngwaUhEZWx2b1loR0VsU1ItSWlVM0tLdDJGQk5KX05EWXJHaW5kYnpxTHFNdHZEMVltZlhFMlp1NUhHNjEwVlc3bHFCQ0t6RWF0OVFtaG15aGNiOGFYOXVwUFRib1Y4Z3NvMklUODRLRnhWdThHSTRtZzJKYVlEWEpTUHVhOUZUTDBOV2ZWUy16NWY4ZW1KY0lkdC1FY0g5V3ZyTy1FTHBSMW05YVczWnBkV25LbFQwRGNGaTF6MEg1SGxZTnRUSUNoLWppV0V2ZVdYZGhIUzBwQW95SXNjWG96ZkdoR3RycEFzMWNfV1NYVGNrUGJCZ3cycUNuVGQx?oc=5",
+      "fuente": "OnceDiario",
+      "fechaISO": "2026-07-25T07:00:00.000Z",
       "categorias": [
         "Cantera",
         "Partidos",
         "Escuela"
       ],
       "tambienEn": [
-        "OnceDiario"
-      ]
-    },
-    {
-      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": [
-        "Atlético San Luis"
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México"
       ]
     },
     {
@@ -1073,6 +1059,19 @@
         "Fichajes"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
+      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-07-21T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
+      ],
+      "tambienEn": [
+        "Atlético San Luis"
+      ]
     },
     {
       "titulo": "Escuela ADSL lanza plan deportivo para fortalecer Fuerzas Básicas",

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-14T20:27:15.894Z",
+  "generadoISO": "2026-11-14T21:27:22.870Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,18 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Novena Gala de Atletismo celebrará los 69 años del Estadio Plan de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDZITVNNSjVoRnU3WXlGUDNxanF5RVBqRGhXVk5yTmtySENSel80dUd3RVg4XzBXS1FFd0tudEtLdXlIb19fNWJmaDhpRzJqZmFEU3RNLUVkejBRQkF6SWtlSm5Yei1BbFVRbzVBSU5wWHNxWUFaZ2tVdHJMSzBLTXU5bmd2WkVDd0kyVVVQY1BsWVFRTTRpTzZOenNfRE5DeW1GeGZmM1lNRkN6b3pBWC13MmhsdkhyY1cyS1diY3gyUWVtbEE?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-14T20:17:25.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Potosinoticias.com"
+      ]
+    },
+    {
       "titulo": "Atlético de San Luis tendrá un nuevo hermano en Ecuador",
       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR09ESWV0WW11c3V0eGREaVdITTlnQ29zajAzUkpJa2FPSWZUTzh4aHF3dTlCaWNWYmd0X2lkOEszS3ZKQlRXNzVzelpwY1Z2VWxwT0ZXWm94Rk4yZTNsYTBnOWM3ZkJaSFFtOFlxWTlfeTI2QmJrQ0lfQVRHdHpydlNpMm02LVVZZWxHSmpvd212LVh2b1RLWEtQVjA4QVNXMFM0aFF3?oc=5",
       "fuente": "El Sol de México",
@@ -405,19 +417,8 @@
       "tambienEn": [
         "Soy Futbol",
         "Infobae",
-        "Potosinoticias.com",
-        "Soy Futbol"
+        "Potosinoticias.com"
       ]
-    },
-    {
-      "titulo": "Sin posibilidades de Liguilla, Puebla va por un último triunfo ante San Luis para cerrar el torneo con 22 puntos",
-      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcWkyYXMzTUxISGJhRjZadXFNcktaX3hxYVN2TGo4WXZ1cGl1bWdUQ3BuMkVyZFRLemJYa3hCcnc5ZG5VUTFJVWlUc3BFZkl0R2ZPaHlUTkRNcXJrT2trMUV5S0ViZlVJQWRDOVZ2cjlNaWh0TExrekN5MlVSSnpuNGZGWEdLV2dCR2VDbEpYNkp2ai1WSFc0QktBZXpuLUhzeVBKWnY0b2hyNEUxOFFiV0hWVXNYeGV4X3JGRFExX0h1UkprNzllYWxWRDZQY21BWkxKbk1UVWkwWUl1YVRGU1hJalRTWkFYc1VaZ0JEMA?oc=5",
-      "fuente": "Diario Cambio",
-      "fechaISO": "2026-11-13T11:45:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Enrique Galindo lleva a las escuelas campaña para evitar accidentes por pirotecnia",
@@ -467,16 +468,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPajdPZFp6UkI2bGVyTkxseGxXNDlwZl84blJsalFzaTRveEpwbkNESm5KbTlCd0RJMUFDTlRiVTg3LUdnUFVCWUxLTFV1S2FwV1FYNDQ1cVZCMG5zUGs4eTlOUGdEZ0Yzbm5vZ19aaXBEcGxzcWFTUWEwdzlOTGd0eExJcmh4dWU2Ym9CbTBfVGVBa0JUU2phQmg0QXdEVUNfZU1WUDJn?oc=5",
       "fuente": "Futbol Total",
       "fechaISO": "2026-11-12T16:29:19.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "La Novena Gala de Atletismo rendirá homenaje a los 69 años del Estadio “Plan de San Luis”",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTV4elJfWWJmZUdiN05HZHhWaFJfN1o0M0Z2eFJhOXR3VmJVY1cyM3gyVWV2c2dCbzRCMVNsV19IYjU3dlluU2dzcU1XQTJmVkViV2lMa3gtX0I3VC1fQnNZWG9mVE9wNW1SZmJIMGY0MFhjTmtGZ0JYRGV5OTJMOXU4dzlkSThMWGxaTmhBU1lJOUVvOWRGM1RGRUJsYzh4WFd0NQ?oc=5",
-      "fuente": "Potosinoticias.com",
-      "fechaISO": "2026-11-11T22:24:21.000Z",
       "categorias": [
         "General"
       ],
@@ -965,7 +956,6 @@
       ],
       "tambienEn": [
         "TUDN",
-        "ESPN Argentina",
         "ESPN Deportes"
       ]
     },
@@ -1032,6 +1022,16 @@
         "Cantera"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Líder a escena: así puedes ver el América vs. Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWg5ekI2amprYWZFUmxLelNGMjRablBqcWUzWlJnQ3RYM2g1ZENFbF9QQTFHRl9KVEVEMGpaMGpldlB5NG9hUEFLSExZZFNfV0RBcm5MWFJMWDBacEVtWXdwYVYzbnFsbnV1b3d4Rk1nOFlFRWlEUTRNci12ajRmNFh6WDJOTjZrRnE3X0Vfd0lSc1ROT2V1WFpOYW9OMklmNE9YS0ZQdEVRUQ?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-08-10T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1087,48 +1087,7 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [
-    {
-      "id": "6elvhAmUX18",
-      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
-      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
-      "publicadoISO": "2026-11-12T01:20:48.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "ibb-gHsYxgU",
-      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
-      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
-      "publicadoISO": "2026-11-10T23:30:57.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "3TqKVvdfwYk",
-      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
-      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
-      "publicadoISO": "2026-11-09T16:22:24.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "GRULEGw-YeI",
-      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
-      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T20:00:31.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "n8su8tM3ld8",
-      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
-      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T13:01:00.000Z",
-      "categoria": "Entrenamiento"
-    }
-  ],
+  "videos": [],
   "redes": [
     {
       "nombre": "X",
@@ -1147,8 +1106,10 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
-  "avisos": [],
+  "totalFuentes": 35,
+  "avisos": [
+    "YouTube: HTTP 404 (no encontrado)"
+  ],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

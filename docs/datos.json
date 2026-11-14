@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-14T05:25:11.008Z",
+  "generadoISO": "2026-11-14T06:25:18.670Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -662,9 +662,9 @@
     },
     {
       "titulo": "Atlético de San Luis Femenil a 90 minutos de hacer historia",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVThaVDlxUVR0RWp1ckJOVl9Sd3hEYlNqaXJ1UUk0Z0RwWmFOTVlUWVFySzlrMWItUnJxbFRPcF9pMXlNWUtoRF9hcmE0eVpNcXpVdWpOYjMwT1V5b1o0ZnVyWW5wTXNNMzRaakRSQl9IdUZNM2k2S3J4MnpwOWNJeTVtQUpGcE0xdXlyY04xbUJPcExYOFpsODlFTzZEZEFqeDlETXcwOGZLR3ZJSDRJZ2hR?oc=5",
-      "fuente": "ESPN República Dominicana",
-      "fechaISO": "2026-11-06T11:50:00.000Z",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFg5SlpYcXB1OVZ4NnlSY3dENGxmNGU3bUUyb1laa3BqTWxfak4wMjRtOUpLMWg4WkFoWF9hc3Q3Ti1qNlI0ajF4ajNZcndxMmdvcG5uSThicXVKT0g3eDlvaTFXX25yVnVoOGRfS3BobFRjZHRwM1MzeEJwY2VNNnRTUkRkX1YyNHFrZVRBUDJxZVRXRzRBcXl2X21Ia1dfU19nN1ZjNVVRSklRYXljdHpyaEZ3S0l3NDd3ODdJSDc?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-11-06T16:50:00.000Z",
       "categorias": [
         "Femenil"
       ],
@@ -745,8 +745,7 @@
         "TUDN",
         "Bolavip México",
         "Récord",
-        "El Informador",
-        "Mediotiempo"
+        "El Informador"
       ]
     },
     {
@@ -773,8 +772,19 @@
       ],
       "tambienEn": [
         "El Informador",
-        "El Informador",
         "El Informador"
+      ]
+    },
+    {
+      "titulo": "Atlético de San Luis vs Atlas: alineaciones y probabilidades",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDN4Qlo5S0dvcUxja3BOWFRadElVTWQxQ2kya2dsdjF2aG5jWFY4NHpYV0RIcUNEYWltNEhIcXctQzc3NmhtUVNEdGVPUV9aekJPVHNBLVA5MXVHRVZfeWxRQW4weGxQVEhOam9pdHhYVmRmN2IyOVNjcE1QelJtQXI3N25JMnN6WXp1dnlzdEp4aTFpNkN0UGhnQmhKXy1XOHptUHlCcUNPTGtzQjdranZhdk5PRUU?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-10-30T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "ESPN Argentina"
       ]
     },
     {
@@ -799,11 +809,10 @@
       ],
       "tambienEn": [
         "Potosinoticias.com",
-        "Atlético San Luis",
+        "Atlético de San Luis",
         "El Sol de México",
         "El Sol de México",
         "El Sol de México",
-        "Atlético San Luis",
         "TUDN"
       ]
     },
@@ -842,6 +851,7 @@
         "TUDN",
         "TUDN",
         "TUDN",
+        "TUDN",
         "Facebook"
       ]
     },
@@ -862,6 +872,17 @@
       "fechaISO": "2026-10-21T07:00:00.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Marcador en directo, H2H y alineaciones del Atlético de San Luis – FC Juárez",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTRnQUk0Vjc4V2k2TjVvd2tGdmoyMm9LTG5wbDItR01tMUpqdzdlU2lyTzZENXY1anA0X08ydkJsaW9LbDBHRHdYZmhITndaeFJ2cmtseTV3WEJKX2xUdFZ5cGd0V2NSWnlZcWdsTEEwc1VLYVB0NDVmSlVUWElGM3gtZzZWakpxZFozQg?oc=5",
+      "fuente": "Sofascore",
+      "fechaISO": "2026-10-18T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
       ],
       "tambienEn": []
     },
@@ -980,18 +1001,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis vs Chivas: alineaciones y probabilidades",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYi1qcVBuX2pmTWtNSTJ1eTA4VkpveGVLZE5qWHltTjdVbi1IakZVU0hKTGlQeWg5R1dvNUJ2TTA2WXQ1dW9uUmN5a0lhdTR3bjRzZzIzczhDNzhGZV9xYkJhS3VheHpOUnVYSEpPdk1Ubkw5TnpueHRsbTNSbEFMdUhia2RWa0psaTFJeWcyXzV4eUk2V2xQTTdsNGxlSGFDREpJTGg4T3lHUmZONnhnT0pvUWwtNFpZN05JU21kUEE4dVd1LUVF?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-09-05T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "ESPN Argentina"
-      ]
-    },
-    {
       "titulo": "Atlético de San Luis, Chivas y su estrecha relación en el mercado",
       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzBwMkJ0RWRZUERTMldVUkZzWWZfUzc3dHZjUFdqSENNMzNrQlpwN2g0bER3Ny1tclJtaV9GanRMQTBTZXpxTE1RX0tMbUNZeVVEalhYbll1SDFFdlFsVHZjWFFFcWFlMmFtdDBWTS1LQ21xQzNkcXFkZzVjeFlCd2JtNkdPS1pKUWtwRXZKa3d4akU4NmFocXJucnlRWV9vQm0zQ0VXSDcteVZ4WThIR0dha1hfT005VHplUVRQNERwUQ?oc=5",
       "fuente": "ESPN Deportes",
@@ -1028,16 +1037,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOczFjQjVoYXB5ZFJ3ZHhGdTZvQjEzb3MtTFdTNzVlS0xFeVVmU3A2cFlUOWREZnBtWTJITDNJRkNEZ0piN2hQcDBVaGdkc1lSYVFtTW15T0hsYUtqeTlqc2d6Z1ZLaWNlbDdORGU5c1ZtcEVpd3c3RzZ6eGk5cE0xYUdfMHQyWUJuNzVabURKbmluMThRdzFfOUJvcXV4T2Nkanc4eXAwVVVrcUkxY2ZNdy1Fc2JrVVhVNHFrYW04UExRaDJnZW5CbDM3SU4wQXdTM3plQjBMX1lLZzJsODNF0gHfAUFVX3lxTE5zMWNCNWhhcHlkUndkeEZ1Nm9CMTNvcy1MV1M3NWVLTEV5VWZTcDZwWVQ5ZERmcG1ZMkhMM0lGQ0RnSmI3aFBwMFVoZ2RzWVJhUW1NbXlPSGxhS2p5OWpzZ3pnVktpY2VsN05EZTlzVm1wRWl3dzdHNnp4aTlwTTFhR18wdDJZQm43NVptREpuaW4xOFF3MV85Qm9xdXhPY2Rqdzh5cDBVVWtxSTFjZk13LUVzYmtVWFU0cWthbThQTFFoMmdlbkJsMzdJTjBBd1MzemVCMExfWUtnMmw4M0U?oc=5",
       "fuente": "Rebaño Pasión",
       "fechaISO": "2026-09-05T07:00:00.000Z",
-      "categorias": [
-        "Cantera"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis, la segunda oportunidad para los canteranos de Chivas",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFRxWEZadm1OYjBFOGlPb0hsRzJ1U080XzYyYTBmcDljWk5aaTJXcUROek1qcUM4bkFqcmU5Z0lDOU01S0VjVHRnYjFmOVdZVDBSMEhEazdSSDNBVXQzOEJ0amdReS1HVm15T3RXMl94bXdCWVdtRC1MWGtYSGZ0eUZkVTJRMG94aWMzRl9CTUhISVZ5azliakx1cXNxLXVReTlzaU1XYUVDemppNUx1emNORXlIWGRaTWg4aDBzZDN0cUVaVHfSAcsBQVVfeXFMTVEwX194YnZucG16MWlmbVpZMl9iRmwzXzlVUlhLbG1WM2JOMGJjV3IwaUxURlhuTnFFMUlFR25OaWhpbXZmU1BKQ0gxZWFEWkg3a094VUJpTHB3cEI2eUdlWnIwQUhoUDZVaTZfeFdhMk90RHdFazB5T2pPek9jdUl1aUo4czBZZTNCTnZrMkxNUHQ0TUZPMWpWa0Y0bWg3T2pKekc0N3RkelBhSFRLeVh2OVhlMHJuZU95RG4wYkhVcHlTQ3FlY3RKczg?oc=5",
-      "fuente": "El Informador",
-      "fechaISO": "2026-09-03T07:00:00.000Z",
       "categorias": [
         "Cantera"
       ],

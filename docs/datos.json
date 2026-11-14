@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-14T00:24:14.477Z",
+  "generadoISO": "2026-11-14T01:24:42.678Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -344,6 +344,16 @@
   "temporada": "2026 Torneo Apertura",
   "fuenteDatos": "ESPN",
   "noticias": [
+    {
+      "titulo": "'Nació' el tercer hermano del Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlNpa1cyMVk4UXhXUzJrNl9lWG4wTUxha2Y5Rng4cFRfMk16cVRDemRhVW1PSm9qbzhmM0daUG4tUlRJTjl3NnVKVlhlMDJuQlBQOGFudlktclluVW10ei13RXZRYjl6UjRpWGNvN0VXYXItSVpEZWpQYkhMd1d1Wms3Q3ZEOFBlTmxXMHhDYlRwdw?oc=5",
+      "fuente": "FOX Deportes",
+      "fechaISO": "2026-11-14T00:27:17.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
     {
       "titulo": "Fernando Torres rechaza dirigir al Atlético de San Luis y mantiene su objetivo en España",
       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWUFMcmFnYTNDUUV1dXc0UmFoMlBrVTZ3TWxudm01VXN2MFNmcVIyY1hHVkxfbU1iYVJ5cjZDNV9hcjBZeVg1R1Fyb09tU2dyb01pLWJOMkpBcF81c25HaEpuNGpvOEJDdUZqaW52bzg5MmZQVEE3Z2ZhQURaYk50cnlrdkJfOVpFYmI3SWc4MWpKMFRCcTlWa1h3ZGZKS1htUkNGek11Z1gwdjdISUhsdUg2WTdEQlRNOFpuMDhySFJzUlFHVUdoUjFkLXJSY0xFNkVESGYxYm9qQQ?oc=5",
@@ -766,11 +776,11 @@
         "Telemundo",
         "Mediotiempo",
         "El Heraldo de México",
-        "TUDN",
-        "TUDN",
-        "TUDN",
-        "TUDN",
         "Mediotiempo",
+        "TUDN",
+        "TUDN",
+        "TUDN",
+        "TUDN",
         "Bolavip México",
         "Récord",
         "El Informador",
@@ -866,6 +876,7 @@
         "TUDN",
         "TUDN",
         "TUDN",
+        "TUDN",
         "Facebook"
       ]
     },
@@ -886,29 +897,6 @@
       "fechaISO": "2026-10-21T07:00:00.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis vs. Querétaro: alineaciones y probabilidades",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYzBDanhKbVYwYm5ZOGg3R3k3V3QxSmlrQU02TURPWF91LWZ3QXJJMnQzdW1tU010MGlmZnQ4MllfQi04RDF3TEZ3V2syOEpVaGlXTmpmdnVuZ1RqOFRhTlFkRVdpczNBa25BV3NFTG94MW1XRVgwSVJUMmxMcjNQZnluRENWTW5Xd1JwTDdxa2hkTVk5TkRDVkVndk9CMzNLNDJYRkRRQ05aOERQdzFNdmpZVDlLMzNRWHlJX1ZsSDdseWZjQUpr?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-10-20T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "ESPN México",
-        "ESPN Guatemala"
-      ]
-    },
-    {
-      "titulo": "Atlético San Luis vs. Querétaro - Resumen del partido",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm5pR0xRSHd1dzh3RXR1Z216bTQ0TnJFVVNZaVNLT09TRWNtYTF1VHF2M2stY3Rrai1WakU5UW5fMFVrRTB3M05tRTgyOGY0aXVXWDNMTmNGVFBna1RBQVJhdzNxcXYzWkZZT2pYbzBJQTBxamU3QWFrV0x5UXJheGo0ekx6TEVueWlMLV9VNFpaNnhDbGlGVjN3?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-20T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -1013,18 +1001,29 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis vs Chivas: Resultado del partido de Jornada 7 de Liga MX 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXZVY3pfRGR4TU9hSXl2bGNxS0xQYWJscFFSeF9vQVRWajgyYmhRRlN6RU04MVhSYkJ4blZHbE5GZ0VfUkM3U1p0NnVDampaakVuOHRLUE9jNVJTT01oYmgyQXltd0NZYVFZTmVNc0gyUllsTWlPUk5MNWljTDVzVDNGNWhtT3MtSGNfZGdoZXVBZ1JSRDgzSnEwTG5xb0k1R2R6TjhYTFB3QdIBqgFBVV95cUxNWE1nV2dXZGlqQldKN3NKcDVyVlplcnRvc01WLVA3c0h0bWFWSFJLSXdmbDVEMFVqSjJzbHdjYW5nZTE2a0NrV1dGTlN1dHl4WmtNaFNQcUR3RnAzMWx4S0xpb1hmdzJmQnJmQm1zUnNXenZVS01nSm9KS3lHc25VckRWUjMyS3lPaFpGcnkwNnp4eTN0OHd6RkpFdXNHaDhaLW5vc2ZINmRmZw?oc=5",
-      "fuente": "MILENIO",
+      "titulo": "León vs. Atlético San Luis. Resumen y resultado del partido de la J8 Liga MX ONLINE 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNenlmeWVaU2ZlOEdJVE9JWjBOMnRTVnJUSHk0VV8zajlSTFVOUnZtdC1tUks5S0VpMC1uNDZIZl9qMEJ0Ym1WdTVyRDIzNDkzYUlmMnVqQTUwOERwbDFoSV9maDFjZmVwdm94cGR0cW5BZVhnWmtLOGtaRmxYbnA4SUhnRk9qY2xfQXFXVmpIWjBQWlpCYWE1cEZnWUxCQnA5NlUtQUt6Y1RtUVFKcUo4NzZxWjREd25MRWU3atIBvAFBVV95cUxNbmVlWlMzenFHMF91N3RYX3ljblcwMGEycXV2SXlMdFRLbW9zc01NaXR1QWRqd3hvUi03MW5rMU1QN1l2ZUlIRXctZGJtWXlHalR5S21TMW5FYVlQNkpkNWgxVUk5NEdwSU14ZzBLQzFxSk5pU2l2Z3g1T0JhQzlyMl96UXJwYi1KSlRTd1puS1pDVGZYWHdPQU91d0x0RERxTWZzMVh4RW1GMHY4X3VTRGdXRnlsTlNlQ1F0eA?oc=5",
+      "fuente": "Mediotiempo",
+      "fechaISO": "2026-09-14T14:09:01.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Milenio",
+        "TUDN"
+      ]
+    },
+    {
+      "titulo": "Atlético de San Luis vs Chivas: alineaciones y probabilidades",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYi1qcVBuX2pmTWtNSTJ1eTA4VkpveGVLZE5qWHltTjdVbi1IakZVU0hKTGlQeWg5R1dvNUJ2TTA2WXQ1dW9uUmN5a0lhdTR3bjRzZzIzczhDNzhGZV9xYkJhS3VheHpOUnVYSEpPdk1Ubkw5TnpueHRsbTNSbEFMdUhia2RWa0psaTFJeWcyXzV4eUk2V2xQTTdsNGxlSGFDREpJTGg4T3lHUmZONnhnT0pvUWwtNFpZN05JU21kUEE4dVd1LUVF?oc=5",
+      "fuente": "ESPN Deportes",
       "fechaISO": "2026-09-05T07:00:00.000Z",
       "categorias": [
         "Partidos"
       ],
       "tambienEn": [
-        "Mediotiempo",
-        "Mediotiempo",
-        "Milenio",
-        "Telediario"
+        "ESPN México",
+        "ESPN Guatemala"
       ]
     },
     {
@@ -1112,7 +1111,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
+  "totalFuentes": 38,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

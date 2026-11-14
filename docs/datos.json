@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-14T03:24:56.386Z",
+  "generadoISO": "2026-11-14T04:25:03.883Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -385,7 +385,8 @@
       "tambienEn": [
         "Soy Futbol",
         "Infobae",
-        "Potosinoticias.com"
+        "Potosinoticias.com",
+        "Soy Futbol"
       ]
     },
     {
@@ -580,16 +581,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Los Bravos de Juárez le pegan como visitante al Atlético de San Luis y lo eliminan del torneo",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNemYxaEE4N1VNakJtTjh1MTVlalFqaThaMHdXQUVya3pjVHdHblB5ZHI3YUJaWDJsd2RZbERoZ0prSWlGbFZzYlc5alRqUnc3NXZGNERJODEtdVYxdG5DZ2VocWVwTmo5aHhYZVFzSWxDYXFndzVyN3RnWDZ4WWVEdkVadDgxWE9WNEU2dUt2NEI4aEx0Q1h1NTB1VkxVV0JIWFFDT2l4WmRhQTUyNnFmS3U2V0ZCdVZoWUNvNDdPMk1nZw?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-07T03:51:05.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético San Luis vs. Juárez - Game Highlights",
       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXV2a3BSZ3FGYlVHYjFNM0xxZmVuckhSclA5NE93dXdzV1RvdWxXSE8tQnU5SUctRFl5N1hDdmh2cXZVQmQxQmkxZ1JOdmFmWUtaZmFITGdQRFNLWWhoRVkwaGZQS2g3R002R3o4MjFaU2ZoLXNNZGFGeFdsQnlPNzJwb1RGY0czT21BWmt3?oc=5",
       "fuente": "TUDN",
@@ -614,16 +605,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTNKdF9vdEtyY244TFA5bGRkYS1BbnkyQnVQUDUydUhUM3lMV1kwLWFQWG5BbmppXy01T194ODdhNWNSLWxoMTFlM2lpR05zN3pNWHlRVDNOd0xSbUktZ1g3aVQ4NXZLa0JiTEdlZkRWcm80Uk85RWM4U21lMGVRX3ZfVV9GVTJYVTl6NEVaZjBDSHViZ3JzbHBoUXZWNlkxXzVrMlJWNERVcDlWX0w1TA?oc=5",
       "fuente": "Ovaciones",
       "fechaISO": "2026-11-07T02:30:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡Arranca la fecha 16! Ya juegan Atlético de San Luis y Bravos de Juárez",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3NrNjBuWXc0ZkpzdEdESXRtNl9Hc2xGejR1cXN4YjBkOEFKQWhBbmVSSUtpczJhZUIwaExOQXB3d3M3alIzWTh1ZnpicmNJMGpMODVaZXd1SXh3RE93OGROMHBTWkxrSFM3OWIyTUphNm9sQ09yVUhwaC02Q2VnUWticnM5ZF94NUVLdEtWNFlHYmp4cXkxVU12Q3FnRlBGaXUtem9zMHk3S0RMMFpmSA?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-11-07T01:06:00.000Z",
       "categorias": [
         "General"
       ],
@@ -720,21 +701,23 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis vs. Bravos: disfruta el partido de la Jornada 16 por ViX | Canal 5 Home | Canal5",
-      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclFvcEtpNDVfb2RkR3ZCRGJpVDhpaDVFN2F6OEk1NUxCRE9CeUZxclgzMkhCZ0I5X29OZm1fLURPNHo4Zm00WkNqZ1Jha2JfVEd4YzBCZks4OUpDMXpHV1VWcjJ5YVpONGctTlJIdWsyYkhXU0M5Y25XMktVUERldzNFdWRzSmtUMHRNaklWeGNmM1V4M01tQmZtaUp4MG9VVkl6ZlRVaFVsRUl2ZVF2TnRvTQ?oc=5",
-      "fuente": "Televisa",
-      "fechaISO": "2026-11-05T23:26:00.000Z",
+      "titulo": "Pumas vs San Luis: Pronóstico y posibles alineaciones del partido de la Liga Femenil BBVA",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT1l3Nm5kRy1XUTl4TEFPdi1jZFJPUXBCUWxjdmZ6djlYWVU5dnI0MWZBVDlGMHB2OUFQT19KandQMFp2N3pOeHFEcXdOcFhDSHpZRGRqNUFYaU10ZE5jZ3Z3RlZoSnVFUUNZM3VZd1FYX1F4T2l2SjUtTVN6TFlTbUdkQ1RBR0EtVjdBNWY4bk8zUmx4MzB0aF9IWkRHZlQzcVRTSmNTaG9wMTQ0WXNPUzYzd19wcXZBU0J6d0FrSHJkMTNL?oc=5",
+      "fuente": "SDPnoticias.com",
+      "fechaISO": "2026-11-06T11:00:00.000Z",
       "categorias": [
         "Femenil",
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "sdpnoticias"
+      ]
     },
     {
-      "titulo": "Pumas vs San Luis: Hora y canal para ver el partido de la Liga Femenil BBVA",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZjJZbHRUMmhwNTBiQWttWl96TW5qbjgxSWUzekwwcjhFeUJiZklJb0EzRExiRkdvV293ZkFRY19yQlNIdFVWT0F5QUVxLXZRbHR1N1RVUkRYZ1ZmcVh1djJPaUlkS0l3X1NOejZtZ2N2Yzh6Y0Q3OWlYSE1zQmJBQjNUdmhpNGZJTURZeXNpWmZRZGJUN0ZrYXItekhVXzRYVjFTY3RiT2hPX0kzcTZ6QkVR?oc=5",
-      "fuente": "sdpnoticias",
-      "fechaISO": "2026-11-05T23:00:00.000Z",
+      "titulo": "Atlético de San Luis vs. Bravos: disfruta el partido de la Jornada 16 por ViX | Canal 5 Home | Canal5",
+      "enlace": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclFvcEtpNDVfb2RkR3ZCRGJpVDhpaDVFN2F6OEk1NUxCRE9CeUZxclgzMkhCZ0I5X29OZm1fLURPNHo4Zm00WkNqZ1Jha2JfVEd4YzBCZks4OUpDMXpHV1VWcjJ5YVpONGctTlJIdWsyYkhXU0M5Y25XMktVUERldzNFdWRzSmtUMHRNaklWeGNmM1V4M01tQmZtaUp4MG9VVkl6ZlRVaFVsRUl2ZVF2TnRvTQ?oc=5",
+      "fuente": "Televisa",
+      "fechaISO": "2026-11-05T23:26:00.000Z",
       "categorias": [
         "Femenil",
         "Partidos"
@@ -817,16 +800,6 @@
       "fechaISO": "2026-10-30T07:00:00.000Z",
       "categorias": [
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atletico San Luis U19 (W) 0-1 Chivas Guadalajara U19 (W)",
-      "enlace": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ubUpHS0c1emYtNm0tUV80Q3NVd3Awa2FpSmpsUkdhTnFVSEl0Tl91VHJLREJBZEY2YVIwTjVKSnB1azhWRWxlLVp0c0VYcmNIaXVLcThVX0k3YmNCRFFOUTVtUXRrZDB4bkRR?oc=5",
-      "fuente": "Elbotola",
-      "fechaISO": "2026-10-25T07:00:00.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -1031,8 +1004,40 @@
       ],
       "tambienEn": [
         "ESPN Argentina",
+        "ESPN Argentina"
+      ]
+    },
+    {
+      "titulo": "Atlético de San Luis, Chivas y su estrecha relación en el mercado",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzBwMkJ0RWRZUERTMldVUkZzWWZfUzc3dHZjUFdqSENNMzNrQlpwN2g0bER3Ny1tclJtaV9GanRMQTBTZXpxTE1RX0tMbUNZeVVEalhYbll1SDFFdlFsVHZjWFFFcWFlMmFtdDBWTS1LQ21xQzNkcXFkZzVjeFlCd2JtNkdPS1pKUWtwRXZKa3d4akU4NmFocXJucnlRWV9vQm0zQ0VXSDcteVZ4WThIR0dha1hfT005VHplUVRQNERwUQ?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-09-05T07:00:00.000Z",
+      "categorias": [
+        "Cantera"
+      ],
+      "tambienEn": [
         "ESPN México"
       ]
+    },
+    {
+      "titulo": "Chivas vuelve al triunfo con goleada sobre Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMWtTc0dLOUxSaThEOEE2OVE1UURzVjRheEZrU1FxbFJiQl94ZzFEa2lBYjlaVTFiMTRWaXllLVdZWUJUVUt2WmhMZ3V3WE44X0tlUmZoYU0ycjRWRURqMW1ZV1VTUTRmQUNiVGpKdk9COFdUZGo4bnpydmdtdjNGSENrcTItQXZieE9MQnBfVkZNRWFQTEU1cXloWl9Nb3pVQnNkUlNKaXBnd0QzU1JoLVBDYm1haVdGd2FkR2xKOGJ5V2Q2RVE?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-09-05T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¿Cómo ver el Atlético San Luis vs Chivas en TV y streaming?",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjVqMFJCS05PdnJfNURYZGZaaVItT044alpuSW10dmE2dWt3TVZPMU1PaDdTNXA1OGZGXzB2emZfUkIzUkN6dXVjRjB6MDh0Y3lVZmx0dkJxbTJsLXdBOXpiaVI5Qm4tQkluRnQxQkx0ZUZyRTUyNlYwbHAzLVVaZVVuOEFHMFpEOXBhMk9HNFFzRzA?oc=5",
+      "fuente": "Sports Illustrated",
+      "fechaISO": "2026-09-05T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-14T17:26:54.704Z",
+  "generadoISO": "2026-11-14T18:27:01.893Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -423,6 +423,16 @@
       ]
     },
     {
+      "titulo": "Galindo inicia campaña “Los cuetes no son tus cuates” en SLP para prevenir accidentes",
+      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93V2VEUlo3dHlhdU9TRlAzLTc3ZFBFdWtvWVlIVWUwZld0TDBValhWU1RMeTNfN3UxQzlXbnRWRF9TYmoxVFlRR29lNVNtQk5GMW1LUGx2aEFCWUxWaWZLbXVpN3FteHc?oc=5",
+      "fuente": "Antena San Luis",
+      "fechaISO": "2026-11-13T01:37:50.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Puebla vs Atlético de San Luis: Boletos desde 50 pesos",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2JDNUc2MVpwcGpmUDhMcHdVM1YwNUtuV0FaNHNueVpqYXhsMkp0N1JwSmJtNDVWVlRTejdYeFY1UmdNckFVNUR1RVRVakRTdk5ZWmxyVFhuQ3hfVi1pQXZvOHVXZk1jVU1iczRoNmVBaXJKNHhsd2JvVnd1OHFkS2gxR0dBNktzYW5ISnprVV96WmN2YkNpYlZ2TTV0cXE1VlZsbFkwUQ?oc=5",
       "fuente": "Plano Informativo",
@@ -556,8 +566,7 @@
         "TUDN",
         "TUDN",
         "El Informador",
-        "Récord",
-        "Mediotiempo"
+        "Récord"
       ]
     },
     {
@@ -739,16 +748,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis vence 1-0 al Querétaro y extiende racha sin perder en la Liga Femenil",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGJXNDNrS09ucWY3Uk9Rckp6QkhTM3FCV3N1Z2J5eXpjTGROOTFQMlU1aTFneW9BWmdpZXQtdkpaN3I0dDRXY2daYnJZb1hnYVJNeDhsOXVQWFp5U2dWamJPRUVQRG5JeXlHUkt4c2VJSzVGUWhpYWQ4MVo5TmNtSHJkSE9LcDVwVVIwdXFWSzhHUHM1aGM4TzJSNUlCM2RlRjV5WDhRdFlVbjdaRzNmdXlSYkFGV0hSOVh6WGlWV2JKaEs5OS1OZ0NQNzFlY1QwSmgycm1MWnprbWRf?oc=5",
-      "fuente": "La Jornada",
-      "fechaISO": "2026-10-03T07:00:00.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético de San Luis Calendario Mexican Liga BBVA MX Femenil 2026-27",
       "enlace": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jWmtMRDA5X1h0ZHFpUTk4WFduZDM0eldYaVo0d1FsTE1CeUZzdEJQZVdrOC1MdmY2dzF3X3JJY0xIZGJQTFVvcTZOUXBHalo5SW9semZlS3NlYk92bEpLNXppeGY1NGlKalpFNGtfUHo0WDYzVEdIVXBqTHFXQQ?oc=5",
       "fuente": "ESPN México",
@@ -815,7 +814,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Mediotiempo",
         "Mediotiempo",
         "Mediotiempo"
       ]
@@ -1151,7 +1149,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 35,
+  "totalFuentes": 36,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

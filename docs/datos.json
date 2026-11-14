@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-14T08:25:54.158Z",
+  "generadoISO": "2026-11-14T09:26:01.340Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -988,6 +988,17 @@
       "tambienEn": []
     },
     {
+      "titulo": "Fuerzas Básicas del Atlético de San Luis también sufren derrotas - El Sol de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlBkRkY4aUlSNlN4a0FUT0hiUV9KbVJ5bjVHemM4N3YzSHJIWUtzZ0ZVOTZ2SmoyM0pEbEd3TF96eEljNjZkWWlXbzJVX0JkOGYxaHVYVmkxS3JzWWMtVzFWNEhEeVVVaV83dHBrNHo2dzF4dzFzYm1IVVdrU1ZhaEViYmVJd2RiYVBMZlJFZ3h5Uzh6NnAxcEZ4Qk5BRTFfZlM2U2I4Rjd6X0NvTG1YMWFsODFVZmc?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-09-08T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis vs Chivas: Resultado del partido de Jornada 7 de Liga MX 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXZVY3pfRGR4TU9hSXl2bGNxS0xQYWJscFFSeF9vQVRWajgyYmhRRlN6RU04MVhSYkJ4blZHbE5GZ0VfUkM3U1p0NnVDampaakVuOHRLUE9jNVJTT01oYmgyQXltd0NZYVFZTmVNc0gyUllsTWlPUk5MNWljTDVzVDNGNWhtT3MtSGNfZGdoZXVBZ1JSRDgzSnEwTG5xb0k1R2R6TjhYTFB3QdIBqgFBVV95cUxNWE1nV2dXZGlqQldKN3NKcDVyVlplcnRvc01WLVA3c0h0bWFWSFJLSXdmbDVEMFVqSjJzbHdjYW5nZTE2a0NrV1dGTlN1dHl4WmtNaFNQcUR3RnAzMWx4S0xpb1hmdzJmQnJmQm1zUnNXenZVS01nSm9KS3lHc25VckRWUjMyS3lPaFpGcnkwNnp4eTN0OHd6RkpFdXNHaDhaLW5vc2ZINmRmZw?oc=5",
       "fuente": "Milenio",
@@ -1030,16 +1041,6 @@
       "fechaISO": "2026-09-05T07:00:00.000Z",
       "categorias": [
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡Goleada a domicilio! Chivas Sub-21 por fin levanta el camino y se luce ante el Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOczFjQjVoYXB5ZFJ3ZHhGdTZvQjEzb3MtTFdTNzVlS0xFeVVmU3A2cFlUOWREZnBtWTJITDNJRkNEZ0piN2hQcDBVaGdkc1lSYVFtTW15T0hsYUtqeTlqc2d6Z1ZLaWNlbDdORGU5c1ZtcEVpd3c3RzZ6eGk5cE0xYUdfMHQyWUJuNzVabURKbmluMThRdzFfOUJvcXV4T2Nkanc4eXAwVVVrcUkxY2ZNdy1Fc2JrVVhVNHFrYW04UExRaDJnZW5CbDM3SU4wQXdTM3plQjBMX1lLZzJsODNF0gHfAUFVX3lxTE5zMWNCNWhhcHlkUndkeEZ1Nm9CMTNvcy1MV1M3NWVLTEV5VWZTcDZwWVQ5ZERmcG1ZMkhMM0lGQ0RnSmI3aFBwMFVoZ2RzWVJhUW1NbXlPSGxhS2p5OWpzZ3pnVktpY2VsN05EZTlzVm1wRWl3dzdHNnp4aTlwTTFhR18wdDJZQm43NVptREpuaW4xOFF3MV85Qm9xdXhPY2Rqdzh5cDBVVWtxSTFjZk13LUVzYmtVWFU0cWthbThQTFFoMmdlbkJsMzdJTjBBd1MzemVCMExfWUtnMmw4M0U?oc=5",
-      "fuente": "Rebaño Pasión",
-      "fechaISO": "2026-09-05T07:00:00.000Z",
-      "categorias": [
-        "Cantera"
       ],
       "tambienEn": []
     }
@@ -1157,7 +1158,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 42,
+  "totalFuentes": 41,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

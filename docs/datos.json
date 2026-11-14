@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-14T10:26:07.934Z",
+  "generadoISO": "2026-11-14T11:26:14.406Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -480,9 +480,7 @@
       "categorias": [
         "Femenil"
       ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis tratará de cerrar dignamente el torneo",
@@ -638,7 +636,8 @@
         "El Sol de México",
         "Atlético San Luis",
         "sdpnoticias",
-        "Soy Futbol"
+        "Soy Futbol",
+        "Récord"
       ]
     },
     {
@@ -673,13 +672,26 @@
     },
     {
       "titulo": "Atlético de San Luis Femenil a 90 minutos de hacer historia",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVThaVDlxUVR0RWp1ckJOVl9Sd3hEYlNqaXJ1UUk0Z0RwWmFOTVlUWVFySzlrMWItUnJxbFRPcF9pMXlNWUtoRF9hcmE0eVpNcXpVdWpOYjMwT1V5b1o0ZnVyWW5wTXNNMzRaakRSQl9IdUZNM2k2S3J4MnpwOWNJeTVtQUpGcE0xdXlyY04xbUJPcExYOFpsODlFTzZEZEFqeDlETXcwOGZLR3ZJSDRJZ2hR?oc=5",
-      "fuente": "ESPN República Dominicana",
-      "fechaISO": "2026-11-06T11:50:00.000Z",
+      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFg5SlpYcXB1OVZ4NnlSY3dENGxmNGU3bUUyb1laa3BqTWxfak4wMjRtOUpLMWg4WkFoWF9hc3Q3Ti1qNlI0ajF4ajNZcndxMmdvcG5uSThicXVKT0g3eDlvaTFXX25yVnVoOGRfS3BobFRjZHRwM1MzeEJwY2VNNnRTUkRkX1YyNHFrZVRBUDJxZVRXRzRBcXl2X21Ia1dfU19nN1ZjNVVRSklRYXljdHpyaEZ3S0l3NDd3ODdJSDc?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-11-06T16:50:00.000Z",
       "categorias": [
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Pumas vs San Luis: Pronóstico y posibles alineaciones del partido de la Liga Femenil BBVA",
+      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT1l3Nm5kRy1XUTl4TEFPdi1jZFJPUXBCUWxjdmZ6djlYWVU5dnI0MWZBVDlGMHB2OUFQT19KandQMFp2N3pOeHFEcXdOcFhDSHpZRGRqNUFYaU10ZE5jZ3Z3RlZoSnVFUUNZM3VZd1FYX1F4T2l2SjUtTVN6TFlTbUdkQ1RBR0EtVjdBNWY4bk8zUmx4MzB0aF9IWkRHZlQzcVRTSmNTaG9wMTQ0WXNPUzYzd19wcXZBU0J6d0FrSHJkMTNL?oc=5",
+      "fuente": "SDPnoticias.com",
+      "fechaISO": "2026-11-06T11:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "sdpnoticias"
+      ]
     },
     {
       "titulo": "Atlético de San Luis vs. Bravos: disfruta el partido de la Jornada 16 por ViX | Canal 5 Home | Canal5",
@@ -691,19 +703,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Pumas vs San Luis: Hora y canal para ver el partido de la Liga Femenil BBVA",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZjJZbHRUMmhwNTBiQWttWl96TW5qbjgxSWUzekwwcjhFeUJiZklJb0EzRExiRkdvV293ZkFRY19yQlNIdFVWT0F5QUVxLXZRbHR1N1RVUkRYZ1ZmcVh1djJPaUlkS0l3X1NOejZtZ2N2Yzh6Y0Q3OWlYSE1zQmJBQjNUdmhpNGZJTURZeXNpWmZRZGJUN0ZrYXItekhVXzRYVjFTY3RiT2hPX0kzcTZ6QkVR?oc=5",
-      "fuente": "sdpnoticias",
-      "fechaISO": "2026-11-05T23:00:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "SDPnoticias.com"
-      ]
     },
     {
       "titulo": "¿Dónde ver EN VIVO el partido de la J16 San Luis vs Juárez?",
@@ -809,6 +808,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Así puedes ver el partido Atlético de San Luis vs. Atlas, Jornada 15, Torneo Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV05rOXFMb1FtUERVdVNQY05YamtNVTJqdVA2SWVnTVFXODBweWhnbTA0WlpTMnR6Q2hyWlhJUHV5b0QtM1daTzNWNFhPNElMSFJQZFpXRFJZc2EyN1duUGZYTDM1d1Z0ZVdDdkU1Ukh3Y1NFdlVFWGkxcWJtUkhnUDkyYVRHVWZvZ2VRWHJqVFkxM1FjbUNRRy1rc3hIY1RNTTRBXzc4Zm5nQVZZYkpZWEtHQ0ljdmIxTVQ3ajZ1aFhyc2UwNHktOWN1WlVXMEZvMVdGQQ?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-27T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Despedaza América al Atlético de San Luis Femenil",
       "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVN1VGM4Ry1acXB5N3FVRlZjdTRnenVHa2swUndQR2toY3FQaHd0d0dncm1lWFlYNTkwVTJ2cEwxa3RIbWRjYVB2ZGp1YnNoWXhXcmdpZHZiYjBqOHpkZmhMcml6TFhVNWh0cTJ6WFY0UEtJWG9IYkFNellmc3JtQlFFMnp2YVRrOE1z?oc=5",
       "fuente": "Reforma",
@@ -823,7 +832,8 @@
         "Atlético de San Luis",
         "El Sol de México",
         "El Sol de México",
-        "Atlético San Luis",
+        "El Sol de México",
+        "El Sol de México",
         "TUDN"
       ]
     },
@@ -1031,16 +1041,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "¿Cómo ver el Atlético San Luis vs Chivas en TV y streaming?",
-      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjVqMFJCS05PdnJfNURYZGZaaVItT044alpuSW10dmE2dWt3TVZPMU1PaDdTNXA1OGZGXzB2emZfUkIzUkN6dXVjRjB6MDh0Y3lVZmx0dkJxbTJsLXdBOXpiaVI5Qm4tQkluRnQxQkx0ZUZyRTUyNlYwbHAzLVVaZVVuOEFHMFpEOXBhMk9HNFFzRzA?oc=5",
-      "fuente": "Sports Illustrated",
-      "fechaISO": "2026-09-05T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1156,7 +1156,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 41,
+  "totalFuentes": 39,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

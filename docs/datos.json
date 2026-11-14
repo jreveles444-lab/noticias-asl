@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-14T07:25:26.522Z",
+  "generadoISO": "2026-11-14T08:25:54.158Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -350,7 +350,7 @@
       "fuente": "Atlético San Luis",
       "fechaISO": "2026-11-14T01:57:28.000Z",
       "categorias": [
-        "Femenil"
+        "General"
       ],
       "tambienEn": []
     },
@@ -467,16 +467,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTV4elJfWWJmZUdiN05HZHhWaFJfN1o0M0Z2eFJhOXR3VmJVY1cyM3gyVWV2c2dCbzRCMVNsV19IYjU3dlluU2dzcU1XQTJmVkViV2lMa3gtX0I3VC1fQnNZWG9mVE9wNW1SZmJIMGY0MFhjTmtGZ0JYRGV5OTJMOXU4dzlkSThMWGxaTmhBU1lJOUVvOWRGM1RGRUJsYzh4WFd0NQ?oc=5",
       "fuente": "Potosinoticias.com",
       "fechaISO": "2026-11-11T22:24:21.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Precio de boletos para partido Club Puebla y Atlético San Luis | ¿Cómo comprarlos PASO A PASO?",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVI4cS15Mm9MMHdscmdUNGRlUWtuellQUy02VVNrWGlOZUhBbE1DVGZuMnNSc2c4MlhXNGVBcFB2Vm5FckNsNjgtMGFxVFNmbnI2U1F5b2VGWTNwWFlpZ1R6dmhDSzIyelhOdHlrMVRKREhhbFVZZ3F1UnBIbGtNYjFrbHdGUDFTdXprRmtiejVJc1lGV21tLVd30gGaAUFVX3lxTE1PUzRTQ2pzcFdaWnlPU2V2WjVFa3dKbDZTMXJpQjRrai1ZaGNkMDZOV01QeVdNSkpPdGFnZG9mMWUydHFEVjVnMDk4Yk5uQkIwWjN3am1TMEFISGZBeUVLa21wbnMxMGVJcmI3WEJibUxQQlVKQ0ZMVVcteXBOdFkxSW80X2R3b2tHM2tLNDgxczZpUkRFdHNMZFE?oc=5",
-      "fuente": "MILENIO",
-      "fechaISO": "2026-11-11T18:05:54.000Z",
       "categorias": [
         "General"
       ],
@@ -682,9 +672,9 @@
     },
     {
       "titulo": "Atlético de San Luis Femenil a 90 minutos de hacer historia",
-      "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFg5SlpYcXB1OVZ4NnlSY3dENGxmNGU3bUUyb1laa3BqTWxfak4wMjRtOUpLMWg4WkFoWF9hc3Q3Ti1qNlI0ajF4ajNZcndxMmdvcG5uSThicXVKT0g3eDlvaTFXX25yVnVoOGRfS3BobFRjZHRwM1MzeEJwY2VNNnRTUkRkX1YyNHFrZVRBUDJxZVRXRzRBcXl2X21Ia1dfU19nN1ZjNVVRSklRYXljdHpyaEZ3S0l3NDd3ODdJSDc?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-11-06T16:50:00.000Z",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVThaVDlxUVR0RWp1ckJOVl9Sd3hEYlNqaXJ1UUk0Z0RwWmFOTVlUWVFySzlrMWItUnJxbFRPcF9pMXlNWUtoRF9hcmE0eVpNcXpVdWpOYjMwT1V5b1o0ZnVyWW5wTXNNMzRaakRSQl9IdUZNM2k2S3J4MnpwOWNJeTVtQUpGcE0xdXlyY04xbUJPcExYOFpsODlFTzZEZEFqeDlETXcwOGZLR3ZJSDRJZ2hR?oc=5",
+      "fuente": "ESPN República Dominicana",
+      "fechaISO": "2026-11-06T11:50:00.000Z",
       "categorias": [
         "Femenil"
       ],
@@ -765,7 +755,8 @@
         "TUDN",
         "Bolavip México",
         "Récord",
-        "El Informador"
+        "El Informador",
+        "Mediotiempo"
       ]
     },
     {
@@ -778,8 +769,7 @@
         "Partidos"
       ],
       "tambienEn": [
-        "TUDN",
-        "Telediario"
+        "TUDN"
       ]
     },
     {
@@ -833,6 +823,7 @@
         "El Sol de México",
         "El Sol de México",
         "El Sol de México",
+        "Atlético San Luis",
         "TUDN"
       ]
     },
@@ -843,16 +834,6 @@
       "fechaISO": "2026-10-24T07:00:00.000Z",
       "categorias": [
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis manda a Scarlett Camberos a entrenar al llano",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUW91cjVNZkx6alkyNmVaaHR3OG1kMkRrWi1mei1sMHh2YmgtZ0tQUkJ6UXVtd0kzWVVZWFhBR3BSNmFEM19WVUFDcHhiSzEwZWViRl9SZDdHMXdBbTVGSkpINUZabWI0b0hyQkluX05ycVFoMTZneHFqeHNXLV8xR0ZjdWpkc1FvM2xpTElETEktUWxaNVRoaGp2NEgzOTlT?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-10-23T07:00:00.000Z",
-      "categorias": [
-        "Femenil"
       ],
       "tambienEn": []
     },
@@ -1016,6 +997,7 @@
       ],
       "tambienEn": [
         "Mediotiempo",
+        "Mediotiempo",
         "Mediotiempo"
       ]
     },
@@ -1038,6 +1020,26 @@
       "fechaISO": "2026-09-05T07:00:00.000Z",
       "categorias": [
         "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¿Cómo ver el Atlético San Luis vs Chivas en TV y streaming?",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjVqMFJCS05PdnJfNURYZGZaaVItT044alpuSW10dmE2dWt3TVZPMU1PaDdTNXA1OGZGXzB2emZfUkIzUkN6dXVjRjB6MDh0Y3lVZmx0dkJxbTJsLXdBOXpiaVI5Qm4tQkluRnQxQkx0ZUZyRTUyNlYwbHAzLVVaZVVuOEFHMFpEOXBhMk9HNFFzRzA?oc=5",
+      "fuente": "Sports Illustrated",
+      "fechaISO": "2026-09-05T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¡Goleada a domicilio! Chivas Sub-21 por fin levanta el camino y se luce ante el Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOczFjQjVoYXB5ZFJ3ZHhGdTZvQjEzb3MtTFdTNzVlS0xFeVVmU3A2cFlUOWREZnBtWTJITDNJRkNEZ0piN2hQcDBVaGdkc1lSYVFtTW15T0hsYUtqeTlqc2d6Z1ZLaWNlbDdORGU5c1ZtcEVpd3c3RzZ6eGk5cE0xYUdfMHQyWUJuNzVabURKbmluMThRdzFfOUJvcXV4T2Nkanc4eXAwVVVrcUkxY2ZNdy1Fc2JrVVhVNHFrYW04UExRaDJnZW5CbDM3SU4wQXdTM3plQjBMX1lLZzJsODNF0gHfAUFVX3lxTE5zMWNCNWhhcHlkUndkeEZ1Nm9CMTNvcy1MV1M3NWVLTEV5VWZTcDZwWVQ5ZERmcG1ZMkhMM0lGQ0RnSmI3aFBwMFVoZ2RzWVJhUW1NbXlPSGxhS2p5OWpzZ3pnVktpY2VsN05EZTlzVm1wRWl3dzdHNnp4aTlwTTFhR18wdDJZQm43NVptREpuaW4xOFF3MV85Qm9xdXhPY2Rqdzh5cDBVVWtxSTFjZk13LUVzYmtVWFU0cWthbThQTFFoMmdlbkJsMzdJTjBBd1MzemVCMExfWUtnMmw4M0U?oc=5",
+      "fuente": "Rebaño Pasión",
+      "fechaISO": "2026-09-05T07:00:00.000Z",
+      "categorias": [
+        "Cantera"
       ],
       "tambienEn": []
     }
@@ -1095,7 +1097,48 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [],
+  "videos": [
+    {
+      "id": "6elvhAmUX18",
+      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
+      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
+      "publicadoISO": "2026-11-12T01:20:48.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "ibb-gHsYxgU",
+      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
+      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
+      "publicadoISO": "2026-11-10T23:30:57.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "3TqKVvdfwYk",
+      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
+      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
+      "publicadoISO": "2026-11-09T16:22:24.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "GRULEGw-YeI",
+      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
+      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T20:00:31.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "n8su8tM3ld8",
+      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
+      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
+      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T13:01:00.000Z",
+      "categoria": "Entrenamiento"
+    }
+  ],
   "redes": [
     {
       "nombre": "X",
@@ -1114,10 +1157,8 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 39,
-  "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
-  ],
+  "totalFuentes": 42,
+  "avisos": [],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

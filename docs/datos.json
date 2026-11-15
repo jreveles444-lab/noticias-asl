@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T19:29:55.790Z",
+  "generadoISO": "2026-11-15T20:30:02.397Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -541,8 +541,19 @@
         "TUDN",
         "TUDN",
         "TUDN",
+        "TUDN",
         "TV Azteca"
       ]
+    },
+    {
+      "titulo": "¿Dónde ver EN VIVO el partido de la J16 San Luis vs Juárez?",
+      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcGd3R0xnWV9hN3lNRWpueXNwbWY4WVZuZGNqa1JsV2lxaTdDWFhfLURZSVNud19LMU9zZEZwZWRIMlR2UWRrTTZxUkpTdzlGTGh2OHJlZmxoUGtkM2UwMDBPYzNQOTk1cURobGxwcWNQaWRrWGhKYUpNM3lFMHdNb2FsT1AzYmhOTU9QVTdnMGhNRFFQN2FmM3oyTGprVWVkMmxyQ2VKaDdlaV9HVmlENHp1NHFhTGMyQ25wZG9EdjI4VW4tTWFLSUl6U1hTYzZuRjQ5QjloWm50OVRCTmh3OXFZcW3SAeoBQVVfeXFMTnNTQ2s0aEwwN04wRTZZazlVcHlXRjkwUndhbHh3UUxsVTNudFljOUtabWFwczdySDZ5SnpISTc5RTdWSnNzTGdaR2tScTRjdXhVT0FKZTNrbDZ3d3AtSG1ObnpDeDBJLWY1X2JDS3N6TW1ZOVQ3dVdiZjdSX0U0MnB6NjRrLW1scjlsS25xRFJ4UEVlNVRfVzFJZi1qb21mZzBWOW91N09Hdi1ZNHdyZE9ZX2lIUkRpWTNXaDJTSE5xTTlOM1lNYXVMQW1BLXdTeFdJOWxWenJ4TGNFbF9CZGljQnBOQlk5WG9n?oc=5",
+      "fuente": "El Informador",
+      "fechaISO": "2026-11-05T08:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "León vs. Atlético de San Luis Femenil EN VIVO: Dónde, cuándo y a qué hora ver el partido de la Jornada 13",
@@ -565,8 +576,8 @@
         "TUDN",
         "TUDN",
         "TUDN",
-        "El Informador",
-        "Récord"
+        "Récord",
+        "El Informador"
       ]
     },
     {
@@ -768,6 +779,20 @@
       "tambienEn": []
     },
     {
+      "titulo": "Fuerzas Básicas del Atlético de San Luis también sufren derrotas",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlBkRkY4aUlSNlN4a0FUT0hiUV9KbVJ5bjVHemM4N3YzSHJIWUtzZ0ZVOTZ2SmoyM0pEbEd3TF96eEljNjZkWWlXbzJVX0JkOGYxaHVYVmkxS3JzWWMtVzFWNEhEeVVVaV83dHBrNHo2dzF4dzFzYm1IVVdrU1ZhaEViYmVJd2RiYVBMZlJFZ3h5Uzh6NnAxcEZ4Qk5BRTFfZlM2U2I4Rjd6X0NvTG1YMWFsODFVZmc?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-09-08T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "OnceDiario",
+        "OnceDiario"
+      ]
+    },
+    {
       "titulo": "Atlético de San Luis vs Chivas: Resultado del partido de Jornada 7 de Liga MX 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXZVY3pfRGR4TU9hSXl2bGNxS0xQYWJscFFSeF9vQVRWajgyYmhRRlN6RU04MVhSYkJ4blZHbE5GZ0VfUkM3U1p0NnVDampaakVuOHRLUE9jNVJTT01oYmgyQXltd0NZYVFZTmVNc0gyUllsTWlPUk5MNWljTDVzVDNGNWhtT3MtSGNfZGdoZXVBZ1JSRDgzSnEwTG5xb0k1R2R6TjhYTFB3QdIBqgFBVV95cUxNWE1nV2dXZGlqQldKN3NKcDVyVlplcnRvc01WLVA3c0h0bWFWSFJLSXdmbDVEMFVqSjJzbHdjYW5nZTE2a0NrV1dGTlN1dHl4WmtNaFNQcUR3RnAzMWx4S0xpb1hmdzJmQnJmQm1zUnNXenZVS01nSm9KS3lHc25VckRWUjMyS3lPaFpGcnkwNnp4eTN0OHd6RkpFdXNHaDhaLW5vc2ZINmRmZw?oc=5",
       "fuente": "Milenio",
@@ -853,26 +878,6 @@
         "General"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Las Fuerzas Básicas de Rayados vencieron al Atlético de San Luis en El Barrial.",
-      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQk9MYkdEQWcwem1yU1RUd0xsYU0tM1RGRXEyYXRaamx6a2w3Zi1vZG5LcW1HUV90b3p0RXZDbmNOblozQXFOaDdtUW9yUDByM3E0UFpJNXVGX0tpNmpTUnM2dUZtY19jS1FuV090UkJUYmthTVpCTmNVSEVZUkJTTnI3MmkzWjlvODRnS0hYckgzM0tTU2Jta1Q2b2d4T1pmOUlYdXNaZWJNZDdVZXRiWWdwdzVtbVdnbU9OSXhueGFDWDNOQldJbXVwVDNnZlJQNmR4alN1TnE5dE5iWkcyMUNHRFpyZXFKdGRXNEFxampqY0RvUUYw?oc=5",
-      "fuente": "OnceDiario",
-      "fechaISO": "2026-08-30T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México"
-      ]
     },
     {
       "titulo": "¡Con gol del portero! Carlos Moreno rescata el empate de último minuto para el Pachuca ante el Atlético de San Luis",
@@ -971,17 +976,6 @@
       "tambienEn": [
         "Atlético San Luis"
       ]
-    },
-    {
-      "titulo": "The key facts you can’t miss before Chivas Femenil vs Atl. San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZXBZYVVmTFI1bTZRdGw4OFRob1E5Y29Sb3JheEQtZ2xfbGtGR0ZIUVpGX3o5V2ItSkU3b1kyS0JnbzI5cEFSd0ZaR2FNSGtCdUEyLVdxMGpRME5VQWU0WHVXMkoyN0xBUmJsVnlVWHpzT1FYcG5jWGZTX1c?oc=5",
-      "fuente": "Yahoo Sports",
-      "fechaISO": "2026-08-15T07:00:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Silvana González deja Atlético de San Luis",
@@ -1152,7 +1146,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
+  "totalFuentes": 35,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T08:28:39.355Z",
+  "generadoISO": "2026-11-15T09:28:46.772Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -854,16 +854,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Resumen | León vs. Atlético San Luis: Doblete de Cambindo y victoria de la Fiera",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1FGQk1UTE5JMWJIeXRpSzBieGo0LTRHc3FqR2E3S2lCME5MNlFpMS1FNnZFbDNxcVd4UTNCNmxIQnhWaVVMUUl4UFBSR2dDNUdpUDVsUWpDWEJMbFM3REVoRGNfdjhmRk5sTnJwTG01aEMxdDVCZXlicnY3RUJucHVQMGhaclQyMjNXM09yTGdyQ2pZMXEwWF9JQU5OTGNxcWU4RzVreUNXM3RNelBwelBWbHVhbEh3V0E?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-09-14T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético de San Luis vs Chivas: Resultado del partido de Jornada 7 de Liga MX 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXZVY3pfRGR4TU9hSXl2bGNxS0xQYWJscFFSeF9vQVRWajgyYmhRRlN6RU04MVhSYkJ4blZHbE5GZ0VfUkM3U1p0NnVDampaakVuOHRLUE9jNVJTT01oYmgyQXltd0NZYVFZTmVNc0gyUllsTWlPUk5MNWljTDVzVDNGNWhtT3MtSGNfZGdoZXVBZ1JSRDgzSnEwTG5xb0k1R2R6TjhYTFB3QdIBqgFBVV95cUxNWE1nV2dXZGlqQldKN3NKcDVyVlplcnRvc01WLVA3c0h0bWFWSFJLSXdmbDVEMFVqSjJzbHdjYW5nZTE2a0NrV1dGTlN1dHl4WmtNaFNQcUR3RnAzMWx4S0xpb1hmdzJmQnJmQm1zUnNXenZVS01nSm9KS3lHc25VckRWUjMyS3lPaFpGcnkwNnp4eTN0OHd6RkpFdXNHaDhaLW5vc2ZINmRmZw?oc=5",
       "fuente": "Milenio",
@@ -1039,6 +1029,17 @@
       "tambienEn": [
         "Atlético San Luis"
       ]
+    },
+    {
+      "titulo": "The key facts you can’t miss before Chivas Femenil vs Atl. San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZXBZYVVmTFI1bTZRdGw4OFRob1E5Y29Sb3JheEQtZ2xfbGtGR0ZIUVpGX3o5V2ItSkU3b1kyS0JnbzI5cEFSd0ZaR2FNSGtCdUEyLVdxMGpRME5VQWU0WHVXMkoyN0xBUmJsVnlVWHpzT1FYcG5jWGZTX1c?oc=5",
+      "fuente": "Yahoo Sports",
+      "fechaISO": "2026-08-15T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1165,7 +1166,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
+  "totalFuentes": 38,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

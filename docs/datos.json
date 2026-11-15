@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T18:29:49.076Z",
+  "generadoISO": "2026-11-15T19:29:55.790Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -489,16 +489,6 @@
       "categorias": [
         "Femenil",
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Estupiñan y el FC Juárez prácticamente apagan las esperanzas de Liguilla del San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXhpNlhKVkdEV2QwYzQyRGY2RnNBeUE3a1M1QVFlc0xBRlNrYUxRaUUyb1l3MlAwXzNVTnZUMWhjMUs4TmY3bE1nV3N1LWFkbkY3ME9KaEU5RG94Zi1MNk00U3lTcDdlU1pLdjhObHJXWXpIdUNLcWdrYUstQ0NzX3hZZnVmbVVHVmo4TXZGMGhudFNNRjdzVGJ5YVJrLS1WbzluRUhTZ08wMFhUbnR0OGc3eldaazlkWUhnX0hTaTBxZThYWW1ncUtyNjJMWnFqakFSTFdNRTl4U3hIYU9XVURqSE9CZw?oc=5",
-      "fuente": "Claro Sports",
-      "fechaISO": "2026-11-07T03:16:23.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -1032,6 +1022,17 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis vs Toluca femenil se reprograma para el 3 de agosto por lluvia",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWc2bTBNX3V6aThxYkJDNFdUcVhGZ2tLaGc5dFlOVW5kc3RqVEFDWVhSSjIxRExZM3lpb3ZtbUZDTVBLam5SSEJ4UjlxMlN5dnJndV9tU3lHaVRkbFN2c0NYREN5REl1YXpQeFFZUXVNZGhfQkhjQS03ZkJBZVFzNk9YTlZUaVplcFY2UEMzV05YVUw0TVdERjdjb1N4VVU0ajFYOTlCQ3M2SFdOQlFDdmJ3VGR6Q1hQMWVFM3ZFWVVOcm5LQkN4em1MZnBLZW03?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-08-02T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1151,7 +1152,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
+  "totalFuentes": 36,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

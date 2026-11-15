@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T07:28:32.896Z",
+  "generadoISO": "2026-11-15T08:28:39.355Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,18 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Novena Gala de Atletismo celebrará los 69 años del Estadio Plan de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDZITVNNSjVoRnU3WXlGUDNxanF5RVBqRGhXVk5yTmtySENSel80dUd3RVg4XzBXS1FFd0tudEtLdXlIb19fNWJmaDhpRzJqZmFEU3RNLUVkejBRQkF6SWtlSm5Yei1BbFVRbzVBSU5wWHNxWUFaZ2tVdHJMSzBLTXU5bmd2WkVDd0kyVVVQY1BsWVFRTTRpTzZOenNfRE5DeW1GeGZmM1lNRkN6b3pBWC13MmhsdkhyY1cyS1diY3gyUWVtbEE?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-15T02:05:35.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Potosinoticias.com"
+      ]
+    },
+    {
       "titulo": "Club Puebla vs Atletico San Luis: Pronóstico, Picks, Momios y Alineaciones",
       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUF5Wmd6R1I2ckZfSmZkNmVVcVVSaVh2cU1OMEVYNnBqdnNUQ3gyZlJpTG5CaTRUYzF2ZHc3TU05c0oxRTV0ODgxRXVHSmlHUWJpZ0F5U0VWWHg3QTlJS2wxTkpoYmJzZzdaMm12cVk4ZFhrT21QalVUQjk4bzdib1U1U1E0dTYzRjJQRlpULWpadUxX?oc=5",
       "fuente": "Squawka",
@@ -480,16 +492,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTEJVbEZLUnZ1dU1vWWhHd1VMUGFhci02cGxCeE1KNmxuNEpRZmFncjJnekVxN1hrMWNUUlRPZC1NU21pelhCMnVmVTdxX3JDRXJHakd5RVlTaTZaOU4xMTdnWXZ5SHo3aUlUQ0tUWm1kTzAtQ0toLUZhamxlNUtyYjNBZXRHZm53RE53TUVwWm5rWHNpZnM5akplRzEyc2wyOE5qMk1SLXBOVXlLV2RIc0dRY3JsTnJRc29CcHhkcnRiVVhHUGlja1A0azV3OGRSa0FmTXJfU3hfZw?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-11-12T16:23:47.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "La Novena Gala de Atletismo rendirá homenaje a los 69 años del Estadio “Plan de San Luis”",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTV4elJfWWJmZUdiN05HZHhWaFJfN1o0M0Z2eFJhOXR3VmJVY1cyM3gyVWV2c2dCbzRCMVNsV19IYjU3dlluU2dzcU1XQTJmVkViV2lMa3gtX0I3VC1fQnNZWG9mVE9wNW1SZmJIMGY0MFhjTmtGZ0JYRGV5OTJMOXU4dzlkSThMWGxaTmhBU1lJOUVvOWRGM1RGRUJsYzh4WFd0NQ?oc=5",
-      "fuente": "Potosinoticias.com",
-      "fechaISO": "2026-11-11T22:24:21.000Z",
       "categorias": [
         "General"
       ],
@@ -682,6 +684,7 @@
         "TUDN",
         "TUDN",
         "TUDN",
+        "Récord",
         "Facebook"
       ]
     },
@@ -1102,7 +1105,48 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [],
+  "videos": [
+    {
+      "id": "6elvhAmUX18",
+      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
+      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
+      "publicadoISO": "2026-11-12T01:20:48.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "ibb-gHsYxgU",
+      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
+      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
+      "publicadoISO": "2026-11-10T23:30:57.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "3TqKVvdfwYk",
+      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
+      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
+      "publicadoISO": "2026-11-09T16:22:24.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "GRULEGw-YeI",
+      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
+      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T20:00:31.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "n8su8tM3ld8",
+      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
+      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
+      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T13:01:00.000Z",
+      "categoria": "Entrenamiento"
+    }
+  ],
   "redes": [
     {
       "nombre": "X",
@@ -1121,10 +1165,8 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 38,
-  "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
-  ],
+  "totalFuentes": 37,
+  "avisos": [],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

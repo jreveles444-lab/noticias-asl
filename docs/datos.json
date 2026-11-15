@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T05:28:19.036Z",
+  "generadoISO": "2026-11-15T06:28:26.029Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -417,20 +417,23 @@
       "tambienEn": []
     },
     {
+      "titulo": "Club Puebla baja precios contra San Luis para cerrar el Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWppaUV3RmV0YldBZmZjLTVNbVdsdEk3cGdEcmk1alphdFo4eTNxdnpkT3ltRWwwbm4yZ0NHUTNqWjVFZVM2bFFOaEYtLXlmYS13dUJhQmFSdDZIV3lHUThkb0pzcDlRYTd6bVlRaFdDMG1UUDRJTm5aS3FCa0c1aGhoSDNaSXVJem9kQ0h5Rm5lNnN5QjBablMza2FjOEJ6aXdHeGx6NmVyN010aktRVUVIbTRybmVqN3c?oc=5",
+      "fuente": "Grada Puebla",
+      "fechaISO": "2026-11-13T06:52:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Periódico Central",
+        "MILENIO"
+      ]
+    },
+    {
       "titulo": "Galindo inicia campaña “Los cuetes no son tus cuates” en SLP para prevenir accidentes",
       "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93V2VEUlo3dHlhdU9TRlAzLTc3ZFBFdWtvWVlIVWUwZld0TDBValhWU1RMeTNfN3UxQzlXbnRWRF9TYmoxVFlRR29lNVNtQk5GMW1LUGx2aEFCWUxWaWZLbXVpN3FteHc?oc=5",
       "fuente": "Antena San Luis",
       "fechaISO": "2026-11-13T01:37:50.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Club Puebla busca cerrar el Apertura 2026 con triunfo ante Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLTFsZ0ZMTmFxWXRRMXRCTFhKQlhjSEtBM2xsdFQ4X3pOcWdTcENiYTU5Q2RrY1VXalpqOEpjcnhZQWtWbW9aaHZjV2NxaWZNYUZoYThUblFORzZTeU9RWFlFZVVnNFBBV3lWczY0Ylc4UUxuVVZCcGt6Y3h0M3VkUXdTclVrbjQtT3lYLVV3TUltUmh0aUtkY1NoZHBIYlI5bDNlRGllNkFTUDhJU2pIQVpya1NfZ1VQM0h1cjV5YjB5dFV0QzZr?oc=5",
-      "fuente": "Periódico Central",
-      "fechaISO": "2026-11-12T22:20:42.000Z",
       "categorias": [
         "General"
       ],
@@ -445,18 +448,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "¡Desde 50 pesos! Club Puebla baja costos de boletos para partido ante San Luis en cierre de Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWluUkFfQ1JELVdVS2JKMDgxb3V0RkpsUW5Ka01NUlVqc3ZRdTltM1A0RGo0c09ZOXIxc2RXTGgwaUlkakhHWTI2ZzFYVDlnYjBCbTdnYURNM3dNd3JlWUZka3VBUW5sd0phOG93YjFneHpkaHBDSkZNRDFralJoX2tUTjRueDdsVEFjQ0VMbnp4MW1Lc3g1ZHNEM3ExVDctOHRLWUw4Y3BXUdIBqgFBVV95cUxNQjZhWGhraDFBNWpYemduUHl4T1ExS0xENklTRW16UWNCQWZ1Q2xhREZwdWNKOXhtSXJycHRHaHJ2aEdxel9BNldsRlJubW5TZGRZOXExN3hzT29WeWZ5RUM0dVF2MUFIOHBXQzNURXhxbV9qaDctMjg5bFBsbHpTeWdMSnNRVWUzeHB6UUdwY1A0QlZMd1NrVVdoekhpb3FJTzk2WTJwQlpUdw?oc=5",
-      "fuente": "MILENIO",
-      "fechaISO": "2026-11-12T17:29:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Grada Puebla"
-      ]
     },
     {
       "titulo": "A un paso de México: la razón por la que Fernando “Niño” Torres rechazó dirigir al Atlético de San Luis",
@@ -547,6 +538,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Estupiñan y el FC Juárez prácticamente apagan las esperanzas de Liguilla del San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXhpNlhKVkdEV2QwYzQyRGY2RnNBeUE3a1M1QVFlc0xBRlNrYUxRaUUyb1l3MlAwXzNVTnZUMWhjMUs4TmY3bE1nV3N1LWFkbkY3ME9KaEU5RG94Zi1MNk00U3lTcDdlU1pLdjhObHJXWXpIdUNLcWdrYUstQ0NzX3hZZnVmbVVHVmo4TXZGMGhudFNNRjdzVGJ5YVJrLS1WbzluRUhTZ08wMFhUbnR0OGc3eldaazlkWUhnX0hTaTBxZThYWW1ncUtyNjJMWnFqakFSTFdNRTl4U3hIYU9XVURqSE9CZw?oc=5",
+      "fuente": "Claro Sports",
+      "fechaISO": "2026-11-07T03:16:23.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis Femenil a 90 minutos de hacer historia",
       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVThaVDlxUVR0RWp1ckJOVl9Sd3hEYlNqaXJ1UUk0Z0RwWmFOTVlUWVFySzlrMWItUnJxbFRPcF9pMXlNWUtoRF9hcmE0eVpNcXpVdWpOYjMwT1V5b1o0ZnVyWW5wTXNNMzRaakRSQl9IdUZNM2k2S3J4MnpwOWNJeTVtQUpGcE0xdXlyY04xbUJPcExYOFpsODlFTzZEZEFqeDlETXcwOGZLR3ZJSDRJZ2hR?oc=5",
       "fuente": "ESPN República Dominicana",
@@ -597,16 +598,6 @@
       ]
     },
     {
-      "titulo": "Esto cuestan los boletos para el Atlético de San Luis vs América",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWmxFeENUQjVUVDdBd3hLN1VibEJvSUdqald3RGZYOW55V1M1ZXRCT1h2Wmd1WFZiZDJBM254S3FmUXpCRXYzbUJrNU10SjZKWXdJcDlXNnVYVVI2VjdKaFlNa3lxQWg0S1phWXczZ2JINFlyN2FOUjNxT0c1ZFlLY2hhMXpYYmlWY2lrQXF6cFFGLVZGVk9KcTI4M3dMSlJ6U0h3eVA4SE83SXd4alRBVEpwR0pjanRtLWwtbkd3?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-11-04T08:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "León vs. Atlético de San Luis Femenil EN VIVO: Dónde, cuándo y a qué hora ver el partido de la Jornada 13",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEE0V2RUQjgydS03ODRZWU1xOXRCS21XWnN3dGRkTEVla0lTY2ZiMnd3Y2JEOHRvcE1LaXk1RlZLUkxRaGtsdGZUMTZRdFdzNFRzVEF6QjRGUDZYdGpXSXFlLWFXNE5uMGkzeUhOZzdydC1BaDhzaVBBa1ZJQXlUV3JicFl6MTRtNTgzQndPWDJYSzFKVUMtZWc2T3ZMa19BZTVmcVRWZ19INGh5SlRHU1NTV0tKUGpnb3V5VVNKVUw4SDJQSFoycFdSa0M0dE5VbXc?oc=5",
       "fuente": "W Radio México",
@@ -629,8 +620,7 @@
         "TUDN",
         "TUDN",
         "El Informador",
-        "Récord",
-        "Mediotiempo"
+        "Récord"
       ]
     },
     {
@@ -665,7 +655,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Informador",
         "El Informador"
       ]
     },
@@ -761,16 +750,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¿Dónde ver EN VIVO el partido de la J11 San Luis vs Santos?",
-      "enlace": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYXUyemJUTmhUb3l5Zzc5Q1dpVlg3bEM5aVgtMzJYd2pCSjdBVWtrTklCcTFGTWxiRlVtOVJac2NtMldtNF80VTE1ZHNSNVM0TEM4ckVvakhUSFNmZENralVMclkwRjI1X1pVMWE1LVc4MHBaSTdKUG9WNDNpdE8yQ3ZKTEpIS0FsYTZVT25sdDRDT015Y0RzcTJ2eUtEcF9jVzA0RVIybXMyM0YyTnM4QWkxcEpfZUVWVU1tdFJtX0FRNEx4Y0dVTWs3czVOOVpBWU11UWZ0dFQxa1ktdk9GejFYcnFoRXVtWk81a1VJZFI4YnRIdnMzcVo2VTNRUdIBgwJBVV95cUxQMVVYdXFFMV84M2hXSXRNNFFpeDJNQjVCQ2R1Zl81c0wzN2xxTXpIZ3BHTzZGYWV5SlEyVzBZN3FMTmdJSnRJdml6eTNhSVVtMmRobjZGdEg1UGt1aE01UFAyZFdxR1U2MXBiU0NxMnVSZGFUVVp0WU9kajlVZXp6alJZRTBJUWRvdnV6eXhDckdTRUNaRUVqaGE0SHJkdC1pUjdLTFFFMXhaclI1VDlabEhkTExCZTJ1TkdfeHc3RnBOb0dRQlJVY3FfYXVyZms5M180ak91MGJlSnZxN0lDc05zZWxyZGF6SGJtQlRQUlE4NG1mX0NzSjlkSm5VbTA3TU5N?oc=5",
-      "fuente": "El Informador",
-      "fechaISO": "2026-10-10T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Cambio de Fecha | Atlético de San Luis Femenil vs América",
       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlo3aGJ5NGMteU9ON1VOMExKZ291NUt0aS1Bd3dXcUdKUmZlVXQ0b09kalNVNVU0MFJ3V3MwQWlQaXU0WnhkSnR1SDVZSzczOXpkdmJ1Z2FhTTJ3S2dCOFNhN0NuNTlZRmxEaklEQkpHSnFHMGt3UmF0dklaT01zMFV3V3ktUTNvWEVWZFVtak8tcGFON0ZUWVZ5S1Bfdl9wdnc?oc=5",
       "fuente": "Atlético de San Luis",
@@ -824,8 +803,8 @@
     },
     {
       "titulo": "¿Cuándo juega el Atlético de San Luis en el Apertura 2026?",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVl0anJOSVZrMDBsajNyaVEzek1nTDRYMjBHYzFPalpuUFNYUE9qc29EZUtkRWZfMEdCZ01hMEdRQzBzNWptbGk1MmJHVEt4SWZZdDMxRFlpVkJzQVJjNW12S0RCM2pCZVh2TWJnZU1Cd3dLQ1o1S0VzQTJ4RUl3RHlDMEU3U1hIci1nN1ljaVAzWHpBRE5xOXRRUUt3SXo2eC1yTWcxVTZpdFlna2F3dWtzaU55N1JJb2hjbUV3?oc=5",
-      "fuente": "ESPN Argentina",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjEyUXktVGlTYTd1RHBMWkJRdG1mdzM5Zk9UenRYcVlTSko1V3JfSnc0LXNjM3UtVDI5bjR4LThCVVVYdTZNeUo5V3c5NDFOSTdLLV9ia1lrdlhoMUF5MlBoMVczbGx5elN6NHJSVnNGUGo0RUFJWGtVMFlWQVpZUG95THc0UU4tNnNVUE1Bck5IOXFNcHU1a2tuYy1RbnY2UVpVVk1ubXdOU0JUOTNUdzhqMkVpczYwNkRlRXRTZFpzZVMtVWc?oc=5",
+      "fuente": "ESPN Deportes",
       "fechaISO": "2026-09-28T07:00:00.000Z",
       "categorias": [
         "Partidos",
@@ -836,7 +815,6 @@
       "tambienEn": [
         "TUDN",
         "TUDN",
-        "ESPN Deportes",
         "Mediotiempo",
         "El Sol de México"
       ]
@@ -863,6 +841,8 @@
       "tambienEn": [
         "Mediotiempo",
         "Mediotiempo",
+        "Mediotiempo",
+        "MILENIO",
         "Mediotiempo",
         "TUDN",
         "TUDN"
@@ -971,14 +951,16 @@
       "tambienEn": []
     },
     {
-      "titulo": "Carlos Moreno rescata a Pachuca con gol ante Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkZkQXFmNGtwdVpFWVAxR3QxYjVZSk5JRU8wUGNsMVJfcXdqSkgtSGctYnZIbTFkc1FHSnZlUEpzX3JxUS1KXzNpcmZUYjBGWUJHX0EzSjRGRzRWaTY1TEdGOG8xNWMxQkVEMHRxdUpTU0VQdzZ4QUw4a3V3ci1FcU5GWmx2NjlFVkhQcVlJNWNEMXU2SzZuYmU1QUZialllc3EyTS0yTzJ3aE1IMmstb2RiY1U0ai1W?oc=5",
-      "fuente": "ESPN Deportes",
+      "titulo": "¡Con gol del portero! Carlos Moreno rescata el empate de último minuto para el Pachuca ante el Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYTV0eHozaWQ2ZDlxM2c4MnJYdlJ2UWdTeVFDS2F0LWxTR3QzOEI4N2o0QWhON2ZmX1JQY0FfSXVNVTVTSWR6MVJEaG8tTXBWTHN2RUtfeElhRG55LUZ6T2ZtRlpYWHpBT0FkNUVfNDdrZnVmbFhTUWc4WWJjRUpUdDNmdWhwd3NkVTdib2p4Q2RCV283azlhTTFROVdyLUpkQTFnT1MwU21zTXp6d0RrbWRjRzdDQnpLTnFrYnRYalpNWUJvRDI5UEdRbnMtYjNwN184TmlkQVI5N2FNNndrd3VtZjNSWEctWW5v?oc=5",
+      "fuente": "TV Azteca",
       "fechaISO": "2026-08-23T07:00:00.000Z",
       "categorias": [
-        "General"
+        "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "ESPN Deportes"
+      ]
     },
     {
       "titulo": "Chivas femenil golea 3-1 al Atlético de San Luis y se mantiene invicto en el Apertura 2026",
@@ -1034,6 +1016,29 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¡Inicia la transmisión! América vs. Atlético San Luis, en directo aquí",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbW5MeW9MRTZKYnZuVmQ0Z0xjWUtMdTVfWDlZcnlpZnJTcWl1b3k2and2Zkg4MTNVVFZzNm1QUnhMQVVDWE9zdUdnRUhsUS1KOEFhelhzaWE5RFZlR20wTmtpNWt5dFphdUo2MjdCeTkxLWgwYjVid01KUVYyTHJ5cDNoT3FqRnItMGN1ZUw4UFF4cVNUdHlscG9fbXpMa0E3ajRxSU94WDd2UElU?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-08-16T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Chivas Femenil mantiene un dominio histórico sobre Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQaG1NbWlEVjRxM3BCSnNXeDF5cXl5bGhNaUIyYWNXWmlfUWYxR09iRWlBdURpTjMtb09JdmdPbmZwVHBnZDNKbGVodFU2TmlQMDRCQmk0aTFmT0FXUE00OGF5OWtqeEpDNVRLanlDWGhrSldtTjFHZzRyLU40cWpzSnktb0VZS1pITk1zN3Q3Nm1aYk10N1Jzb1Y1U2Zmc3FYWmZXS0JCd0dEaUFacHZSRVcwRlRnQzFsSTNxNDN6ZnM5YUZld2t0eXdNSjF2bnlyWm5KTlZtSmdTOWJETXNMSUI1amlBSUhIbTRvNjlPT3Y0Y0d4QzdrSkFsZU0yNldhNko2MTVhazljMjhJLTBraE4ta2dFN3hYZWtDMDFwc19hZWRtMFgyQ1oybHM5X25xcDJIS0x4T1lCQQ?oc=5",
+      "fuente": "OnceDiario",
+      "fechaISO": "2026-08-15T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Cantera"
+      ],
+      "tambienEn": [
+        "Atlético San Luis"
+      ]
     }
   ],
   "comunidad": [
@@ -1049,8 +1054,8 @@
     },
     {
       "titulo": "¿Cuándo juega el Atlético de San Luis en el Apertura 2026?",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVl0anJOSVZrMDBsajNyaVEzek1nTDRYMjBHYzFPalpuUFNYUE9qc29EZUtkRWZfMEdCZ01hMEdRQzBzNWptbGk1MmJHVEt4SWZZdDMxRFlpVkJzQVJjNW12S0RCM2pCZVh2TWJnZU1Cd3dLQ1o1S0VzQTJ4RUl3RHlDMEU3U1hIci1nN1ljaVAzWHpBRE5xOXRRUUt3SXo2eC1yTWcxVTZpdFlna2F3dWtzaU55N1JJb2hjbUV3?oc=5",
-      "fuente": "ESPN Argentina",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjEyUXktVGlTYTd1RHBMWkJRdG1mdzM5Zk9UenRYcVlTSko1V3JfSnc0LXNjM3UtVDI5bjR4LThCVVVYdTZNeUo5V3c5NDFOSTdLLV9ia1lrdlhoMUF5MlBoMVczbGx5elN6NHJSVnNGUGo0RUFJWGtVMFlWQVpZUG95THc0UU4tNnNVUE1Bck5IOXFNcHU1a2tuYy1RbnY2UVpVVk1ubXdOU0JUOTNUdzhqMkVpczYwNkRlRXRTZFpzZVMtVWc?oc=5",
+      "fuente": "ESPN Deportes",
       "fechaISO": "2026-09-28T07:00:00.000Z",
       "categorias": [
         "Partidos",
@@ -1061,7 +1066,6 @@
       "tambienEn": [
         "TUDN",
         "TUDN",
-        "ESPN Deportes",
         "Mediotiempo",
         "El Sol de México"
       ]
@@ -1122,7 +1126,7 @@
   ],
   "totalFuentes": 38,
   "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
+    "YouTube: HTTP 500 (fallo del servidor de origen)"
   ],
   "colores": {
     "rojo": "#c8102e",

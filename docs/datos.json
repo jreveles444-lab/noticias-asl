@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T22:36:18.358Z",
+  "generadoISO": "2026-11-15T23:36:24.820Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -377,16 +377,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Fernando Torres rechazó al Atlético de San Luis con el Metropolitano como meta",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnVXcWxnRnFmZDV1RW5ucWlSR3M4aU5id2dLb3B3QnBRV3pQMlNFWXBqX3lDNzkzdVBDZmZOem5BZGFuTXVMQm14Rll3Rm1sS0ZBNEhIUzhGX2hSaWplN3VzOHV2aVZMbHYwMWg4R21VUVRZRUpBcjlmajRQQko2a0RCOUFSZmlLaVpQTGFfdzhpSzl3UXhZbG9QbktCY3hGNVZtcC1oWG12YzQ?oc=5",
-      "fuente": "ElGOLdigital",
-      "fechaISO": "2026-11-14T21:55:11.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "¡El Atlético Fútbol Club se une a la familia rojiblanca!",
       "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFBkckFRZkdTc29zUy1TbTd3TW0xRzdILUtsRm1NS1RkY2JlSmNQT3FJXzh4eVJTV2pDdGM0M0dNSFNXVV9WcUJFNTdpYkFDdnBkZmNCRlhsNzdvTENscGhzUTJlYmVpOHdGNGxVb205VGhKOHhpNGllUlI1bnkyOW1lV0tqQk5FMkVhaGxsT2dtZ2ozX2kyNGJudFFNbW9o?oc=5",
       "fuente": "Atlético San Luis",
@@ -485,7 +475,7 @@
       "titulo": "“Métete con los hombres”: Galdames y Fulgencio se retan a golpes post San Luis vs Juárez",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZm1FamlpLXFvMFBUOW0zY0NKT1p2MS15SENNT3FxeVRFa254elpIVnVGM3dMX0xnZXZoVVFNSzNpcUlodmZpOTRucjQzY0phcFFYTjJVMDNuU0xFaHZXSFhCTXd3YjdrMHV6SXpfMVZXU2pSZDBFdHpNSzBtRlpiWWZuUUJPcTNJNmpPVXRnUS1qa3lyUndDUXduSUQzcWlhR0NsMGloTXZUTktadEM0bWR5V0E1cTVQQ2lsRVhLQl9FUFR40gHEAUFVX3lxTFBtX1BHRjZFdzdBM2NyQ0ZRUkFjWVg3eWpuNmItblZoWmRpQjhEZmM2UThuSGtNLV9GcWpsMjB5SlAtM1VBWUdNMkpuNWhqc2pxeV92WkV3d20tSkJadjVnMWlTNEJ3SXc0ZGRwY3hIcERqRTNaOU5lT296cEdMNTVkZW1WZU55WXE5NldyYjEwN0hhbjJJTUp6N0ZSNmZBaF9EUDA1b3NPeFNwNFFLTFBSN0JXZlhPanVzYUJtU01lSDBEYW8?oc=5",
       "fuente": "MARCA",
-      "fechaISO": "2026-11-07T18:30:59.000Z",
+      "fechaISO": "2026-11-07T08:00:00.000Z",
       "categorias": [
         "Femenil",
         "Partidos"
@@ -1025,6 +1015,17 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis vs Toluca femenil se reprograma para el 3 de agosto por lluvia",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWc2bTBNX3V6aThxYkJDNFdUcVhGZ2tLaGc5dFlOVW5kc3RqVEFDWVhSSjIxRExZM3lpb3ZtbUZDTVBLam5SSEJ4UjlxMlN5dnJndV9tU3lHaVRkbFN2c0NYREN5REl1YXpQeFFZUXVNZGhfQkhjQS03ZkJBZVFzNk9YTlZUaVplcFY2UEMzV05YVUw0TVdERjdjb1N4VVU0ajFYOTlCQ3M2SFdOQlFDdmJ3VGR6Q1hQMWVFM3ZFWVVOcm5LQkN4em1MZnBLZW03?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-08-02T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1143,7 +1144,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
+  "totalFuentes": 35,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

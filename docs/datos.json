@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T16:29:34.944Z",
+  "generadoISO": "2026-11-15T17:29:41.976Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -470,17 +470,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Derrota ante FC Juárez",
-      "enlace": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YSFh6TTdVdEUwNE1nRXlwZFRFeWEtVG8zVnJGVjRPZWo4VWNETnV5dVJtNzZnNi1tc09xdktFbTBDQnY3S2V3N1NjTTJ2ZWtGTmlRWVIyRkI3QUdjN09IbkQxbUowTjZHU0ZHRkdFN25QMEwzRkY1Mw?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-11-07T08:21:19.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Estupiñan y el FC Juárez prácticamente apagan las esperanzas de Liguilla del San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNXhpNlhKVkdEV2QwYzQyRGY2RnNBeUE3a1M1QVFlc0xBRlNrYUxRaUUyb1l3MlAwXzNVTnZUMWhjMUs4TmY3bE1nV3N1LWFkbkY3ME9KaEU5RG94Zi1MNk00U3lTcDdlU1pLdjhObHJXWXpIdUNLcWdrYUstQ0NzX3hZZnVmbVVHVmo4TXZGMGhudFNNRjdzVGJ5YVJrLS1WbzluRUhTZ08wMFhUbnR0OGc3eldaazlkWUhnX0hTaTBxZThYWW1ncUtyNjJMWnFqakFSTFdNRTl4U3hIYU9XVURqSE9CZw?oc=5",
       "fuente": "Claro Sports",
@@ -694,8 +683,7 @@
         "El Sol de México",
         "Atlético San Luis",
         "El Sol de México",
-        "Atlético San Luis",
-        "TV Azteca"
+        "Atlético San Luis"
       ]
     },
     {
@@ -977,6 +965,17 @@
       ]
     },
     {
+      "titulo": "The key facts you can’t miss before Chivas Femenil vs Atl. San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZXBZYVVmTFI1bTZRdGw4OFRob1E5Y29Sb3JheEQtZ2xfbGtGR0ZIUVpGX3o5V2ItSkU3b1kyS0JnbzI5cEFSd0ZaR2FNSGtCdUEyLVdxMGpRME5VQWU0WHVXMkoyN0xBUmJsVnlVWHpzT1FYcG5jWGZTX1c?oc=5",
+      "fuente": "Yahoo Sports",
+      "fechaISO": "2026-08-15T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Silvana González deja Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2NyXzNQZFEwMGxSdGF0VGI3TVBGdWNDMWZZNGJLMDQwb2Rta29mS2VpVlJYUGRuNV9IbmFSdXBnS3lmb3RqZFQ3X2h0end2LU9lSmx3cDBGd0Exc2VvUml1ODVzb01HbVJrNHppVGhFTU9mdkktZkFiZGp3a1BXbl84SDRuOFNBOWE4TVl5ejBsckQ1VXU4Ng?oc=5",
       "fuente": "Plano Informativo",
@@ -1155,7 +1154,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 35,
+  "totalFuentes": 36,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

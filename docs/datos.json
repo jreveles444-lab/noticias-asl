@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T12:29:08.162Z",
+  "generadoISO": "2026-11-15T13:29:14.960Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -458,22 +458,11 @@
         "General"
       ],
       "tambienEn": [
-        "Potosinoticias.com",
         "Debate",
         "Soy Futbol",
         "Soy Futbol",
         "ElGOLdigital"
       ]
-    },
-    {
-      "titulo": "¿Fernando Torres al Atlético de San Luis?",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPajdPZFp6UkI2bGVyTkxseGxXNDlwZl84blJsalFzaTRveEpwbkNESm5KbTlCd0RJMUFDTlRiVTg3LUdnUFVCWUxLTFV1S2FwV1FYNDQ1cVZCMG5zUGs4eTlOUGdEZ0Yzbm5vZ19aaXBEcGxzcWFTUWEwdzlOTGd0eExJcmh4dWU2Ym9CbTBfVGVBa0JUU2phQmg0QXdEVUNfZU1WUDJn?oc=5",
-      "fuente": "Futbol Total",
-      "fechaISO": "2026-11-12T16:29:19.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "4 Promociones del Buen Fin para la 7ª Carrera Atlética de El Sol de San Luis",
@@ -482,16 +471,6 @@
       "fechaISO": "2026-11-12T16:23:47.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis Femenil se despide del Apertura 2026 sin lograr llegar a la Liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON3lyVnFtWHlobG5Eb0FZRzJhaEZQRFFQRm1LNC1tUWg0Vm13ZDY0N2V0OWtxWWQzTHNBNm5qTlVrdWYzQ0V2RXFWYWwtWjFZSE1EYVZ6QWd5d0VrUjhXN0hzS0xZRWw0UEN1NkhrYWlnRDY2OTNpSEJuUU9Pa1VZYV9rd3lUOVJpeDV3V2ZKLW9Ebmk3SEs0OG5WQVZiUnBQeEE3cFdIUXduY0VhaXh2MVdKSUZxZEtpeWR4ZlowVUlRRHlkbFhSUE5UWnUzTTFhWlE?oc=5",
-      "fuente": "El Universal San Luis Potosí",
-      "fechaISO": "2026-11-11T02:20:44.000Z",
-      "categorias": [
-        "Femenil"
       ],
       "tambienEn": []
     },
@@ -725,7 +704,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Récord",
         "Facebook"
       ]
     },
@@ -1046,6 +1024,28 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Silvana González deja Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2NyXzNQZFEwMGxSdGF0VGI3TVBGdWNDMWZZNGJLMDQwb2Rta29mS2VpVlJYUGRuNV9IbmFSdXBnS3lmb3RqZFQ3X2h0end2LU9lSmx3cDBGd0Exc2VvUml1ODVzb01HbVJrNHppVGhFTU9mdkktZkFiZGp3a1BXbl84SDRuOFNBOWE4TVl5ejBsckQ1VXU4Ng?oc=5",
+      "fuente": "Plano Informativo",
+      "fechaISO": "2026-08-14T07:00:00.000Z",
+      "categorias": [
+        "Cantera"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Líder a escena: así puedes ver el América vs. Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWg5ekI2amprYWZFUmxLelNGMjRablBqcWUzWlJnQ3RYM2g1ZENFbF9QQTFHRl9KVEVEMGpaMGpldlB5NG9hUEFLSExZZFNfV0RBcm5MWFJMWDBacEVtWXdwYVYzbnFsbnV1b3d4Rk1nOFlFRWlEUTRNci12ajRmNFh6WDJOTjZrRnE3X0Vfd0lSc1ROT2V1WFpOYW9OMklmNE9YS0ZQdEVRUQ?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-08-10T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "TV Azteca"
+      ]
     }
   ],
   "comunidad": [
@@ -1165,7 +1165,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 37,
+  "totalFuentes": 35,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

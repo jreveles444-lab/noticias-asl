@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T11:29:00.867Z",
+  "generadoISO": "2026-11-15T12:29:08.162Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -352,9 +352,7 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": [
-        "Potosinoticias.com"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Club Puebla vs Atletico San Luis: Pronóstico, Picks, Momios y Alineaciones",
@@ -375,16 +373,6 @@
       "fechaISO": "2026-11-14T23:38:35.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Juveniles de ADSL dividen",
-      "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56RWx3dG9vblRnY2ROS1VpYmtmY2xlVGJEZC1zUElrbGhqQU5TM190c3g3MklYZUxteXUzbXh2bDREWHlSVXRSZ3cwbHhDbFZ3Y1hLTGp0NXU3QmxRY05DVTlCSGp1cEU0M0tZM0wxWdIBdEFVX3lxTE5rM1lGNmJXZEVRUmFmUW1jeU1QZk94YkdVblBOMThUaEJDckVtRDBVR2c4OUFYNlVQSU5xODBtM3J3NHRYVUU3UFhSRGpvX1hDT2NxM29zRElyUDRjZm9oV0FDY0NJdDVXcjN3UVM3UlM0QjJ0?oc=5",
-      "fuente": "Pulso Diario San Luis",
-      "fechaISO": "2026-11-14T08:00:00.000Z",
-      "categorias": [
-        "Cantera"
       ],
       "tambienEn": []
     },
@@ -472,6 +460,8 @@
       "tambienEn": [
         "Potosinoticias.com",
         "Debate",
+        "Soy Futbol",
+        "Soy Futbol",
         "ElGOLdigital"
       ]
     },
@@ -661,16 +651,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¡Gol del Atlético San Luis! ¡Tienen que cerrar el Estadio Banorte! ¡Golazo de Benjamín Galdames!",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUFBZEJNWEdmRFFNWHd5Z0FqbHdaQTU3YXg5Z3FReE9DMVBYd0RnOV9BMmZrTGpSRkVka2tzenV4TXZOSmF3UW9YRndaemY3cWw2OTBkYzNpWHFMZ2RCUkdyUHlDNHNKaEptMGJPWl9qUGRhZ2VmLTVUT19vQjlRUkVjT3gwUkpGYUN2dXloMW14MktZeW5UZzNsdzJpRGFlWS1FRmdSbzFBN2FNaTA4cTJnWFF2MUxiWmxYMXYtNUU4QzdBUkFwMGtWdTk?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-23T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro",
       "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSzhOeFJoNG1GYTZzOXNkZThuaVZfUHhlSk8tQUVxczdINEo5VS1zMTBGckpmTHZhMjBuOEI5amZSeHptUXZ6RWxrandsOXh0YlU1US1HNHZiYmJidDNKWFBpRjdydVRUX01HWE51ajhkUlc2MGk2OElZZEFWVTM4U25ZNExxb1Y5RWE1MF9oVnViR3gwaHF0cG5HRlJQelBfMlVLbEctTzlRNXlpY3c3TVFTaVdQVlFQUVFnM2cyYXVTdVpXWWhJakdiV2FyTGJkUXMwNHVvYWZRaC05eTlUdGdNYmxUVURoX19DYTluWU84RFU?oc=5",
       "fuente": "ESPN Deportes",
@@ -761,7 +741,6 @@
       "tambienEn": [
         "El Sol de México",
         "Atlético San Luis",
-        "El Sol de México",
         "El Sol de México",
         "Atlético San Luis",
         "TV Azteca"
@@ -868,6 +847,16 @@
       ]
     },
     {
+      "titulo": "Resumen | León vs. Atlético San Luis: Doblete de Cambindo y victoria de la Fiera",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1FGQk1UTE5JMWJIeXRpSzBieGo0LTRHc3FqR2E3S2lCME5MNlFpMS1FNnZFbDNxcVd4UTNCNmxIQnhWaVVMUUl4UFBSR2dDNUdpUDVsUWpDWEJMbFM3REVoRGNfdjhmRk5sTnJwTG01aEMxdDVCZXlicnY3RUJucHVQMGhaclQyMjNXM09yTGdyQ2pZMXEwWF9JQU5OTGNxcWU4RzVreUNXM3RNelBwelBWbHVhbEh3V0E?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-09-14T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Chivas vuelve al triunfo con goleada sobre Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMWtTc0dLOUxSaThEOEE2OVE1UURzVjRheEZrU1FxbFJiQl94ZzFEa2lBYjlaVTFiMTRWaXllLVdZWUJUVUt2WmhMZ3V3WE44X0tlUmZoYU0ycjRWRURqMW1ZV1VTUTRmQUNiVGpKdk9COFdUZGo4bnpydmdtdjNGSENrcTItQXZieE9MQnBfVkZNRWFQTEU1cXloWl9Nb3pVQnNkUlNKaXBnd0QzU1JoLVBDYm1haVdGd2FkR2xKOGJ5V2Q2RVE?oc=5",
       "fuente": "ESPN Deportes",
@@ -940,6 +929,26 @@
       "tambienEn": []
     },
     {
+      "titulo": "Las Fuerzas Básicas de Rayados vencieron al Atlético de San Luis en El Barrial.",
+      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQk9MYkdEQWcwem1yU1RUd0xsYU0tM1RGRXEyYXRaamx6a2w3Zi1vZG5LcW1HUV90b3p0RXZDbmNOblozQXFOaDdtUW9yUDByM3E0UFpJNXVGX0tpNmpTUnM2dUZtY19jS1FuV090UkJUYmthTVpCTmNVSEVZUkJTTnI3MmkzWjlvODRnS0hYckgzM0tTU2Jta1Q2b2d4T1pmOUlYdXNaZWJNZDdVZXRiWWdwdzVtbVdnbU9OSXhueGFDWDNOQldJbXVwVDNnZlJQNmR4alN1TnE5dE5iWkcyMUNHRFpyZXFKdGRXNEFxampqY0RvUUYw?oc=5",
+      "fuente": "OnceDiario",
+      "fechaISO": "2026-08-30T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México",
+        "El Sol de México"
+      ]
+    },
+    {
       "titulo": "¡Con gol del portero! Carlos Moreno rescata el empate de último minuto para el Pachuca ante el Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYTV0eHozaWQ2ZDlxM2c4MnJYdlJ2UWdTeVFDS2F0LWxTR3QzOEI4N2o0QWhON2ZmX1JQY0FfSXVNVTVTSWR6MVJEaG8tTXBWTHN2RUtfeElhRG55LUZ6T2ZtRlpYWHpBT0FkNUVfNDdrZnVmbFhTUWc4WWJjRUpUdDNmdWhwd3NkVTdib2p4Q2RCV283azlhTTFROVdyLUpkQTFnT1MwU21zTXp6d0RrbWRjRzdDQnpLTnFrYnRYalpNWUJvRDI5UEdRbnMtYjNwN184TmlkQVI5N2FNNndrd3VtZjNSWEctWW5v?oc=5",
       "fuente": "TV Azteca",
@@ -982,9 +991,7 @@
         "Cantera",
         "Partidos"
       ],
-      "tambienEn": [
-        "TUDN"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "América golea a Atlético de San Luis con todo y rotaciones",
@@ -1072,23 +1079,15 @@
       ]
     },
     {
-      "titulo": "Las Fuerzas Básicas de Tigres venció al Atlético de San Luis en Zuazua",
-      "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNngwaUhEZWx2b1loR0VsU1ItSWlVM0tLdDJGQk5KX05EWXJHaW5kYnpxTHFNdHZEMVltZlhFMlp1NUhHNjEwVlc3bHFCQ0t6RWF0OVFtaG15aGNiOGFYOXVwUFRib1Y4Z3NvMklUODRLRnhWdThHSTRtZzJKYVlEWEpTUHVhOUZUTDBOV2ZWUy16NWY4ZW1KY0lkdC1FY0g5V3ZyTy1FTHBSMW05YVczWnBkV25LbFQwRGNGaTF6MEg1SGxZTnRUSUNoLWppV0V2ZVdYZGhIUzBwQW95SXNjWG96ZkdoR3RycEFzMWNfV1NYVGNrUGJCZ3cycUNuVGQx?oc=5",
-      "fuente": "OnceDiario",
-      "fechaISO": "2026-07-25T07:00:00.000Z",
+      "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2p0bWJxQmRWdmdHUHhaLVNuQ0dDSkFDclljNjRzTlRCdjJqcHV3VkhWNUVVem5haG1QY1l6ZE1mMjhxUGRrckw4aWp6MDdfYXUyVHhORVBvdEQwNjhpRC1pbDQ1SEdfT0N3azlWaktWMFVINkFtVUV0UjJOVVNpcllTZl9yQ1lQd2c?oc=5",
+      "fuente": "Canal 7 SLP",
+      "fechaISO": "2026-07-22T07:00:00.000Z",
       "categorias": [
         "Cantera",
-        "Partidos",
         "Escuela"
       ],
-      "tambienEn": [
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
@@ -1166,7 +1165,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 38,
+  "totalFuentes": 37,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

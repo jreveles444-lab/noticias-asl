@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T06:28:26.029Z",
+  "generadoISO": "2026-11-15T07:28:32.896Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -426,7 +426,7 @@
       ],
       "tambienEn": [
         "Periódico Central",
-        "MILENIO"
+        "Milenio"
       ]
     },
     {
@@ -831,24 +831,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Pumas vs Atlético de San Luis HOY: Resumen Partido de la Liga MX 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMUhnZGc5dEg4Y3hET2NCbEViUmJqRENwbWVjSzRXV2dzaW1ZYTRpcDc5U1IwcWhPWXNHXzY5V3pxOGsyQVRWNXpILXZWc1RfMWxpeXVDWUkzNlJKYlYwNFVHRUVhVVNjMzlXZFNWX3NlQ1REdkgyeVF6YW9XZVB5cG9uMG84Tm1YNG9VSzhSY0dScmhleEhIUjJWNkFjT0xHZ0dFNHV2ZkXSAagBQVVfeXFMT0xKWTJzOWtpYVh6UkZKUVRaSzU1emZKaG95dEdDWHlaZ21XS1llMGlkekZJWEhmaWlBUnVpZGJNc0ZwRDNsQUxxQW1PODNfNDZqRnZmOERkRGZPN2ZQa21ORllTalJWRHhuNl9sNkcwNGJUbGJiRWstekFGOU5MQkNQa055b0htLW5GNGlFQWszQkNxQ0hqVkNEWmItWmQzT2UxNmkwcFRK?oc=5",
-      "fuente": "Milenio",
-      "fechaISO": "2026-09-27T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Mediotiempo",
-        "Mediotiempo",
-        "Mediotiempo",
-        "MILENIO",
-        "Mediotiempo",
-        "TUDN",
-        "TUDN"
-      ]
-    },
-    {
       "titulo": "Pumas enfrentará al Atlético de San Luis con cuatro bajas por fecha FIFA",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmtqcWRuNXJ3M1FUZGZCLXowMjd4VFRxVkU4UUUzTllhMnBuaHBTUzY5ZUtzemxuMGVJajMxNkJnY3ZFQ2RTd2NMVnJrZHNXY2Y2cjMwVHhTb1Rpdk15eWtzb2dybkotQi02T3M5VGZGeUYxSDVqYUlpSEhYcUh5U01yMmhNYWkwQlRoem9xbllJZXNYenZVREFLaXVrZ0tqckNVUXB1Y9IBrAFBVV95cUxOYzlCZE1tcThjNmNSTjdEYUsyQWJtV1hnOFRTQ2VLb2RuSm4xR0NZaEFvc1EtZ0NkZGRla3owT0hwdHdzbjFGX2gzNUZOMnMzSlY2MW41eW5SWHdTRkJLWGZ4QXZPUGkwM29KSHA2eGNUTFNzSEdDTDdiTVl6eVBNV2l5M0E1LXZXNVNIbzY1NnVCVWxfb2FWN29oSW95UlIxZFlPRUJBMkJ0eVc5?oc=5",
       "fuente": "Excélsior",
@@ -877,6 +859,21 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis vs Chivas: Resultado del partido de Jornada 7 de Liga MX 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXZVY3pfRGR4TU9hSXl2bGNxS0xQYWJscFFSeF9vQVRWajgyYmhRRlN6RU04MVhSYkJ4blZHbE5GZ0VfUkM3U1p0NnVDampaakVuOHRLUE9jNVJTT01oYmgyQXltd0NZYVFZTmVNc0gyUllsTWlPUk5MNWljTDVzVDNGNWhtT3MtSGNfZGdoZXVBZ1JSRDgzSnEwTG5xb0k1R2R6TjhYTFB3QdIBqgFBVV95cUxNWE1nV2dXZGlqQldKN3NKcDVyVlplcnRvc01WLVA3c0h0bWFWSFJLSXdmbDVEMFVqSjJzbHdjYW5nZTE2a0NrV1dGTlN1dHl4WmtNaFNQcUR3RnAzMWx4S0xpb1hmdzJmQnJmQm1zUnNXenZVS01nSm9KS3lHc25VckRWUjMyS3lPaFpGcnkwNnp4eTN0OHd6RkpFdXNHaDhaLW5vc2ZINmRmZw?oc=5",
+      "fuente": "Milenio",
+      "fechaISO": "2026-09-05T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Mediotiempo",
+        "Mediotiempo",
+        "Mediotiempo",
+        "Mediotiempo"
+      ]
     },
     {
       "titulo": "Atlético de San Luis, Chivas y su estrecha relación en el mercado",
@@ -1126,7 +1123,7 @@
   ],
   "totalFuentes": 38,
   "avisos": [
-    "YouTube: HTTP 500 (fallo del servidor de origen)"
+    "YouTube: HTTP 404 (no encontrado)"
   ],
   "colores": {
     "rojo": "#c8102e",

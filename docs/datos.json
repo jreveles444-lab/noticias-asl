@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-16T07:37:21.034Z",
+  "generadoISO": "2026-11-16T08:37:28.464Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -361,16 +361,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR09ESWV0WW11c3V0eGREaVdITTlnQ29zajAzUkpJa2FPSWZUTzh4aHF3dTlCaWNWYmd0X2lkOEszS3ZKQlRXNzVzelpwY1Z2VWxwT0ZXWm94Rk4yZTNsYTBnOWM3ZkJaSFFtOFlxWTlfeTI2QmJrQ0lfQVRHdHpydlNpMm02LVVZZWxHSmpvd212LVh2b1RLWEtQVjA4QVNXMFM0aFF3?oc=5",
       "fuente": "El Sol de México",
       "fechaISO": "2026-11-14T23:38:35.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡El Atlético Fútbol Club se une a la familia rojiblanca!",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFBkckFRZkdTc29zUy1TbTd3TW0xRzdILUtsRm1NS1RkY2JlSmNQT3FJXzh4eVJTV2pDdGM0M0dNSFNXVV9WcUJFNTdpYkFDdnBkZmNCRlhsNzdvTENscGhzUTJlYmVpOHdGNGxVb205VGhKOHhpNGllUlI1bnkyOW1lV0tqQk5FMkVhaGxsT2dtZ2ozX2kyNGJudFFNbW9o?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-11-14T01:57:28.000Z",
       "categorias": [
         "General"
       ],
@@ -1025,6 +1015,20 @@
         "Escuela"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¡ATLÉTICO DE SAN LUIS ESTÁ DE REGRESO!",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVF6MDh4V2F2MmZBcllkY2pUSHVNZjJjU0hhT29aaVFXVHlRLXBSMzhiUlRoNXhqMGRRMXhJYWt6OTh1OGVCamRoUmd6ZHE3eExjT2gyRlpTVndLOXBjM3EzR3c2blgzNjRqNENkRDczSHk5aVFMNG9ndWJiYUU4UG9DOEp4R1QtaFdQZXNIVHpfZVpDUzNPQVl6cTFuUQ?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-07-18T00:42:30.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": [
+        "ESPN Deportes",
+        "Transfermarkt",
+        "ESPN"
+      ]
     }
   ],
   "comunidad": [
@@ -1088,7 +1092,48 @@
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [],
+  "videos": [
+    {
+      "id": "6elvhAmUX18",
+      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
+      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
+      "publicadoISO": "2026-11-12T01:20:48.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "ibb-gHsYxgU",
+      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
+      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
+      "publicadoISO": "2026-11-10T23:30:57.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
+      "id": "3TqKVvdfwYk",
+      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
+      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
+      "publicadoISO": "2026-11-09T16:22:24.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "GRULEGw-YeI",
+      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
+      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
+      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T20:00:31.000Z",
+      "categoria": "Conferencia"
+    },
+    {
+      "id": "n8su8tM3ld8",
+      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
+      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
+      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
+      "publicadoISO": "2026-11-07T13:01:00.000Z",
+      "categoria": "Entrenamiento"
+    }
+  ],
   "redes": [
     {
       "nombre": "X",
@@ -1108,9 +1153,7 @@
     }
   ],
   "totalFuentes": 34,
-  "avisos": [
-    "YouTube: HTTP 404 (no encontrado)"
-  ],
+  "avisos": [],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

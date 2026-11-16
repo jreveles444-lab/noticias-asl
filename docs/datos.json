@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-16T17:38:30.356Z",
+  "generadoISO": "2026-11-16T18:38:38.151Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,16 +345,6 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
-      "titulo": "CEFOR Promotora San Luis vence 4-2 y suma su quinta victoria en la Tercera División",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRW5DTFJHamFMazdFSl9wTl9STFVHeWI0UWh4ZkRfb3ZGUjdEMm5sYmZlV0d1ZVFIaWxUOVZnOWtkNnM1YjFkY0xqUzZ6eXQxSG9ySHdIbkFYSGlKVVFIV3BCbVByV3pMNV9XV3Q5Yk1wb3JtX21RR1FXZE9lS3phVHphVlFKZGdQQzk1WUtycE45UlZiZVpkODFYdjJoYmtaMG82bGZ2dy0zSVVsa3RLU0gtdENnODdhcjk5X3VibTZJRmY2eDc1RnpfT1dfNmFl?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-16T17:27:08.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Club Puebla vs Atletico San Luis: Pronóstico, Picks, Momios y Alineaciones",
       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUF5Wmd6R1I2ckZfSmZkNmVVcVVSaVh2cU1OMEVYNnBqdnNUQ3gyZlJpTG5CaTRUYzF2ZHc3TU05c0oxRTV0ODgxRXVHSmlHUWJpZ0F5U0VWWHg3QTlJS2wxTkpoYmJzZzdaMm12cVk4ZFhrT21QalVUQjk4bzdib1U1U1E0dTYzRjJQRlpULWpadUxX?oc=5",
       "fuente": "Squawka",
@@ -365,6 +355,49 @@
       "tambienEn": [
         "rcdm.es"
       ]
+    },
+    {
+      "titulo": "Sin posibilidades de Liguilla, Puebla va por un último triunfo ante San Luis para cerrar el torneo con 22 puntos",
+      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcWkyYXMzTUxISGJhRjZadXFNcktaX3hxYVN2TGo4WXZ1cGl1bWdUQ3BuMkVyZFRLemJYa3hCcnc5ZG5VUTFJVWlUc3BFZkl0R2ZPaHlUTkRNcXJrT2trMUV5S0ViZlVJQWRDOVZ2cjlNaWh0TExrekN5MlVSSnpuNGZGWEdLV2dCR2VDbEpYNkp2ai1WSFc0QktBZXpuLUhzeVBKWnY0b2hyNEUxOFFiV0hWVXNYeGV4X3JGRFExX0h1UkprNzllYWxWRDZQY21BWkxKbk1UVWkwWUl1YVRGU1hJalRTWkFYc1VaZ0JEMA?oc=5",
+      "fuente": "Diario Cambio",
+      "fechaISO": "2026-11-13T11:45:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Club Puebla baja precios contra San Luis para cerrar el Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWppaUV3RmV0YldBZmZjLTVNbVdsdEk3cGdEcmk1alphdFo4eTNxdnpkT3ltRWwwbm4yZ0NHUTNqWjVFZVM2bFFOaEYtLXlmYS13dUJhQmFSdDZIV3lHUThkb0pzcDlRYTd6bVlRaFdDMG1UUDRJTm5aS3FCa0c1aGhoSDNaSXVJem9kQ0h5Rm5lNnN5QjBablMza2FjOEJ6aXdHeGx6NmVyN010aktRVUVIbTRybmVqN3c?oc=5",
+      "fuente": "Grada Puebla",
+      "fechaISO": "2026-11-13T06:52:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Periódico Central",
+        "Milenio"
+      ]
+    },
+    {
+      "titulo": "Puebla vs Atlético de San Luis: Boletos desde 50 pesos",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2JDNUc2MVpwcGpmUDhMcHdVM1YwNUtuV0FaNHNueVpqYXhsMkp0N1JwSmJtNDVWVlRTejdYeFY1UmdNckFVNUR1RVRVakRTdk5ZWmxyVFhuQ3hfVi1pQXZvOHVXZk1jVU1iczRoNmVBaXJKNHhsd2JvVnd1OHFkS2gxR0dBNktzYW5ISnprVV96WmN2YkNpYlZ2TTV0cXE1VlZsbFkwUQ?oc=5",
+      "fuente": "Plano Informativo",
+      "fechaISO": "2026-11-12T19:43:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Club Puebla obligado a la victoria ante San Luis para evitar una de sus peores campañas históricas como local",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRG9qMjhqT1hjblJsdlJ3aDdvRmdLczduZHZoT2F6ZmpaM1dvRW91WnpRYmswYVZzLTJpS1lFX0JmNkdoallJcmZUdHVLRHJuazVYMk1EZkEyVi1SbDNjRDRqSkN2aTVIMGNRZzFITXRvNlAxS21zWTRyb24tdTk5OVZMSjNRdW13dTZMbWlJbkhJMkVBN0hnOWRBN09qdnZ6Y0tWWjZ0WlliTVR6LVlNd0Z1MG5GbUJVbTAxc2piLXdqa0tCbGplSzhVdnVPamtQRkpKRHFMS2YtU1Y5RlVPT0djTHBwSDZKYmFJdA?oc=5",
+      "fuente": "Diario Cambio",
+      "fechaISO": "2026-11-12T12:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "“Métete con los hombres”: Galdames y Fulgencio se retan a golpes post San Luis vs Juárez",
@@ -445,6 +478,7 @@
         "Récord",
         "MARCA",
         "Telemundo",
+        "Mediotiempo",
         "Mediotiempo",
         "El Heraldo de México",
         "Mediotiempo",
@@ -566,7 +600,6 @@
       ],
       "tambienEn": [
         "El Sol de México",
-        "El Sol de México",
         "Atlético San Luis",
         "El Sol de México",
         "Atlético San Luis",
@@ -608,7 +641,6 @@
         "Fichajes"
       ],
       "tambienEn": [
-        "TUDN",
         "TUDN",
         "ESPN Deportes",
         "El Sol de México"
@@ -654,6 +686,20 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Fuerzas Básicas del Atlético de San Luis también sufren derrotas",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlBkRkY4aUlSNlN4a0FUT0hiUV9KbVJ5bjVHemM4N3YzSHJIWUtzZ0ZVOTZ2SmoyM0pEbEd3TF96eEljNjZkWWlXbzJVX0JkOGYxaHVYVmkxS3JzWWMtVzFWNEhEeVVVaV83dHBrNHo2dzF4dzFzYm1IVVdrU1ZhaEViYmVJd2RiYVBMZlJFZ3h5Uzh6NnAxcEZ4Qk5BRTFfZlM2U2I4Rjd6X0NvTG1YMWFsODFVZmc?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-09-08T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "OnceDiario",
+        "OnceDiario"
+      ]
     },
     {
       "titulo": "Atlético de San Luis vs Chivas: Resultado del partido de Jornada 7 de Liga MX 2026",
@@ -740,25 +786,6 @@
         "General"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Las Fuerzas Básicas de Rayados vencieron al Atlético de San Luis en El Barrial.",
-      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQk9MYkdEQWcwem1yU1RUd0xsYU0tM1RGRXEyYXRaamx6a2w3Zi1vZG5LcW1HUV90b3p0RXZDbmNOblozQXFOaDdtUW9yUDByM3E0UFpJNXVGX0tpNmpTUnM2dUZtY19jS1FuV090UkJUYmthTVpCTmNVSEVZUkJTTnI3MmkzWjlvODRnS0hYckgzM0tTU2Jta1Q2b2d4T1pmOUlYdXNaZWJNZDdVZXRiWWdwdzVtbVdnbU9OSXhueGFDWDNOQldJbXVwVDNnZlJQNmR4alN1TnE5dE5iWkcyMUNHRFpyZXFKdGRXNEFxampqY0RvUUYw?oc=5",
-      "fuente": "OnceDiario",
-      "fechaISO": "2026-08-30T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México"
-      ]
     },
     {
       "titulo": "¡Con gol del portero! Carlos Moreno rescata el empate de último minuto para el Pachuca ante el Atlético de San Luis",
@@ -859,17 +886,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "The key facts you can’t miss before Chivas Femenil vs Atl. San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZXBZYVVmTFI1bTZRdGw4OFRob1E5Y29Sb3JheEQtZ2xfbGtGR0ZIUVpGX3o5V2ItSkU3b1kyS0JnbzI5cEFSd0ZaR2FNSGtCdUEyLVdxMGpRME5VQWU0WHVXMkoyN0xBUmJsVnlVWHpzT1FYcG5jWGZTX1c?oc=5",
-      "fuente": "Yahoo Sports",
-      "fechaISO": "2026-08-15T07:00:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Líder a escena: así puedes ver el América vs. Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWg5ekI2amprYWZFUmxLelNGMjRablBqcWUzWlJnQ3RYM2g1ZENFbF9QQTFHRl9KVEVEMGpaMGpldlB5NG9hUEFLSExZZFNfV0RBcm5MWFJMWDBacEVtWXdwYVYzbnFsbnV1b3d4Rk1nOFlFRWlEUTRNci12ajRmNFh6WDJOTjZrRnE3X0Vfd0lSc1ROT2V1WFpOYW9OMklmNE9YS0ZQdEVRUQ?oc=5",
       "fuente": "TUDN",
@@ -911,17 +927,14 @@
       "tambienEn": []
     },
     {
-      "titulo": "Por qué se suspendió el partido Atlético de San Luis vs Toluca y cuándo se jugará",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVJQaS11Z2FjLXQ4NnpBbGZwUXY4TXpiOHdTUGR3Vm8wbE03WHFlUDl6MHRjZm5naGstaTNpZy05WHR2TWhqQ1ZEcmgzNWRHRE53NXotYnY3MVJlY3NjazlJeDJQRmliN2VOUEU5V3QydlNSdkx5S29Uc0psekpQNFBkYjh4R2t6NDFjaFBrbnE1aV9CUlJ1RVVROG12dUN3clVZeldKR1FtU05zMEhIdmdvdWU?oc=5",
-      "fuente": "Juanfutbol",
+      "titulo": "¿Que paso en Atlético San Luis vs Toluca y por que se retrasa el juego?",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3UUdReV9vaFNQdnd1aWNtaWQwQTdMbF9sZGxmN3lITVdsX2ViZUJiV1ZHZWp4R1JZSmk2T2tVNlVfM1hhUVRpUzZ1M3NrYk5GNGRKZGlMbExpeWJsOXREOXNtZUFDcS12QTc4UGwyRGI4c3JGejRXejJCNzY?oc=5",
+      "fuente": "365Scores",
       "fechaISO": "2026-08-02T07:00:00.000Z",
       "categorias": [
-        "Femenil",
         "Partidos"
       ],
-      "tambienEn": [
-        "365Scores"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis anuncia a Mora como refuerzo y Xolos responde",
@@ -995,7 +1008,6 @@
       "tambienEn": [
         "ESPN Deportes",
         "Transfermarkt",
-        "MLS Español",
         "ESPN"
       ]
     },
@@ -1022,28 +1034,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Atl. San Luis 0-0 Tijuana (31 de Jul., 2026) Resultado Final",
-      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTkt1M1BKeVllcjdYNmlhY19vNkNzeE83YkFVTmV2T3VUUjhDOVJIYzZqUWUtUjJIWm51MllBdUFMTVVrcVZzWnB3QVdtZ1RIZXR5dGx3Y0RSVzZxT2lMaE9VWmdvdDRzV3ZhNVM4aThBdnFnU0xBVGQxLXB4YlYwdW0wOVFVSmxtWFUwdDdTRm8?oc=5",
-      "fuente": "ESPN México",
-      "fechaISO": "2026-06-23T04:34:09.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis Femenil anuncia SEIS bajas previo al Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOay0zb0daaDJzRFNkaVJUcmN4U191bjMyczg0MDZwSVIxQnUwMEJ1R3JzSTdtZjZHak1tczk4M21qaFhxVmViemVFU1BQTVVKbVJpRUlXSTVYbnlmYUg4RWFBR1o0ZW5PeWxCQmRUempNaHJlQ1BnYnBtS3Jac3JPQmV1blpxUEhlX05SemxxU0lsY1JWTElNYlVaOFRDOXREWDRzeFNmYjBGdEttUVE?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-06-02T07:00:00.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
     }
   ],
   "comunidad": [
@@ -1058,7 +1048,6 @@
         "Escuela"
       ],
       "tambienEn": [
-        "El Sol de México",
         "El Sol de México",
         "Atlético San Luis",
         "El Sol de México",
@@ -1078,7 +1067,6 @@
         "Fichajes"
       ],
       "tambienEn": [
-        "TUDN",
         "TUDN",
         "ESPN Deportes",
         "El Sol de México"
@@ -1171,7 +1159,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 31,
+  "totalFuentes": 32,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

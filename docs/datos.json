@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-16T08:37:28.464Z",
+  "generadoISO": "2026-11-16T09:37:35.387Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -441,16 +441,6 @@
       ]
     },
     {
-      "titulo": "¿Dónde ver EN VIVO el partido de la J16 San Luis vs Juárez?",
-      "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcGd3R0xnWV9hN3lNRWpueXNwbWY4WVZuZGNqa1JsV2lxaTdDWFhfLURZSVNud19LMU9zZEZwZWRIMlR2UWRrTTZxUkpTdzlGTGh2OHJlZmxoUGtkM2UwMDBPYzNQOTk1cURobGxwcWNQaWRrWGhKYUpNM3lFMHdNb2FsT1AzYmhOTU9QVTdnMGhNRFFQN2FmM3oyTGprVWVkMmxyQ2VKaDdlaV9HVmlENHp1NHFhTGMyQ25wZG9EdjI4VW4tTWFLSUl6U1hTYzZuRjQ5QjloWm50OVRCTmh3OXFZcW3SAeoBQVVfeXFMTnNTQ2s0aEwwN04wRTZZazlVcHlXRjkwUndhbHh3UUxsVTNudFljOUtabWFwczdySDZ5SnpISTc5RTdWSnNzTGdaR2tScTRjdXhVT0FKZTNrbDZ3d3AtSG1ObnpDeDBJLWY1X2JDS3N6TW1ZOVQ3dVdiZjdSX0U0MnB6NjRrLW1scjlsS25xRFJ4UEVlNVRfVzFJZi1qb21mZzBWOW91N09Hdi1ZNHdyZE9ZX2lIUkRpWTNXaDJTSE5xTTlOM1lNYXVMQW1BLXdTeFdJOWxWenJ4TGNFbF9CZGljQnBOQlk5WG9n?oc=5",
-      "fuente": "El Informador",
-      "fechaISO": "2026-11-05T08:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "León vs. Atlético de San Luis Femenil EN VIVO: Dónde, cuándo y a qué hora ver el partido de la Jornada 13",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEE0V2RUQjgydS03ODRZWU1xOXRCS21XWnN3dGRkTEVla0lTY2ZiMnd3Y2JEOHRvcE1LaXk1RlZLUkxRaGtsdGZUMTZRdFdzNFRzVEF6QjRGUDZYdGpXSXFlLWFXNE5uMGkzeUhOZzdydC1BaDhzaVBBa1ZJQXlUV3JicFl6MTRtNTgzQndPWDJYSzFKVUMtZWc2T3ZMa19BZTVmcVRWZ19INGh5SlRHU1NTV0tKUGpnb3V5VVNKVUw4SDJQSFoycFdSa0M0dE5VbXc?oc=5",
       "fuente": "W Radio México",
@@ -472,8 +462,8 @@
         "TUDN",
         "TUDN",
         "TUDN",
-        "Récord",
-        "El Informador"
+        "El Informador",
+        "Récord"
       ]
     },
     {
@@ -1028,6 +1018,20 @@
         "ESPN Deportes",
         "Transfermarkt",
         "ESPN"
+      ]
+    },
+    {
+      "titulo": "Cruz Azul estrena su título con remontada ante Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDNDN2RsSlhxMG5VdlRsNjlSLWlaeFp6VVNrNXRNRlhxSHBhbWd1d2doenVUaVNwMzFWNldPelNwZC0tYUVVTDJuaDNzOVJVbUV1Q29JM1pLaGowbDNVX2JFaU1SUW5MZkVQSUpCZUtxUWpVMjlHcmthQncyUDBnVGZWMWRRSVJHaFNWS0VwZGNybzMtUjUtV056dTNuek5Tb1VhdUpDUnYtb1I5eUE3X20xdXIwQWJ1eFFjTjFGdmRjd25mdnBmemEwTVI?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-07-17T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "TUDN",
+        "365Scores",
+        "El Sol de México"
       ]
     }
   ],

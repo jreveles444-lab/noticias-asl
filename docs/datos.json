@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-15T23:36:24.820Z",
+  "generadoISO": "2026-11-16T00:36:31.665Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -391,6 +391,16 @@
       "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlNpa1cyMVk4UXhXUzJrNl9lWG4wTUxha2Y5Rng4cFRfMk16cVRDemRhVW1PSm9qbzhmM0daUG4tUlRJTjl3NnVKVlhlMDJuQlBQOGFudlktclluVW10ei13RXZRYjl6UjRpWGNvN0VXYXItSVpEZWpQYkhMd1d1Wms3Q3ZEOFBlTmxXMHhDYlRwdw?oc=5",
       "fuente": "FOX Deportes",
       "fechaISO": "2026-11-14T00:27:17.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¡El 'Niño' le dijo NO a la Liga MX! Fernando Torres rechaza al Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZXlDNjA1SGhYckJNZXdjYi1ZQmdDZVkwLVlXaUEwQ2wzd1g4bnVsMmpMRlhpS25tYndBdTgxY0VaNlhCT0F3a1VqTEdfTFBlejJ2YnNIODBwbFJlQTJsSk5HMXp2U3pBTUd2TkUzYS14T1dhQ2RYWWRwbU5acmpZdnU5dzBidXJGUUhMU1MtMUdxcGdiYS04LXlMMDdod3RZVWFoUU9Xd01wQW10QTVmSTFmU2s2a2ZEQm02UlRVbVZNN2R6dzR6LUk0ZHMxZw?oc=5",
+      "fuente": "Soy Futbol",
+      "fechaISO": "2026-11-13T16:35:00.000Z",
       "categorias": [
         "General"
       ],
@@ -977,16 +987,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Silvana González deja Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2NyXzNQZFEwMGxSdGF0VGI3TVBGdWNDMWZZNGJLMDQwb2Rta29mS2VpVlJYUGRuNV9IbmFSdXBnS3lmb3RqZFQ3X2h0end2LU9lSmx3cDBGd0Exc2VvUml1ODVzb01HbVJrNHppVGhFTU9mdkktZkFiZGp3a1BXbl84SDRuOFNBOWE4TVl5ejBsckQ1VXU4Ng?oc=5",
-      "fuente": "Plano Informativo",
-      "fechaISO": "2026-08-14T07:00:00.000Z",
-      "categorias": [
-        "Cantera"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Líder a escena: así puedes ver el América vs. Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWg5ekI2amprYWZFUmxLelNGMjRablBqcWUzWlJnQ3RYM2g1ZENFbF9QQTFHRl9KVEVEMGpaMGpldlB5NG9hUEFLSExZZFNfV0RBcm5MWFJMWDBacEVtWXdwYVYzbnFsbnV1b3d4Rk1nOFlFRWlEUTRNci12ajRmNFh6WDJOTjZrRnE3X0Vfd0lSc1ROT2V1WFpOYW9OMklmNE9YS0ZQdEVRUQ?oc=5",
       "fuente": "TUDN",
@@ -1077,55 +1077,12 @@
         "Cantera",
         "Escuela"
       ],
-      "tambienEn": [
-        "Atlético San Luis"
-      ]
+      "tambienEn": []
     }
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
-  "videos": [
-    {
-      "id": "6elvhAmUX18",
-      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
-      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
-      "publicadoISO": "2026-11-12T01:20:48.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "ibb-gHsYxgU",
-      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
-      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
-      "publicadoISO": "2026-11-10T23:30:57.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "3TqKVvdfwYk",
-      "titulo": "Ignacio Quintana | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
-      "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
-      "publicadoISO": "2026-11-09T16:22:24.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "GRULEGw-YeI",
-      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
-      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T20:00:31.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "n8su8tM3ld8",
-      "titulo": "¡EL PRE DEL ADSL VS JUÁREZ EN EL BARRIO9! | AP26 | J16",
-      "enlace": "https://www.youtube.com/watch?v=n8su8tM3ld8",
-      "miniatura": "https://i.ytimg.com/vi/n8su8tM3ld8/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T13:01:00.000Z",
-      "categoria": "Entrenamiento"
-    }
-  ],
+  "videos": [],
   "redes": [
     {
       "nombre": "X",
@@ -1144,8 +1101,10 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 35,
-  "avisos": [],
+  "totalFuentes": 36,
+  "avisos": [
+    "YouTube: HTTP 404 (no encontrado)"
+  ],
   "colores": {
     "rojo": "#c8102e",
     "rojoOscuro": "#8f0a20",

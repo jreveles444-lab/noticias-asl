@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-16T00:36:31.665Z",
+  "generadoISO": "2026-11-16T01:36:38.717Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -413,16 +413,6 @@
       "fechaISO": "2026-11-13T11:45:00.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Enrique Galindo lleva a las escuelas campaña para evitar accidentes por pirotecnia",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVA5T3c2ZEQyTzh0UkpNZS1aZ1Q0amYwWTdKMG1EVWYzdVQ1VmNQSkx3azQzRktmMDRHQ0hWei1BdUxYOG5xME5pY1c4UVZfTVljYlRGb1BJdXJzc1F4anBrV3dwSEVvRUJGV2dvdUUwa1lhTWRNUDJXZGpUWjdqMThrNmc2Mzl0?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-11-13T07:51:18.000Z",
-      "categorias": [
-        "Escuela"
       ],
       "tambienEn": []
     },
@@ -1026,19 +1016,19 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¿Que paso en Atlético San Luis vs Toluca y por que se retrasa el juego?",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3UUdReV9vaFNQdnd1aWNtaWQwQTdMbF9sZGxmN3lITVdsX2ViZUJiV1ZHZWp4R1JZSmk2T2tVNlVfM1hhUVRpUzZ1M3NrYk5GNGRKZGlMbExpeWJsOXREOXNtZUFDcS12QTc4UGwyRGI4c3JGejRXejJCNzY?oc=5",
+      "fuente": "365Scores",
+      "fechaISO": "2026-08-02T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
-    {
-      "titulo": "Enrique Galindo lleva a las escuelas campaña para evitar accidentes por pirotecnia",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVA5T3c2ZEQyTzh0UkpNZS1aZ1Q0amYwWTdKMG1EVWYzdVQ1VmNQSkx3azQzRktmMDRHQ0hWei1BdUxYOG5xME5pY1c4UVZfTVljYlRGb1BJdXJzc1F4anBrV3dwSEVvRUJGV2dvdUUwa1lhTWRNUDJXZGpUWjdqMThrNmc2Mzl0?oc=5",
-      "fuente": "Código San Luis",
-      "fechaISO": "2026-11-13T07:51:18.000Z",
-      "categorias": [
-        "Escuela"
-      ],
-      "tambienEn": []
-    },
     {
       "titulo": "¿Cuándo juega el Atlético de San Luis en el Apertura 2026?",
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVl0anJOSVZrMDBsajNyaVEzek1nTDRYMjBHYzFPalpuUFNYUE9qc29EZUtkRWZfMEdCZ01hMEdRQzBzNWptbGk1MmJHVEt4SWZZdDMxRFlpVkJzQVJjNW12S0RCM2pCZVh2TWJnZU1Cd3dLQ1o1S0VzQTJ4RUl3RHlDMEU3U1hIci1nN1ljaVAzWHpBRE5xOXRRUUt3SXo2eC1yTWcxVTZpdFlna2F3dWtzaU55N1JJb2hjbUV3?oc=5",
@@ -1072,6 +1062,17 @@
       "titulo": "Presentan segunda edición de la Copa Escuelas ADSL",
       "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3FoSWhQaXpMMG5WbGhzY0RyYVJsTkhPc2xzR0R3aE8tMUM4OE1Tc3dHaFJaRU5oUE1jRnplSGlhOGpUR2laZHdnLUI2ZXJtdVBHQ3dZX2FMS2xwOTlDWGJNcGN4Mmc2dkRWUkpVMTRFcEV4V2laZmdZSjJhVTlOTkFDdw?oc=5",
       "fuente": "Código San Luis",
+      "fechaISO": "2026-07-21T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Más de 1,200 jóvenes participarán en la Copa Escuelas ADSL 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUNsQkZSeVRWNmNlQjNEOGtudEV0QXlKZU9nUWptdGZIeXN6T2ZJbUZ5ekUwdXQ5dHA3aGhRQnhpVzBOSFRLd3J0OEhhZFVSTW1HTHk3NzVCazFWNXM0QWVmM2xhOGlNQWhBZm02ajVUTmNHeDhpVmw3QUhkZmtIMXBaOFdIZnRiM1lJWUI5UU9VQlYyU1pGdGVzLWs2SkxZVkhmZW1SRERJQm1LV29nVGF6STg?oc=5",
+      "fuente": "Plano Informativo",
       "fechaISO": "2026-07-21T07:00:00.000Z",
       "categorias": [
         "Cantera",

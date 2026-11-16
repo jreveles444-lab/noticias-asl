@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-16T01:36:38.717Z",
+  "generadoISO": "2026-11-16T02:36:45.920Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -440,18 +440,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Galindo inicia campaña “Los cuetes no son tus cuates” en SLP para prevenir accidentes",
-      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93V2VEUlo3dHlhdU9TRlAzLTc3ZFBFdWtvWVlIVWUwZld0TDBValhWU1RMeTNfN3UxQzlXbnRWRF9TYmoxVFlRR29lNVNtQk5GMW1LUGx2aEFCWUxWaWZLbXVpN3FteHc?oc=5",
-      "fuente": "Antena San Luis",
-      "fechaISO": "2026-11-13T01:37:50.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "Momento | San Luis Potosi"
-      ]
-    },
-    {
       "titulo": "Puebla vs Atlético de San Luis: Boletos desde 50 pesos",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2JDNUc2MVpwcGpmUDhMcHdVM1YwNUtuV0FaNHNueVpqYXhsMkp0N1JwSmJtNDVWVlRTejdYeFY1UmdNckFVNUR1RVRVakRTdk5ZWmxyVFhuQ3hfVi1pQXZvOHVXZk1jVU1iczRoNmVBaXJKNHhsd2JvVnd1OHFkS2gxR0dBNktzYW5ISnprVV96WmN2YkNpYlZ2TTV0cXE1VlZsbFkwUQ?oc=5",
       "fuente": "Plano Informativo",
@@ -555,8 +543,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Sol de México",
         "Récord",
+        "El Sol de México",
         "Récord",
         "MARCA",
         "Telemundo",
@@ -591,7 +579,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "ESPN Argentina"
+      ]
     },
     {
       "titulo": "¡Aaaaaaaarranca el partido! - Atlético de San Luis vs Atlas | EN VIVO",
@@ -676,12 +666,14 @@
       "fechaISO": "2026-10-08T23:32:52.000Z",
       "categorias": [
         "Femenil",
-        "Partidos"
+        "Partidos",
+        "Escuela"
       ],
       "tambienEn": [
         "El Sol de México",
         "Atlético San Luis",
         "El Sol de México",
+        "Atlético San Luis",
         "Atlético San Luis"
       ]
     },
@@ -876,7 +868,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "ESPN Deportes"
+        "ESPN Deportes",
+        "TUDN"
       ]
     },
     {
@@ -1026,9 +1019,37 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis anuncia a Mora como refuerzo y Xolos responde",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlBLZFQzLTdpaDlaWEJpT04tcUVqUGhMMHRXNjBrU0l0d1l1Wm1YbmxueEJISkp3dzhIQi1OcVk5Q1FNelItVmU1LVlmTVR6Wi1yelpfX2k0RGlDSHNxTnBCSDF6MnZTenFxcThFNHhXWDk4emNHejMyNGwzUnFiYkRqekNpTjFId2pCeXpqcjV1by1LS00wYkRDZkF6NmM?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-07-31T21:50:36.000Z",
+      "categorias": [
+        "Fichajes"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
+    {
+      "titulo": "Cambio de Fecha | Atlético de San Luis Femenil vs América",
+      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlo3aGJ5NGMteU9ON1VOMExKZ291NUt0aS1Bd3dXcUdKUmZlVXQ0b09kalNVNVU0MFJ3V3MwQWlQaXU0WnhkSnR1SDVZSzczOXpkdmJ1Z2FhTTJ3S2dCOFNhN0NuNTlZRmxEaklEQkpHSnFHMGt3UmF0dklaT01zMFV3V3ktUTNvWEVWZFVtak8tcGFON0ZUWVZ5S1Bfdl9wdnc?oc=5",
+      "fuente": "Atlético de San Luis",
+      "fechaISO": "2026-10-08T23:32:52.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos",
+        "Escuela"
+      ],
+      "tambienEn": [
+        "El Sol de México",
+        "Atlético San Luis",
+        "El Sol de México",
+        "Atlético San Luis",
+        "Atlético San Luis"
+      ]
+    },
     {
       "titulo": "¿Cuándo juega el Atlético de San Luis en el Apertura 2026?",
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVl0anJOSVZrMDBsajNyaVEzek1nTDRYMjBHYzFPalpuUFNYUE9qc29EZUtkRWZfMEdCZ01hMEdRQzBzNWptbGk1MmJHVEt4SWZZdDMxRFlpVkJzQVJjNW12S0RCM2pCZVh2TWJnZU1Cd3dLQ1o1S0VzQTJ4RUl3RHlDMEU3U1hIci1nN1ljaVAzWHpBRE5xOXRRUUt3SXo2eC1yTWcxVTZpdFlna2F3dWtzaU55N1JJb2hjbUV3?oc=5",
@@ -1068,17 +1089,6 @@
         "Escuela"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Más de 1,200 jóvenes participarán en la Copa Escuelas ADSL 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTUNsQkZSeVRWNmNlQjNEOGtudEV0QXlKZU9nUWptdGZIeXN6T2ZJbUZ5ekUwdXQ5dHA3aGhRQnhpVzBOSFRLd3J0OEhhZFVSTW1HTHk3NzVCazFWNXM0QWVmM2xhOGlNQWhBZm02ajVUTmNHeDhpVmw3QUhkZmtIMXBaOFdIZnRiM1lJWUI5UU9VQlYyU1pGdGVzLWs2SkxZVkhmZW1SRERJQm1LV29nVGF6STg?oc=5",
-      "fuente": "Plano Informativo",
-      "fechaISO": "2026-07-21T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
@@ -1102,7 +1112,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 36,
+  "totalFuentes": 35,
   "avisos": [
     "YouTube: HTTP 404 (no encontrado)"
   ],

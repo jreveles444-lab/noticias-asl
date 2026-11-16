@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-16T13:38:01.722Z",
+  "generadoISO": "2026-11-16T14:38:08.665Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -367,16 +367,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¡El 'Niño' le dijo NO a la Liga MX! Fernando Torres rechaza al Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZXlDNjA1SGhYckJNZXdjYi1ZQmdDZVkwLVlXaUEwQ2wzd1g4bnVsMmpMRlhpS25tYndBdTgxY0VaNlhCT0F3a1VqTEdfTFBlejJ2YnNIODBwbFJlQTJsSk5HMXp2U3pBTUd2TkUzYS14T1dhQ2RYWWRwbU5acmpZdnU5dzBidXJGUUhMU1MtMUdxcGdiYS04LXlMMDdod3RZVWFoUU9Xd01wQW10QTVmSTFmU2s2a2ZEQm02UlRVbVZNN2R6dzR6LUk0ZHMxZw?oc=5",
-      "fuente": "Soy Futbol",
-      "fechaISO": "2026-11-13T16:35:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "“Métete con los hombres”: Galdames y Fulgencio se retan a golpes post San Luis vs Juárez",
       "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZm1FamlpLXFvMFBUOW0zY0NKT1p2MS15SENNT3FxeVRFa254elpIVnVGM3dMX0xnZXZoVVFNSzNpcUlodmZpOTRucjQzY0phcFFYTjJVMDNuU0xFaHZXSFhCTXd3YjdrMHV6SXpfMVZXU2pSZDBFdHpNSzBtRlpiWWZuUUJPcTNJNmpPVXRnUS1qa3lyUndDUXduSUQzcWlhR0NsMGloTXZUTktadEM0bWR5V0E1cTVQQ2lsRVhLQl9FUFR40gHEAUFVX3lxTFBtX1BHRjZFdzdBM2NyQ0ZRUkFjWVg3eWpuNmItblZoWmRpQjhEZmM2UThuSGtNLV9GcWpsMjB5SlAtM1VBWUdNMkpuNWhqc2pxeV92WkV3d20tSkJadjVnMWlTNEJ3SXc0ZGRwY3hIcERqRTNaOU5lT296cEdMNTVkZW1WZU55WXE5NldyYjEwN0hhbjJJTUp6N0ZSNmZBaF9EUDA1b3NPeFNwNFFLTFBSN0JXZlhPanVzYUJtU01lSDBEYW8?oc=5",
       "fuente": "MARCA",
@@ -455,7 +445,6 @@
         "Récord",
         "MARCA",
         "Telemundo",
-        "Mediotiempo",
         "Mediotiempo",
         "El Heraldo de México",
         "Mediotiempo",
@@ -771,14 +760,15 @@
       ]
     },
     {
-      "titulo": "Carlos Moreno rescata a Pachuca con gol ante Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkZkQXFmNGtwdVpFWVAxR3QxYjVZSk5JRU8wUGNsMVJfcXdqSkgtSGctYnZIbTFkc1FHSnZlUEpzX3JxUS1KXzNpcmZUYjBGWUJHX0EzSjRGRzRWaTY1TEdGOG8xNWMxQkVEMHRxdUpTU0VQdzZ4QUw4a3V3ci1FcU5GWmx2NjlFVkhQcVlJNWNEMXU2SzZuYmU1QUZialllc3EyTS0yTzJ3aE1IMmstb2RiY1U0ai1W?oc=5",
-      "fuente": "ESPN Deportes",
+      "titulo": "¡Con gol del portero! Carlos Moreno rescata el empate de último minuto para el Pachuca ante el Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYTV0eHozaWQ2ZDlxM2c4MnJYdlJ2UWdTeVFDS2F0LWxTR3QzOEI4N2o0QWhON2ZmX1JQY0FfSXVNVTVTSWR6MVJEaG8tTXBWTHN2RUtfeElhRG55LUZ6T2ZtRlpYWHpBT0FkNUVfNDdrZnVmbFhTUWc4WWJjRUpUdDNmdWhwd3NkVTdib2p4Q2RCV283azlhTTFROVdyLUpkQTFnT1MwU21zTXp6d0RrbWRjRzdDQnpLTnFrYnRYalpNWUJvRDI5UEdRbnMtYjNwN184TmlkQVI5N2FNNndrd3VtZjNSWEctWW5v?oc=5",
+      "fuente": "TV Azteca",
       "fechaISO": "2026-08-23T07:00:00.000Z",
       "categorias": [
         "Partidos"
       ],
       "tambienEn": [
+        "ESPN Deportes",
         "TUDN"
       ]
     },
@@ -1017,6 +1007,7 @@
       ],
       "tambienEn": [
         "TUDN",
+        "365Scores",
         "El Sol de México"
       ]
     },
@@ -1031,14 +1022,26 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atl. San Luis 0-3 Guadalajara (5 de Sep., 2026) Resultado Final",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcHlTeFphcl81TzFrOHZacjJMVDJkdUdqdU5UVV9JUTJKaFcwN1lrQXU0M3p2Ym5WY0dqVTM3RE96T3pGMjYwQW1Fb0h0TVY4QVUwUVJPRTZHMFA4NnY2bFJQdE1KTmJaMDFmTk0zY1djWHNiSGxvRmJ5VGZHbHYycFZBWnQ3eDlxZExFdmlMV0lmUEx0M3c?oc=5",
+      "titulo": "Atl. San Luis 0-0 Tijuana (31 de Jul., 2026) Resultado Final",
+      "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTkt1M1BKeVllcjdYNmlhY19vNkNzeE83YkFVTmV2T3VUUjhDOVJIYzZqUWUtUjJIWm51MllBdUFMTVVrcVZzWnB3QVdtZ1RIZXR5dGx3Y0RSVzZxT2lMaE9VWmdvdDRzV3ZhNVM4aThBdnFnU0xBVGQxLXB4YlYwdW0wOVFVSmxtWFUwdDdTRm8?oc=5",
       "fuente": "ESPN México",
-      "fechaISO": "2026-06-11T00:45:03.000Z",
+      "fechaISO": "2026-06-23T04:34:09.000Z",
       "categorias": [
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Femenil anuncia SEIS bajas previo al Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOay0zb0daaDJzRFNkaVJUcmN4U191bjMyczg0MDZwSVIxQnUwMEJ1R3JzSTdtZjZHak1tczk4M21qaFhxVmViemVFU1BQTVVKbVJpRUlXSTVYbnlmYUg4RWFBR1o0ZW5PeWxCQmRUempNaHJlQ1BnYnBtS3Jac3JPQmV1blpxUEhlX05SemxxU0lsY1JWTElNYlVaOFRDOXREWDRzeFNmYjBGdEttUVE?oc=5",
+      "fuente": "TV Azteca",
+      "fechaISO": "2026-06-02T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": [
+        "El Sol de México"
+      ]
     }
   ],
   "comunidad": [

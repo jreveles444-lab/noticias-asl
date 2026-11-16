@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-16T16:38:23.245Z",
+  "generadoISO": "2026-11-16T17:38:30.356Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "CEFOR Promotora San Luis vence 4-2 y suma su quinta victoria en la Tercera División",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRW5DTFJHamFMazdFSl9wTl9STFVHeWI0UWh4ZkRfb3ZGUjdEMm5sYmZlV0d1ZVFIaWxUOVZnOWtkNnM1YjFkY0xqUzZ6eXQxSG9ySHdIbkFYSGlKVVFIV3BCbVByV3pMNV9XV3Q5Yk1wb3JtX21RR1FXZE9lS3phVHphVlFKZGdQQzk1WUtycE45UlZiZVpkODFYdjJoYmtaMG82bGZ2dy0zSVVsa3RLU0gtdENnODdhcjk5X3VibTZJRmY2eDc1RnpfT1dfNmFl?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-16T17:27:08.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Club Puebla vs Atletico San Luis: Pronóstico, Picks, Momios y Alineaciones",
       "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUF5Wmd6R1I2ckZfSmZkNmVVcVVSaVh2cU1OMEVYNnBqdnNUQ3gyZlJpTG5CaTRUYzF2ZHc3TU05c0oxRTV0ODgxRXVHSmlHUWJpZ0F5U0VWWHg3QTlJS2wxTkpoYmJzZzdaMm12cVk4ZFhrT21QalVUQjk4bzdib1U1U1E0dTYzRjJQRlpULWpadUxX?oc=5",
       "fuente": "Squawka",
@@ -355,16 +365,6 @@
       "tambienEn": [
         "rcdm.es"
       ]
-    },
-    {
-      "titulo": "Atlético de San Luis tendrá un nuevo hermano en Ecuador",
-      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR09ESWV0WW11c3V0eGREaVdITTlnQ29zajAzUkpJa2FPSWZUTzh4aHF3dTlCaWNWYmd0X2lkOEszS3ZKQlRXNzVzelpwY1Z2VWxwT0ZXWm94Rk4yZTNsYTBnOWM3ZkJaSFFtOFlxWTlfeTI2QmJrQ0lfQVRHdHpydlNpMm02LVVZZWxHSmpvd212LVh2b1RLWEtQVjA4QVNXMFM0aFF3?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-14T23:38:35.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "“Métete con los hombres”: Galdames y Fulgencio se retan a golpes post San Luis vs Juárez",
@@ -608,6 +608,7 @@
         "Fichajes"
       ],
       "tambienEn": [
+        "TUDN",
         "TUDN",
         "ESPN Deportes",
         "El Sol de México"
@@ -994,6 +995,7 @@
       "tambienEn": [
         "ESPN Deportes",
         "Transfermarkt",
+        "MLS Español",
         "ESPN"
       ]
     },
@@ -1076,6 +1078,7 @@
         "Fichajes"
       ],
       "tambienEn": [
+        "TUDN",
         "TUDN",
         "ESPN Deportes",
         "El Sol de México"

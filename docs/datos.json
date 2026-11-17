@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-17T01:39:28.717Z",
+  "generadoISO": "2026-11-17T02:39:35.695Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Club Puebla, con meta de vencer a San Luis y alcanzar los 22 puntos: Mathías Tomás",
+      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzR5Wm1fSURuZ18xTmVmNm1XN3ZrcjlNd1NRNzZIdUg2cWx1QlhtOHFWbnlrMlQ5MVpLc2NxMzFOdVRQNkZJdkZyVU1WTzk3a2dUMm5qX09hdmZqWVZvaGdVWjJwTllkWXJhT2E1cDljeXp2OWpPSzJibERBN0ZSdFNmVnlwbnN4Smk4d0xLZzFhSGZsRWtQWDlhc9IBmwFBVV95cUxQOEV3N0hLc2ozMnk1S1ZYQkNXeTl3NE4xSFR1QmhHS3diYnZ1cWpYaE1FTlVZS2pDMFB6bEJCNko5QkNBYnNJb3ZHUkRRcFg4THJKX2lmdm9fV0Z0WmVsZWh4X3pRdmJwQ09RQWpPWnRsZGxsazlqeXBDdDlUcWx0aGFldmdNbXM4V3k4R2x4QVdvM1FhVHh0ZEVyVQ?oc=5",
+      "fuente": "MILENIO",
+      "fechaISO": "2026-11-16T18:13:40.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "CEFOR Promotora San Luis vence 4-2 y suma su quinta victoria en la Tercera División",
       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRW5DTFJHamFMazdFSl9wTl9STFVHeWI0UWh4ZkRfb3ZGUjdEMm5sYmZlV0d1ZVFIaWxUOVZnOWtkNnM1YjFkY0xqUzZ6eXQxSG9ySHdIbkFYSGlKVVFIV3BCbVByV3pMNV9XV3Q5Yk1wb3JtX21RR1FXZE9lS3phVHphVlFKZGdQQzk1WUtycE45UlZiZVpkODFYdjJoYmtaMG82bGZ2dy0zSVVsa3RLU0gtdENnODdhcjk5X3VibTZJRmY2eDc1RnpfT1dfNmFl?oc=5",
       "fuente": "El Sol de México",
@@ -397,6 +407,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Enrique Galindo lleva a las escuelas campaña para evitar accidentes por pirotecnia",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVA5T3c2ZEQyTzh0UkpNZS1aZ1Q0amYwWTdKMG1EVWYzdVQ1VmNQSkx3azQzRktmMDRHQ0hWei1BdUxYOG5xME5pY1c4UVZfTVljYlRGb1BJdXJzc1F4anBrV3dwSEVvRUJGV2dvdUUwa1lhTWRNUDJXZGpUWjdqMThrNmc2Mzl0?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-11-13T07:51:18.000Z",
+      "categorias": [
+        "Escuela"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Club Puebla baja precios contra San Luis para cerrar el Apertura 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWppaUV3RmV0YldBZmZjLTVNbVdsdEk3cGdEcmk1alphdFo4eTNxdnpkT3ltRWwwbm4yZ0NHUTNqWjVFZVM2bFFOaEYtLXlmYS13dUJhQmFSdDZIV3lHUThkb0pzcDlRYTd6bVlRaFdDMG1UUDRJTm5aS3FCa0c1aGhoSDNaSXVJem9kQ0h5Rm5lNnN5QjBablMza2FjOEJ6aXdHeGx6NmVyN010aktRVUVIbTRybmVqN3c?oc=5",
       "fuente": "Grada Puebla",
@@ -408,6 +428,16 @@
         "Periódico Central",
         "Milenio"
       ]
+    },
+    {
+      "titulo": "Galindo inicia campaña “Los cuetes no son tus cuates” en SLP para prevenir accidentes",
+      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93V2VEUlo3dHlhdU9TRlAzLTc3ZFBFdWtvWVlIVWUwZld0TDBValhWU1RMeTNfN3UxQzlXbnRWRF9TYmoxVFlRR29lNVNtQk5GMW1LUGx2aEFCWUxWaWZLbXVpN3FteHc?oc=5",
+      "fuente": "Antena San Luis",
+      "fechaISO": "2026-11-13T01:37:50.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "Puebla vs Atlético de San Luis: Boletos desde 50 pesos",
@@ -493,7 +523,6 @@
       ],
       "tambienEn": [
         "Reporte Indigo",
-        "TUDN",
         "TUDN",
         "TUDN",
         "TUDN",
@@ -931,9 +960,7 @@
       "categorias": [
         "Femenil"
       ],
-      "tambienEn": [
-        "El Heraldo de San Luis Potosí."
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "¿Sin partido? Actividad eléctrica retrasa el debut de Atlético de San Luis Femenil ante Toluca",
@@ -995,48 +1022,19 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
+    }
+  ],
+  "comunidad": [
     {
-      "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2p0bWJxQmRWdmdHUHhaLVNuQ0dDSkFDclljNjRzTlRCdjJqcHV3VkhWNUVVem5haG1QY1l6ZE1mMjhxUGRrckw4aWp6MDdfYXUyVHhORVBvdEQwNjhpRC1pbDQ1SEdfT0N3azlWaktWMFVINkFtVUV0UjJOVVNpcllTZl9yQ1lQd2c?oc=5",
-      "fuente": "Canal 7 SLP",
-      "fechaISO": "2026-07-22T07:00:00.000Z",
+      "titulo": "Enrique Galindo lleva a las escuelas campaña para evitar accidentes por pirotecnia",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVA5T3c2ZEQyTzh0UkpNZS1aZ1Q0amYwWTdKMG1EVWYzdVQ1VmNQSkx3azQzRktmMDRHQ0hWei1BdUxYOG5xME5pY1c4UVZfTVljYlRGb1BJdXJzc1F4anBrV3dwSEVvRUJGV2dvdUUwa1lhTWRNUDJXZGpUWjdqMThrNmc2Mzl0?oc=5",
+      "fuente": "Código San Luis",
+      "fechaISO": "2026-11-13T07:51:18.000Z",
       "categorias": [
-        "Cantera",
         "Escuela"
       ],
       "tambienEn": []
     },
-    {
-      "titulo": "¡ATLÉTICO DE SAN LUIS ESTÁ DE REGRESO!",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVF6MDh4V2F2MmZBcllkY2pUSHVNZjJjU0hhT29aaVFXVHlRLXBSMzhiUlRoNXhqMGRRMXhJYWt6OTh1OGVCamRoUmd6ZHE3eExjT2gyRlpTVndLOXBjM3EzR3c2blgzNjRqNENkRDczSHk5aVFMNG9ndWJiYUU4UG9DOEp4R1QtaFdQZXNIVHpfZVpDUzNPQVl6cTFuUQ?oc=5",
-      "fuente": "Atlético San Luis",
-      "fechaISO": "2026-07-18T00:42:30.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": [
-        "ESPN Deportes",
-        "Transfermarkt",
-        "MLS Español",
-        "ESPN"
-      ]
-    },
-    {
-      "titulo": "Cruz Azul estrena su título con remontada ante Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDNDN2RsSlhxMG5VdlRsNjlSLWlaeFp6VVNrNXRNRlhxSHBhbWd1d2doenVUaVNwMzFWNldPelNwZC0tYUVVTDJuaDNzOVJVbUV1Q29JM1pLaGowbDNVX2JFaU1SUW5MZkVQSUpCZUtxUWpVMjlHcmthQncyUDBnVGZWMWRRSVJHaFNWS0VwZGNybzMtUjUtV056dTNuek5Tb1VhdUpDUnYtb1I5eUE3X20xdXIwQWJ1eFFjTjFGdmRjd25mdnBmemEwTVI?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-07-17T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "TUDN",
-        "365Scores"
-      ]
-    }
-  ],
-  "comunidad": [
     {
       "titulo": "Cambio de Fecha | Atlético de San Luis Femenil vs América",
       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlo3aGJ5NGMteU9ON1VOMExKZ291NUt0aS1Bd3dXcUdKUmZlVXQ0b09kalNVNVU0MFJ3V3MwQWlQaXU0WnhkSnR1SDVZSzczOXpkdmJ1Z2FhTTJ3S2dCOFNhN0NuNTlZRmxEaklEQkpHSnFHMGt3UmF0dklaT01zMFV3V3ktUTNvWEVWZFVtak8tcGFON0ZUWVZ5S1Bfdl9wdnc?oc=5",
@@ -1085,17 +1083,6 @@
       "tambienEn": [
         "OnceDiario"
       ]
-    },
-    {
-      "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2p0bWJxQmRWdmdHUHhaLVNuQ0dDSkFDclljNjRzTlRCdjJqcHV3VkhWNUVVem5haG1QY1l6ZE1mMjhxUGRrckw4aWp6MDdfYXUyVHhORVBvdEQwNjhpRC1pbDQ1SEdfT0N3azlWaktWMFVINkFtVUV0UjJOVVNpcllTZl9yQ1lQd2c?oc=5",
-      "fuente": "Canal 7 SLP",
-      "fechaISO": "2026-07-22T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
@@ -1160,7 +1147,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 31,
+  "totalFuentes": 33,
   "avisos": [
     "Google News: HTTP 429 (demasiadas peticiones) para la consulta Atlético San Luis Potosí futbol"
   ],

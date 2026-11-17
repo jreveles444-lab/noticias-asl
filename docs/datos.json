@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-17T11:40:56.266Z",
+  "generadoISO": "2026-11-17T12:41:04.532Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Club Puebla buscará romper seis años sin vencer a San Luis en el Cuauhtémoc en su último juego de 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdS00YUwwMk8zM2lRLUNEN084aWlEOUxpQ25vVm5VdVUyZzh6M3lLaUE5bGFCd3c5RmlodzZaXzBfbGo5akJmNTdfUXAtWmdwVzV1azFkc3h0TnA5WUtESngwczBTVUt4S2tlUWJhX2E4NTNrZUlLS2I3c0luNkk4RDRWR21tdDVINEZXNHMwSk9PMTJLNjNQNTRNS2c1Ujc5cWF5TlBMeFBfbUhoSG8zSzJlRDRiYTZzb0V5dDdzNjJDclEycGk4aFpKSTZxTE5ERnB4Y1NoaFpzLXRLMmVVNWozMA?oc=5",
+      "fuente": "Diario Cambio",
+      "fechaISO": "2026-11-17T12:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Carrera gratuita de tres kilómetros celebrará el 69 aniversario del Estadio Plan de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FrdF9YWTZHOXhubXZwQldjU2pBSkFnWi1Sal93eTdnSHhkWTE5SkJmekM2VHE2QUNCNC1MMV9FbUF0UlZ2XzRldm1jVExtc0N0RUw1b3JrdUxhRHhhY1pUbl9zZ3JmZzVuazFWWkxhV2V6eTRia3NDT0dwaERiVEhZdUxiSnlxMmZ0ekFhdTR4RzM3eEEzbXBqTlYweWkyZVdXZEdDdDItUXRYR095LThMVDJvcDVveDB0YkhCTzBHeDlWRGdEMllnZw?oc=5",
       "fuente": "Potosinoticias.com",
@@ -514,6 +524,7 @@
         "Récord",
         "MARCA",
         "Telemundo",
+        "Mediotiempo",
         "Mediotiempo",
         "Mediotiempo",
         "El Heraldo de México",
@@ -1019,17 +1030,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2p0bWJxQmRWdmdHUHhaLVNuQ0dDSkFDclljNjRzTlRCdjJqcHV3VkhWNUVVem5haG1QY1l6ZE1mMjhxUGRrckw4aWp6MDdfYXUyVHhORVBvdEQwNjhpRC1pbDQ1SEdfT0N3azlWaktWMFVINkFtVUV0UjJOVVNpcllTZl9yQ1lQd2c?oc=5",
-      "fuente": "Canal 7 SLP",
-      "fechaISO": "2026-07-22T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1157,7 +1157,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 34,
+  "totalFuentes": 33,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

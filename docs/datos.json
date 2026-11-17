@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-17T10:40:48.800Z",
+  "generadoISO": "2026-11-17T11:40:56.266Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Carrera gratuita de tres kilómetros celebrará el 69 aniversario del Estadio Plan de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FrdF9YWTZHOXhubXZwQldjU2pBSkFnWi1Sal93eTdnSHhkWTE5SkJmekM2VHE2QUNCNC1MMV9FbUF0UlZ2XzRldm1jVExtc0N0RUw1b3JrdUxhRHhhY1pUbl9zZ3JmZzVuazFWWkxhV2V6eTRia3NDT0dwaERiVEhZdUxiSnlxMmZ0ekFhdTR4RzM3eEEzbXBqTlYweWkyZVdXZEdDdDItUXRYR095LThMVDJvcDVveDB0YkhCTzBHeDlWRGdEMllnZw?oc=5",
+      "fuente": "Potosinoticias.com",
+      "fechaISO": "2026-11-17T00:58:48.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Club Puebla, con meta de vencer a San Luis y alcanzar los 22 puntos: Mathías Tomás",
       "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzR5Wm1fSURuZ18xTmVmNm1XN3ZrcjlNd1NRNzZIdUg2cWx1QlhtOHFWbnlrMlQ5MVpLc2NxMzFOdVRQNkZJdkZyVU1WTzk3a2dUMm5qX09hdmZqWVZvaGdVWjJwTllkWXJhT2E1cDljeXp2OWpPSzJibERBN0ZSdFNmVnlwbnN4Smk4d0xLZzFhSGZsRWtQWDlhc9IBmwFBVV95cUxQOEV3N0hLc2ozMnk1S1ZYQkNXeTl3NE4xSFR1QmhHS3diYnZ1cWpYaE1FTlVZS2pDMFB6bEJCNko5QkNBYnNJb3ZHUkRRcFg4THJKX2lmdm9fV0Z0WmVsZWh4X3pRdmJwQ09RQWpPWnRsZGxsazlqeXBDdDlUcWx0aGFldmdNbXM4V3k4R2x4QVdvM1FhVHh0ZEVyVQ?oc=5",
       "fuente": "MILENIO",
@@ -423,17 +433,6 @@
       "fuente": "Plano Informativo",
       "fechaISO": "2026-11-12T19:43:00.000Z",
       "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Campaña contra la pirotecnia llegará a escuelas de San Luis Capital",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWFFRnVmZkh1UXduOEgtem9mM1lzSktsTXhNbTVwaUgtY0c3SXZ6SVZFVGc1RG4tNEJDZW4zeTFheExxSDZjWnFyMEswdkhsZHBhYkc3alFITVF5R3E1SHJVa0I0QTk3NGI3M3F3a0xkVWZvTkhTUThjREZhS1JTLUNBbnlyMlBLYlRBdVV4SjZCT21Zenc0LXVaTS1razRsZmF6bnlVUDQ?oc=5",
-      "fuente": "Metrópoli San Luis",
-      "fechaISO": "2026-11-12T08:00:00.000Z",
-      "categorias": [
-        "Escuela",
         "Partidos"
       ],
       "tambienEn": []
@@ -1035,17 +1034,6 @@
   ],
   "comunidad": [
     {
-      "titulo": "Campaña contra la pirotecnia llegará a escuelas de San Luis Capital",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWFFRnVmZkh1UXduOEgtem9mM1lzSktsTXhNbTVwaUgtY0c3SXZ6SVZFVGc1RG4tNEJDZW4zeTFheExxSDZjWnFyMEswdkhsZHBhYkc3alFITVF5R3E1SHJVa0I0QTk3NGI3M3F3a0xkVWZvTkhTUThjREZhS1JTLUNBbnlyMlBLYlRBdVV4SjZCT21Zenc0LXVaTS1razRsZmF6bnlVUDQ?oc=5",
-      "fuente": "Metrópoli San Luis",
-      "fechaISO": "2026-11-12T08:00:00.000Z",
-      "categorias": [
-        "Escuela",
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Cambio de Fecha | Atlético de San Luis Femenil vs América",
       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlo3aGJ5NGMteU9ON1VOMExKZ291NUt0aS1Bd3dXcUdKUmZlVXQ0b09kalNVNVU0MFJ3V3MwQWlQaXU0WnhkSnR1SDVZSzczOXpkdmJ1Z2FhTTJ3S2dCOFNhN0NuNTlZRmxEaklEQkpHSnFHMGt3UmF0dklaT01zMFV3V3ktUTNvWEVWZFVtak8tcGFON0ZUWVZ5S1Bfdl9wdnc?oc=5",
       "fuente": "Atlético de San Luis",
@@ -1094,6 +1082,17 @@
       "tambienEn": [
         "OnceDiario"
       ]
+    },
+    {
+      "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2p0bWJxQmRWdmdHUHhaLVNuQ0dDSkFDclljNjRzTlRCdjJqcHV3VkhWNUVVem5haG1QY1l6ZE1mMjhxUGRrckw4aWp6MDdfYXUyVHhORVBvdEQwNjhpRC1pbDQ1SEdfT0N3azlWaktWMFVINkFtVUV0UjJOVVNpcllTZl9yQ1lQd2c?oc=5",
+      "fuente": "Canal 7 SLP",
+      "fechaISO": "2026-07-22T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",

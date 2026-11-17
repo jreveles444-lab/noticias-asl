@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-17T08:40:34.752Z",
+  "generadoISO": "2026-11-17T09:40:41.640Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -523,6 +523,7 @@
         "Vox Populi",
         "TUDN",
         "TUDN",
+        "TUDN",
         "El Informador",
         "Récord"
       ]
@@ -659,8 +660,8 @@
     },
     {
       "titulo": "Atlético de San Luis se ilusiona con el boleto a la Liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDZtZl94NmhyUkhER0tGVXp2NndXRGdKQTRxTXBDbC1GUWJISFZtS2YtNHFmVDBZakFlNVV1TEV4S2l0NHF6MUg5b1ByVlhtNnhaaFRPczYwYldCM2hvSGNOZ2xBVDNnYzZfTklGV001ZDdNTVRNb25HZ2ZCQlpEclVpTHFDaVlfTEk0d2V3TWRRaVNsRE1Rdno3NV9veUptUy1Gbw?oc=5",
-      "fuente": "ESPN México",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjRtUXlYQ1huN0ZvRWJEbUhMSkF6TWRqSGp1Mk5YOVJrd01yUVRZd3ZJRjUxUFZHRDV5ZjJlam9GM2xLcThfeTlGaW83SUxyVmxJajRzelkwRXhzYlU4blBmdllHUVFjWC12b21Ba3J4UVBuWkNuZ1RuQ2JicTZCaENMck5sMGdmX0tKYjhHUUpqcGJqVTZVWkphOTRIYTRlSWEyRXBuT0xOaDgz?oc=5",
+      "fuente": "ESPN Deportes",
       "fechaISO": "2026-10-08T07:00:00.000Z",
       "categorias": [
         "General"
@@ -1158,7 +1159,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 34,
+  "totalFuentes": 33,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

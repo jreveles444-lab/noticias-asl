@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-17T04:39:50.381Z",
+  "generadoISO": "2026-11-17T05:39:57.257Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -420,16 +420,6 @@
       ]
     },
     {
-      "titulo": "Galindo inicia campaña “Los cuetes no son tus cuates” en SLP para prevenir accidentes",
-      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93V2VEUlo3dHlhdU9TRlAzLTc3ZFBFdWtvWVlIVWUwZld0TDBValhWU1RMeTNfN3UxQzlXbnRWRF9TYmoxVFlRR29lNVNtQk5GMW1LUGx2aEFCWUxWaWZLbXVpN3FteHc?oc=5",
-      "fuente": "Antena San Luis",
-      "fechaISO": "2026-11-13T01:37:50.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Puebla vs Atlético de San Luis: Boletos desde 50 pesos",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2JDNUc2MVpwcGpmUDhMcHdVM1YwNUtuV0FaNHNueVpqYXhsMkp0N1JwSmJtNDVWVlRTejdYeFY1UmdNckFVNUR1RVRVakRTdk5ZWmxyVFhuQ3hfVi1pQXZvOHVXZk1jVU1iczRoNmVBaXJKNHhsd2JvVnd1OHFkS2gxR0dBNktzYW5ISnprVV96WmN2YkNpYlZ2TTV0cXE1VlZsbFkwUQ?oc=5",
       "fuente": "Plano Informativo",
@@ -542,6 +532,7 @@
         "Mediotiempo",
         "El Heraldo de México",
         "Mediotiempo",
+        "Vox Populi",
         "TUDN",
         "TUDN",
         "TUDN",
@@ -1029,6 +1020,16 @@
       "fechaISO": "2026-07-31T07:00:00.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Cómo ver Tigres UANL vs Atlético de San Luis en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA",
+      "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOZ0ZGc1FqVEN4LUlxWERrTV92bFVNeWdfc3Rlb25mMTVocHhZOU1zbExCV1dsY3lqMk10OERoYVZpdTNHLVRiYXlLckd6YXJHUkFNRHVQYzJ6Y3BWQnA0LThRTjVLT0pxbnkxSWtFa0ZleHRNektBUUQ0U3B6bFFPRXBlWVJ0aFVITVBhT2lSVFA5eGxTN3dzZjNRSnNoeWd6bW9ud3BybFRtTDJKRlVNRVhsRHh6U25HYVBGMWNtWkRRZDcydlVraWxISkhMLUtiR19ob09NdGpiYURrXzhJSkxyc3BubGVHLU1vbkt1a1JQbFBqWjA3aVJtNVZOTVcyNUtEdHNmeXAwQmhOeW5YSHM0dHgyWGM?oc=5",
+      "fuente": "DAZN",
+      "fechaISO": "2026-07-24T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
       ],
       "tambienEn": []
     }

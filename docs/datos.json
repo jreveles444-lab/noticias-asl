@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-17T23:42:25.247Z",
+  "generadoISO": "2026-11-18T00:42:32.185Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -582,7 +582,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Informador",
         "El Informador"
       ]
     },
@@ -927,6 +926,17 @@
       "tambienEn": []
     },
     {
+      "titulo": "The key facts you can’t miss before Chivas Femenil vs Atl. San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZXBZYVVmTFI1bTZRdGw4OFRob1E5Y29Sb3JheEQtZ2xfbGtGR0ZIUVpGX3o5V2ItSkU3b1kyS0JnbzI5cEFSd0ZaR2FNSGtCdUEyLVdxMGpRME5VQWU0WHVXMkoyN0xBUmJsVnlVWHpzT1FYcG5jWGZTX1c?oc=5",
+      "fuente": "Yahoo Sports",
+      "fechaISO": "2026-08-15T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Líder a escena: así puedes ver el América vs. Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWg5ekI2amprYWZFUmxLelNGMjRablBqcWUzWlJnQ3RYM2g1ZENFbF9QQTFHRl9KVEVEMGpaMGpldlB5NG9hUEFLSExZZFNfV0RBcm5MWFJMWDBacEVtWXdwYVYzbnFsbnV1b3d4Rk1nOFlFRWlEUTRNci12ajRmNFh6WDJOTjZrRnE3X0Vfd0lSc1ROT2V1WFpOYW9OMklmNE9YS0ZQdEVRUQ?oc=5",
       "fuente": "TUDN",
@@ -1018,16 +1028,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Cómo ver Tigres UANL vs Atlético de San Luis en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA",
-      "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOZ0ZGc1FqVEN4LUlxWERrTV92bFVNeWdfc3Rlb25mMTVocHhZOU1zbExCV1dsY3lqMk10OERoYVZpdTNHLVRiYXlLckd6YXJHUkFNRHVQYzJ6Y3BWQnA0LThRTjVLT0pxbnkxSWtFa0ZleHRNektBUUQ0U3B6bFFPRXBlWVJ0aFVITVBhT2lSVFA5eGxTN3dzZjNRSnNoeWd6bW9ud3BybFRtTDJKRlVNRVhsRHh6U25HYVBGMWNtWkRRZDcydlVraWxISkhMLUtiR19ob09NdGpiYURrXzhJSkxyc3BubGVHLU1vbkt1a1JQbFBqWjA3aVJtNVZOTVcyNUtEdHNmeXAwQmhOeW5YSHM0dHgyWGM?oc=5",
-      "fuente": "DAZN",
-      "fechaISO": "2026-07-24T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1097,6 +1097,14 @@
   "comunidadTitulo": "Escuela y comunidad",
   "videos": [
     {
+      "id": "JeyKwJurfBc",
+      "titulo": "Mañana nublada en La Presa | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=JeyKwJurfBc",
+      "miniatura": "https://i.ytimg.com/vi/JeyKwJurfBc/hqdefault.jpg",
+      "publicadoISO": "2026-11-17T23:47:41.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
       "id": "Ja0sCyhX_IY",
       "titulo": "Preparando la jornada 17 | Entrenamiento | AP26",
       "enlace": "https://www.youtube.com/watch?v=Ja0sCyhX_IY",
@@ -1126,14 +1134,6 @@
       "enlace": "https://www.youtube.com/watch?v=3TqKVvdfwYk",
       "miniatura": "https://i.ytimg.com/vi/3TqKVvdfwYk/hqdefault.jpg",
       "publicadoISO": "2026-11-09T16:22:24.000Z",
-      "categoria": "Conferencia"
-    },
-    {
-      "id": "GRULEGw-YeI",
-      "titulo": "Diego Mejía y Gustavo Lema | Conferencia de prensa | AP26",
-      "enlace": "https://www.youtube.com/watch?v=GRULEGw-YeI",
-      "miniatura": "https://i.ytimg.com/vi/GRULEGw-YeI/hqdefault.jpg",
-      "publicadoISO": "2026-11-07T20:00:31.000Z",
       "categoria": "Conferencia"
     }
   ],

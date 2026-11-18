@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-18T05:43:07.465Z",
+  "generadoISO": "2026-11-18T06:44:04.495Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -348,7 +348,7 @@
       "titulo": "Busca Atlético de San Luis cerrar con dignidad el Apertura 2026 ante Puebla",
       "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUZRXzhoUk9LTGw5T0dabHo5UEFPNkFfLU0zcm9jTjB3OVpVQkVtTy1YSlNIYTNHYkhBejEwbXE2MGh2QWdLTmFwZlA0ZDFtTC1PaVlXNFJva0c2dlRfQUNhWllnclRXNUN6Z19uOVFLSDgyeEwxdUFRdXRaZllPdmVyS1RZeGF0Yk9zd3RJaEtrTFBqbXM0TU9GNjRIdl9JMjhUaFhzNEI1X1lnRmV2RWFILVhMaXd6T29WYkM0aExHeldkZVE?oc=5",
       "fuente": "El Sol de México",
-      "fechaISO": "2026-11-18T01:51:28.000Z",
+      "fechaISO": "2026-11-18T05:18:11.000Z",
       "categorias": [
         "General"
       ],
@@ -441,18 +441,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Club Puebla baja precios contra San Luis para cerrar el Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWppaUV3RmV0YldBZmZjLTVNbVdsdEk3cGdEcmk1alphdFo4eTNxdnpkT3ltRWwwbm4yZ0NHUTNqWjVFZVM2bFFOaEYtLXlmYS13dUJhQmFSdDZIV3lHUThkb0pzcDlRYTd6bVlRaFdDMG1UUDRJTm5aS3FCa0c1aGhoSDNaSXVJem9kQ0h5Rm5lNnN5QjBablMza2FjOEJ6aXdHeGx6NmVyN010aktRVUVIbTRybmVqN3c?oc=5",
-      "fuente": "Grada Puebla",
-      "fechaISO": "2026-11-13T06:52:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Milenio"
-      ]
-    },
-    {
       "titulo": "Puebla vs Atlético de San Luis: Boletos desde 50 pesos",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2JDNUc2MVpwcGpmUDhMcHdVM1YwNUtuV0FaNHNueVpqYXhsMkp0N1JwSmJtNDVWVlRTejdYeFY1UmdNckFVNUR1RVRVakRTdk5ZWmxyVFhuQ3hfVi1pQXZvOHVXZk1jVU1iczRoNmVBaXJKNHhsd2JvVnd1OHFkS2gxR0dBNktzYW5ISnprVV96WmN2YkNpYlZ2TTV0cXE1VlZsbFkwUQ?oc=5",
       "fuente": "Plano Informativo",
@@ -461,6 +449,35 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¡Desde 50 pesos! Club Puebla baja costos de boletos para partido ante San Luis en cierre de Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWluUkFfQ1JELVdVS2JKMDgxb3V0RkpsUW5Ka01NUlVqc3ZRdTltM1A0RGo0c09ZOXIxc2RXTGgwaUlkakhHWTI2ZzFYVDlnYjBCbTdnYURNM3dNd3JlWUZka3VBUW5sd0phOG93YjFneHpkaHBDSkZNRDFralJoX2tUTjRueDdsVEFjQ0VMbnp4MW1Lc3g1ZHNEM3ExVDctOHRLWUw4Y3BXUdIBqgFBVV95cUxNQjZhWGhraDFBNWpYemduUHl4T1ExS0xENklTRW16UWNCQWZ1Q2xhREZwdWNKOXhtSXJycHRHaHJ2aEdxel9BNldsRlJubW5TZGRZOXExN3hzT29WeWZ5RUM0dVF2MUFIOHBXQzNURXhxbV9qaDctMjg5bFBsbHpTeWdMSnNRVWUzeHB6UUdwY1A0QlZMd1NrVVdoekhpb3FJTzk2WTJwQlpUdw?oc=5",
+      "fuente": "Milenio",
+      "fechaISO": "2026-11-12T17:29:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Femenil finaliza su participación en el Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzRNUU9WZFhNcUlpY2xUQjBUR09IQVB0NHBSUFBhLUttd2NkaFliRXNTbFdjYmdOdU1zSExkUEd4RVNjTU5wc3V5OVRaSG9lYnlocEJJSmx4YVJZcHJReGx3enhfU2ozNW5jci0tZDJMUVMwblhheWpRZ0I5d0pFTjM1cGhVeko2alRHNDQ1MUxCYXl2VThwaF83d29FM3BBUEU0Z25idFFmTE5peFJROE95X0g2bWFTb0NB?oc=5",
+      "fuente": "Atlético de San Luis",
+      "fechaISO": "2026-11-12T00:25:11.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos",
+        "Cantera"
+      ],
+      "tambienEn": [
+        "Récord",
+        "El Sol de México",
+        "El Sol de México",
+        "TV Azteca",
+        "Atlético San Luis",
+        "Potosinoticias.com"
+      ]
     },
     {
       "titulo": "Pumas sella su pase a Liguilla ante San Luis",
@@ -494,34 +511,6 @@
       "tambienEn": [
         "El Sol de México"
       ]
-    },
-    {
-      "titulo": "Dónde ver Pumas vs Atlético de San Luis: Horario y canales de transmisión del Clásico Nacional Femenil Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOa0lNNXdTVkJHQVhNWXY5OFpKZm1FVjJuUHpnVkUxLXRscTBaMWlhV2lydHJzUmFZNXk5QWZIaEc4eTM0ZXNtOEFWR2xlWkpma3cwUGY5aGFGdmdzRXIyN0NkQ1ZIekF0cXRwWnNRMTRqajY1eDAyZ3dnNW4zNldNcHJ2NFdTa003MkpUQ2lmekJRWmYtUkxibWdsT1BCOU9neWN6NmQzejUwT0xyYUsxVzV2MElTVmJGLXhBRHdUT3pGQVUtbmo3NDVRdU5ZVXVma1dmY0FRU3laWDlDZlI0Q3lfa0pXSVBVUERZWEVnbFNmdGhPTXQ0Sno2U1hENlE?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-11-05T08:00:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos",
-        "Cantera"
-      ],
-      "tambienEn": [
-        "Reporte Indigo",
-        "Potosinoticias.com",
-        "TUDN",
-        "TUDN",
-        "TV Azteca"
-      ]
-    },
-    {
-      "titulo": "América sufre pero elimina al Atlético San Luis en el Estadio Azteca",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHBheDJObllVR0Nhbk1sU3QwVHRsN3hXQ0JUbkVCYU9xZWhTYS1jUzl6VW1kV1ItcWJfTXc1X05ZbVJ1UW95VTR1dzRNZXRRV3ZBT0FtLVhyQlFQLTdRU0xTZTFZRzBJNjR4SFpFeFZwdVQ5cFFSd2w4eVNhenlONDF4enhwVzktaTBDRm9VVmpNZ1doVC1UZ0RsVUNpeVJkYkFwWFJZdGJQN05xQURsaG1TZUhPZGRaZU1BNA?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-11-04T08:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "San Luis Femenil busca su clasificación a Liguilla en León",
@@ -586,7 +575,6 @@
         "Partidos"
       ],
       "tambienEn": [
-        "TUDN",
         "TUDN"
       ]
     },
@@ -610,7 +598,28 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "TV Azteca"
+      ]
+    },
+    {
+      "titulo": "Atlético de San Luis vs América en la Liga MX Femenil: fecha, horario, dónde ver y estadísticas",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeDE3UFViQUVVNkpSSzdub3FicThESVFzZkwzWDcxbXlCcDhIN1NKb0llalpId0Zja1RRN2dPZUxzQzVsZ0Y3SEExUXBvTTUtVlh0WGNOS2JOZE1SSElKR3c1aExSa1NFbTFQSWgtU3Y0Z2loS2ZkNU5WUWlEUHZFTlVmMUowTmNQNEh3TnJxZ1p3NHRqeTRUZ2trT1BOQThfVXllQnFRd1p5bFRNcnYyYWl2VG5rWDZIeER6Q3VJcnVRWmRsZ3hYR1ppdVR4UmV0WjBXN1RwMl9xZnNa?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-10-23T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Atlético de San Luis",
+        "Reporte Indigo",
+        "TUDN",
+        "TUDN",
+        "TUDN",
+        "TUDN",
+        "Facebook"
+      ]
     },
     {
       "titulo": "Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro",
@@ -619,16 +628,6 @@
       "fechaISO": "2026-10-21T07:00:00.000Z",
       "categorias": [
         "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético San Luis vs. Querétaro - Resumen del partido",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm5pR0xRSHd1dzh3RXR1Z216bTQ0TnJFVVNZaVNLT09TRWNtYTF1VHF2M2stY3Rrai1WakU5UW5fMFVrRTB3M05tRTgyOGY0aXVXWDNMTmNGVFBna1RBQVJhdzNxcXYzWkZZT2pYbzBJQTBxamU3QWFrV0x5UXJheGo0ekx6TEVueWlMLV9VNFpaNnhDbGlGVjN3?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-20T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
       ],
       "tambienEn": []
     },
@@ -664,36 +663,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "A qué hora y dónde ver el Atlético de San Luis vs. Santos de Liga MX",
-      "enlace": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb1lDdzBvZnd0TzlCYW5ZbFAtRTBPdGtJYk1lSjlmZVRpNUxhSE9Jdl9mWG9EWmpLR2xNS21EMTVXN3NmQlZkRHNTaGFTcV9fSHRkeF81bnFjVnR5MEdYZVRFTFNrOVA4bTJ4b196eGwzM1V6d1BkWUhVR3ZneUdTMVo4ODA2QVgyNzlhazNnd1I5Vi1MbklKUzVidU42TWRMX1dTblAta1N2cWd6ZU41Zkdld2g2YlFtZ1ktSEVXbGVqNWtxU3hWSEhoTENzTm9xWFZNUUdEMlZxOERNUVRub2hWRjk4UHc?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-11T14:18:34.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Facebook"
-      ]
-    },
-    {
-      "titulo": "Cambio de Fecha | Atlético de San Luis Femenil vs América",
-      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlo3aGJ5NGMteU9ON1VOMExKZ291NUt0aS1Bd3dXcUdKUmZlVXQ0b09kalNVNVU0MFJ3V3MwQWlQaXU0WnhkSnR1SDVZSzczOXpkdmJ1Z2FhTTJ3S2dCOFNhN0NuNTlZRmxEaklEQkpHSnFHMGt3UmF0dklaT01zMFV3V3ktUTNvWEVWZFVtak8tcGFON0ZUWVZ5S1Bfdl9wdnc?oc=5",
-      "fuente": "Atlético de San Luis",
-      "fechaISO": "2026-10-08T23:32:52.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos",
-        "Escuela"
-      ],
-      "tambienEn": [
-        "El Sol de México",
-        "Atlético San Luis",
-        "El Sol de México",
-        "Atlético San Luis",
-        "Atlético San Luis"
-      ]
-    },
-    {
       "titulo": "Atlético de San Luis se ilusiona con el boleto a la Liguilla",
       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDZtZl94NmhyUkhER0tGVXp2NndXRGdKQTRxTXBDbC1GUWJISFZtS2YtNHFmVDBZakFlNVV1TEV4S2l0NHF6MUg5b1ByVlhtNnhaaFRPczYwYldCM2hvSGNOZ2xBVDNnYzZfTklGV001ZDdNTVRNb25HZ2ZCQlpEclVpTHFDaVlfTEk0d2V3TWRRaVNsRE1Rdno3NV9veUptUy1Gbw?oc=5",
       "fuente": "ESPN México",
@@ -716,7 +685,6 @@
       ],
       "tambienEn": [
         "TUDN",
-        "TUDN",
         "ESPN Deportes",
         "El Sol de México"
       ]
@@ -728,9 +696,12 @@
       "fechaISO": "2026-09-27T16:45:34.000Z",
       "categorias": [
         "Femenil",
-        "Partidos"
+        "Partidos",
+        "Escuela"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Atlético San Luis"
+      ]
     },
     {
       "titulo": "Pumas vs. Atlético San Luis. Resumen y resultado del partido de la J10 Liga MX 2026",
@@ -846,6 +817,20 @@
       "tambienEn": []
     },
     {
+      "titulo": "Cambio de Fecha | Atlético de San Luis vs León",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHhobFhsU05zY1o2dUhMN1pqWEZJVjloU2QwdXJHa3R6aks4YllfYjNXaENjbDNYVWdGTTJFLXdrWDR2akhCSkwxeWdZdk1FOGt0QjdOWmlzeGVuZVROaUZaVno1RkNIMGpvZXQyZjRtd243cU8tMUh0dzllc3dDQk5ZSVJHT0dGMkhvbTFTZXNmNk0?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-09-03T02:47:15.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Transfermarkt",
+        "MLS Español"
+      ]
+    },
+    {
       "titulo": "¿Cómo ha sido la historia de Chivas ante Atlético de San Luis?",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWJNS3NmZFk3Qk1MM09KYUpsSVN1dnpDNi0xclNGaC1jWUJoRGk5RVl5TF9CcTgxZDVXcVlvVXUxSVZrN0JqT3prYU85aVBHZzI4ai1SZWlNTkZ3VGpjVUJvNElhbGpHYkxNSFhEQVhGOExmZ3pKQjdzT0MtM3JpbFN4cWFIZlNyTG5nR25Wek1aZk1zWGNqMUVUZkw4LVJUd0tHSzF1Ykh3ckU2dVZnZA?oc=5",
       "fuente": "Chivas",
@@ -873,13 +858,9 @@
       "fuente": "La Jornada",
       "fechaISO": "2026-08-16T07:00:00.000Z",
       "categorias": [
-        "Femenil",
-        "Partidos"
+        "Femenil"
       ],
-      "tambienEn": [
-        "El Sol de México",
-        "El Sol de México"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Chivas femenil le gana al Atlético de San Luis y es segundo lugar del grupo B - esto",
@@ -930,17 +911,6 @@
       "fuente": "TUDN",
       "fechaISO": "2026-08-16T07:00:00.000Z",
       "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "The key facts you can’t miss before Chivas Femenil vs Atl. San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZXBZYVVmTFI1bTZRdGw4OFRob1E5Y29Sb3JheEQtZ2xfbGtGR0ZIUVpGX3o5V2ItSkU3b1kyS0JnbzI5cEFSd0ZaR2FNSGtCdUEyLVdxMGpRME5VQWU0WHVXMkoyN0xBUmJsVnlVWHpzT1FYcG5jWGZTX1c?oc=5",
-      "fuente": "Yahoo Sports",
-      "fechaISO": "2026-08-15T07:00:00.000Z",
-      "categorias": [
-        "Femenil",
         "Partidos"
       ],
       "tambienEn": []
@@ -1017,6 +987,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Atlético San Luis vs. Club Tijuana - Resumen del partido",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlRIWmRIZjNfeXBhUzRTQU81U3BtR0c4TkotRVE4N28xZHQzVUpEUlFhR0FOMzh0ckNKNkhpeDNhaWlWd3IyZy1CZmloOFNHWlpBOFJGeTlKeWlvaVVjNzhkc3diX3hScll2TUhBRmNJMFdRY3FLWTE5TmY5YlZMNlJkeGN3NlNvU2R6c3VvLXRuekx3ZnR0dUlUcW44dw?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-07-31T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Felipe Mora vuelve al fútbol mexicano como fichaje del Atlético San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkJrYWtaUTJtd2drQlJKbDRyVk1YRkVsNnlINmZjLVQ3ZWVpa0hJcnVZSURVMktzdDJvMUZibVBJeWZDSmtERG5IXzBuYlRTb3VBQ3VJWVFaVWk4ZURfbTZTZnlrRnYtMUo1TTVfSHJEZFpwYktqTXE5bDRpUDQ1UzJZWF9BbVRfVFFzeEIxVnI0YVZWWnREa2kyc185VXZRLVFjem1LbTBRaENTaU55NlRpSkxLQQ?oc=5",
       "fuente": "ESPN Deportes",
@@ -1035,27 +1015,30 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Cómo ver Tigres UANL vs Atlético de San Luis en vivo: canales, streaming y horarios del Apertura de la Liga MX para España, México, Latinoamérica y USA",
+      "enlace": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOZ0ZGc1FqVEN4LUlxWERrTV92bFVNeWdfc3Rlb25mMTVocHhZOU1zbExCV1dsY3lqMk10OERoYVZpdTNHLVRiYXlLckd6YXJHUkFNRHVQYzJ6Y3BWQnA0LThRTjVLT0pxbnkxSWtFa0ZleHRNektBUUQ0U3B6bFFPRXBlWVJ0aFVITVBhT2lSVFA5eGxTN3dzZjNRSnNoeWd6bW9ud3BybFRtTDJKRlVNRVhsRHh6U25HYVBGMWNtWkRRZDcydlVraWxISkhMLUtiR19ob09NdGpiYURrXzhJSkxyc3BubGVHLU1vbkt1a1JQbFBqWjA3aVJtNVZOTVcyNUtEdHNmeXAwQmhOeW5YSHM0dHgyWGM?oc=5",
+      "fuente": "DAZN",
+      "fechaISO": "2026-07-24T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2p0bWJxQmRWdmdHUHhaLVNuQ0dDSkFDclljNjRzTlRCdjJqcHV3VkhWNUVVem5haG1QY1l6ZE1mMjhxUGRrckw4aWp6MDdfYXUyVHhORVBvdEQwNjhpRC1pbDQ1SEdfT0N3azlWaktWMFVINkFtVUV0UjJOVVNpcllTZl9yQ1lQd2c?oc=5",
+      "fuente": "Canal 7 SLP",
+      "fechaISO": "2026-07-22T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
-    {
-      "titulo": "Cambio de Fecha | Atlético de San Luis Femenil vs América",
-      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQlo3aGJ5NGMteU9ON1VOMExKZ291NUt0aS1Bd3dXcUdKUmZlVXQ0b09kalNVNVU0MFJ3V3MwQWlQaXU0WnhkSnR1SDVZSzczOXpkdmJ1Z2FhTTJ3S2dCOFNhN0NuNTlZRmxEaklEQkpHSnFHMGt3UmF0dklaT01zMFV3V3ktUTNvWEVWZFVtak8tcGFON0ZUWVZ5S1Bfdl9wdnc?oc=5",
-      "fuente": "Atlético de San Luis",
-      "fechaISO": "2026-10-08T23:32:52.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos",
-        "Escuela"
-      ],
-      "tambienEn": [
-        "El Sol de México",
-        "Atlético San Luis",
-        "El Sol de México",
-        "Atlético San Luis",
-        "Atlético San Luis"
-      ]
-    },
     {
       "titulo": "¿Cuándo juega el Atlético de San Luis en el Apertura 2026?",
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVl0anJOSVZrMDBsajNyaVEzek1nTDRYMjBHYzFPalpuUFNYUE9qc29EZUtkRWZfMEdCZ01hMEdRQzBzNWptbGk1MmJHVEt4SWZZdDMxRFlpVkJzQVJjNW12S0RCM2pCZVh2TWJnZU1Cd3dLQ1o1S0VzQTJ4RUl3RHlDMEU3U1hIci1nN1ljaVAzWHpBRE5xOXRRUUt3SXo2eC1yTWcxVTZpdFlna2F3dWtzaU55N1JJb2hjbUV3?oc=5",
@@ -1069,9 +1052,22 @@
       ],
       "tambienEn": [
         "TUDN",
-        "TUDN",
         "ESPN Deportes",
         "El Sol de México"
+      ]
+    },
+    {
+      "titulo": "La Previa SportiumBet Tigres Femenil vs. Atlético de San Luis Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGlvVE9QaGlhVFJxUjQwbTF3RHRXMHVSMDI5ZHU1Nk9XVTNSNTBMb0dhaTZ6WDg2ZjBRTC1yWjJQallKUGczVFY5UUJUYjVrNHg0QXBlcFU0eXd0Ql9wWlpWdllpRWV2azdVLUpSeVhkV01mN0drUEFqUGpsRDM3aGt1MG44Qi11RHpmcVZ3V0M1cG1ueDlpVmRQSV81RWJDX09CSnF2c3JNUmM?oc=5",
+      "fuente": "Tigres UANL",
+      "fechaISO": "2026-09-27T16:45:34.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos",
+        "Escuela"
+      ],
+      "tambienEn": [
+        "Atlético San Luis"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-18T04:43:01.059Z",
+  "generadoISO": "2026-11-18T05:43:07.465Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -846,16 +846,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis, el refugio de los canteranos de Chivas",
-      "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDlkR0tka2MxaGlKV2dqLXV3MEV1WHl6LWJMMnd6RE1UU21uay1IUGh2Q0p1U0piY24xVEl0N292cmJUNG42TVpZTy14Slhjb1VmeUo5QUw1bXRSaktoamNqYVdjLVlUUzJHU1BHUjlSeklxZHZsQmVvb192OVNmak1ZWHc1MzNYZE4wajM5LUw5T2h1QTBaVk53RkljQTQyRE5WM25xTHRBRXpKc0FpOUdjMEM?oc=5",
-      "fuente": "récord",
-      "fechaISO": "2026-09-03T07:00:00.000Z",
-      "categorias": [
-        "Cantera"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "¿Cómo ha sido la historia de Chivas ante Atlético de San Luis?",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWJNS3NmZFk3Qk1MM09KYUpsSVN1dnpDNi0xclNGaC1jWUJoRGk5RVl5TF9CcTgxZDVXcVlvVXUxSVZrN0JqT3prYU85aVBHZzI4ai1SZWlNTkZ3VGpjVUJvNElhbGpHYkxNSFhEQVhGOExmZ3pKQjdzT0MtM3JpbFN4cWFIZlNyTG5nR25Wek1aZk1zWGNqMUVUZkw4LVJUd0tHSzF1Ykh3ckU2dVZnZA?oc=5",
       "fuente": "Chivas",
@@ -1035,6 +1025,16 @@
         "Fichajes"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¡Rueda el balón en San Luis Potosí! El Atlético recibe a Tijuana",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGV1RmZhaGZ4eWplVG1qcUQzRExQZ1pnMnZCVmNzd2xibGVvYWFaNVJ4bjlRTk9kUUtFVnFsYzl5S29GdHVBUHd0SllTWDVZOGpTa0xwN01jdDVkcHkydTQ0ZGFocEgxaE1TZTZydzVxdThVLVpiVEFwcVpwVW9TVkhjWkx5OVFJ?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-07-31T07:00:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1162,7 +1162,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 34,
+  "totalFuentes": 33,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

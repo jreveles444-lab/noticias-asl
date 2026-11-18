@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-18T03:42:54.733Z",
+  "generadoISO": "2026-11-18T04:43:01.059Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -610,9 +610,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "El Universal"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro",

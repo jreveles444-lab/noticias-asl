@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-18T20:45:50.481Z",
+  "generadoISO": "2026-11-18T21:46:01.490Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Club Puebla regalará boletos para el partido ante Atlético de San Luis a cambio de kilos de arroz o frijol",
+      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbGY1dHM4YUJFdHZqS2s1Q1I2aExSc1BHSDBMa2JSQ1BfNUg3Vm0yZVdhVlpEZ2RkNGNVazdsbm5mVVlzd3FUeHhSVTlicldRbDM3QXhDbFg3VmJ6X0xDS2pNTERUQ3p0eExPbmVZbVFVUGg1aUIzbk9XSk94ZFRkZDdETW9GcU4tdE5WMEdXQmVmX3otNU5GdzJHSHEtanNwSkpzSjZsNnJ5czRQMENLUWJWMDVNS0pfVzh0eG9YZGtXTEUzZzAwZVM2d002ZjhzSVpRcHlFek91cERYOVZlMmFB?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-18T20:55:28.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Atlético de San Luis, Ottawa y Ecuador: el plan del Atlético de Madrid para conquistar América",
       "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1Y4azV0ai1PQ2VWMmNzTUZfX3lYdURLcnZVTWl3cTVYQjFoSUh0VXVQS1hxb0pWSnZoc1ZZZ3RpREtYS1lwWGlIUVVtWHdmcDRBR0poZnIxQnRqZU9oT3BXYzN5RC1USjlIQ0FmZlhPR1lPVmFNeHRCRU5MZExfSGs0U3ZWelV4WTUwTGpXcEZ6VThHOWdCQjlBdFJoc0ZpOV9ZVlp6VXBKam92SXdNOHROVmRVTVhuT0w1SWJiZFhxdw?oc=5",
       "fuente": "Claro Sports",
@@ -454,20 +464,20 @@
       ]
     },
     {
-      "titulo": "Puebla vs Atlético de San Luis: Boletos desde 50 pesos",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2JDNUc2MVpwcGpmUDhMcHdVM1YwNUtuV0FaNHNueVpqYXhsMkp0N1JwSmJtNDVWVlRTejdYeFY1UmdNckFVNUR1RVRVakRTdk5ZWmxyVFhuQ3hfVi1pQXZvOHVXZk1jVU1iczRoNmVBaXJKNHhsd2JvVnd1OHFkS2gxR0dBNktzYW5ISnprVV96WmN2YkNpYlZ2TTV0cXE1VlZsbFkwUQ?oc=5",
-      "fuente": "Plano Informativo",
-      "fechaISO": "2026-11-12T19:43:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "¡Desde 50 pesos! Club Puebla baja costos de boletos para partido ante San Luis en cierre de Apertura 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWluUkFfQ1JELVdVS2JKMDgxb3V0RkpsUW5Ka01NUlVqc3ZRdTltM1A0RGo0c09ZOXIxc2RXTGgwaUlkakhHWTI2ZzFYVDlnYjBCbTdnYURNM3dNd3JlWUZka3VBUW5sd0phOG93YjFneHpkaHBDSkZNRDFralJoX2tUTjRueDdsVEFjQ0VMbnp4MW1Lc3g1ZHNEM3ExVDctOHRLWUw4Y3BXUdIBqgFBVV95cUxNQjZhWGhraDFBNWpYemduUHl4T1ExS0xENklTRW16UWNCQWZ1Q2xhREZwdWNKOXhtSXJycHRHaHJ2aEdxel9BNldsRlJubW5TZGRZOXExN3hzT29WeWZ5RUM0dVF2MUFIOHBXQzNURXhxbV9qaDctMjg5bFBsbHpTeWdMSnNRVWUzeHB6UUdwY1A0QlZMd1NrVVdoekhpb3FJTzk2WTJwQlpUdw?oc=5",
       "fuente": "Milenio",
       "fechaISO": "2026-11-12T17:29:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¿Fernando Torres al Atlético de San Luis?",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPajdPZFp6UkI2bGVyTkxseGxXNDlwZl84blJsalFzaTRveEpwbkNESm5KbTlCd0RJMUFDTlRiVTg3LUdnUFVCWUxLTFV1S2FwV1FYNDQ1cVZCMG5zUGs4eTlOUGdEZ0Yzbm5vZ19aaXBEcGxzcWFTUWEwdzlOTGd0eExJcmh4dWU2Ym9CbTBfVGVBa0JUU2phQmg0QXdEVUNfZU1WUDJn?oc=5",
+      "fuente": "Futbol Total",
+      "fechaISO": "2026-11-12T16:29:19.000Z",
       "categorias": [
         "General"
       ],
@@ -544,9 +554,9 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Sol de México",
         "Récord",
         "Mediotiempo",
+        "El Sol de México",
         "Récord",
         "MARCA",
         "Telemundo",
@@ -1021,16 +1031,6 @@
       "categorias": [
         "Cantera",
         "Escuela"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Cruz Azul remonta en el último suspiro y se lleva el triunfo ante Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSUI2UUZlTmktVnFCelcwYWg3X2RIS0xhZkplZDdPc3Fpd3lRb1Y0YmdVSlpVVTUtT2FZWEgxbHRvZzNQb081VTQ3Vk16MUNDTFkyYld6WTcxdG84U2RJWElHU0pZR3ZwTWRCMkF0OENSRmdaU1VzWG9mSHlsUkFyc0FBR3pqWFpNVjIteV9OZzdsMDF1czhVQ2ozcFVEcWRZd0l6LTBUWEdNVjRlRVk4bm1fNGlMd1ZEamNsN0F6bkJWUWpBTHU4YjdYQ2kzLS1TV3c2TA?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-07-18T03:14:18.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     }

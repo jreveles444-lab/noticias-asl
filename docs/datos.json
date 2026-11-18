@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-18T12:44:44.660Z",
+  "generadoISO": "2026-11-18T13:44:52.180Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -515,6 +515,16 @@
       ]
     },
     {
+      "titulo": "Atlético de San Luis, Pumas y Pachuca disputan los últimos dos boletos a liguilla de Liga Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSU05R3ZBYTRyRjdtUXVuaDdTOGtnb29GZ01nQkNCZDMxMGlUSGNMLUpOYVVCRkhabEFhcXRRYk1sb1phOVc2em5pazFGdllFQXNVajR0b1NKUHZIQ3NCU1pGSlYtTHAyRk5SdkZXdjdQVUJMbkxVV00tSVZSTUxhVGJIcWI5SWhqdldPd0xoeXFEZ2FUcVNYUnhRTEY3bW41c05mUEVQZ0dNUXZLTktYUjRaNFVTY1JNaVhaTEpKRdIBxAFBVV95cUxNSUlWUF9pWU5YcWhkUm8tOGdmR2RPME9XUHc2R0hnNVRzTDFWTGRyaFJCTEV3Y2lUVzI4a2R4RjJyZDRMS1BoTjhBellhMnpoM255cUJTNEVBSWx0Vi1wYTZQa1ZfWDJlS1YtaWFqRW5rSXhUaEtyVlgwOENUWm1WSnFrNzRmUUlrUTNNdHRJN2V4Wkh6N3ZUSjdiSHV4QWZJSkFNZENUdFVNd3FaWlZ6M0MxWHp0cmZqaU53N2lzUGdjY1FJ?oc=5",
+      "fuente": "Excélsior",
+      "fechaISO": "2026-11-06T08:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "León vs. Atlético de San Luis Femenil EN VIVO: Dónde, cuándo y a qué hora ver el partido de la Jornada 13",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEE0V2RUQjgydS03ODRZWU1xOXRCS21XWnN3dGRkTEVla0lTY2ZiMnd3Y2JEOHRvcE1LaXk1RlZLUkxRaGtsdGZUMTZRdFdzNFRzVEF6QjRGUDZYdGpXSXFlLWFXNE5uMGkzeUhOZzdydC1BaDhzaVBBa1ZJQXlUV3JicFl6MTRtNTgzQndPWDJYSzFKVUMtZWc2T3ZMa19BZTVmcVRWZ19INGh5SlRHU1NTV0tKUGpnb3V5VVNKVUw4SDJQSFoycFdSa0M0dE5VbXc?oc=5",
       "fuente": "W Radio México",
@@ -1024,19 +1034,6 @@
         "Transfermarkt",
         "MLS Español",
         "ESPN"
-      ]
-    },
-    {
-      "titulo": "Cruz Azul estrena su título con remontada ante Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaDNDN2RsSlhxMG5VdlRsNjlSLWlaeFp6VVNrNXRNRlhxSHBhbWd1d2doenVUaVNwMzFWNldPelNwZC0tYUVVTDJuaDNzOVJVbUV1Q29JM1pLaGowbDNVX2JFaU1SUW5MZkVQSUpCZUtxUWpVMjlHcmthQncyUDBnVGZWMWRRSVJHaFNWS0VwZGNybzMtUjUtV056dTNuek5Tb1VhdUpDUnYtb1I5eUE3X20xdXIwQWJ1eFFjTjFGdmRjd25mdnBmemEwTVI?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-07-17T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "TUDN",
-        "365Scores"
       ]
     }
   ],

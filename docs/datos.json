@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-18T02:42:47.412Z",
+  "generadoISO": "2026-11-18T03:42:54.733Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -441,16 +441,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Sin posibilidades de Liguilla, Puebla va por un último triunfo ante San Luis para cerrar el torneo con 22 puntos",
-      "enlace": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcWkyYXMzTUxISGJhRjZadXFNcktaX3hxYVN2TGo4WXZ1cGl1bWdUQ3BuMkVyZFRLemJYa3hCcnc5ZG5VUTFJVWlUc3BFZkl0R2ZPaHlUTkRNcXJrT2trMUV5S0ViZlVJQWRDOVZ2cjlNaWh0TExrekN5MlVSSnpuNGZGWEdLV2dCR2VDbEpYNkp2ai1WSFc0QktBZXpuLUhzeVBKWnY0b2hyNEUxOFFiV0hWVXNYeGV4X3JGRFExX0h1UkprNzllYWxWRDZQY21BWkxKbk1UVWkwWUl1YVRGU1hJalRTWkFYc1VaZ0JEMA?oc=5",
-      "fuente": "Diario Cambio",
-      "fechaISO": "2026-11-13T11:45:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Club Puebla baja precios contra San Luis para cerrar el Apertura 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWppaUV3RmV0YldBZmZjLTVNbVdsdEk3cGdEcmk1alphdFo4eTNxdnpkT3ltRWwwbm4yZ0NHUTNqWjVFZVM2bFFOaEYtLXlmYS13dUJhQmFSdDZIV3lHUThkb0pzcDlRYTd6bVlRaFdDMG1UUDRJTm5aS3FCa0c1aGhoSDNaSXVJem9kQ0h5Rm5lNnN5QjBablMza2FjOEJ6aXdHeGx6NmVyN010aktRVUVIbTRybmVqN3c?oc=5",
       "fuente": "Grada Puebla",
@@ -495,9 +485,9 @@
     },
     {
       "titulo": "Atlético de San Luis Femenil a 90 minutos de hacer historia",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVThaVDlxUVR0RWp1ckJOVl9Sd3hEYlNqaXJ1UUk0Z0RwWmFOTVlUWVFySzlrMWItUnJxbFRPcF9pMXlNWUtoRF9hcmE0eVpNcXpVdWpOYjMwT1V5b1o0ZnVyWW5wTXNNMzRaakRSQl9IdUZNM2k2S3J4MnpwOWNJeTVtQUpGcE0xdXlyY04xbUJPcExYOFpsODlFTzZEZEFqeDlETXcwOGZLR3ZJSDRJZ2hR?oc=5",
-      "fuente": "ESPN República Dominicana",
-      "fechaISO": "2026-11-06T11:50:00.000Z",
+      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjNWOUIzTFIyaWI0QWhNd2ZmWVdSeERPNDBFbk1uRkV3eVN3eGZIby1QVzU3aGs3OHNIRjQyNWtnZDhKUG9yeFlpaGs4NmZoVGxCa0MyQnN5b1F4V1BlV0d6WGNUWjdxTWJ3c1QyMXBsbWpvQ2tVQ1VDNEhWY3ZPMkZOR3pkUURkNjBROGk2RE5ZN1JkRGpwX1VSbnZGLWNicWREQXY0VUJnRDdvenNjYWFR?oc=5",
+      "fuente": "ESPN México",
+      "fechaISO": "2026-11-06T08:00:00.000Z",
       "categorias": [
         "Femenil"
       ],
@@ -563,13 +553,27 @@
         "Mediotiempo",
         "Mediotiempo",
         "El Heraldo de México",
+        "El Heraldo de México",
         "Mediotiempo",
-        "TUDN",
         "Vox Populi",
+        "TUDN",
+        "TUDN",
         "TUDN",
         "TUDN",
         "El Informador",
         "Récord"
+      ]
+    },
+    {
+      "titulo": "¡Aaaaaaaarranca el partido! - Atlético de San Luis vs Atlas | EN VIVO",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdUtxZlZLT0dBV0l6anBQREFzSmZSY3AxVWFRZTJQdjdxR3pWemwxSHJaZXo1WGNBWUdvWnpzeDVTU21LTzhXSG5heXVoZWNuU0ozMThjTUNudmhQM1lvQ2Zqa1Vka0VNQmVBN3dJc3BKb2g4cnJOOG5ZUmo0U3loTTVycm9IQ2JOM2lpZWZQVU42ZEZ6bE42MTdxd1NKNFdERVZxc25RWWI?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-31T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "El Informador"
       ]
     },
     {
@@ -582,6 +586,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "TUDN",
         "TUDN"
       ]
     },
@@ -595,18 +600,6 @@
       ],
       "tambienEn": [
         "ESPN Argentina"
-      ]
-    },
-    {
-      "titulo": "¡Aaaaaaaarranca el partido! - Atlético de San Luis vs Atlas | EN VIVO",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdUtxZlZLT0dBV0l6anBQREFzSmZSY3AxVWFRZTJQdjdxR3pWemwxSHJaZXo1WGNBWUdvWnpzeDVTU21LTzhXSG5heXVoZWNuU0ozMThjTUNudmhQM1lvQ2Zqa1Vka0VNQmVBN3dJc3BKb2g4cnJOOG5ZUmo0U3loTTVycm9IQ2JOM2lpZWZQVU42ZEZ6bE42MTdxd1NKNFdERVZxc25RWWI?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-30T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "El Informador"
       ]
     },
     {
@@ -699,8 +692,7 @@
         "Atlético San Luis",
         "El Sol de México",
         "Atlético San Luis",
-        "Atlético San Luis",
-        "TV Azteca"
+        "Atlético San Luis"
       ]
     },
     {
@@ -893,9 +885,11 @@
       "fuente": "La Jornada",
       "fechaISO": "2026-08-16T07:00:00.000Z",
       "categorias": [
-        "Femenil"
+        "Femenil",
+        "Partidos"
       ],
       "tambienEn": [
+        "El Sol de México",
         "El Sol de México"
       ]
     },
@@ -964,6 +958,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "Líder a escena: así puedes ver el América vs. Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWg5ekI2amprYWZFUmxLelNGMjRablBqcWUzWlJnQ3RYM2g1ZENFbF9QQTFHRl9KVEVEMGpaMGpldlB5NG9hUEFLSExZZFNfV0RBcm5MWFJMWDBacEVtWXdwYVYzbnFsbnV1b3d4Rk1nOFlFRWlEUTRNci12ajRmNFh6WDJOTjZrRnE3X0Vfd0lSc1ROT2V1WFpOYW9OMklmNE9YS0ZQdEVRUQ?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-08-11T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "¿Quién es Emiliano Muñoz, el futbolista que fue del San Luis al Atlético de Madrid?",
       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGZPM0FLd1FUMVprdjJtQXJrWkNoZkhKU3lRQUFELXdJdU5YRDRDNnRlRHNJejdIelYwcmh6UC1tRHBEdG5aUW85UUNpMzQ3TENvbC1RbHJlQVI0Y1NqcHZJbFFjd1Y1dkVTeGxzUENkQUgtdnhrZUVIVUN6TndHY3FlbzBNSjlmY3NmYlB1MU9WZGc?oc=5",
       "fuente": "Sopitas.com",
@@ -972,18 +976,6 @@
         "Cantera"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Líder a escena: así puedes ver el América vs. Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWg5ekI2amprYWZFUmxLelNGMjRablBqcWUzWlJnQ3RYM2g1ZENFbF9QQTFHRl9KVEVEMGpaMGpldlB5NG9hUEFLSExZZFNfV0RBcm5MWFJMWDBacEVtWXdwYVYzbnFsbnV1b3d4Rk1nOFlFRWlEUTRNci12ajRmNFh6WDJOTjZrRnE3X0Vfd0lSc1ROT2V1WFpOYW9OMklmNE9YS0ZQdEVRUQ?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-08-10T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "TV Azteca"
-      ]
     },
     {
       "titulo": "Atlético de San Luis Femenil y Toluca disputarían su partido este lunes tras suspensión por la lluvia",
@@ -1035,6 +1027,16 @@
         "Fichajes"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Felipe Mora vuelve al fútbol mexicano como fichaje del Atlético San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkJrYWtaUTJtd2drQlJKbDRyVk1YRkVsNnlINmZjLVQ3ZWVpa0hJcnVZSURVMktzdDJvMUZibVBJeWZDSmtERG5IXzBuYlRTb3VBQ3VJWVFaVWk4ZURfbTZTZnlrRnYtMUo1TTVfSHJEZFpwYktqTXE5bDRpUDQ1UzJZWF9BbVRfVFFzeEIxVnI0YVZWWnREa2kyc185VXZRLVFjem1LbTBRaENTaU55NlRpSkxLQQ?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-07-31T07:00:00.000Z",
+      "categorias": [
+        "Fichajes"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1053,8 +1055,7 @@
         "Atlético San Luis",
         "El Sol de México",
         "Atlético San Luis",
-        "Atlético San Luis",
-        "TV Azteca"
+        "Atlético San Luis"
       ]
     },
     {
@@ -1163,7 +1164,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 35,
+  "totalFuentes": 34,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

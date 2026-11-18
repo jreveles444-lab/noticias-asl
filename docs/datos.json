@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-18T13:44:52.180Z",
+  "generadoISO": "2026-11-18T14:45:00.092Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -584,12 +584,9 @@
       "fuente": "TUDN",
       "fechaISO": "2026-10-27T07:00:00.000Z",
       "categorias": [
-        "Partidos",
-        "Bajas"
+        "Partidos"
       ],
-      "tambienEn": [
-        "Récord"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro",
@@ -920,6 +917,17 @@
       "tambienEn": []
     },
     {
+      "titulo": "The key facts you can’t miss before Chivas Femenil vs Atl. San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZXBZYVVmTFI1bTZRdGw4OFRob1E5Y29Sb3JheEQtZ2xfbGtGR0ZIUVpGX3o5V2ItSkU3b1kyS0JnbzI5cEFSd0ZaR2FNSGtCdUEyLVdxMGpRME5VQWU0WHVXMkoyN0xBUmJsVnlVWHpzT1FYcG5jWGZTX1c?oc=5",
+      "fuente": "Yahoo Sports",
+      "fechaISO": "2026-08-15T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Líder a escena: así puedes ver el América vs. Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWg5ekI2amprYWZFUmxLelNGMjRablBqcWUzWlJnQ3RYM2g1ZENFbF9QQTFHRl9KVEVEMGpaMGpldlB5NG9hUEFLSExZZFNfV0RBcm5MWFJMWDBacEVtWXdwYVYzbnFsbnV1b3d4Rk1nOFlFRWlEUTRNci12ajRmNFh6WDJOTjZrRnE3X0Vfd0lSc1ROT2V1WFpOYW9OMklmNE9YS0ZQdEVRUQ?oc=5",
       "fuente": "TUDN",
@@ -1020,21 +1028,6 @@
         "Escuela"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "¡ATLÉTICO DE SAN LUIS ESTÁ DE REGRESO!",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVF6MDh4V2F2MmZBcllkY2pUSHVNZjJjU0hhT29aaVFXVHlRLXBSMzhiUlRoNXhqMGRRMXhJYWt6OTh1OGVCamRoUmd6ZHE3eExjT2gyRlpTVndLOXBjM3EzR3c2blgzNjRqNENkRDczSHk5aVFMNG9ndWJiYUU4UG9DOEp4R1QtaFdQZXNIVHpfZVpDUzNPQVl6cTFuUQ?oc=5",
-      "fuente": "Atlético de San Luis",
-      "fechaISO": "2026-07-18T00:42:30.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": [
-        "ESPN Deportes",
-        "Transfermarkt",
-        "MLS Español",
-        "ESPN"
-      ]
     }
   ],
   "comunidad": [
@@ -1160,7 +1153,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 29,
+  "totalFuentes": 30,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

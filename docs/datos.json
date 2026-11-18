@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-18T21:46:01.490Z",
+  "generadoISO": "2026-11-18T22:46:09.555Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -348,7 +348,7 @@
       "titulo": "Club Puebla regalará boletos para el partido ante Atlético de San Luis a cambio de kilos de arroz o frijol",
       "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbGY1dHM4YUJFdHZqS2s1Q1I2aExSc1BHSDBMa2JSQ1BfNUg3Vm0yZVdhVlpEZ2RkNGNVazdsbm5mVVlzd3FUeHhSVTlicldRbDM3QXhDbFg3VmJ6X0xDS2pNTERUQ3p0eExPbmVZbVFVUGg1aUIzbk9XSk94ZFRkZDdETW9GcU4tdE5WMEdXQmVmX3otNU5GdzJHSHEtanNwSkpzSjZsNnJ5czRQMENLUWJWMDVNS0pfVzh0eG9YZGtXTEUzZzAwZVM2d002ZjhzSVpRcHlFek91cERYOVZlMmFB?oc=5",
       "fuente": "El Sol de México",
-      "fechaISO": "2026-11-18T20:55:28.000Z",
+      "fechaISO": "2026-11-18T20:55:46.000Z",
       "categorias": [
         "Femenil"
       ],
@@ -923,6 +923,17 @@
       "tambienEn": []
     },
     {
+      "titulo": "The key facts you can’t miss before Chivas Femenil vs Atl. San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1ZXBZYVVmTFI1bTZRdGw4OFRob1E5Y29Sb3JheEQtZ2xfbGtGR0ZIUVpGX3o5V2ItSkU3b1kyS0JnbzI5cEFSd0ZaR2FNSGtCdUEyLVdxMGpRME5VQWU0WHVXMkoyN0xBUmJsVnlVWHpzT1FYcG5jWGZTX1c?oc=5",
+      "fuente": "Yahoo Sports",
+      "fechaISO": "2026-08-15T07:00:00.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Líder a escena: así puedes ver el América vs. Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWg5ekI2amprYWZFUmxLelNGMjRablBqcWUzWlJnQ3RYM2g1ZENFbF9QQTFHRl9KVEVEMGpaMGpldlB5NG9hUEFLSExZZFNfV0RBcm5MWFJMWDBacEVtWXdwYVYzbnFsbnV1b3d4Rk1nOFlFRWlEUTRNci12ajRmNFh6WDJOTjZrRnE3X0Vfd0lSc1ROT2V1WFpOYW9OMklmNE9YS0ZQdEVRUQ?oc=5",
       "fuente": "TUDN",
@@ -1022,17 +1033,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Copa Escuelas Atlético de San Luis del 5 al 9 de agosto",
-      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2p0bWJxQmRWdmdHUHhaLVNuQ0dDSkFDclljNjRzTlRCdjJqcHV3VkhWNUVVem5haG1QY1l6ZE1mMjhxUGRrckw4aWp6MDdfYXUyVHhORVBvdEQwNjhpRC1pbDQ1SEdfT0N3azlWaktWMFVINkFtVUV0UjJOVVNpcllTZl9yQ1lQd2c?oc=5",
-      "fuente": "Canal 7 SLP",
-      "fechaISO": "2026-07-22T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Escuela"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1102,6 +1102,14 @@
   "comunidadTitulo": "Escuela y comunidad",
   "videos": [
     {
+      "id": "0y_mUjdqTjM",
+      "titulo": "¡Miércoles! 🔛⚽️ | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=0y_mUjdqTjM",
+      "miniatura": "https://i.ytimg.com/vi/0y_mUjdqTjM/hqdefault.jpg",
+      "publicadoISO": "2026-11-18T21:27:17.000Z",
+      "categoria": "Entrenamiento"
+    },
+    {
       "id": "ISgK4KH8SH8",
       "titulo": "LA BANDA DEL SAN LUIS #10 | REBECA CONTRERAS",
       "enlace": "https://www.youtube.com/watch?v=ISgK4KH8SH8",
@@ -1131,14 +1139,6 @@
       "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
       "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
       "publicadoISO": "2026-11-12T01:20:48.000Z",
-      "categoria": "Entrenamiento"
-    },
-    {
-      "id": "ibb-gHsYxgU",
-      "titulo": "Preparándonos para el cierre del torneo | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=ibb-gHsYxgU",
-      "miniatura": "https://i.ytimg.com/vi/ibb-gHsYxgU/hqdefault.jpg",
-      "publicadoISO": "2026-11-10T23:30:57.000Z",
       "categoria": "Entrenamiento"
     }
   ],

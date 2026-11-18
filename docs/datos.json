@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-18T08:44:15.601Z",
+  "generadoISO": "2026-11-18T09:44:22.662Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -866,9 +866,13 @@
       "fuente": "La Jornada",
       "fechaISO": "2026-08-16T07:00:00.000Z",
       "categorias": [
-        "Femenil"
+        "Femenil",
+        "Cantera",
+        "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Rebaño Pasión"
+      ]
     },
     {
       "titulo": "Chivas femenil le gana al Atlético de San Luis y es segundo lugar del grupo B - esto",
@@ -955,16 +959,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "¿Quién es Emiliano Muñoz, el futbolista que fue del San Luis al Atlético de Madrid?",
-      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGZPM0FLd1FUMVprdjJtQXJrWkNoZkhKU3lRQUFELXdJdU5YRDRDNnRlRHNJejdIelYwcmh6UC1tRHBEdG5aUW85UUNpMzQ3TENvbC1RbHJlQVI0Y1NqcHZJbFFjd1Y1dkVTeGxzUENkQUgtdnhrZUVIVUN6TndHY3FlbzBNSjlmY3NmYlB1MU9WZGc?oc=5",
-      "fuente": "Sopitas.com",
-      "fechaISO": "2026-08-11T07:00:00.000Z",
-      "categorias": [
-        "Cantera"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Atlético de San Luis Femenil y Toluca disputarían su partido este lunes tras suspensión por la lluvia",
       "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGo3RFROY3hMcE0tbGJ5Vk5jWFNLNVI5bTFWWDhKQU5YNVU2UWJHZVNqQndsZ0xjd0FLNTZmRzM3eDZjNEVsX0J4Zk9ldFJLb3g1Y0dQUnNnV3hSMUtsOElfQ2wyeV83SlA5bkdBaXhJbWlfUWtqLW5PQXBZQm1lQlZvTW1qcnV4VW1FY09CNzYyZzNQZ2JNdVJnVXBUZlhlbXZveWRRSHVQOWhkemF0UzlvWnZDZ1RrVTFtM2FreUx0Rm5XSWNnd2gyUWxWel9DaGhlUDNxQzRaVmdYMzdEc1dZcExNZmJiSFYtSg?oc=5",
       "fuente": "Récord",
@@ -1032,6 +1026,16 @@
       "fechaISO": "2026-07-31T07:00:00.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético San Luis vs Club Tijuana",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTc4VGI2QmFjbDg0ZnZ6MWRmSHlCS0o1T2dZdUJIcmZsYzBrR1lmcTlBbmhjV2dyWFRfaW94WHJtQ0RNVU9PN0lkNy1TazgwalhxZk51VDFXdm0yalJYRUlzRlhtV1JIVWRpOFlIZlFhUTBSc1g4T3pPcTctektGUGFNMHhFUlVTdGN0bjJicVFucGw4bUE?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-07-31T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
       ],
       "tambienEn": []
     }
@@ -1160,7 +1164,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 35,
+  "totalFuentes": 34,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

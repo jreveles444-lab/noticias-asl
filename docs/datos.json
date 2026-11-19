@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T17:49:30.737Z",
+  "generadoISO": "2026-11-19T18:49:36.974Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,18 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Puebla y Atlético de San Luis buscan cerrar con triunfo el Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeklyR3FBemFERjlzb2psYU54b084QTZuZk05ZEZINmhWejJDMlJkeXJnX3BoRVdJSFVhQ2F6SFFZczJqOTF1bnlJY05DRHFWWExRUmxIY0VqWk92bXNOT2NzaW9hM05JcXBYVTRPWEFTT285VzhHY3JhT014SXVjLWRLaU5ydVhwcVVxZVNBWTBPcE9ORlg4Vzgxb1UtTUE?oc=5",
+      "fuente": "El Momento Quintana Roo |",
+      "fechaISO": "2026-11-19T16:04:41.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Diario Cambio"
+      ]
+    },
+    {
       "titulo": "San Luis Potosí registra menor acceso a internet que la media nacional",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRTd5LXVlRjBQV2FSSEctdk1MeWJpMWxzbDdOUFhOTzNrWG9CZE9PbFd2V2ZOWDNpM1ZVUktPNDhyZHJoTFVLRWotLXpGZFFWc183d0VPUFlkd1ZJaDZIT3dCT1VSQmlyenhYWWVicEllSHRzSzlLU3hXUTR6S0dNYnU1aTMyNGlJSmhfaEk0eG5SUE9aQjdpWkNTSmQxNXBTeXBtaDY4SUI3T0twalE?oc=5",
       "fuente": "Potosinoticias.com",
@@ -371,16 +383,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQalFMdk81d1poMG1URXJFTjlld0lIUURCZmczRTJoYkN3UFRlaU9Yd3JYYlRSZl9iMTdaeW1UZEhIcXRfdncwRkV6Yk1CcndxXzF1MG14WHk3ZWxTRXZhUjFXYU5ta2h6SktFMkNnX2xiT0NzXzd0QkZRc1oxLTFEblN6ZTfSAYoBQVVfeXFMUGRUOUdnbXdxUi1qSEprZFdaTHNCLU9TUjFWamZodnAxdmRHdE9iM2p4dVNCbkd3QVQtT0daNDF2WE11NDRjeVhpbFJxWjRpTWZLS0Y3dVB0WjlJMEFLSVBPckstVkRGeFNZR2VOcWJUNHdlSEFhMWJBYWJONXVQWTBJUmtfdUZVU0J3?oc=5",
       "fuente": "Pulso Diario San Luis",
       "fechaISO": "2026-11-19T14:32:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "7ª Carrera Atlética de El Sol de San Luis: ¿por qué es una de las competencias más esperadas?",
-      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVFOZlE4WkhMa0h5V1RGb0FGbVM2d2M2VDA3ajRrU1ExQjFhcUJRNkdMVVVMb3ZYNm1PRkJwWk5PS2tLbkJSNnJPaEF3S0QxeTNEeERUbkFQLXFFdU0tQzRrcVk2bFRBR05DcU9jelB4X3E0Vk9YTGtVOXlIRTJ5YjJoSjJMbDJHejZ1TjdiSTRNeFhZaGdaTEdwdTRSWE1RUHlkRF9Db2d5UTh6Q1g4TTZKaGFRTjVaVFVKMy16R2pMQTVRN2h1WTI5UGV4QXozbDJhNHYxczU2UQ?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-19T06:11:21.000Z",
       "categorias": [
         "General"
       ],
@@ -432,16 +434,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético de San Luis, Ottawa y Ecuador: el plan del Atlético de Madrid para conquistar América",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1Y4azV0ai1PQ2VWMmNzTUZfX3lYdURLcnZVTWl3cTVYQjFoSUh0VXVQS1hxb0pWSnZoc1ZZZ3RpREtYS1lwWGlIUVVtWHdmcDRBR0poZnIxQnRqZU9oT3BXYzN5RC1USjlIQ0FmZlhPR1lPVmFNeHRCRU5MZExfSGs0U3ZWelV4WTUwTGpXcEZ6VThHOWdCQjlBdFJoc0ZpOV9ZVlp6VXBKam92SXdNOHROVmRVTVhuT0w1SWJiZFhxdw?oc=5",
-      "fuente": "Claro Sports",
-      "fechaISO": "2026-11-18T20:31:20.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Club Puebla se despide del Apertura 2026 ante Atlético de San Luis con la liguilla perdida",
       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMTFiSTQ5OFVqLWtwR3Z4RUxMQnA4Qlp2WklrVFU1SGlQNV9KZkMyNUMxdTc4TW1qclRyMnB2c0p2U3lYVFYwdXFoaHl4U1VmaXd4YWhnNDNkbUg2NndCSnMzNWtQeDRKSTE0MU8wU0tSLXgydkRkMFBNbWlYSG9yYkZoWmhBcVo2R09IbFBYZ2dIWnUyTU9xUEgxamFjdk1yRE1wSWlqNXgzQXFxeng5bWE3YVhyZXZibzhCYzFnUWhNN0hLWVZERFc0TnpOeGtLYVdmclp3?oc=5",
       "fuente": "Periódico Central",
@@ -451,18 +443,6 @@
       ],
       "tambienEn": [
         "El Sol de México"
-      ]
-    },
-    {
-      "titulo": "Club Puebla busca cerrar el Apertura 2026 con triunfo ante San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0F3NFRZbFJPUm91MFJ5dUNQai1DRjJvNVo0VnpOYTBWeWRlZmRUaEE2MV9yLUt0eHF3R1JQalNYZWg0MHJ5NEFTX21pSmtvWExpX1NTZHBiUVVkTUFicGdjUmpkd3lzZ01TNlUwMjRMTV9Ga21lV1otM3JWNlFheW5pWUJNZThtOHJZblhyYzE3c0p0MUE?oc=5",
-      "fuente": "Diario Cambio",
-      "fechaISO": "2026-11-18T17:05:19.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "El Momento Nacional"
       ]
     },
     {
@@ -490,16 +470,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdS00YUwwMk8zM2lRLUNEN084aWlEOUxpQ25vVm5VdVUyZzh6M3lLaUE5bGFCd3c5RmlodzZaXzBfbGo5akJmNTdfUXAtWmdwVzV1azFkc3h0TnA5WUtESngwczBTVUt4S2tlUWJhX2E4NTNrZUlLS2I3c0luNkk4RDRWR21tdDVINEZXNHMwSk9PMTJLNjNQNTRNS2c1Ujc5cWF5TlBMeFBfbUhoSG8zSzJlRDRiYTZzb0V5dDdzNjJDclEycGk4aFpKSTZxTE5ERnB4Y1NoaFpzLXRLMmVVNWozMA?oc=5",
       "fuente": "Diario Cambio",
       "fechaISO": "2026-11-17T12:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Carrera gratuita de tres kilómetros celebrará el 69 aniversario del Estadio Plan de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FrdF9YWTZHOXhubXZwQldjU2pBSkFnWi1Sal93eTdnSHhkWTE5SkJmekM2VHE2QUNCNC1MMV9FbUF0UlZ2XzRldm1jVExtc0N0RUw1b3JrdUxhRHhhY1pUbl9zZ3JmZzVuazFWWkxhV2V6eTRia3NDT0dwaERiVEhZdUxiSnlxMmZ0ekFhdTR4RzM3eEEzbXBqTlYweWkyZVdXZEdDdDItUXRYR095LThMVDJvcDVveDB0YkhCTzBHeDlWRGdEMllnZw?oc=5",
-      "fuente": "Potosinoticias.com",
-      "fechaISO": "2026-11-17T00:58:48.000Z",
       "categorias": [
         "General"
       ],
@@ -590,6 +560,16 @@
       ]
     },
     {
+      "titulo": "Atlético de San Luis, Pumas y Pachuca disputan los últimos dos boletos a liguilla de Liga Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSU05R3ZBYTRyRjdtUXVuaDdTOGtnb29GZ01nQkNCZDMxMGlUSGNMLUpOYVVCRkhabEFhcXRRYk1sb1phOVc2em5pazFGdllFQXNVajR0b1NKUHZIQ3NCU1pGSlYtTHAyRk5SdkZXdjdQVUJMbkxVV00tSVZSTUxhVGJIcWI5SWhqdldPd0xoeXFEZ2FUcVNYUnhRTEY3bW41c05mUEVQZ0dNUXZLTktYUjRaNFVTY1JNaVhaTEpKRdIBxAFBVV95cUxNSUlWUF9pWU5YcWhkUm8tOGdmR2RPME9XUHc2R0hnNVRzTDFWTGRyaFJCTEV3Y2lUVzI4a2R4RjJyZDRMS1BoTjhBellhMnpoM255cUJTNEVBSWx0Vi1wYTZQa1ZfWDJlS1YtaWFqRW5rSXhUaEtyVlgwOENUWm1WSnFrNzRmUUlrUTNNdHRJN2V4Wkh6N3ZUSjdiSHV4QWZJSkFNZENUdFVNd3FaWlZ6M0MxWHp0cmZqaU53N2lzUGdjY1FJ?oc=5",
+      "fuente": "Excélsior",
+      "fechaISO": "2026-11-06T08:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "León vs. Atlético de San Luis Femenil EN VIVO: Dónde, cuándo y a qué hora ver el partido de la Jornada 13",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEE0V2RUQjgydS03ODRZWU1xOXRCS21XWnN3dGRkTEVla0lTY2ZiMnd3Y2JEOHRvcE1LaXk1RlZLUkxRaGtsdGZUMTZRdFdzNFRzVEF6QjRGUDZYdGpXSXFlLWFXNE5uMGkzeUhOZzdydC1BaDhzaVBBa1ZJQXlUV3JicFl6MTRtNTgzQndPWDJYSzFKVUMtZWc2T3ZMa19BZTVmcVRWZ19INGh5SlRHU1NTV0tKUGpnb3V5VVNKVUw4SDJQSFoycFdSa0M0dE5VbXfSAeYBQVVfeXFMTkRPNkJRa1F6aHkzMzM0bVpjYVB3Nk5mbUNvTGY5eWV6RFNnSzJYYlhYUU5uR0tSeTRoUDdUZHNsNHcxVTdHN0pVSHAyVTlxWGZRZjBQbGdPNHpuSVlyd3JVd3VhSTZ6MU9UZmxzMDh4eDFZNzJHY0hsOUpmMXlkY3QxMEpFbmZndXBtX3FmUkh0NEV0SGEtZk9fZXlCVXVBNm14R2ZPN3pGR0xfdk9keWJrUjl1VXZMeVNDdTVKMmVFbTUwTGducEVRdDVJMG4yb09wX2lUMnNBeXVqSFYyamF1ZEllTmc?oc=5",
       "fuente": "W Radio",
@@ -599,8 +579,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Récord",
         "El Sol de México",
+        "Récord",
         "Récord",
         "MARCA",
         "Telemundo",
@@ -610,9 +590,9 @@
         "Mediotiempo",
         "TUDN",
         "TUDN",
+        "Vox Populi",
         "TUDN",
         "El Heraldo de México",
-        "Vox Populi",
         "El Informador"
       ]
     },
@@ -753,6 +733,7 @@
         "Fichajes"
       ],
       "tambienEn": [
+        "El Mañana de Reynosa",
         "TUDN",
         "TUDN",
         "TUDN",
@@ -1029,6 +1010,26 @@
         "Partidos"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis anuncia a Mora como refuerzo y Xolos responde",
+      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlBLZFQzLTdpaDlaWEJpT04tcUVqUGhMMHRXNjBrU0l0d1l1Wm1YbmxueEJISkp3dzhIQi1OcVk5Q1FNelItVmU1LVlmTVR6Wi1yelpfX2k0RGlDSHNxTnBCSDF6MnZTenFxcThFNHhXWDk4emNHejMyNGwzUnFiYkRqekNpTjFId2pCeXpqcjV1by1LS00wYkRDZkF6NmM?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-07-31T21:50:36.000Z",
+      "categorias": [
+        "Fichajes"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético San Luis vs. Club Tijuana - Resumen del partido",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlRIWmRIZjNfeXBhUzRTQU81U3BtR0c4TkotRVE4N28xZHQzVUpEUlFhR0FOMzh0ckNKNkhpeDNhaWlWd3IyZy1CZmloOFNHWlpBOFJGeTlKeWlvaVVjNzhkc3diX3hScll2TUhBRmNJMFdRY3FLWTE5TmY5YlZMNlJkeGN3NlNvU2R6c3VvLXRuekx3ZnR0dUlUcW44dw?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-07-31T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1044,6 +1045,7 @@
         "Fichajes"
       ],
       "tambienEn": [
+        "El Mañana de Reynosa",
         "TUDN",
         "TUDN",
         "TUDN",
@@ -1149,7 +1151,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 27,
+  "totalFuentes": 28,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

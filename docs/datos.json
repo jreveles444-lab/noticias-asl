@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T04:47:58.304Z",
+  "generadoISO": "2026-11-19T05:48:04.394Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -397,31 +397,9 @@
       "tambienEn": []
     },
     {
-      "titulo": "Club Puebla se despide del Apertura 2026 ante Atlético de San Luis con la liguilla perdida",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMTFiSTQ5OFVqLWtwR3Z4RUxMQnA4Qlp2WklrVFU1SGlQNV9KZkMyNUMxdTc4TW1qclRyMnB2c0p2U3lYVFYwdXFoaHl4U1VmaXd4YWhnNDNkbUg2NndCSnMzNWtQeDRKSTE0MU8wU0tSLXgydkRkMFBNbWlYSG9yYkZoWmhBcVo2R09IbFBYZ2dIWnUyTU9xUEgxamFjdk1yRE1wSWlqNXgzQXFxeng5bWE3YVhyZXZibzhCYzFnUWhNN0hLWVZERFc0TnpOeGtLYVdmclp3?oc=5",
-      "fuente": "Periódico Central",
-      "fechaISO": "2026-11-18T17:49:07.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "El Sol de México"
-      ]
-    },
-    {
-      "titulo": "Club Puebla busca cerrar el Apertura 2026 con triunfo ante San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0F3NFRZbFJPUm91MFJ5dUNQai1DRjJvNVo0VnpOYTBWeWRlZmRUaEE2MV9yLUt0eHF3R1JQalNYZWg0MHJ5NEFTX21pSmtvWExpX1NTZHBiUVVkTUFicGdjUmpkd3lzZ01TNlUwMjRMTV9Ga21lV1otM3JWNlFheW5pWUJNZThtOHJZblhyYzE3c0p0MUE?oc=5",
-      "fuente": "Diario Cambio",
-      "fechaISO": "2026-11-18T17:05:19.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "¡Elaily Hernández-Repreza convocada a la Selecta!",
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTRXOERCU3BKRDdiUUc0RVpobTdRUDA2TVBhRmNOOTRGYUdWc3BCdGQzWmc1TV81ay1ScWNTdGxyRkZ3T1VyX1VZcE1ibzdueS1ZN3lESjhINVN0RUw5emJHSEViNUtaaEtIV01uNVRIODhud3FJQ2IwXzlNLXZOWnk0Y3JQTDlrQnFaME9rc2ZwZTRFQVpIZA?oc=5",
-      "fuente": "Atlético San Luis",
+      "fuente": "Atlético de San Luis",
       "fechaISO": "2026-11-18T16:50:01.000Z",
       "categorias": [
         "Femenil"
@@ -431,12 +409,25 @@
     {
       "titulo": "¡Enyerliannys Higuera convocada a la Selección de Venezuela!",
       "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0FpdzdUdjZxa3NvYzZKa09QQm85SjRPY0tPWXRaQk1JcF9zYTJuUVhTc2VFY2ZaRWpXQWRhenZMdWtkNzBpc3EtNER5S1B4aFBZQ3BFejRxdVM1cXRxWkhYUlpBbFZsSTN4OXFCWjRHMk5lejRoRF9NZ1JnclVBeFZpc0ZLdk9Gdk5sTHk2b1pYZ01KZXZSYnVLVW5JdlowYjJDUHlLNA?oc=5",
-      "fuente": "Atlético San Luis",
+      "fuente": "Atlético de San Luis",
       "fechaISO": "2026-11-18T16:49:59.000Z",
       "categorias": [
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Busca Atlético de San Luis cerrar con dignidad el Apertura 2026 ante Puebla",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUZRXzhoUk9LTGw5T0dabHo5UEFPNkFfLU0zcm9jTjB3OVpVQkVtTy1YSlNIYTNHYkhBejEwbXE2MGh2QWdLTmFwZlA0ZDFtTC1PaVlXNFJva0c2dlRfQUNhWllnclRXNUN6Z19uOVFLSDgyeEwxdUFRdXRaZllPdmVyS1RZeGF0Yk9zd3RJaEtrTFBqbXM0TU9GNjRIdl9JMjhUaFhzNEI1X1lnRmV2RWFILVhMaXd6T29WYkM0aExHeldkZVE?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-18T01:52:57.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Periódico Central",
+        "Diario Cambio"
+      ]
     },
     {
       "titulo": "Puebla vs Atlético de San Luis: horario y transmisión en México | Liga MX",
@@ -465,16 +456,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX1FrdF9YWTZHOXhubXZwQldjU2pBSkFnWi1Sal93eTdnSHhkWTE5SkJmekM2VHE2QUNCNC1MMV9FbUF0UlZ2XzRldm1jVExtc0N0RUw1b3JrdUxhRHhhY1pUbl9zZ3JmZzVuazFWWkxhV2V6eTRia3NDT0dwaERiVEhZdUxiSnlxMmZ0ekFhdTR4RzM3eEEzbXBqTlYweWkyZVdXZEdDdDItUXRYR095LThMVDJvcDVveDB0YkhCTzBHeDlWRGdEMllnZw?oc=5",
       "fuente": "Potosinoticias.com",
       "fechaISO": "2026-11-17T00:58:48.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Club Puebla, con meta de vencer a San Luis y alcanzar los 22 puntos: Mathías Tomás",
-      "enlace": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzR5Wm1fSURuZ18xTmVmNm1XN3ZrcjlNd1NRNzZIdUg2cWx1QlhtOHFWbnlrMlQ5MVpLc2NxMzFOdVRQNkZJdkZyVU1WTzk3a2dUMm5qX09hdmZqWVZvaGdVWjJwTllkWXJhT2E1cDljeXp2OWpPSzJibERBN0ZSdFNmVnlwbnN4Smk4d0xLZzFhSGZsRWtQWDlhc9IBmwFBVV95cUxQOEV3N0hLc2ozMnk1S1ZYQkNXeTl3NE4xSFR1QmhHS3diYnZ1cWpYaE1FTlVZS2pDMFB6bEJCNko5QkNBYnNJb3ZHUkRRcFg4THJKX2lmdm9fV0Z0WmVsZWh4X3pRdmJwQ09RQWpPWnRsZGxsazlqeXBDdDlUcWx0aGFldmdNbXM4V3k4R2x4QVdvM1FhVHh0ZEVyVQ?oc=5",
-      "fuente": "Milenio",
-      "fechaISO": "2026-11-16T18:13:40.000Z",
       "categorias": [
         "General"
       ],
@@ -613,14 +594,14 @@
         "Mediotiempo",
         "Mediotiempo",
         "El Heraldo de México",
-        "Soy Referee",
-        "El Heraldo de México",
+        "Mediotiempo",
+        "TUDN",
+        "TUDN",
         "Vox Populi",
         "TUDN",
         "TUDN",
-        "TUDN",
-        "TUDN",
-        "Mediotiempo",
+        "Soy Referee",
+        "El Heraldo de México",
         "El Informador"
       ]
     },
@@ -794,6 +775,7 @@
         "Partidos"
       ],
       "tambienEn": [
+        "Milenio",
         "Milenio",
         "TUDN"
       ]
@@ -1035,6 +1017,26 @@
       "fechaISO": "2026-07-31T07:00:00.000Z",
       "categorias": [
         "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Felipe Mora vuelve al fútbol mexicano como fichaje del Atlético San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkJrYWtaUTJtd2drQlJKbDRyVk1YRkVsNnlINmZjLVQ3ZWVpa0hJcnVZSURVMktzdDJvMUZibVBJeWZDSmtERG5IXzBuYlRTb3VBQ3VJWVFaVWk4ZURfbTZTZnlrRnYtMUo1TTVfSHJEZFpwYktqTXE5bDRpUDQ1UzJZWF9BbVRfVFFzeEIxVnI0YVZWWnREa2kyc185VXZRLVFjem1LbTBRaENTaU55NlRpSkxLQQ?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-07-31T07:00:00.000Z",
+      "categorias": [
+        "Fichajes"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¡Rueda el balón en San Luis Potosí! El Atlético recibe a Tijuana",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGV1RmZhaGZ4eWplVG1qcUQzRExQZ1pnMnZCVmNzd2xibGVvYWFaNVJ4bjlRTk9kUUtFVnFsYzl5S29GdHVBUHd0SllTWDVZOGpTa0xwN01jdDVkcHkydTQ0ZGFocEgxaE1TZTZydzVxdThVLVpiVEFwcVpwVW9TVkhjWkx5OVFJ?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-07-31T07:00:00.000Z",
+      "categorias": [
+        "General"
       ],
       "tambienEn": []
     }

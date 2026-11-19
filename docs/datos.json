@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T13:49:01.849Z",
+  "generadoISO": "2026-11-19T14:49:09.018Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -362,7 +362,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Diario AS"
+      ]
     },
     {
       "titulo": "Atlético de San Luis participó en la Copa FMF 2026",
@@ -568,9 +570,9 @@
         "El Heraldo de México",
         "Soy Referee",
         "Mediotiempo",
-        "TUDN",
-        "TUDN",
         "Vox Populi",
+        "TUDN",
+        "TUDN",
         "TUDN",
         "El Heraldo de México",
         "El Informador"
@@ -600,6 +602,16 @@
       "tambienEn": [
         "El Informador"
       ]
+    },
+    {
+      "titulo": "Atlético San Luis vs. Atlas - Game Highlights",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnAyTFJmbTFuU2NWNDhrY0x0cWViNnZMQkVTV0lZYy1oaXJWcHNreGNTTThOaU5CVHZRZVl1ZmZpVkpzdFNMcjBNSDFUUmV5QkRoWjlwWml6RUhLNUp3aEViYzFEQlVSdUxhZ1dDYWdBYkNPSUFTc3NvN2Fjb1NyN2Y1ZlFHQlR4MTlCVg?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-30T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "Así puedes ver el partido Atlético de San Luis vs. Atlas, Jornada 15, Torneo Apertura 2026",
@@ -1017,22 +1029,6 @@
         "General"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Las Fuerzas Básicas de Tigres venció al Atlético de San Luis en Zuazua",
-      "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNngwaUhEZWx2b1loR0VsU1ItSWlVM0tLdDJGQk5KX05EWXJHaW5kYnpxTHFNdHZEMVltZlhFMlp1NUhHNjEwVlc3bHFCQ0t6RWF0OVFtaG15aGNiOGFYOXVwUFRib1Y4Z3NvMklUODRLRnhWdThHSTRtZzJKYVlEWEpTUHVhOUZUTDBOV2ZWUy16NWY4ZW1KY0lkdC1FY0g5V3ZyTy1FTHBSMW05YVczWnBkV25LbFQwRGNGaTF6MEg1SGxZTnRUSUNoLWppV0V2ZVdYZGhIUzBwQW95SXNjWG96ZkdoR3RycEFzMWNfV1NYVGNrUGJCZ3cycUNuVGQx?oc=5",
-      "fuente": "OnceDiario",
-      "fechaISO": "2026-07-25T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
-        "Partidos"
-      ],
-      "tambienEn": [
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México",
-        "El Sol de México"
-      ]
     }
   ],
   "comunidad": [
@@ -1153,7 +1149,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 30,
+  "totalFuentes": 29,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

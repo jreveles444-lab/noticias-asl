@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T08:48:25.264Z",
+  "generadoISO": "2026-11-19T09:48:33.274Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -380,7 +380,7 @@
     {
       "titulo": "Atlético de San Luis presente en la 70.ª Convención Nacional de Bomberos",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3VodHVLYVhrR2c2WG5McHU3UVBpLWQ1Y2hCRVNaRm1Ea29UMmZJMGN4NVJsWFlrS1lnTnFYUnZ3RUJjTEhzUUR0UFZ5WGltYW1FWHhmX3pOWXNWRFA4ci1fVEpXMVJIcHNoa1JzUUwxdk5sQW1LeWVWeVg2dngtYW54TU5pR05aUjVpZXNhMnJ1Uy1RTzJuZHhnNnFxNjFUemlRWDNKdDh5TUhPaXZvd3FMaGZTdHM?oc=5",
-      "fuente": "Atlético San Luis",
+      "fuente": "Atlético de San Luis",
       "fechaISO": "2026-11-18T20:57:07.000Z",
       "categorias": [
         "General"
@@ -507,16 +507,6 @@
       ]
     },
     {
-      "titulo": "¡El 'Niño' le dijo NO a la Liga MX! Fernando Torres rechaza al Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZXlDNjA1SGhYckJNZXdjYi1ZQmdDZVkwLVlXaUEwQ2wzd1g4bnVsMmpMRlhpS25tYndBdTgxY0VaNlhCT0F3a1VqTEdfTFBlejJ2YnNIODBwbFJlQTJsSk5HMXp2U3pBTUd2TkUzYS14T1dhQ2RYWWRwbU5acmpZdnU5dzBidXJGUUhMU1MtMUdxcGdiYS04LXlMMDdod3RZVWFoUU9Xd01wQW10QTVmSTFmU2s2a2ZEQm02UlRVbVZNN2R6dzR6LUk0ZHMxZw?oc=5",
-      "fuente": "Soy Futbol",
-      "fechaISO": "2026-11-13T16:35:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "¡Desde 50 pesos! Club Puebla baja costos de boletos para partido ante San Luis en cierre de Apertura 2026",
       "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWluUkFfQ1JELVdVS2JKMDgxb3V0RkpsUW5Ka01NUlVqc3ZRdTltM1A0RGo0c09ZOXIxc2RXTGgwaUlkakhHWTI2ZzFYVDlnYjBCbTdnYURNM3dNd3JlWUZka3VBUW5sd0phOG93YjFneHpkaHBDSkZNRDFralJoX2tUTjRueDdsVEFjQ0VMbnp4MW1Lc3g1ZHNEM3ExVDctOHRLWUw4Y3BXUdIBqgFBVV95cUxNQjZhWGhraDFBNWpYemduUHl4T1ExS0xENklTRW16UWNCQWZ1Q2xhREZwdWNKOXhtSXJycHRHaHJ2aEdxel9BNldsRlJubW5TZGRZOXExN3hzT29WeWZ5RUM0dVF2MUFIOHBXQzNURXhxbV9qaDctMjg5bFBsbHpTeWdMSnNRVWUzeHB6UUdwY1A0QlZMd1NrVVdoekhpb3FJTzk2WTJwQlpUdw?oc=5",
       "fuente": "Milenio",
@@ -525,6 +515,18 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "¿Fernando Torres al Atlético de San Luis?",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPajdPZFp6UkI2bGVyTkxseGxXNDlwZl84blJsalFzaTRveEpwbkNESm5KbTlCd0RJMUFDTlRiVTg3LUdnUFVCWUxLTFV1S2FwV1FYNDQ1cVZCMG5zUGs4eTlOUGdEZ0Yzbm5vZ19aaXBEcGxzcWFTUWEwdzlOTGd0eExJcmh4dWU2Ym9CbTBfVGVBa0JUU2phQmg0QXdEVUNfZU1WUDJn?oc=5",
+      "fuente": "Futbol Total",
+      "fechaISO": "2026-11-12T16:29:19.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Soy Futbol"
+      ]
     },
     {
       "titulo": "Pumas sella su pase a Liguilla ante San Luis",
@@ -1155,7 +1157,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 29,
+  "totalFuentes": 28,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

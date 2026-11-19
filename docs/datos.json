@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T03:47:50.684Z",
+  "generadoISO": "2026-11-19T04:47:58.304Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -558,16 +558,6 @@
       ]
     },
     {
-      "titulo": "Atlético de San Luis, Pumas y Pachuca disputan los últimos dos boletos a liguilla de Liga Femenil",
-      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSU05R3ZBYTRyRjdtUXVuaDdTOGtnb29GZ01nQkNCZDMxMGlUSGNMLUpOYVVCRkhabEFhcXRRYk1sb1phOVc2em5pazFGdllFQXNVajR0b1NKUHZIQ3NCU1pGSlYtTHAyRk5SdkZXdjdQVUJMbkxVV00tSVZSTUxhVGJIcWI5SWhqdldPd0xoeXFEZ2FUcVNYUnhRTEY3bW41c05mUEVQZ0dNUXZLTktYUjRaNFVTY1JNaVhaTEpKRdIBxAFBVV95cUxNSUlWUF9pWU5YcWhkUm8tOGdmR2RPME9XUHc2R0hnNVRzTDFWTGRyaFJCTEV3Y2lUVzI4a2R4RjJyZDRMS1BoTjhBellhMnpoM255cUJTNEVBSWx0Vi1wYTZQa1ZfWDJlS1YtaWFqRW5rSXhUaEtyVlgwOENUWm1WSnFrNzRmUUlrUTNNdHRJN2V4Wkh6N3ZUSjdiSHV4QWZJSkFNZENUdFVNd3FaWlZ6M0MxWHp0cmZqaU53N2lzUGdjY1FJ?oc=5",
-      "fuente": "Excélsior",
-      "fechaISO": "2026-11-06T08:00:00.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Dónde ver Pumas vs Atlético de San Luis: Horario y canales de transmisión del Clásico Nacional Femenil Apertura 2026",
       "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOa0lNNXdTVkJHQVhNWXY5OFpKZm1FVjJuUHpnVkUxLXRscTBaMWlhV2lydHJzUmFZNXk5QWZIaEc4eTM0ZXNtOEFWR2xlWkpma3cwUGY5aGFGdmdzRXIyN0NkQ1ZIekF0cXRwWnNRMTRqajY1eDAyZ3dnNW4zNldNcHJ2NFdTa003MkpUQ2lmekJRWmYtUkxibWdsT1BCOU9neWN6NmQzejUwT0xyYUsxVzV2MElTVmJGLXhBRHdUT3pGQVUtbmo3NDVRdU5ZVXVma1dmY0FRU3laWDlDZlI0Q3lfa0pXSVBVUERZWEVnbFNmdGhPTXQ0Sno2U1hENlE?oc=5",
       "fuente": "Récord",
@@ -581,8 +571,7 @@
         "TUDN",
         "TUDN",
         "TUDN",
-        "TUDN",
-        "TV Azteca"
+        "TUDN"
       ]
     },
     {
@@ -669,7 +658,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "TV Azteca"
+      ]
     },
     {
       "titulo": "Atlético de San Luis vs América en la Liga MX Femenil: fecha, horario, dónde ver y estadísticas",
@@ -1034,6 +1025,16 @@
       "fechaISO": "2026-07-31T21:50:36.000Z",
       "categorias": [
         "Fichajes"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético San Luis vs. Club Tijuana - Resumen del partido",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlRIWmRIZjNfeXBhUzRTQU81U3BtR0c4TkotRVE4N28xZHQzVUpEUlFhR0FOMzh0ckNKNkhpeDNhaWlWd3IyZy1CZmloOFNHWlpBOFJGeTlKeWlvaVVjNzhkc3diX3hScll2TUhBRmNJMFdRY3FLWTE5TmY5YlZMNlJkeGN3NlNvU2R6c3VvLXRuekx3ZnR0dUlUcW44dw?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-07-31T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
       ],
       "tambienEn": []
     }

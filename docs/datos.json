@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T21:49:59.627Z",
+  "generadoISO": "2026-11-19T22:50:06.360Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,42 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "¡Óscar Macías vs. Alejandro Organista!",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcUtCR3kzd1V5SGhSQUVyNWM1SnJMa1NSUmU5NWVDNDlhX2YtbFBuUU9RemdIeU5CcW1MbnpOVW1xRUh6cG1zeEcwNVR1MC03ZFc4LVh2bjhOaWFOakVJYlFhM1U5OHhFZDFNYUlWQ0ZMdnlyOWE4Q0ZiejFHRmt6Zkw3Tk9KTWF3?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-11-19T22:13:21.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Sébastien Salles-Lamonge, el hombre a seguir en la J17",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYl9BckRSbnU5dVFiVHFvcURtUGdrbzVHRlp0Qm5GMEVwWUdjWG9JdVRPNktaTnRyaFo5WEI0LUpzUUJBZkU3a2FhZFdoNkZYeTJweDJOb2NWRWpuWUJSODNzWlVZekp6dGlYZVFYUWsxSk5wOWJIWjBpSDhpUDZRRTAwaEQ2R1pnd0xuQ0gxSTQzc3NYZmxfY1dmNWtzUEhz?oc=5",
+      "fuente": "Atlético San Luis",
+      "fechaISO": "2026-11-19T22:13:20.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis visita a Puebla en la última jornada del Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UekRCME5IUy14ZlhJNTBmMTB0Q3VxZkx3TE0zMVJaam1FM29McjZhMF9yV0l0SGtWUG9kWDJhOFBnQzgyR1JmWVFQTVR1YUpidzNzTzJXT0Flb3lyYWlVQVg5WUt1RGIwTDJEeENYR3ktaVZaNVdqTkJENzFRZjg?oc=5",
+      "fuente": "El Tiempo del Altiplano",
+      "fechaISO": "2026-11-19T21:50:04.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos"
+      ],
+      "tambienEn": [
+        "El Sol de México",
+        "TUDN",
+        "ESPN Deportes",
+        "TV Azteca"
+      ]
+    },
+    {
       "titulo": "Habilitarán transporte nocturno gratuito tras el Puebla vs Atlético San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUIyU1FnMmJyeU54WVh0aFlpdHc5NkpuZ3RvZkJUYXpvQ2ZCS0FXVmFLcXh1OWlvaGM2d01IQ1pvXzFRQkZKYWJDYV9NSThIMjdaWVA4ZTRaUmp3V3dHU3QzbmJpYllSQjBSUUczRUxibGg0RldvSnpueXlHbHFtSk5OSGFWaWpCT3JVeXp5bldETmV2aUp1TlZENXgwS1FJRlFxb0pkNFpjMWxFQkpCNVd3?oc=5",
       "fuente": "e-consulta.com",
@@ -386,6 +422,19 @@
         "General"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Puebla y Atlético de San Luis buscan cerrar con triunfo el Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWS1uRFFFcGlDNjA2c0RQOEwtc3J0QU9waHdsTHVaSlZaaV9oN1dXSTUwWXJaeHFLcjhDSUpJRm9JalZiVW1UejBwVmcxN19MZTBvTldUcFUzaWFMVkZlMDZmdjIydUlSb1h4bEgzUTJUWFhzX3lEcWgxM3VTdndnUmo3RHFZbnVzekNIdlI1elhsaHZhckpRNV9B?oc=5",
+      "fuente": "El Momento Nacional",
+      "fechaISO": "2026-11-19T16:03:07.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "Diario Cambio",
+        "El Mañana de Reynosa"
+      ]
     },
     {
       "titulo": "San Luis Potosí registra menor acceso a internet que la media nacional",
@@ -467,6 +516,16 @@
       ]
     },
     {
+      "titulo": "Club Puebla se despide del Apertura 2026 ante Atlético de San Luis con la liguilla perdida",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMTFiSTQ5OFVqLWtwR3Z4RUxMQnA4Qlp2WklrVFU1SGlQNV9KZkMyNUMxdTc4TW1qclRyMnB2c0p2U3lYVFYwdXFoaHl4U1VmaXd4YWhnNDNkbUg2NndCSnMzNWtQeDRKSTE0MU8wU0tSLXgydkRkMFBNbWlYSG9yYkZoWmhBcVo2R09IbFBYZ2dIWnUyTU9xUEgxamFjdk1yRE1wSWlqNXgzQXFxeng5bWE3YVhyZXZibzhCYzFnUWhNN0hLWVZERFc0TnpOeGtLYVdmclp3?oc=5",
+      "fuente": "Periódico Central",
+      "fechaISO": "2026-11-18T17:49:07.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "¡Elaily Hernández-Repreza convocada a la Selecta!",
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTRXOERCU3BKRDdiUUc0RVpobTdRUDA2TVBhRmNOOTRGYUdWc3BCdGQzWmc1TV81ay1ScWNTdGxyRkZ3T1VyX1VZcE1ibzdueS1ZN3lESjhINVN0RUw5emJHSEViNUtaaEtIV01uNVRIODhud3FJQ2IwXzlNLXZOWnk0Y3JQTDlrQnFaME9rc2ZwZTRFQVpIZA?oc=5",
       "fuente": "Atlético de San Luis",
@@ -485,21 +544,6 @@
         "Femenil"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Busca Atlético de San Luis cerrar con dignidad el Apertura 2026 ante Puebla",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUZRXzhoUk9LTGw5T0dabHo5UEFPNkFfLU0zcm9jTjB3OVpVQkVtTy1YSlNIYTNHYkhBejEwbXE2MGh2QWdLTmFwZlA0ZDFtTC1PaVlXNFJva0c2dlRfQUNhWllnclRXNUN6Z19uOVFLSDgyeEwxdUFRdXRaZllPdmVyS1RZeGF0Yk9zd3RJaEtrTFBqbXM0TU9GNjRIdl9JMjhUaFhzNEI1X1lnRmV2RWFILVhMaXd6T29WYkM0aExHeldkZVE?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-11-18T01:52:57.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "El Momento Yucatán",
-        "Periódico Central",
-        "Diario Cambio",
-        "El Mañana de Reynosa"
-      ]
     },
     {
       "titulo": "Club Puebla buscará romper seis años sin vencer a San Luis en el Cuauhtémoc en su último juego de 2026",
@@ -668,10 +712,10 @@
       "tambienEn": []
     },
     {
-      "titulo": "Así puedes ver el partido Atlético de San Luis vs. Atlas, Jornada 15, Torneo Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV05rOXFMb1FtUERVdVNQY05YamtNVTJqdVA2SWVnTVFXODBweWhnbTA0WlpTMnR6Q2hyWlhJUHV5b0QtM1daTzNWNFhPNElMSFJQZFpXRFJZc2EyN1duUGZYTDM1d1Z0ZVdDdkU1Ukh3Y1NFdlVFWGkxcWJtUkhnUDkyYVRHVWZvZ2VRWHJqVFkxM1FjbUNRRy1rc3hIY1RNTTRBXzc4Zm5nQVZZYkpZWEtHQ0ljdmIxTVQ3ajZ1aFhyc2UwNHktOWN1WlVXMEZvMVdGQQ?oc=5",
+      "titulo": "EN VIVO | Atlético San Luis vs. Atlas - Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXktQ3gtaFpNdHIzR210QmNYSm1Ia3JRZW16d1dVdU55TnlOc0JBZHlWYTZVMllSeFdrWVNyT096MDRiNGNyTjRsNUsyVWZVNXFiSF9kZWV6YnlfWUJLel96Y2RuakFwWlQwaUE2NGdlc29YV3F6ZlNaajV1cHFxLVp1LW5TU2xDVlVzeA?oc=5",
       "fuente": "TUDN",
-      "fechaISO": "2026-10-27T07:00:00.000Z",
+      "fechaISO": "2026-10-30T07:00:00.000Z",
       "categorias": [
         "Partidos"
       ],
@@ -756,24 +800,6 @@
         "Femenil"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "¿Cuándo juega el Atlético de San Luis en el Apertura 2026?",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjEyUXktVGlTYTd1RHBMWkJRdG1mdzM5Zk9UenRYcVlTSko1V3JfSnc0LXNjM3UtVDI5bjR4LThCVVVYdTZNeUo5V3c5NDFOSTdLLV9ia1lrdlhoMUF5MlBoMVczbGx5elN6NHJSVnNGUGo0RUFJWGtVMFlWQVpZUG95THc0UU4tNnNVUE1Bck5IOXFNcHU1a2tuYy1RbnY2UVpVVk1ubXdOU0JUOTNUdzhqMkVpczYwNkRlRXRTZFpzZVMtVWc?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-09-28T07:00:00.000Z",
-      "categorias": [
-        "Partidos",
-        "Cantera",
-        "Escuela",
-        "Fichajes"
-      ],
-      "tambienEn": [
-        "TUDN",
-        "TUDN",
-        "TUDN",
-        "El Sol de México"
-      ]
     },
     {
       "titulo": "La Previa SportiumBet Tigres Femenil vs. Atlético de San Luis Femenil",
@@ -970,7 +996,9 @@
         "Cantera",
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "TUDN"
+      ]
     },
     {
       "titulo": "América golea a Atlético de San Luis con todo y rotaciones",
@@ -1003,58 +1031,9 @@
       "tambienEn": [
         "TV Azteca"
       ]
-    },
-    {
-      "titulo": "Atlético de San Luis Femenil y Toluca disputarían su partido este lunes tras suspensión por la lluvia",
-      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGo3RFROY3hMcE0tbGJ5Vk5jWFNLNVI5bTFWWDhKQU5YNVU2UWJHZVNqQndsZ0xjd0FLNTZmRzM3eDZjNEVsX0J4Zk9ldFJLb3g1Y0dQUnNnV3hSMUtsOElfQ2wyeV83SlA5bkdBaXhJbWlfUWtqLW5PQXBZQm1lQlZvTW1qcnV4VW1FY09CNzYyZzNQZ2JNdVJnVXBUZlhlbXZveWRRSHVQOWhkemF0UzlvWnZDZ1RrVTFtM2FreUx0Rm5XSWNnd2gyUWxWel9DaGhlUDNxQzRaVmdYMzdEc1dZcExNZmJiSFYtSg?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-08-02T07:00:00.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¿Sin partido? Actividad eléctrica retrasa el debut de Atlético de San Luis Femenil ante Toluca",
-      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUDFHODJxUlVGQXdDSmtPVG91OVJjd2pPOFJqRm9QMk4wdG1ieU9WbFRKTEpyUFZwZS1vMzVncEktSmxqbk4xYWFSdE9Qb1ZSTFZxM0t4TUtZdjU5RTRHb0ROVGZHUGVkTkxzcTk3dDZkR1ZiRTVIcFVITDRlb3NCYzR4a2M5bTVVcnFmcHNzNTF4UjRoQ3dFckZ1ZWU2VkQtZUVYMFBQd29uV0h2b1E1M2VXMjI5RUlqX3BrTnBqRkFSWTJEamRwVkJZWGdmcHM4eURzSGRqMW9JWkZ1N3JQXw?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-08-02T07:00:00.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis vs Toluca femenil se reprograma para el 3 de agosto por lluvia",
-      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWc2bTBNX3V6aThxYkJDNFdUcVhGZ2tLaGc5dFlOVW5kc3RqVEFDWVhSSjIxRExZM3lpb3ZtbUZDTVBLam5SSEJ4UjlxMlN5dnJndV9tU3lHaVRkbFN2c0NYREN5REl1YXpQeFFZUXVNZGhfQkhjQS03ZkJBZVFzNk9YTlZUaVplcFY2UEMzV05YVUw0TVdERjdjb1N4VVU0ajFYOTlCQ3M2SFdOQlFDdmJ3VGR6Q1hQMWVFM3ZFWVVOcm5LQkN4em1MZnBLZW03?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-08-02T07:00:00.000Z",
-      "categorias": [
-        "Femenil",
-        "Partidos"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
-    {
-      "titulo": "¿Cuándo juega el Atlético de San Luis en el Apertura 2026?",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjEyUXktVGlTYTd1RHBMWkJRdG1mdzM5Zk9UenRYcVlTSko1V3JfSnc0LXNjM3UtVDI5bjR4LThCVVVYdTZNeUo5V3c5NDFOSTdLLV9ia1lrdlhoMUF5MlBoMVczbGx5elN6NHJSVnNGUGo0RUFJWGtVMFlWQVpZUG95THc0UU4tNnNVUE1Bck5IOXFNcHU1a2tuYy1RbnY2UVpVVk1ubXdOU0JUOTNUdzhqMkVpczYwNkRlRXRTZFpzZVMtVWc?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-09-28T07:00:00.000Z",
-      "categorias": [
-        "Partidos",
-        "Cantera",
-        "Escuela",
-        "Fichajes"
-      ],
-      "tambienEn": [
-        "TUDN",
-        "TUDN",
-        "TUDN",
-        "El Sol de México"
-      ]
-    },
     {
       "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
@@ -1081,6 +1060,18 @@
       "tambienEn": []
     },
     {
+      "titulo": "Copa Escuelas Atlético de San Luis 2026; ¿cuándo y dónde se va a jugar?",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklHcTMzZWJ2bWF2WkRDSHNjcVdTUngxMm9ES3FqMndYbFkzTS1WaXJIMjgtT2F6TTk4NXRsSm1KNW1RRDE2T0pjcmNEMmg3TmlxaXZVck5NNXFNWmN6ZTJKZVRYWFNSUWZvWnFVVGFMWXZFN0ktYnZCNlFrM2tVaUJ4Y1RsX2pOZC00MjBJRm51X2Vjb3lUenBRUndKZmFDV3U1emR3SU9HQl9POGhSa0pvRlFxeVByVHYySw?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-07-21T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Escuela",
+        "Fichajes"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "La segunda edición de la Copa Escuelas Oficiales ADSL está lista para arrancar",
       "enlace": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBjYWNHeDhvQldPb29MUkQteHF0SzUyVmFhRTJXRnRDc3hoSWVOMko1VFFJcDhDcGIxamNfd19WbUVTTXZ2Rkd6SUxaS3dCTXBGOXdScWQ2U21uaFJ1T2ZHNDNaclQzXzl2d0JnVjh6c2huekZvZDJaa3NSbFo0c0pxUW9hZ2FTNjg2eGxhSk44dWFpeHBuUUFPOUJ5N0FZaHFjZU4wU090VHVjZWI3RXRUaHNJajFuMllsUHBzRnU?oc=5",
       "fuente": "Atlético San Luis",
@@ -1095,6 +1086,14 @@
   "comunidadTexto": "Clases, visorías y torneos para niñas, niños y jóvenes del club. Las convocatorias se publican en las cuentas oficiales.",
   "comunidadTitulo": "Escuela y comunidad",
   "videos": [
+    {
+      "id": "RnxiSwTYut0",
+      "titulo": "Listos para enfrentar al Club Puebla | Entrenamiento | AP26",
+      "enlace": "https://www.youtube.com/watch?v=RnxiSwTYut0",
+      "miniatura": "https://i.ytimg.com/vi/RnxiSwTYut0/hqdefault.jpg",
+      "publicadoISO": "2026-11-19T22:25:03.000Z",
+      "categoria": "Entrenamiento"
+    },
     {
       "id": "ISgK4KH8SH8",
       "titulo": "LA BANDA DEL SAN LUIS #10 | REBECA CONTRERAS",
@@ -1126,14 +1125,6 @@
       "miniatura": "https://i.ytimg.com/vi/Ja0sCyhX_IY/hqdefault.jpg",
       "publicadoISO": "2026-11-16T22:46:41.000Z",
       "categoria": "Entrenamiento"
-    },
-    {
-      "id": "6elvhAmUX18",
-      "titulo": "¡Miércoles! 🔛 | Entrenamiento | AP26",
-      "enlace": "https://www.youtube.com/watch?v=6elvhAmUX18",
-      "miniatura": "https://i.ytimg.com/vi/6elvhAmUX18/hqdefault.jpg",
-      "publicadoISO": "2026-11-12T01:20:48.000Z",
-      "categoria": "Entrenamiento"
     }
   ],
   "redes": [
@@ -1154,7 +1145,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 26,
+  "totalFuentes": 29,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

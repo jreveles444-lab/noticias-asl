@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T15:49:16.295Z",
+  "generadoISO": "2026-11-19T16:49:23.649Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "San Luis Potosí registra menor acceso a internet que la media nacional",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRTd5LXVlRjBQV2FSSEctdk1MeWJpMWxzbDdOUFhOTzNrWG9CZE9PbFd2V2ZOWDNpM1ZVUktPNDhyZHJoTFVLRWotLXpGZFFWc183d0VPUFlkd1ZJaDZIT3dCT1VSQmlyenhYWWVicEllSHRzSzlLU3hXUTR6S0dNYnU1aTMyNGlJSmhfaEk0eG5SUE9aQjdpWkNTSmQxNXBTeXBtaDY4SUI3T0twalE?oc=5",
+      "fuente": "Potosinoticias.com",
+      "fechaISO": "2026-11-19T15:29:21.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Puebla vs Atlético de San Luis de puro trámite",
       "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGNLMm41Y2pUaFdBU3g4N3h2emJaMjlTUXFUbzRQdV9vRWVtdHotMTU0ZWx3Y1E0SV8zb0NzaDRVQTZ4bVdHMDM0QWNuUm5aRXU3TTZPZER2c3ZkbnA1SkgyMVRCak0xRS02MGNhQzMzZUVEZFhlNk5GREk4a2JGLTdHZzV0TldWczRqdWd3?oc=5",
       "fuente": "Potosinoticias.com",
@@ -355,6 +365,16 @@
       "tambienEn": [
         "rcdm.es"
       ]
+    },
+    {
+      "titulo": "Puebla-ADSL no se disputan nada",
+      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQalFMdk81d1poMG1URXJFTjlld0lIUURCZmczRTJoYkN3UFRlaU9Yd3JYYlRSZl9iMTdaeW1UZEhIcXRfdncwRkV6Yk1CcndxXzF1MG14WHk3ZWxTRXZhUjFXYU5ta2h6SktFMkNnX2xiT0NzXzd0QkZRc1oxLTFEblN6ZTfSAYoBQVVfeXFMUGRUOUdnbXdxUi1qSEprZFdaTHNCLU9TUjFWamZodnAxdmRHdE9iM2p4dVNCbkd3QVQtT0daNDF2WE11NDRjeVhpbFJxWjRpTWZLS0Y3dVB0WjlJMEFLSVBPckstVkRGeFNZR2VOcWJUNHdlSEFhMWJBYWJONXVQWTBJUmtfdUZVU0J3?oc=5",
+      "fuente": "Pulso Diario San Luis",
+      "fechaISO": "2026-11-19T14:32:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "7ª Carrera Atlética de El Sol de San Luis: ¿por qué es una de las competencias más esperadas?",
@@ -441,7 +461,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Momento Nacional"
+      ]
     },
     {
       "titulo": "¡Elaily Hernández-Repreza convocada a la Selecta!",
@@ -506,16 +528,6 @@
       "tambienEn": [
         "rcdm.es"
       ]
-    },
-    {
-      "titulo": "¡El 'Niño' le dijo NO a la Liga MX! Fernando Torres rechaza al Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZXlDNjA1SGhYckJNZXdjYi1ZQmdDZVkwLVlXaUEwQ2wzd1g4bnVsMmpMRlhpS25tYndBdTgxY0VaNlhCT0F3a1VqTEdfTFBlejJ2YnNIODBwbFJlQTJsSk5HMXp2U3pBTUd2TkUzYS14T1dhQ2RYWWRwbU5acmpZdnU5dzBidXJGUUhMU1MtMUdxcGdiYS04LXlMMDdod3RZVWFoUU9Xd01wQW10QTVmSTFmU2s2a2ZEQm02UlRVbVZNN2R6dzR6LUk0ZHMxZw?oc=5",
-      "fuente": "Soy Futbol",
-      "fechaISO": "2026-11-13T16:35:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "¡Desde 50 pesos! Club Puebla baja costos de boletos para partido ante San Luis en cierre de Apertura 2026",
@@ -597,23 +609,11 @@
         "Soy Referee",
         "Mediotiempo",
         "TUDN",
-        "Vox Populi",
         "TUDN",
+        "Vox Populi",
         "TUDN",
         "El Heraldo de México",
         "El Informador"
-      ]
-    },
-    {
-      "titulo": "Atlético de San Luis vs Atlas: alineaciones y probabilidades",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDN4Qlo5S0dvcUxja3BOWFRadElVTWQxQ2kya2dsdjF2aG5jWFY4NHpYV0RIcUNEYWltNEhIcXctQzc3NmhtUVNEdGVPUV9aekJPVHNBLVA5MXVHRVZfeWxRQW4weGxQVEhOam9pdHhYVmRmN2IyOVNjcE1QelJtQXI3N25JMnN6WXp1dnlzdEp4aTFpNkN0UGhnQmhKXy1XOHptUHlCcUNPTGtzQjdranZhdk5PRUU?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-10-30T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "ESPN Argentina"
       ]
     },
     {
@@ -626,6 +626,19 @@
       ],
       "tambienEn": [
         "El Informador"
+      ]
+    },
+    {
+      "titulo": "Atlético de San Luis vs Atlas: alineaciones y probabilidades",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDN4Qlo5S0dvcUxja3BOWFRadElVTWQxQ2kya2dsdjF2aG5jWFY4NHpYV0RIcUNEYWltNEhIcXctQzc3NmhtUVNEdGVPUV9aekJPVHNBLVA5MXVHRVZfeWxRQW4weGxQVEhOam9pdHhYVmRmN2IyOVNjcE1QelJtQXI3N25JMnN6WXp1dnlzdEp4aTFpNkN0UGhnQmhKXy1XOHptUHlCcUNPTGtzQjdranZhdk5PRUU?oc=5",
+      "fuente": "ESPN Deportes",
+      "fechaISO": "2026-10-30T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "ESPN Argentina",
+        "Oddschecker"
       ]
     },
     {
@@ -758,6 +771,18 @@
       "tambienEn": []
     },
     {
+      "titulo": "Pumas vs. Atlético San Luis. Resumen y resultado del partido de la J10 Liga MX 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDJxT1hVRXFjWmthalByMloxOFY4NW1wakVaQWplRXA0WUIzdGU4REVDRS1BOVFhMGZ3LVBCeW1UbThmTC1nOEVzSlNESXc1LUFIcC0tRzVkODdkTWEzb3B6VF96MWFDVFBTRXdpUngySlFHOFRobFVrb0xFNGxuR2d1RWR3XzFzTzRXWFU1OVZOenZ2UUVMQWFvaFRQNDRZOVBQU2NXb3hRczZlNGtGajlmMzJYMkpkZXp4N0RmNjRISFVFSTlKdnh30gHKAUFVX3lxTE5nS012WEN4UnJFbFFiWGpXSHZIam96bVUtTFZGUHNYdkFuX3k0UGRaWWxjelFqZlA1N1pteWhrRjlLMlBIbk1JXzEzVm16QTk4ZGxMMHo1M3M4Vlo3NUZ3b0pNSTFncnBCblNzSXNoYUVTSUk4aU1EMlpYOWltX0xuT0hNTW52LVpCYTBSQk9obHRCdndEQlFxbmo0eE9KaVFQcmZQUnI0MnZkTm5rcmhoTG1vWTF6RlVQTV82Yjc5VzV3b3JlTVFKY1E?oc=5",
+      "fuente": "Mediotiempo",
+      "fechaISO": "2026-09-27T14:22:44.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "TUDN"
+      ]
+    },
+    {
       "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
       "fuente": "El Sol de México",
@@ -782,35 +807,11 @@
       "tambienEn": []
     },
     {
-      "titulo": "León vs. Atlético San Luis. Resumen y resultado del partido de la J8 Liga MX ONLINE 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNenlmeWVaU2ZlOEdJVE9JWjBOMnRTVnJUSHk0VV8zajlSTFVOUnZtdC1tUks5S0VpMC1uNDZIZl9qMEJ0Ym1WdTVyRDIzNDkzYUlmMnVqQTUwOERwbDFoSV9maDFjZmVwdm94cGR0cW5BZVhnWmtLOGtaRmxYbnA4SUhnRk9qY2xfQXFXVmpIWjBQWlpCYWE1cEZnWUxCQnA5NlUtQUt6Y1RtUVFKcUo4NzZxWjREd25MRWU3atIBvAFBVV95cUxNbmVlWlMzenFHMF91N3RYX3ljblcwMGEycXV2SXlMdFRLbW9zc01NaXR1QWRqd3hvUi03MW5rMU1QN1l2ZUlIRXctZGJtWXlHalR5S21TMW5FYVlQNkpkNWgxVUk5NEdwSU14ZzBLQzFxSk5pU2l2Z3g1T0JhQzlyMl96UXJwYi1KSlRTd1puS1pDVGZYWHdPQU91d0x0RERxTWZzMVh4RW1GMHY4X3VTRGdXRnlsTlNlQ1F0eA?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-09-14T14:09:01.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Milenio",
-        "TUDN"
-      ]
-    },
-    {
       "titulo": "Resumen | León vs. Atlético San Luis: Doblete de Cambindo y victoria de la Fiera",
       "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1FGQk1UTE5JMWJIeXRpSzBieGo0LTRHc3FqR2E3S2lCME5MNlFpMS1FNnZFbDNxcVd4UTNCNmxIQnhWaVVMUUl4UFBSR2dDNUdpUDVsUWpDWEJMbFM3REVoRGNfdjhmRk5sTnJwTG01aEMxdDVCZXlicnY3RUJucHVQMGhaclQyMjNXM09yTGdyQ2pZMXEwWF9JQU5OTGNxcWU4RzVreUNXM3RNelBwelBWbHVhbEh3V0E?oc=5",
       "fuente": "TUDN",
       "fechaISO": "2026-09-14T07:00:00.000Z",
       "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Fuerzas Básicas del Atlético de San Luis también sufren derrotas - El Sol de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlBkRkY4aUlSNlN4a0FUT0hiUV9KbVJ5bjVHemM4N3YzSHJIWUtzZ0ZVOTZ2SmoyM0pEbEd3TF96eEljNjZkWWlXbzJVX0JkOGYxaHVYVmkxS3JzWWMtVzFWNEhEeVVVaV83dHBrNHo2dzF4dzFzYm1IVVdrU1ZhaEViYmVJd2RiYVBMZlJFZ3h5Uzh6NnAxcEZ4Qk5BRTFfZlM2U2I4Rjd6X0NvTG1YMWFsODFVZmc?oc=5",
-      "fuente": "El Sol de México",
-      "fechaISO": "2026-09-08T07:00:00.000Z",
-      "categorias": [
-        "Cantera",
         "Partidos"
       ],
       "tambienEn": []
@@ -1147,7 +1148,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 27,
+  "totalFuentes": 26,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

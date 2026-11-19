@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T20:49:52.625Z",
+  "generadoISO": "2026-11-19T21:49:59.627Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -378,6 +378,16 @@
       "tambienEn": []
     },
     {
+      "titulo": "7ª Carrera Atlética de El Sol de San Luis: ¿por qué es una de las competencias más esperadas?",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVFOZlE4WkhMa0h5V1RGb0FGbVM2d2M2VDA3ajRrU1ExQjFhcUJRNkdMVVVMb3ZYNm1PRkJwWk5PS2tLbkJSNnJPaEF3S0QxeTNEeERUbkFQLXFFdU0tQzRrcVk2bFRBR05DcU9jelB4X3E0Vk9YTGtVOXlIRTJ5YjJoSjJMbDJHejZ1TjdiSTRNeFhZaGdaTEdwdTRSWE1RUHlkRF9Db2d5UTh6Q1g4TTZKaGFRTjVaVFVKMy16R2pMQTVRN2h1WTI5UGV4QXozbDJhNHYxczU2UQ?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-19T17:35:28.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "San Luis Potosí registra menor acceso a internet que la media nacional",
       "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRTd5LXVlRjBQV2FSSEctdk1MeWJpMWxzbDdOUFhOTzNrWG9CZE9PbFd2V2ZOWDNpM1ZVUktPNDhyZHJoTFVLRWotLXpGZFFWc183d0VPUFlkd1ZJaDZIT3dCT1VSQmlyenhYWWVicEllSHRzSzlLU3hXUTR6S0dNYnU1aTMyNGlJSmhfaEk0eG5SUE9aQjdpWkNTSmQxNXBTeXBtaDY4SUI3T0twalE?oc=5",
       "fuente": "Potosinoticias.com",
@@ -457,30 +467,6 @@
       ]
     },
     {
-      "titulo": "Club Puebla se despide del Apertura 2026 ante Atlético de San Luis con la liguilla perdida",
-      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMTFiSTQ5OFVqLWtwR3Z4RUxMQnA4Qlp2WklrVFU1SGlQNV9KZkMyNUMxdTc4TW1qclRyMnB2c0p2U3lYVFYwdXFoaHl4U1VmaXd4YWhnNDNkbUg2NndCSnMzNWtQeDRKSTE0MU8wU0tSLXgydkRkMFBNbWlYSG9yYkZoWmhBcVo2R09IbFBYZ2dIWnUyTU9xUEgxamFjdk1yRE1wSWlqNXgzQXFxeng5bWE3YVhyZXZibzhCYzFnUWhNN0hLWVZERFc0TnpOeGtLYVdmclp3?oc=5",
-      "fuente": "Periódico Central",
-      "fechaISO": "2026-11-18T17:49:07.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Club Puebla busca cerrar el Apertura 2026 con triunfo ante San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0F3NFRZbFJPUm91MFJ5dUNQai1DRjJvNVo0VnpOYTBWeWRlZmRUaEE2MV9yLUt0eHF3R1JQalNYZWg0MHJ5NEFTX21pSmtvWExpX1NTZHBiUVVkTUFicGdjUmpkd3lzZ01TNlUwMjRMTV9Ga21lV1otM3JWNlFheW5pWUJNZThtOHJZblhyYzE3c0p0MUE?oc=5",
-      "fuente": "Diario Cambio",
-      "fechaISO": "2026-11-18T17:05:19.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": [
-        "El Sol de México",
-        "El Momento Quintana Roo |",
-        "El Mañana de Reynosa"
-      ]
-    },
-    {
       "titulo": "¡Elaily Hernández-Repreza convocada a la Selecta!",
       "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTRXOERCU3BKRDdiUUc0RVpobTdRUDA2TVBhRmNOOTRGYUdWc3BCdGQzWmc1TV81ay1ScWNTdGxyRkZ3T1VyX1VZcE1ibzdueS1ZN3lESjhINVN0RUw5emJHSEViNUtaaEtIV01uNVRIODhud3FJQ2IwXzlNLXZOWnk0Y3JQTDlrQnFaME9rc2ZwZTRFQVpIZA?oc=5",
       "fuente": "Atlético de San Luis",
@@ -499,6 +485,21 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Busca Atlético de San Luis cerrar con dignidad el Apertura 2026 ante Puebla",
+      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUZRXzhoUk9LTGw5T0dabHo5UEFPNkFfLU0zcm9jTjB3OVpVQkVtTy1YSlNIYTNHYkhBejEwbXE2MGh2QWdLTmFwZlA0ZDFtTC1PaVlXNFJva0c2dlRfQUNhWllnclRXNUN6Z19uOVFLSDgyeEwxdUFRdXRaZllPdmVyS1RZeGF0Yk9zd3RJaEtrTFBqbXM0TU9GNjRIdl9JMjhUaFhzNEI1X1lnRmV2RWFILVhMaXd6T29WYkM0aExHeldkZVE?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-18T01:52:57.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": [
+        "El Momento Yucatán",
+        "Periódico Central",
+        "Diario Cambio",
+        "El Mañana de Reynosa"
+      ]
     },
     {
       "titulo": "Club Puebla buscará romper seis años sin vencer a San Luis en el Cuauhtémoc en su último juego de 2026",
@@ -1153,7 +1154,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 27,
+  "totalFuentes": 26,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

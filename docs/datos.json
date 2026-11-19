@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T07:48:18.456Z",
+  "generadoISO": "2026-11-19T08:48:25.264Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -652,22 +652,22 @@
       "tambienEn": []
     },
     {
-      "titulo": "Atlético San Luis vs. Querétaro - Resumen del partido",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm5pR0xRSHd1dzh3RXR1Z216bTQ0TnJFVVNZaVNLT09TRWNtYTF1VHF2M2stY3Rrai1WakU5UW5fMFVrRTB3M05tRTgyOGY0aXVXWDNMTmNGVFBna1RBQVJhdzNxcXYzWkZZT2pYbzBJQTBxamU3QWFrV0x5UXJheGo0ekx6TEVueWlMLV9VNFpaNnhDbGlGVjN3?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-21T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "Felipe Mora cortó mala racha con Atlético San Luis a costa de Querétaro",
       "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSzhOeFJoNG1GYTZzOXNkZThuaVZfUHhlSk8tQUVxczdINEo5VS1zMTBGckpmTHZhMjBuOEI5amZSeHptUXZ6RWxrandsOXh0YlU1US1HNHZiYmJidDNKWFBpRjdydVRUX01HWE51ajhkUlc2MGk2OElZZEFWVTM4U25ZNExxb1Y5RWE1MF9oVnViR3gwaHF0cG5HRlJQelBfMlVLbEctTzlRNXlpY3c3TVFTaVdQVlFQUVFnM2cyYXVTdVpXWWhJakdiV2FyTGJkUXMwNHVvYWZRaC05eTlUdGdNYmxUVURoX19DYTluWU84RFU?oc=5",
       "fuente": "ESPN Deportes",
       "fechaISO": "2026-10-21T07:00:00.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Atlético San Luis vs. Querétaro - Resumen del partido",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm5pR0xRSHd1dzh3RXR1Z216bTQ0TnJFVVNZaVNLT09TRWNtYTF1VHF2M2stY3Rrai1WakU5UW5fMFVrRTB3M05tRTgyOGY0aXVXWDNMTmNGVFBna1RBQVJhdzNxcXYzWkZZT2pYbzBJQTBxamU3QWFrV0x5UXJheGo0ekx6TEVueWlMLV9VNFpaNnhDbGlGVjN3?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-10-20T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
       ],
       "tambienEn": []
     },
@@ -734,6 +734,7 @@
         "Fichajes"
       ],
       "tambienEn": [
+        "TUDN",
         "TUDN",
         "TUDN",
         "El Sol de México"
@@ -930,9 +931,7 @@
         "Cantera",
         "Partidos"
       ],
-      "tambienEn": [
-        "TUDN"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "América golea a Atlético de San Luis con todo y rotaciones",
@@ -1051,6 +1050,7 @@
         "Fichajes"
       ],
       "tambienEn": [
+        "TUDN",
         "TUDN",
         "TUDN",
         "El Sol de México"

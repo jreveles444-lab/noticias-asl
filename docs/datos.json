@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T05:48:04.394Z",
+  "generadoISO": "2026-11-19T06:48:11.822Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -344,6 +344,16 @@
   "temporada": "2026 Torneo Apertura",
   "fuenteDatos": "ESPN",
   "noticias": [
+    {
+      "titulo": "7ª Carrera Atlética de El Sol de San Luis: ¿por qué es una de las competencias más esperadas?",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVFOZlE4WkhMa0h5V1RGb0FGbVM2d2M2VDA3ajRrU1ExQjFhcUJRNkdMVVVMb3ZYNm1PRkJwWk5PS2tLbkJSNnJPaEF3S0QxeTNEeERUbkFQLXFFdU0tQzRrcVk2bFRBR05DcU9jelB4X3E0Vk9YTGtVOXlIRTJ5YjJoSjJMbDJHejZ1TjdiSTRNeFhZaGdaTEdwdTRSWE1RUHlkRF9Db2d5UTh6Q1g4TTZKaGFRTjVaVFVKMy16R2pMQTVRN2h1WTI5UGV4QXozbDJhNHYxczU2UQ?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-11-19T06:11:15.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
     {
       "titulo": "Pronóstico Puebla San Luís - Liga MX 20/11/26",
       "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0telJrNzlaMWJqTFF0Z2NMYVdlRDZZNFFYeUJsRFBseTZUdzRtMWVXaHNtaWRTNTNTUXNoN2lPSlpXVHNuMzUteWRiNDV2Q1o0by1vOHIwaUg0aEtUUndzWXhDRTNOOTJRZkdOS0MzUzdJaEtqRGc?oc=5",
@@ -717,6 +727,7 @@
       "tambienEn": [
         "TUDN",
         "TUDN",
+        "TUDN",
         "ESPN Deportes",
         "El Sol de México"
       ]
@@ -923,9 +934,7 @@
         "Cantera",
         "Partidos"
       ],
-      "tambienEn": [
-        "TUDN"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "América golea a Atlético de San Luis con todo y rotaciones",
@@ -1029,16 +1038,6 @@
         "Fichajes"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "¡Rueda el balón en San Luis Potosí! El Atlético recibe a Tijuana",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGV1RmZhaGZ4eWplVG1qcUQzRExQZ1pnMnZCVmNzd2xibGVvYWFaNVJ4bjlRTk9kUUtFVnFsYzl5S29GdHVBUHd0SllTWDVZOGpTa0xwN01jdDVkcHkydTQ0ZGFocEgxaE1TZTZydzVxdThVLVpiVEFwcVpwVW9TVkhjWkx5OVFJ?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-07-31T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1054,6 +1053,7 @@
         "Fichajes"
       ],
       "tambienEn": [
+        "TUDN",
         "TUDN",
         "TUDN",
         "ESPN Deportes",

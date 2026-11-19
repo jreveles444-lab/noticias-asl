@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T18:49:36.974Z",
+  "generadoISO": "2026-11-19T19:49:44.627Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,16 +345,24 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
-      "titulo": "Puebla y Atlético de San Luis buscan cerrar con triunfo el Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeklyR3FBemFERjlzb2psYU54b084QTZuZk05ZEZINmhWejJDMlJkeXJnX3BoRVdJSFVhQ2F6SFFZczJqOTF1bnlJY05DRHFWWExRUmxIY0VqWk92bXNOT2NzaW9hM05JcXBYVTRPWEFTT285VzhHY3JhT014SXVjLWRLaU5ydVhwcVVxZVNBWTBPcE9ORlg4Vzgxb1UtTUE?oc=5",
-      "fuente": "El Momento Quintana Roo |",
-      "fechaISO": "2026-11-19T16:04:41.000Z",
+      "titulo": "Prepárate aficionado: estas son las cinco rutas nocturnas para regresar a casa tras el Club Puebla vs San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR1JBWmJNLXNDQU0xQktwMDlwc1NaaDQ2OHlOaUV5ZXdyUDUxWElCZmVJLUpWWENOVFFPeHRoWGhUMTZXeGRjTGNPOU14TXlVVGJLYlkyV254QXRZSFBQM3BQN0dWYTNfQ3l6U0ZMbEdTSzNCYWlIUko2YTEwUUhQY0UteEx5Wml2aEozQ2pGSVROb1JTejk5SGVfZzBZS0t5WUE4OXp0N0dnSzdRQXpaVnZTRWVrX0lDeGxjRkpTNTFySTZGOXg2RFVaczVtam5LdUx1R3hFajc1UmRlcVhNVkhSTUJsUFNpVVF0LQ?oc=5",
+      "fuente": "Diario Cambio",
+      "fechaISO": "2026-11-19T19:38:10.000Z",
       "categorias": [
-        "General"
+        "Partidos"
       ],
-      "tambienEn": [
-        "Diario Cambio"
-      ]
+      "tambienEn": []
+    },
+    {
+      "titulo": "Club Puebla, por victoria ante San Luis en cierre del Torneo Apertura 2026: Íker Moreno",
+      "enlace": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2t6SkJnMm5VSjZoUEhtRjRldUtRRGtNV3puRFlKcFplaW1TcldRaVB2Q0k2aEJFSWY2TjZQSnN5cXg2aXB6dUNwQnRfUTZKdXBqTjcxa1gzUERyMTVXbWJ5ekZEWGFxMzdoOENqOEQzZWJQRzNvOEpGczZIN1VMejZnaVFRQmh5dW9vNXdsbWx1b09nbXA40gGXAUFVX3lxTE5UbExPeFlJTlFzMVN0Qi1qUXpBc3QxcjljZUFjSUpvUk1UckZIMFJfdmlmbDAwcVN6U1VLdHh5V3RwM2steE81V1NxMFd1ZzA2VkRFSTk3VWY0RzBXMkRKR3VRMVNlYTBJWVQ5bGhmSFduUFFreXhSbTBiU3hZaVpJTlg0WXBfaVVzNF80OEJZLVdwekFNdHM?oc=5",
+      "fuente": "MILENIO",
+      "fechaISO": "2026-11-19T19:28:26.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "San Luis Potosí registra menor acceso a internet que la media nacional",
@@ -431,7 +439,9 @@
       "categorias": [
         "Femenil"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "atiemponoticias.mx"
+      ]
     },
     {
       "titulo": "Club Puebla se despide del Apertura 2026 ante Atlético de San Luis con la liguilla perdida",
@@ -441,8 +451,20 @@
       "categorias": [
         "General"
       ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Club Puebla busca cerrar el Apertura 2026 con triunfo ante San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0F3NFRZbFJPUm91MFJ5dUNQai1DRjJvNVo0VnpOYTBWeWRlZmRUaEE2MV9yLUt0eHF3R1JQalNYZWg0MHJ5NEFTX21pSmtvWExpX1NTZHBiUVVkTUFicGdjUmpkd3lzZ01TNlUwMjRMTV9Ga21lV1otM3JWNlFheW5pWUJNZThtOHJZblhyYzE3c0p0MUE?oc=5",
+      "fuente": "Diario Cambio",
+      "fechaISO": "2026-11-18T17:05:19.000Z",
+      "categorias": [
+        "General"
+      ],
       "tambienEn": [
-        "El Sol de México"
+        "El Sol de México",
+        "El Momento Quintana Roo |",
+        "El Mañana de Reynosa"
       ]
     },
     {
@@ -587,12 +609,12 @@
         "Mediotiempo",
         "El Heraldo de México",
         "Soy Referee",
-        "Mediotiempo",
         "TUDN",
         "TUDN",
         "Vox Populi",
         "TUDN",
         "El Heraldo de México",
+        "Mediotiempo",
         "El Informador"
       ]
     },
@@ -733,7 +755,6 @@
         "Fichajes"
       ],
       "tambienEn": [
-        "El Mañana de Reynosa",
         "TUDN",
         "TUDN",
         "TUDN",
@@ -750,18 +771,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Pumas vs. Atlético San Luis. Resumen y resultado del partido de la J10 Liga MX 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDJxT1hVRXFjWmthalByMloxOFY4NW1wakVaQWplRXA0WUIzdGU4REVDRS1BOVFhMGZ3LVBCeW1UbThmTC1nOEVzSlNESXc1LUFIcC0tRzVkODdkTWEzb3B6VF96MWFDVFBTRXdpUngySlFHOFRobFVrb0xFNGxuR2d1RWR3XzFzTzRXWFU1OVZOenZ2UUVMQWFvaFRQNDRZOVBQU2NXb3hRczZlNGtGajlmMzJYMkpkZXp4N0RmNjRISFVFSTlKdnh30gHKAUFVX3lxTE5nS012WEN4UnJFbFFiWGpXSHZIam96bVUtTFZGUHNYdkFuX3k0UGRaWWxjelFqZlA1N1pteWhrRjlLMlBIbk1JXzEzVm16QTk4ZGxMMHo1M3M4Vlo3NUZ3b0pNSTFncnBCblNzSXNoYUVTSUk4aU1EMlpYOWltX0xuT0hNTW52LVpCYTBSQk9obHRCdndEQlFxbmo0eE9KaVFQcmZQUnI0MnZkTm5rcmhoTG1vWTF6RlVQTV82Yjc5VzV3b3JlTVFKY1E?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-09-27T14:22:44.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "TUDN"
-      ]
     },
     {
       "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
@@ -786,6 +795,18 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "León vs. Atlético San Luis. Resumen y resultado del partido de la J8 Liga MX ONLINE 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNenlmeWVaU2ZlOEdJVE9JWjBOMnRTVnJUSHk0VV8zajlSTFVOUnZtdC1tUks5S0VpMC1uNDZIZl9qMEJ0Ym1WdTVyRDIzNDkzYUlmMnVqQTUwOERwbDFoSV9maDFjZmVwdm94cGR0cW5BZVhnWmtLOGtaRmxYbnA4SUhnRk9qY2xfQXFXVmpIWjBQWlpCYWE1cEZnWUxCQnA5NlUtQUt6Y1RtUVFKcUo4NzZxWjREd25MRWU3atIBvAFBVV95cUxNbmVlWlMzenFHMF91N3RYX3ljblcwMGEycXV2SXlMdFRLbW9zc01NaXR1QWRqd3hvUi03MW5rMU1QN1l2ZUlIRXctZGJtWXlHalR5S21TMW5FYVlQNkpkNWgxVUk5NEdwSU14ZzBLQzFxSk5pU2l2Z3g1T0JhQzlyMl96UXJwYi1KSlRTd1puS1pDVGZYWHdPQU91d0x0RERxTWZzMVh4RW1GMHY4X3VTRGdXRnlsTlNlQ1F0eA?oc=5",
+      "fuente": "Mediotiempo",
+      "fechaISO": "2026-09-14T14:09:01.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "TUDN"
+      ]
     },
     {
       "titulo": "Resumen | León vs. Atlético San Luis: Doblete de Cambindo y victoria de la Fiera",
@@ -1010,26 +1031,6 @@
         "Partidos"
       ],
       "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis anuncia a Mora como refuerzo y Xolos responde",
-      "enlace": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlBLZFQzLTdpaDlaWEJpT04tcUVqUGhMMHRXNjBrU0l0d1l1Wm1YbmxueEJISkp3dzhIQi1OcVk5Q1FNelItVmU1LVlmTVR6Wi1yelpfX2k0RGlDSHNxTnBCSDF6MnZTenFxcThFNHhXWDk4emNHejMyNGwzUnFiYkRqekNpTjFId2pCeXpqcjV1by1LS00wYkRDZkF6NmM?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-07-31T21:50:36.000Z",
-      "categorias": [
-        "Fichajes"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético San Luis vs. Club Tijuana - Resumen del partido",
-      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlRIWmRIZjNfeXBhUzRTQU81U3BtR0c4TkotRVE4N28xZHQzVUpEUlFhR0FOMzh0ckNKNkhpeDNhaWlWd3IyZy1CZmloOFNHWlpBOFJGeTlKeWlvaVVjNzhkc3diX3hScll2TUhBRmNJMFdRY3FLWTE5TmY5YlZMNlJkeGN3NlNvU2R6c3VvLXRuekx3ZnR0dUlUcW44dw?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-07-31T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1045,7 +1046,6 @@
         "Fichajes"
       ],
       "tambienEn": [
-        "El Mañana de Reynosa",
         "TUDN",
         "TUDN",
         "TUDN",

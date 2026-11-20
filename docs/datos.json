@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-19T23:50:13.985Z",
+  "generadoISO": "2026-11-20T00:50:21.608Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,16 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "El Tribunal de Penal falló a favor de El Porvenir: Salto de las Rosas y Atlético San Luis jugarán el Partido Permanencia",
+      "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2VQZmc0Mzc5QVlYU1gwTXc5OG9xd2hCWmhja1BaSUE5YTNqMjh1SktnbFhJRkppckxCVFB6V19sLVJXbTM3amk5QUVXVHJUaTlSQzJZTG8tSVgzU21tT0VkNGJHcGFMcjhxWmUyWEFQbzdXTGdNSTRUTktvYmcyZWRTdm9FeXpYWVlxZWZQSVRqRlJVeTMwU0I5R1ZYczVhYktQMUk4ZmFYMDhDZkFkYTVfRmFUcjNiemc4QUJKQ1hqbWxRVnNSMWZ6eUliSXVEYWtwNGNHOGJ0MnZxeHNKaDd5ckpjdw?oc=5",
+      "fuente": "Diario San Rafael",
+      "fechaISO": "2026-11-20T00:20:00.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "¡Óscar Macías vs. Alejandro Organista!",
       "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcUtCR3kzd1V5SGhSQUVyNWM1SnJMa1NSUmU5NWVDNDlhX2YtbFBuUU9RemdIeU5CcW1MbnpOVW1xRUh6cG1zeEcwNVR1MC03ZFc4LVh2bjhOaWFOakVJYlFhM1U5OHhFZDFNYUlWQ0ZMdnlyOWE4Q0ZiejFHRmt6Zkw3Tk9KTWF3?oc=5",
       "fuente": "Atlético San Luis",
@@ -435,8 +445,7 @@
         "General"
       ],
       "tambienEn": [
-        "El Momento Nacional",
-        "Diario Cambio"
+        "El Momento Nacional"
       ]
     },
     {
@@ -462,15 +471,15 @@
       ]
     },
     {
-      "titulo": "Pronóstico Puebla San Luís - Liga MX 20/11/26",
-      "enlace": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0telJrNzlaMWJqTFF0Z2NMYVdlRDZZNFFYeUJsRFBseTZUdzRtMWVXaHNtaWRTNTNTUXNoN2lPSlpXVHNuMzUteWRiNDV2Q1o0by1vOHIwaUg0aEtUUndzWXhDRTNOOTJRZkdOS0MzUzdJaEtqRGc?oc=5",
-      "fuente": "SportyTrader",
-      "fechaISO": "2026-11-19T01:00:00.000Z",
+      "titulo": "Puebla FC - Atlético San Luis | Pronóstico y cuotas 21.11.2026",
+      "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejNnVG9tYnpjX3VvX2xhNEJYM2g2bXpickFqNGw2QWtPdkp6Rk9CVFdYQUN1OGVta3VJT0NGbENxRVFBajN4UTB4djJaWGFOUTFFRWh1R1k4ellJYlZTY3VRZkhBMk1ONE1lbGFCR3pBN01ITTVOdlFrbEpqeURVaFlrSE10RURvTTdlTFlSOUhyZ28?oc=5",
+      "fuente": "Diario AS",
+      "fechaISO": "2026-11-19T14:00:34.000Z",
       "categorias": [
-        "General"
+        "Partidos"
       ],
       "tambienEn": [
-        "Diario AS"
+        "rcdm.es"
       ]
     },
     {
@@ -568,9 +577,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "rcdm.es"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "¡Desde 50 pesos! Club Puebla baja costos de boletos para partido ante San Luis en cierre de Apertura 2026",
@@ -658,12 +665,12 @@
         "Telemundo",
         "El Heraldo de México",
         "Soy Referee",
+        "Mediotiempo",
         "TUDN",
         "TUDN",
         "Vox Populi",
         "TUDN",
         "El Heraldo de México",
-        "Mediotiempo",
         "El Informador"
       ]
     },
@@ -1020,16 +1027,6 @@
       "tambienEn": [
         "TV Azteca"
       ]
-    },
-    {
-      "titulo": "Atlético de San Luis Femenil y Toluca disputarían su partido este lunes tras suspensión por la lluvia",
-      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGo3RFROY3hMcE0tbGJ5Vk5jWFNLNVI5bTFWWDhKQU5YNVU2UWJHZVNqQndsZ0xjd0FLNTZmRzM3eDZjNEVsX0J4Zk9ldFJLb3g1Y0dQUnNnV3hSMUtsOElfQ2wyeV83SlA5bkdBaXhJbWlfUWtqLW5PQXBZQm1lQlZvTW1qcnV4VW1FY09CNzYyZzNQZ2JNdVJnVXBUZlhlbXZveWRRSHVQOWhkemF0UzlvWnZDZ1RrVTFtM2FreUx0Rm5XSWNnd2gyUWxWel9DaGhlUDNxQzRaVmdYMzdEc1dZcExNZmJiSFYtSg?oc=5",
-      "fuente": "Récord",
-      "fechaISO": "2026-08-02T07:00:00.000Z",
-      "categorias": [
-        "Femenil"
-      ],
-      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1144,7 +1141,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 30,
+  "totalFuentes": 31,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

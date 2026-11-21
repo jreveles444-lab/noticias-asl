@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-20T23:53:58.815Z",
+  "generadoISO": "2026-11-21T00:54:05.434Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -345,6 +345,22 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Puebla vs Atlético de San Luis en vivo el partido de la jornada 17 de la Liga MX: resultado y goles hoy, Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSnlMTDB5MFpzeGZwU0pZVVBya3BBdDBITXYteU05VzVTQkpkX0hhMlY0VGdtNUNaSzhiM2x2LXN4NUNKZWFMTkI1aWNRUmo3QnVGeGlfZjVQSjg2bjEyX0owdWtxbVkxLTV4VEgyWnNhRmsxenZNWEE3V3dQekZoUFc0bnpTaDhwelpDR0k2NW9qRk1wbUxubVBUeE43dWd6QWRBVXZBY1BndFJ1UElMZE1xZHlWbjlfWnJIV09TYTJnUklDMzlGLVZCTTBHRzhQVDZCYXd1WUh5Q00tM0xRdzR5T0F1eEFfWGdXRC1pV1F1QQ?oc=5",
+      "fuente": "Claro Sports",
+      "fechaISO": "2026-11-21T00:04:39.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": [
+        "Grada Puebla",
+        "TV Azteca",
+        "TUDN",
+        "TUDN",
+        "Telemundo"
+      ]
+    },
+    {
       "titulo": "Puebla vs San Luis: horario, canal, cómo y dónde ver la Liga MX en vivo",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLU5jSkxJT2lYZGFoSEJxRmIwWUlHY2Z3eXFmOXBjUTB2X3dJZzBBRERmOWRNY1NBZ3dYRy1NdWlTYjlhbTF1emJ5M205cFNyUzQ2ZG90WVNkNS1YWUhJRExxNlFvZUZDdlFtVW5oU211b041a0NjRUZFZV9FanZvd2Y5V1lxYnVGWi1MbjNkaU9zbDUzZzRoVEZSeGQ5Zm5KSTBDbkJIVTlHVTh1dC15U19aX1M4OGs?oc=5",
       "fuente": "La Crónica de Hoy",
@@ -375,28 +391,6 @@
       "tambienEn": []
     },
     {
-      "titulo": "Hora exacta para ver Puebla vs Atlético de San Luis por la Jornada 17 del Apertura 2026; las mejores cemitas cerca del Estadio Cuauhtémoc",
-      "enlace": "https://news.google.com/rss/articles/CBMikwJBVV95cUxONnU4QjJmdUZYSHUtaGUwU29WeXpmS0pneXhPd1B0eENNV3JoMlF0SHNKc2N2VXJ0WGw1TmhTZFVNc2dsU2dLMzRCMkhQQlFZUXhYM0s3Tm1tVHUyV3hoUUxuMlBmdVJFU2c0YXhpY3NsU29DV0c5ZkRMeUp4amJfMG01NTQ2WkRSSnFhYzk1M2tlcmRjaUVBTzlvZkt1WEVicTNhMWYxSXFXSlFCaWNhVDdDVUlyOXdDM2dMR2pCOVRXdEJ6UWRpdlByVk1YZVNJZUVXakN4a1h6WkhnaTVNMEltbVZmOUtqSUFnX1dMLU9YWmszTUlIaVJVYWE0SGxmWnM0TGJwVnJGWi0xV2cwRWdhMA?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-11-20T16:17:34.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Club Puebla vs Atlético de San Luis: previa Jornada 17 Apertura 2026, dónde y cómo ver en vivo TV streaming",
-      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTDQtamxWa3VCV3N1eXhlQUxjcjRTS2NXX0lhejdLUWZIZk1rbWhpbTJLVjNjYnpZaHk4cUhPTDljZDhqT0R5SW1DQkloN1JqdVQtbko2OXo3QmthLUh0LXo3WmJTai1PaTdKRjhXUkl4UHZFMUV2ZkFtMU51XzVhQ01pTmF5VGhPQUd6Z0NRbDY5MmUyTzdMb3dhQ01Cc0JvYUVJM1dUNHkzd1FTel9LTlhiMXFja05nUDhLZ1FLMFdVRmpaUGswOHlWcm5lTTc4cFJGVlFXekZLRU1mbmgyN3VpTjN0MjVFdVE?oc=5",
-      "fuente": "Grada Puebla",
-      "fechaISO": "2026-11-20T14:20:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "Telemundo"
-      ]
-    },
-    {
       "titulo": "El Tribunal de Penas falló a favor de El Porvenir: Salto de las Rosas y Atlético San Luis jugarán la Permanencia",
       "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmdfNDg5eUpxVGJELTRsaEtzWlV4NDIxbnNiUW43TW5iQkhLY0ZOa0xtQ0Mzc3d2d0JrTTNUWW9tSi00R3lHYzJaTWVPVVlIWTM2dDdJV0pVeHVFNEdBZVRCWnBqeHVmQmJ5NWVsS0RBRlRFcTdPRFdTZGliYmQ0NTg5cGUtN01KQUI3bS1jVkJuX0pZTjdkbS1iQXoxeHhYaTVEa0ltT3lpQjQwcjVXdzJJaTFpLW1Kc0RwVk1oY1FEVm5KOHBmQ242akpUZEsxdmpCLWxn?oc=5",
       "fuente": "Toque Deportivo",
@@ -410,15 +404,14 @@
       "titulo": "A qué hora y dónde ver el Puebla vs. Atlético de San Luis de la Jornada 17",
       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZC04YmR1Mk5QeHFHOUtLVnc5akdTVDhSMi1NZ1RDNi0tMkVpbVZWT2lOU2xjQ043Zk4tN1RDUmFNSWNHTTdxNDNyOC1EZ1U3NVBzdDVXRHB6dHlaOXo4MWxhY1Z3NGdydFVaTFhXc3lid2hnZkpRWjhBMzBBS0dMSGFRLTBZSmdvMjBFOUZQcFhydHU2SHo2VzJaVWFoeFNDNExiU1hmbWV3ZURlQjFQSFdVTldwZGRSV3RIa0ZRRFo2c0IyMDFNQk5rWWtvNGh5ZVFucV85a0pEcDkxM0E?oc=5",
       "fuente": "TUDN",
-      "fechaISO": "2026-11-20T13:01:16.000Z",
+      "fechaISO": "2026-11-20T12:56:13.000Z",
       "categorias": [
         "Partidos"
       ],
       "tambienEn": [
+        "MARCA",
         "Vox Populi",
         "Radio Fórmula",
-        "sdpnoticias",
-        "Milenio",
         "Vox Populi",
         "Bolavip México"
       ]
@@ -549,6 +542,16 @@
       "fechaISO": "2026-11-18T20:31:20.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "¡Elaily Hernández-Repreza convocada a la Selecta!",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQTRXOERCU3BKRDdiUUc0RVpobTdRUDA2TVBhRmNOOTRGYUdWc3BCdGQzWmc1TV81ay1ScWNTdGxyRkZ3T1VyX1VZcE1ibzdueS1ZN3lESjhINVN0RUw5emJHSEViNUtaaEtIV01uNVRIODhud3FJQ2IwXzlNLXZOWnk0Y3JQTDlrQnFaME9rc2ZwZTRFQVpIZA?oc=5",
+      "fuente": "Atlético de San Luis",
+      "fechaISO": "2026-11-18T16:50:01.000Z",
+      "categorias": [
+        "Femenil"
       ],
       "tambienEn": []
     },
@@ -774,8 +777,8 @@
       ],
       "tambienEn": [
         "Atlético San Luis",
-        "Transfermarkt",
-        "MLS Español"
+        "MLS Español",
+        "Transfermarkt"
       ]
     },
     {
@@ -824,16 +827,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnAyTFJmbTFuU2NWNDhrY0x0cWViNnZMQkVTV0lZYy1oaXJWcHNreGNTTThOaU5CVHZRZVl1ZmZpVkpzdFNMcjBNSDFUUmV5QkRoWjlwWml6RUhLNUp3aEViYzFEQlVSdUxhZ1dDYWdBYkNPSUFTc3NvN2Fjb1NyN2Y1ZlFHQlR4MTlCVg?oc=5",
       "fuente": "TUDN",
       "fechaISO": "2026-10-30T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Así puedes ver el partido Atlético de San Luis vs. Atlas, Jornada 15, Torneo Apertura 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV05rOXFMb1FtUERVdVNQY05YamtNVTJqdVA2SWVnTVFXODBweWhnbTA0WlpTMnR6Q2hyWlhJUHV5b0QtM1daTzNWNFhPNElMSFJQZFpXRFJZc2EyN1duUGZYTDM1d1Z0ZVdDdkU1Ukh3Y1NFdlVFWGkxcWJtUkhnUDkyYVRHVWZvZ2VRWHJqVFkxM1FjbUNRRy1rc3hIY1RNTTRBXzc4Zm5nQVZZYkpZWEtHQ0ljdmIxTVQ3ajZ1aFhyc2UwNHktOWN1WlVXMEZvMVdGQQ?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-27T07:00:00.000Z",
       "categorias": [
         "Partidos"
       ],
@@ -1024,6 +1017,16 @@
         "Femenil"
       ],
       "tambienEn": []
+    },
+    {
+      "titulo": "Atlético de San Luis Femenil confirma su buen momento con triunfo en La Corregidora",
+      "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1I1TmM4eWRpNk51RzFHR0V6d3ozYWwwd2V5MFY3RVdRUHpsaGNOY01EU2ZKNzdMN3NEZVVMdU4zTXB4cHVZWUFZaGpicm50SkViTW1Od1JncXA2SEtwOFozNE43UXBSbFdMZFFfUU5uOXJ0Z2o3YzRQTE80VFhzc1h4ZWlpUE5TUnVaYzl3b1A2TjZPc0FYMlpvTmFVSm1VZ0hNWXlIUHRsRmJfOXF6dm9ZZkJBeTUwNDJadnFKTlZLTzh0bmZZNklHSl8tdjF0?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-10-03T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
     }
   ],
   "comunidad": [
@@ -1144,7 +1147,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 31,
+  "totalFuentes": 29,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",

@@ -1,5 +1,5 @@
 {
-  "generadoISO": "2026-11-21T05:54:44.287Z",
+  "generadoISO": "2026-11-21T06:54:51.760Z",
   "equipo": {
     "nombre": "Atlético de San Luis",
     "apodo": "Los Potosinos",
@@ -317,14 +317,26 @@
   "fuenteDatos": "ESPN",
   "noticias": [
     {
+      "titulo": "Puebla y Atlético de San Luis dividen puntos",
+      "enlace": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iMEdZbHIzd0FKbTNpTkNPNUxSZ1RGdGFZZzZTekJRRjJNVW94eUdqVkFNYWNEQnhwREtNLUdzWE9jcnBYRnFvWDVLSy13LW5aQmJPN1RB?oc=5",
+      "fuente": "La Prensa.mx",
+      "fechaISO": "2026-11-21T06:00:08.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
+    },
+    {
       "titulo": "Puebla y Atlético San Luis se despiden del Apertura con empate a un gol",
       "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUpYT3NYQWF4d05rT0hxeE00b0ZhMDJxUThfWUd4bG42RGU3SVpRenFvSDVURkdmRUdxTFZLZ3ROOU9xVl80dXY1SFRTeVdqOFIwUk5UcUI1WTlNeEp4elNBMHVFVXFZelZZYXJBYXFTV1BuZ2VBa0lwVHRPNmI4TmJrZGFneFBaQTBJSldDM1dXdDVnTXpMTWtsMVdRV2tjV0pVTjhyVmtjQW1Mb2lNQQ?oc=5",
       "fuente": "Enfoque Noticias",
-      "fechaISO": "2026-11-21T04:56:40.000Z",
+      "fechaISO": "2026-11-21T04:48:00.000Z",
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "CMX Noticias"
+      ]
     },
     {
       "titulo": "San Luis reconoce que quedó a deber en el Apertura 2026",
@@ -348,8 +360,9 @@
         "TUDN",
         "TUDN",
         "ESPN Deportes",
+        "El Heraldo de San Luis Potosí.",
         "ESPN Costa Rica",
-        "El Heraldo de San Luis Potosí."
+        "365Scores"
       ]
     },
     {
@@ -438,7 +451,7 @@
       ],
       "tambienEn": [
         "ESPN Chile",
-        "Forza Football"
+        "Bolavip México"
       ]
     },
     {
@@ -451,21 +464,29 @@
       ],
       "tambienEn": [
         "ESPN Colombia",
-        "ESPN Argentina",
-        "ESPN Chile"
+        "ESPN Argentina"
       ]
     },
     {
-      "titulo": "Alineaciones de Puebla vs Atlético de San Luis: Estadísticas, horarios y dónde ver",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWx2R1A5X25QNWlMQVgwQTlpRDB4Vl9DdW1qSlhIa0xQb0JXb1dfTEdXelIxLTZlVXRmXzFGTmxFT1JROU5JZkxWR0pFbl9pVmk2MHk0eXZfd3Z6R2xNYTNsRy1jWWxaSEZUeUdVRnJQeEd2MTZuaGNwWmZ5aE5GWHZBN3BjQXlURW8tMkl3U216NC1aWDBBMlR4NzlKTG9k?oc=5",
-      "fuente": "Ruptura360",
-      "fechaISO": "2026-11-20T23:00:00.000Z",
+      "titulo": "Alineaciones de Puebla y Atlético San Luis por la Liga MX: formaciones confirmadas",
+      "enlace": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbEVldmhxdURrNDI1Z0VIbVRmMzU0N1pVd0lzcmZuOExiZ0o0NG5Dd2dqU3RGR1pvMXpnX2hzalVNOWxpS1hod2VfUW9zYkFiazVFeS1LdmV1VElvY09CZ2MwSHlEQ2MzcjBPakdJUGpfN1Jpbi1oMU9BSjV0a3Z2c1QxTVdVZEFBYzFfNC1HT3hFY0lXOEdHSjV6cXhZbU9zRXVpaTk3QUg1R0tUWlHSAbMBQVVfeXFMTlk2VFVFN2tqM01EUlhCOHhVMjNEWTRqSG9VZ0F3OWtqM3lNLTRUOUlJbkVLWkRYTGp6LW5qUVEyUnlTczgwM2RhUldlbjdFNlhkcFpzU1RialZEVGoyN0RVSDFyRWduZVd1dUlDVU9ITkg1NGlaemRJcXhONEtSd2loNFdkWC1taHJLc3liZjRIbUZUWG5Zemx0WE1WQjlvWFJSU2Rmd1NsaUFXaFhPYlVpSVE?oc=5",
+      "fuente": "Bolavip México",
+      "fechaISO": "2026-11-21T00:40:40.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Posiciones de Puebla vs Atlético de San Luis: Estadísticas, horarios y dónde ver",
+      "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMVhiV18wS2dFcGxWNElLOXBUUDVWYlYxZkRiUHlVandGdmpGeGc1WmNiNjgxR3lhaFdyY3NkNzZxM0JqLWk2RUJHRHZ4MFNxeVBIeTlLdlF0UXh3QXpXcVg3ODN1XzRPRmRMNGpNam1FZzFveHFDTjdIbjBndGFVSnlTTlpiM2E1VG96NWtTLWJFUDhIT3JoYmpTSnRiZnAyWjlB?oc=5",
+      "fuente": "Xpectro FM",
+      "fechaISO": "2026-11-20T21:35:59.000Z",
       "categorias": [
         "Partidos"
       ],
       "tambienEn": [
-        "Xpectro FM",
-        "Oddschecker"
+        "Ruptura360"
       ]
     },
     {
@@ -507,9 +528,18 @@
         "Partidos"
       ],
       "tambienEn": [
-        "MARCA",
         "Telemundo"
       ]
+    },
+    {
+      "titulo": "El Tribunal de Penas falló a favor de El Porvenir: Salto de las Rosas y Atlético San Luis jugarán la Permanencia",
+      "enlace": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmdfNDg5eUpxVGJELTRsaEtzWlV4NDIxbnNiUW43TW5iQkhLY0ZOa0xtQ0Mzc3d2d0JrTTNUWW9tSi00R3lHYzJaTWVPVVlIWTM2dDdJV0pVeHVFNEdBZVRCWnBqeHVmQmJ5NWVsS0RBRlRFcTdPRFdTZGliYmQ0NTg5cGUtN01KQUI3bS1jVkJuX0pZTjdkbS1iQXoxeHhYaTVEa0ltT3lpQjQwcjVXdzJJaTFpLW1Kc0RwVk1oY1FEVm5KOHBmQ242akpUZEsxdmpCLWxn?oc=5",
+      "fuente": "Toque Deportivo",
+      "fechaISO": "2026-11-20T13:15:30.000Z",
+      "categorias": [
+        "General"
+      ],
+      "tambienEn": []
     },
     {
       "titulo": "Club Puebla vs Atletico San Luis: Pronóstico, Picks, Momios y Alineaciones",
@@ -519,7 +549,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "Oddschecker"
+      ]
     },
     {
       "titulo": "ADSL, a cerrar el torneo con triunfo",
@@ -551,7 +583,9 @@
       "categorias": [
         "General"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "El Mañana de Reynosa"
+      ]
     },
     {
       "titulo": "Puebla busca cerrar el Apertura 2026 con una victoria ante San Luis",
@@ -593,13 +627,14 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Universal",
         "TUDN",
         "El Universal",
         "El Sol de México",
         "Vox Populi",
         "TUDN",
         "TUDN",
+        "El Congresista",
+        "Consulta Monterrey",
         "ESPN Deportes"
       ]
     },
@@ -611,9 +646,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "e-consulta.com"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Puebla vs Atlético de San Luis de puro trámite",
@@ -623,7 +656,9 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": []
+      "tambienEn": [
+        "rcdm.es"
+      ]
     },
     {
       "titulo": "Puebla FC - Atlético San Luis | Pronóstico y cuotas 21.11.2026",
@@ -705,12 +740,12 @@
         "Partidos"
       ],
       "tambienEn": [
+        "El Sol de México",
         "TV Azteca",
         "El Sol de México",
-        "El Sol de México",
         "Atlético de San Luis",
-        "El Sol de México",
-        "Sports Illustrated"
+        "Sports Illustrated",
+        "El Sol de México"
       ]
     },
     {
@@ -747,16 +782,6 @@
       ]
     },
     {
-      "titulo": "Resumen San Luis vs Juárez: Ni el caos con la luz ayudó a los Tuneros, que se despiden de llegar a Liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXVpUXI2YmtaNWVKclVtd2E4bm9odUlGMjV6VkRTWnlQZlpHVjh6YzNyV2hOUzFVMklFUEJ2TGtfeXc3emdYLUxfcXpxbTkzdmFOc0VNSVhfYWhxNlY3emNLaEsxSGRUS3Y3RDFueHlRWVZxUXc3bEpRU2RZRW14LWlRNFI1WVhVMXRsSEp4OFVlOVpZZktuckNPcTVpYVBDaU1GM0E3c3dJSDBhejh3ZzZIbVE5eXUyV3RuVFk1a0w3bzFQN2dSNXF1QjlkaXduUDg1MNIB1AFBVV95cUxPVV9CaW1HVlA2MjRFSE1PRmlVWVQ5SC15OFVFMEprakQ3S1VaWGc1c2VxdWpmdlpSU0lWS2Vxb2VYUGRZdG9FQWEzYUIzRTBGSm5pTnBwQ2Zid2ZaekhWblExMDBrVkhuemJoU0dEaVZLVFJWM1hncFVrUDZJMDdQN3BOeUhOM3NOdDRWVW1VUnA0eVZoUlZHUGxFX0Z3eEIyNkEzdE5uNkpvS3dqdTFoM21wMnhlWnp5M1FBMXVPUVBkRDNYSnB4UE12Qm1UMjBUcXhsaQ?oc=5",
-      "fuente": "MARCA",
-      "fechaISO": "2026-11-06T08:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
       "titulo": "San Luis Femenil busca su clasificación a Liguilla en León",
       "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkpOYUZ6dU5HMUVYV0ZjeWR3VGtLQklKMmdjYWhadnZ0X1JFcFZua1FIRkE2ZjNzSXNNaVcwSXEzd1JoUzhHcVE4SzJUZG5EckVvM2VlS2hLNlY4RGgxUUZzYTlhVWJibGZ5Wm02c1R0YUEzcWN0ejFnZjBPUTMyWlFRbXhjclpNdzktYTNjQ1lybVZNVDlTUEZTWFZzcXlNTHZyTmJR?oc=5",
       "fuente": "Atlético San Luis",
@@ -778,21 +803,17 @@
       "tambienEn": [
         "Récord",
         "El Sol de México",
+        "Mediotiempo",
         "MARCA",
         "Telemundo",
         "Mediotiempo",
         "Mediotiempo",
-        "El Heraldo de México",
-        "TUDN",
-        "TUDN",
-        "TUDN",
-        "El Informador",
         "Mediotiempo",
-        "Vox Populi",
+        "TUDN",
+        "TUDN",
         "El Informador",
-        "EL GRÁFICO",
-        "365Scores",
-        "El Universal"
+        "Vox Populi",
+        "Radio Fórmula"
       ]
     },
     {
@@ -804,35 +825,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "El Informador",
         "El Informador"
       ]
-    },
-    {
-      "titulo": "Atlético de San Luis vs Atlas: alineaciones y probabilidades",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDN4Qlo5S0dvcUxja3BOWFRadElVTWQxQ2kya2dsdjF2aG5jWFY4NHpYV0RIcUNEYWltNEhIcXctQzc3NmhtUVNEdGVPUV9aekJPVHNBLVA5MXVHRVZfeWxRQW4weGxQVEhOam9pdHhYVmRmN2IyOVNjcE1QelJtQXI3N25JMnN6WXp1dnlzdEp4aTFpNkN0UGhnQmhKXy1XOHptUHlCcUNPTGtzQjdranZhdk5PRUU?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-10-30T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": [
-        "ESPN México",
-        "ESPN México",
-        "ESPN Guatemala",
-        "Oddschecker",
-        "ESPN México"
-      ]
-    },
-    {
-      "titulo": "Atlético San Luis vs. Atlas - Game Highlights",
-      "enlace": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnAyTFJmbTFuU2NWNDhrY0x0cWViNnZMQkVTV0lZYy1oaXJWcHNreGNTTThOaU5CVHZRZVl1ZmZpVkpzdFNMcjBNSDFUUmV5QkRoWjlwWml6RUhLNUp3aEViYzFEQlVSdUxhZ1dDYWdBYkNPSUFTc3NvN2Fjb1NyN2Y1ZlFHQlR4MTlCVg?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-30T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "EN VIVO | Atlético San Luis vs. Atlas - Apertura 2026",
@@ -841,36 +835,6 @@
       "fechaISO": "2026-10-30T07:00:00.000Z",
       "categorias": [
         "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Atlético de San Luis vs Atlas: HORA EXACTA y qué necesita Atlas para clasificar a la Liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWdhRzZ0UERKZ3BLYmJRQmdPclhzWklLcWxrTXN6OWRzemZJSy1qNWhXYTZiTzJURHN5dm42RVVaM3A4VDlVNDg1YTdrdHMzOXFjSzY4cHp2d01Td1dTZkF1LTRxNXhwMktuTExubGEtbVA3T0dIR2VyWkI5R3EzNzJKd0xZUmpnUnRGOU9XN3dTNW9iSnVmMERSLWp1VE0xYlBiT2NGVTR4cWpGVTdXT09jSWNrdV9Pa3N1NlZR?oc=5",
-      "fuente": "TV Azteca",
-      "fechaISO": "2026-10-30T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "Monzón y Camilo Vargas llevan a Atlas al triunfo ante Atlético de San Luis",
-      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3JPakVmLXFCZm1sVlY3NXB3c0FuR2ZKbGdJSWtaejc5bGVHN3l3aGE1dmRRaDJXdHByZENIVFpCemFCcERRcXlxaXFxSEdYeE9yemphVkFJbzBEZUc2RUlMOFZ0SG1WWmYwZmxycVZrT3pqRlZLWGxMTGZ0VUVuMFdYd2h5Q1pwOXZUMVluQzlQWWV1NlAxSmhHV2dsc2k4YVc5OTJQdk04VXlTczk4?oc=5",
-      "fuente": "ESPN México",
-      "fechaISO": "2026-10-30T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¡GOL! anota para Atlético San Luis. Benjamín Galdames",
-      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWJIN20yRmhBQWl3YUR0TllRYWpIdUlCT2pqS3JkeEhtc2NDREVab0owN3Y1VE5yRThqMlRiNmJvWGd5REFSMlRfbkZsaUd4RG52cE8wNmsyV1NvVEhmSFpqLWVyWFdteVRqN1NLUE1hdHdtY1pzTVFUTE5UNGhPRzYtTzU0TWxxQlZTWTVDRWpCQUZJR0ZER3V3?oc=5",
-      "fuente": "TUDN",
-      "fechaISO": "2026-10-24T07:00:00.000Z",
-      "categorias": [
-        "General"
       ],
       "tambienEn": []
     },
@@ -892,10 +856,7 @@
       "categorias": [
         "Partidos"
       ],
-      "tambienEn": [
-        "NNC.MX",
-        "NNC.MX"
-      ]
+      "tambienEn": []
     },
     {
       "titulo": "Atlético de San Luis Femenil, en busca una nueva victoria ante las Bravas de Juárez",
@@ -909,36 +870,6 @@
       "tambienEn": [
         "Atlético San Luis"
       ]
-    },
-    {
-      "titulo": "¡Apagan el Infierno! Un sorprendente San Luis le arranca un punto a Toluca en su casa",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRE1aY1NyYnRnLVBPQmhNZF85NjFtVTJHZkh0LWszQk04ejRZRTc2R05DeVZydXVqcWswRFZUQlNvS2dCUGFBYmotZGIyT3FSUU00VFlvWVpoTXJtb2EwOU0xUWZOczFlejh4NkFZZHhKeUpxTFVhbjY1RHE3WHhVYjYwdnp5OWY3blMwSHhBVlhlX0tLc1BLWW52RldrcGhsQmVmYUh1MHNDM1V5dG5CTNIBsAFBVV95cUxOcUEyZDNOZWMzM2Utc05DVnRDem5GdDk0WXFxN1VYREZpNVo4czJ1NTZCbi1fbE5hY2lQZlQ0ZzFuV1pjVUx1ZnBaYmtjQi1FM0FoYXBzYk5LdDR4eUhGN2dpSHBFQVVPSUZSNklUa0JlWGtyaWMtbW5SNEljODloU2hyQW43YlZsOGxLanRnUExfZWd4YmV3TTF2RTJXR2MxUTVPQWlPWG5yS01ybnJjZw?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-10-17T07:00:00.000Z",
-      "categorias": [
-        "General"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¿Quién transmite juego de Toluca vs Atlético San Luis HOY? Horario y canal jornada 12 Liga MX 2026",
-      "enlace": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVUZWQnd6Z0x0VVlUWXpWR3g0dTFyTmVUVVMxcWpQOGlTSVQ2NDBvT2hZRmRWR2daOEdnUXBvWHBvc0hDVUltYllNd0JPZG1JQlFVOW1pQzRWbTFzTnpxT3JiWXRPVnBzZmdId3haU1M0LXdVYkR2cEpaVVZEWS1yWFF0cmJfYi1PeVVXbGhsNjZDQzZzSW9iWHd0Si1xZDZ1TWdfZktkYjBJdHZJU0w2STNtZUExbmNZMVpNSGZnMTJsVHhC0gHEAUFVX3lxTE9Yc2w5R3dsaWd1Zk1xbVZxMUlJN0laMTRVck5RX2JKX0lIM05Bd0cyb1NZR3JyWkdXMkg5WndjaDNMZXk1ZmZPNElMX0lMVDlGRWttYl95bTBEMk5CcGNoNmViaHJfbmR4aV9SWjNCaFZrSnczSTY4RFpqbnBNR0lLUTNUSFVkMURrclRCZFVOekNwZDNIajMyalExSUVYcFU0Qm9QaEhSRlF2a0JBSUIzWGFaZENHNnpxbG1BYmN1QnJRRjQ?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-10-16T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
-    },
-    {
-      "titulo": "¿Dónde ver EN VIVO el partido de la J12 Toluca vs San Luis?",
-      "enlace": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ28xM1E4TVgxX2NGODl2V3ZXcjVrZFFCeW1MQUtxaWUyT1hzMmlOY3JjREdxUF9HZ2JST0pPcWFTY1NZbFpSQjVIc3E4NEkyaTlhczMxMzRVTEtHWHgzcHlzQXVtckxKRDJtalpYc1VhTnNib2RSVFZJaU9oa2lYZVFMVEVQSTkxV0NwSlJDQlp3bGIxUkJ0Y2p3RG9SWndBZ09OUTAtYUw5dmM1TWpyc3VWZDdPNEFCLUNKbW83WGxkald5MXVyckhFTG05MWhVbks2c09wVXNhc0xOUnZtLUg4NFlZNWtscWVBckZBaFLSAfYBQVVfeXFMT3cwUV8xTC0yMGM2YkZFRnRCZDdZTU1acVpjNU9yQXZsaTFpUUJ1YkdhMGRNMVIta3hZb19NU0o4RDZSM2lKdC1oU1ZicGlDeS1BTkF0RWd1N1FybGVHUjUtb0pSWndCN1RJU3dpblZzTS1pdlRXOTBfWm5yRTVoOHNROVpRYnpzSXRCYjl6bEpMWGoxWElMQURHSU9RX2F3eWRwWDg4SUZ2Wk9TT2MyTGJadTNlaF9iVm1CRW45emFmbkZzSnRSb2RYdmxvdTRkUTdkQXFGd3VCVjZtMWczTjdxUnVDZl9KRURFcklEMkhRaEhpSnpn?oc=5",
-      "fuente": "El Informador",
-      "fechaISO": "2026-10-16T07:00:00.000Z",
-      "categorias": [
-        "Partidos"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "¡Vive una experiencia de alto rendimiento con Atlético de San Luis!",
@@ -973,18 +904,8 @@
         "Partidos"
       ],
       "tambienEn": [
-        "Facebook"
+        "ESPN Deportes"
       ]
-    },
-    {
-      "titulo": "Santos venció al Atlético San Luis con doblete de la promesa juvenil Tahiel Jiménez",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOblc4Wjh0aUVrVFU3VGFsWTRsWEd2NHkxcXczUURPOGJRVC1NcjJrUllJQnVZbDZoaGpZYml0bkRyLTk1bkpFOHU0TGczX24yZ0VLZTg1eERzZGh6RUM2NzV3VkVhWUF4VjVpTnhnM1VBV0Z0QXRmQ2JYUkF3RGhuOUlTTHNIeld6UlF2Sy1HSEc5cjcxb1ZPUDVyTWxweDZ4TTdub2NvQk1vR1NM0gGsAUFVX3lxTE5SLXI4ZW1VcGk4aC1fMm56NWltM0R2eHVqOXVHVDRfT1pTSi1JM2tObTB6aFVoZmNJWWdpRElaY1Fmb2V2MXlLMTNnUzRweXRaZVhnMkZLQmh3MllTQzd4LXYyNU5CUk14ZnZDZjhEbGdjbTFxYmtkMktmWXJDeWl4TVZRR2loeHZWS0ZCb0pxc2hmLVVfV1JjdWJvTDBLT1JnaTRWMlRiOFBIUEQ?oc=5",
-      "fuente": "Mediotiempo",
-      "fechaISO": "2026-10-11T07:00:00.000Z",
-      "categorias": [
-        "Cantera"
-      ],
-      "tambienEn": []
     },
     {
       "titulo": "Cambio de fecha para el Atlético de San Luis vs. América en Liga Femenil",
@@ -1001,12 +922,91 @@
       ]
     },
     {
-      "titulo": "Atlético de San Luis se ilusiona con el boleto a la Liguilla",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjRtUXlYQ1huN0ZvRWJEbUhMSkF6TWRqSGp1Mk5YOVJrd01yUVRZd3ZJRjUxUFZHRDV5ZjJlam9GM2xLcThfeTlGaW83SUxyVmxJajRzelkwRXhzYlU4blBmdllHUVFjWC12b21Ba3J4UVBuWkNuZ1RuQ2JicTZCaENMck5sMGdmX0tKYjhHUUpqcGJqVTZVWkphOTRIYTRlSWEyRXBuT0xOaDgz?oc=5",
-      "fuente": "ESPN Deportes",
-      "fechaISO": "2026-10-08T07:00:00.000Z",
+      "titulo": "Atlético de San Luis vence 1-0 al Querétaro y extiende racha sin perder en la Liga Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGJXNDNrS09ucWY3Uk9Rckp6QkhTM3FCV3N1Z2J5eXpjTGROOTFQMlU1aTFneW9BWmdpZXQtdkpaN3I0dDRXY2daYnJZb1hnYVJNeDhsOXVQWFp5U2dWamJPRUVQRG5JeXlHUkt4c2VJSzVGUWhpYWQ4MVo5TmNtSHJkSE9LcDVwVVIwdXFWSzhHUHM1aGM4TzJSNUlCM2RlRjV5WDhRdFlVbjdaRzNmdXlSYkFGV0hSOVh6WGlWV2JKaEs5OS1OZ0NQNzFlY1QwSmgycm1MWnprbWRf?oc=5",
+      "fuente": "La Jornada",
+      "fechaISO": "2026-10-03T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "La Previa SportiumBet Tigres Femenil vs. Atlético de San Luis Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMGlvVE9QaGlhVFJxUjQwbTF3RHRXMHVSMDI5ZHU1Nk9XVTNSNTBMb0dhaTZ6WDg2ZjBRTC1yWjJQallKUGczVFY5UUJUYjVrNHg0QXBlcFU0eXd0Ql9wWlpWdllpRWV2azdVLUpSeVhkV01mN0drUEFqUGpsRDM3aGt1MG44Qi11RHpmcVZ3V0M1cG1ueDlpVmRQSV81RWJDX09CSnF2c3JNUmM?oc=5",
+      "fuente": "Tigres UANL",
+      "fechaISO": "2026-09-27T16:45:34.000Z",
+      "categorias": [
+        "Femenil",
+        "Partidos",
+        "Escuela"
+      ],
+      "tambienEn": [
+        "Atlético San Luis"
+      ]
+    },
+    {
+      "titulo": "Pumas enfrentará al Atlético de San Luis con cuatro bajas por fecha FIFA",
+      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmtqcWRuNXJ3M1FUZGZCLXowMjd4VFRxVkU4UUUzTllhMnBuaHBTUzY5ZUtzemxuMGVJajMxNkJnY3ZFQ2RTd2NMVnJrZHNXY2Y2cjMwVHhTb1Rpdk15eWtzb2dybkotQi02T3M5VGZGeUYxSDVqYUlpSEhYcUh5U01yMmhNYWkwQlRoem9xbllJZXNYenZVREFLaXVrZ0tqckNVUXB1Y9IBrAFBVV95cUxOYzlCZE1tcThjNmNSTjdEYUsyQWJtV1hnOFRTQ2VLb2RuSm4xR0NZaEFvc1EtZ0NkZGRla3owT0hwdHdzbjFGX2gzNUZOMnMzSlY2MW41eW5SWHdTRkJLWGZ4QXZPUGkwM29KSHA2eGNUTFNzSEdDTDdiTVl6eVBNV2l5M0E1LXZXNVNIbzY1NnVCVWxfb2FWN29oSW95UlIxZFlPRUJBMkJ0eVc5?oc=5",
+      "fuente": "Excélsior",
+      "fechaISO": "2026-09-24T07:00:00.000Z",
       "categorias": [
         "General"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Jornada positiva para las Fuerzas Básicas del Atlético de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVHk2SkdDeklHYzdFR1c4RU1JVjJYdWMtVjhic2VsbE5DcjR2MjFTLVBuWG1qS1NOcGxYSUN4ZkRMTE15czJPWFFSNTdYY0s5VUptWTg2aUpPVEE3RllnckxGVWFXY19JcC1Nci1mbHlfVUVuTEYxVEJTY3V1RWpDUUxCOUYxaFh6U05wMkNXUkRJb0ZaSVVlZnFBejhZX1FmbTBsd0M4dUxtSDNWYjJnYmt1dTdIZVRqLUE?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-09-22T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Partidos",
+        "Escuela"
+      ],
+      "tambienEn": [
+        "OnceDiario"
+      ]
+    },
+    {
+      "titulo": "Atlético de San Luis vence a Pachuca y se consolida en la parte alta de la tabla de la Liga Femenil",
+      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2s0X3NmY2Q5Y1RQUHVNWGNnUVM0VEpFYTZ4Z0toRW9KYnM1MWd5QUU4aXpmc0ViWl9ZVHIzU1QwaGxZcldlMUJQTmpSNmtfRlJsaFJKMEN2M2N6VkduOTlNc0kwNzFzdERIOWlNb0xQdTJwX25ZcVhRQ3d1UWF4ZGJ3TFBiYTVSSFNkRTBSVmpzaklEeVkwMUxtM0t3ZjNvUG1KQmEwSWZVNHF0QUw3VkpwcFZna0t4UUUyZWhwbkJHbDFjckxvSFRNelRuVDVld2MxMFQxVTVhZUZIRmVNeHJuMHNqYURwblE?oc=5",
+      "fuente": "Récord",
+      "fechaISO": "2026-09-20T07:00:00.000Z",
+      "categorias": [
+        "Femenil"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Horario y dónde ver el partido Atlético San Luis ante Necaxa de la J9 del Apertura 2026",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkpHcUFHWDc2WW15NEtBd1B5TFlveG10NlJiajkybGc4bEt2NHBscjVVOUxELUpBczg1REN5YTdOVnBQVXNGYlhoWHE4NjZMVE55RnZKLXVpcmh1MmRXT2RXU2xCeVRsVDFrQ3pGbUExSlduRGdaNkI4ajBKYkZoTlA5U3FZV0JlQzJna0lEVzVQRkxfSDdMQzdSUVM1TW9iV0p1X3lzUEc4cjZ5WW1Pc3dRSUVBVE5DWjUwVHFiVnJJRDJPT1hHWg?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-09-17T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Resumen | León vs. Atlético San Luis: Doblete de Cambindo y victoria de la Fiera",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1FGQk1UTE5JMWJIeXRpSzBieGo0LTRHc3FqR2E3S2lCME5MNlFpMS1FNnZFbDNxcVd4UTNCNmxIQnhWaVVMUUl4UFBSR2dDNUdpUDVsUWpDWEJMbFM3REVoRGNfdjhmRk5sTnJwTG01aEMxdDVCZXlicnY3RUJucHVQMGhaclQyMjNXM09yTGdyQ2pZMXEwWF9JQU5OTGNxcWU4RzVreUNXM3RNelBwelBWbHVhbEh3V0E?oc=5",
+      "fuente": "TUDN",
+      "fechaISO": "2026-09-14T07:00:00.000Z",
+      "categorias": [
+        "Partidos"
+      ],
+      "tambienEn": []
+    },
+    {
+      "titulo": "Fuerzas Básicas del Atlético de San Luis también sufren derrotas - El Sol de San Luis",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlBkRkY4aUlSNlN4a0FUT0hiUV9KbVJ5bjVHemM4N3YzSHJIWUtzZ0ZVOTZ2SmoyM0pEbEd3TF96eEljNjZkWWlXbzJVX0JkOGYxaHVYVmkxS3JzWWMtVzFWNEhEeVVVaV83dHBrNHo2dzF4dzFzYm1IVVdrU1ZhaEViYmVJd2RiYVBMZlJFZ3h5Uzh6NnAxcEZ4Qk5BRTFfZlM2U2I4Rjd6X0NvTG1YMWFsODFVZmc?oc=5",
+      "fuente": "El Sol de México",
+      "fechaISO": "2026-09-08T07:00:00.000Z",
+      "categorias": [
+        "Cantera",
+        "Partidos"
       ],
       "tambienEn": []
     }
@@ -1126,7 +1126,7 @@
       "url": "https://www.facebook.com/AtletideSanLuis"
     }
   ],
-  "totalFuentes": 29,
+  "totalFuentes": 33,
   "avisos": [],
   "colores": {
     "rojo": "#c8102e",
